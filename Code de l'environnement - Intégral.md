@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-12-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -4666,16 +4666,16 @@ _Cite_:
 
 Ainsi qu'il est dit à l'article 58 de la loi de finances pour 2000 (loi n° 99-1172 du 30 décembre 1999) ci-après reproduit :
 
-" I. - L'intitulé du compte d'affectation spéciale n° 902-00 " Fonds national de développement des adductions d'eau ", créé
-par le décret n° 54-982 du 1er octobre 1954, devient " Fonds national de l'eau ".
+"I. - L'intitulé du compte d'affectation spéciale n° 902-00 "Fonds national de développement des adductions d'eau", créé par
+le décret n° 54-982 du 1er octobre 1954, devient "Fonds national de l'eau".
 
 Ce compte comporte deux sections :
 
-La première section, dénommée " Fonds national de développement des adductions d'eau ", retrace les opérations relatives au
+La première section, dénommée "Fonds national de développement des adductions d'eau", retrace les opérations relatives au
 financement des adductions d'eau conformément aux dispositions des articles L. 2335-9 et suivants du code général des
 collectivités territoriales. Le ministre chargé de l'agriculture est l'ordonnateur principal de cette section.
 
-La deuxième section, dénommée " Fonds national de solidarité pour l'eau ", concerne les actions de solidarité pour l'eau. Le
+La deuxième section, dénommée "Fonds national de solidarité pour l'eau", concerne les actions de solidarité pour l'eau. Le
 ministre chargé de l'environnement est l'ordonnateur principal de cette section. Il est assisté par un comité consultatif
 dont la composition est fixé par décret.
 
@@ -4683,8 +4683,8 @@ La deuxième section retrace :
 
 En recettes :
 
-- le produit du prélèvement de solidarité pour l'eau versé par les agences de l'eau dont le montant est déterminé chaque
-année en loi de finances ;
+- dans la limite de soixante millions d'euros le produit du prélèvement de solidarité pour l'eau versé par les agences de
+l'eau dont le montant est déterminé chaque année en loi de finances ;
 
 - les recettes diverses ou accidentelles.
 
@@ -4719,7 +4719,7 @@ Ce prélèvement est recouvré selon les modalités s'appliquant aux créances d
 amendes et autres condamnations pécuniaires.
 
 Le montant du prélèvement de solidarité pour l'eau est inscrit comme dépense obligatoire dans le budget primitif des agences
-de l'eau. "
+de l'eau."
 
 **Liens relatifs à cet article**
 
@@ -4733,6 +4733,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 _Cité par_:
 
@@ -37371,9 +37375,9 @@ Ce fonds est alimenté par un prélèvement sur le produit des primes ou cotisat
 contre le risque de catastrophes naturelles, prévues à l'article L. 125-2 du code des assurances. Il est versé par les
 entreprises d'assurances ou leur représentant fiscal visé à l'article 1004 bis du code général des impôts.
 
-Le taux de ce prélèvement est fixé à 2 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes garanties et
-les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants du code général des
-impôts.
+Le taux de ce prélèvement est fixé par arrêté conjoint des ministres chargés de la prévention des risques et de l'économie
+dans la limite de 2,5 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes garanties et les mêmes
+sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants du code général des impôts.
 
 En outre, le fonds peut recevoir des avances de l'Etat.
 
@@ -37382,12 +37386,6 @@ qui retracent les autres opérations pratiquées par cet établissement. Les fra
 pour cette gestion sont imputés sur le fonds.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1004 bis, 991
-  - Code des assurances - art. L125-2 (M)
-  - Code de l'environnement - art. L561-1 (M)
 
 _Anciens textes_:
 
@@ -37428,7 +37426,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 159 (Ab) JORF 28 février 2002
+  - Loi - art. 75 (V) JORF 31 décembre 2002
+
+_Cite_:
+
+  - CGI 1004 bis, 991
+  - Code des assurances - art. L125-2 (M)
+  - Code de l'environnement - art. L561-1 (M)
 
 
 ###### Article L561-4
