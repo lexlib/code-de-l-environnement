@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-12-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -2486,7 +2486,7 @@ _Anciens textes_:
 Le champ d'application de la taxe générale sur les activités polluantes est fixé par l'article 266 sexies du code des douanes
 ci-après reproduit :
 
-" Art. 266 sexies. - I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes
+"Art. 266 sexies. - I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes
 physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
@@ -2511,7 +2511,8 @@ le rejet dans le milieu naturel est interdit ;
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
 préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
-pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
+pour le linge relevant respectivement au a du 4 et des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif
+douanier ;
 
 6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -2548,12 +2549,13 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
 
-4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
-assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole ou aux produits
-assimilés mentionnés aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication nationale consiste
-en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
+4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits
+adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole ou
+aux produits assimilés mentionnés au a du 4 et aux 5, 6 et 7 du I du présent article lorsque la première livraison après
+fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une
+exportation ;
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers. "
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers."
 
 **Liens relatifs à cet article**
 
@@ -2564,8 +2566,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 37 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-  - Loi n°2000-1353 2000-12-30 art. 37 IV, VII JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+  - Loi - art. 60 (V) JORF 29 décembre 2001
 
 _Cite_:
 
@@ -19306,12 +19307,7 @@ Il est perçu :
 
 1° Pour la validation du permis de chasser :
 
-a) Un droit de timbre annuel au profit de l'Etat, conformément à l'article 964 du code général des impôts ;
-
-b) Une taxe annuelle de 22 F au profit de la commune où la demande de validation a été présentée.
-
-2° Pour la délivrance de chaque duplicata de la validation annuelle du permis de chasser, une taxe de 10 F au profit de la
-commune où la demande de validation a été présentée.
+a) Un droit de timbre annuel au profit de l'Etat, conformément à l'article 964 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -19323,6 +19319,11 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 96 () JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -19338,6 +19339,10 @@ _Anciens textes_:
 
   - Code rural - art. L223-11 (Ab)
   - Code rural L223-11
+
+_Abrogé par_:
+
+  - Ordonnance 2003-719 2003-07-21 art. 5 JORF 3 août 2003
 
 
 ###### Article L423-15
