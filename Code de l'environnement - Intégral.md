@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-05-10
+Version Consolidée au 2001-05-27
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -20836,9 +20836,9 @@ _Cité par_:
 
 Sans préjudice des dispositions de l'article L. 2122-21 (9°) du code général des collectivités territoriales, il est fait,
 chaque fois qu'il est nécessaire, sur l'ordre du préfet, après avis du directeur départemental de l'agriculture et de la
-forêt, des chasses et battues générales ou particulières aux loups, renards, blaireaux et aux autres animaux nuisibles. Ces
-chasses et battues peuvent porter sur des animaux d'espèces soumises à plan de chasse en application de l'article L. 425-2.
-Elles peuvent également être organisées sur les terrains visés au 5° de l'article L. 422-10.
+forêt, des chasses et battues générales ou particulières aux animaux nuisibles. Ces chasses et battues peuvent porter sur des
+animaux d'espèces soumises à plan de chasse en application de l'article L. 425-2. Elles peuvent également être organisées sur
+les terrains visés au 5° de l'article L. 422-10.
 
 **Liens relatifs à cet article**
 
@@ -20846,6 +20846,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Décret n°2001-450 du 25 mai 2001 - art. 1 () JORF 27 mai 2001
 
 _Cité par_:
 
@@ -20872,6 +20876,10 @@ _Anciens textes_:
 
   - Code rural - art. L227-6 (Ab)
   - Code rural L227-6
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
 ###### Article L427-7
