@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-12-28
+Version Consolidée au 2003-12-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -348,7 +348,7 @@ Version Consolidée au 2003-12-28
       - [Titre IV : Déchets (art. L541-1 à L542-14)](#345)
         - [Chapitre Ier : Elimination des déchets et récupération des matériaux (art. L541-1 à L541-50)](#346)
           - [Section 1 : Dispositions générales (art. L541-1 à L541-8)](#347)
-          - [Section 2 : Production et distribution de produits générateurs de déchets (art. L541-9 à L541-10)](#348)
+          - [Section 2 : Production et distribution de produits générateurs de déchets (art. L541-9 à L541-10-1)](#348)
           - [Section 3 : Elimination des déchets (art. L541-11 à L541-39)](#349)
             - [Sous-section 1 : Plans d'élimination des déchets (art. L541-11 à L541-15)](#350)
             - [Sous-section 2 : Stockages souterrains des déchets (art. L541-16 à L541-20)](#351)
@@ -5365,48 +5365,7 @@ _Cite_:
 
 Ainsi qu'il est dit à l'article 58 de la loi de finances pour 2000 (loi n° 99-1172 du 30 décembre 1999) ci-après reproduit :
 
-"I. - L'intitulé du compte d'affectation spéciale n° 902-00 "Fonds national de développement des adductions d'eau", créé par
-le décret n° 54-982 du 1er octobre 1954, devient "Fonds national de l'eau".
-
-Ce compte comporte deux sections :
-
-La première section, dénommée "Fonds national de développement des adductions d'eau", retrace les opérations relatives au
-financement des adductions d'eau conformément aux dispositions des articles L. 2335-9 et suivants du code général des
-collectivités territoriales. Le ministre chargé de l'agriculture est l'ordonnateur principal de cette section.
-
-La deuxième section, dénommée "Fonds national de solidarité pour l'eau", concerne les actions de solidarité pour l'eau. Le
-ministre chargé de l'environnement est l'ordonnateur principal de cette section. Il est assisté par un comité consultatif
-dont la composition est fixé par décret.
-
-La deuxième section retrace :
-
-En recettes :
-
-- dans la limite de soixante millions d'euros le produit du prélèvement de solidarité pour l'eau versé par les agences de
-l'eau dont le montant est déterminé chaque année en loi de finances ;
-
-- les recettes diverses ou accidentelles.
-
-En dépenses :
-
-- les investissements relatifs à la restauration des rivières et des zones d'expansion des crues, à la réduction des
-pollutions diffuses, à l'assainissement outre-mer, à l'équipement pour l'acquisition de données ;
-
-- les subventions d'investissement relatives à la restauration des rivières et des zones d'expansion des crues, à la
-réduction des pollutions diffuses, à l'assainissement outre-mer, à la restauration de milieux dégradés, aux économies d'eau
-dans l'habitat collectif social, à la protection et à la restauration des zones humides ;
-
-- les dépenses d'études relatives aux données sur l'eau, les frais de fonctionnement des instances de concertation relatives
-à la politique de l'eau, les actions de coopération internationale ;
-
-- les subventions de fonctionnement au Conseil supérieur de la pêche ainsi qu'aux établissements publics, associations et
-organismes techniques compétents pour leurs interventions au titre de la politique de l'eau ;
-
-- les interventions relatives aux actions d'intérêt commun aux bassins et aux données sur l'eau ;
-
-- les restitutions de sommes indûment perçues ;
-
-- les dépenses diverses ou accidentelles.
+"I. - Abrogé.
 
 II. - Il est institué à partir du 1er janvier 2000 un prélèvement de solidarité pour l'eau versé à l'Etat par les agences de
 l'eau, dont le montant est déterminé chaque année en loi de finances.
@@ -5424,9 +5383,7 @@ de l'eau."
 
 _Cite_:
 
-  - Décret n°54-982 1954-10-01
   - Loi n°99-1172 1999-12-30 art. 58 Finances pour 2000
-  - Code général des collectivités territoriales - art. L2335-9 (M)
 
 _Codifié par_:
 
@@ -5435,7 +5392,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 44 (V) JORF 31 décembre 2002
+  - Loi - art. 38 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -37267,6 +37224,65 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
+###### Article L541-10-1
+
+A compter du 1er janvier 2005, toute personne physique ou morale qui, gratuitement, met pour son propre compte à disposition
+des particuliers sans que ceux-ci en aient fait préalablement la demande, leur fait mettre à disposition, leur distribue pour
+son propre compte ou leur fait distribuer des imprimés (Dispositions déclarées non conformes à la Constitution par décision
+du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans les boîtes aux lettres, dans les parties communes des
+habitations collectives, dans les locaux commerciaux, dans les lieux publics ou sur la voie publique, est tenue de contribuer
+à la collecte, la valorisation et l'élimination des déchets ainsi produits. Cette contribution peut prendre la forme de
+prestations en nature. Toutefois, est exclue de cette contribution la mise à disposition du public d'informations par un
+service public lorsqu'elle résulte exclusivement d'une obligation découlant d'une loi ou d'un règlement.
+
+Sous sa forme financière, la contribution est remise à un organisme agréé par les ministères chargés de l'environnement, des
+collectivités territoriales, de l'économie et de l'industrie, qui la verse aux collectivités territoriales au titre de
+participation aux coûts de collecte, de valorisation et d'élimination qu'elles supportent.
+
+La contribution en nature consiste en la mise à disposition d'espaces de communication au profit des établissements publics
+de coopération intercommunale assurant l'élimination des déchets ménagers. Ces espaces de communication sont utilisés pour
+promouvoir la collecte, la valorisation et l'élimination des déchets.
+
+Les contributions financières et en nature sont déterminées suivant un barème fixé par décret.
+
+La personne ou l'organisme qui ne s'acquitte pas volontairement de cette contribution est soumis à la taxe prévue au 9 du I
+de l'article 266 sexies du code des douanes.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi - art. 20 () JORF 31 décembre 2003
+
+_Cité par_:
+
+  - Décret n°2006-239 du 1 mars 2006 - art. 1 (Ab)
+  - Décret n°2006-239 du 1 mars 2006 - art. 2 (Ab)
+  - Décret n°2006-1766 du 23 décembre 2006 - art. 1 (Ab)
+  - Code de l'environnement - art. D543-207 (VD)
+  - Code de l'environnement - art. D543-208 (VD)
+  - Code de l'environnement - art. D543-208-1 (VD)
+  - Code de l'environnement - art. D543-208-2 (VT)
+  - Code de l'environnement - art. D543-211 (VD)
+  - Code de l'environnement - art. D543-211-1 (V)
+  - Code de l'environnement - art. D543-212 (V)
+  - Code de l'environnement - art. D543-212-2 (V)
+  - Code de l'environnement - art. L151-1 (V)
+  - Code de l'environnement - art. L541-10 (V)
+  - Code de l'environnement - art. L655-4 (V)
+  - Code de l'environnement - art. R543-210-1 (V)
+  - Code des douanes - art. 266 octies (M)
+  - Code des douanes - art. 266 quaterdecies (Ab)
+  - Code des douanes - art. 266 sexies (M)
+
+
 ##### Section 3 : Elimination des déchets<a id=349></a>
 
 ##### Sous-section 1 : Plans d'élimination des déchets<a id=350></a>
@@ -41193,11 +41209,17 @@ _Codifié par_:
 
 ###### Article L571-14
 
-L'Agence de l'environnement et de la maîtrise de l'énergie contribue aux dépenses engagées par les riverains des aérodromes
-pour la mise en oeuvre des dispositions nécessaires à l'atténuation des nuisances sonores dans des conditions fixées par
-décret en Conseil d'Etat.
+Les exploitants des aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des impôts contribuent aux
+dépenses engagées par les riverains de ces aérodromes pour la mise en oeuvre des dispositions nécessaires à l'atténuation des
+nuisances sonores dans des conditions fixées par décret en Conseil d'Etat. Pour les aérodromes mentionnés au IV de l'article
+1609 quatervicies A du même code, cette contribution est financée par les ressources perçues par chaque aérodrome au titre de
+la taxe instituée par ce même article.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 quatervicies A
 
 _Anciens textes_:
 
@@ -41217,14 +41239,22 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi - art. 19 (V) JORF 31 décembre 2003
+
 
 ###### Article L571-15
 
-Pour définir les riverains pouvant prétendre à l'aide, est institué, pour chaque aérodrome mentionné au 3 de l'article 266
-septies du code des douanes, un plan de gêne sonore, constatant la gêne réelle subie autour de ces aérodromes, dont les
-modalités d'établissement et de révision sont définies par décret.
+Pour définir les riverains pouvant prétendre à l'aide, est institué, pour chaque aérodrome mentionné au I de l'article 1609
+quatervicies A du code général des impôts, un plan de gêne sonore, constatant la gêne réelle subie autour de ces aérodromes,
+dont les modalités d'établissement et de révision sont définies par décret.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 quatervicies A
 
 _Anciens textes_:
 
@@ -41236,9 +41266,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code des douanes - art. 266 septies (M)
+  - Loi - art. 19 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -41253,7 +41283,7 @@ _Cité par_:
 ###### Article L571-16
 
 Pour chaque aérodrome concerné, il est institué une commission qui est consultée sur le contenu du plan de gêne sonore et sur
-l'affectation des crédits budgétaires destinés à atténuer les nuisances subies par les riverains.
+l'affectation des aides destinées à atténuer les nuisances subies par les riverains.
 
 Elle est composée de représentants de l'Etat, des collectivités territoriales intéressées, des exploitants d'aéronefs, des
 associations de riverains et du gestionnaire de l'aérodrome.
@@ -41289,6 +41319,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 19 (V) JORF 31 décembre 2003
 
 
 ##### Section 5 : Contrôles et sanctions administratifs<a id=382></a>
