@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-06-05
+Version Consolidée au 2004-06-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -654,7 +654,7 @@ Version Consolidée au 2004-06-05
             - [Sous-section 1 : Subvention directe à un propriétaire riverain. (art. R*235-29 à R*235-31)](#651)
             - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales. (art. R*235-32 à R*235-33)](#652)
             - [Sous-section 3 : Dispositions diverses. (art. R*235-34 à R*235-35)](#653)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-1 à R*236-121)](#654)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-1 à R*236-105)](#654)
           - [Section 1 : Dispositions générales (art. R*236-1 à R*236-62)](#655)
             - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R*236-22)](#656)
               - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-16)](#657)
@@ -672,114 +672,108 @@ Version Consolidée au 2004-06-05
             - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-91 à R*236-92-1)](#669)
             - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#670)
           - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#671)
-          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-121)](#672)
-            - [Sous-section 1 : Dispositions communes. (art. R*236-98)](#673)
-            - [Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman. (art. R*236-99 à R*236-121)](#674)
-              - [Paragraphe 1 : Temps et heures d'interdiction. (art. R*236-100 à R*236-102)](#675)
-              - [Paragraphe 2 : Tailles minimales des poissons. (art. R*236-103)](#676)
-              - [Paragraphe 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-104 à R*236-105)](#677)
-              - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés. (art. R*236-106 à R*236-112)](#678)
-              - [Paragraphe 5 : Zones de protection du poisson. (art. R*236-113 à R*236-116)](#679)
-              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117)](#680)
-              - [Paragraphe 7 : Capture de géniteurs. (art. R*236-121)](#681)
-        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#682)
-          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#683)
-          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#684)
-          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#685)
-        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#686)
-          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#687)
-          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#688)
-      - [Titre IV : Espaces naturels (art. R*241-1 à R*244-16)](#689)
-        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#690)
-          - [Section 1 : Comité interministériel des parcs nationaux (art. R*241-1 à R*241-2)](#691)
-          - [Section 2 : Création d'un parc national (art. R*241-3 à R*241-14)](#692)
-          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#693)
-            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27-4)](#694)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#695)
-              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#696)
-              - [Paragraphe 3 : Personnels. (art. R*241-27 à R*241-27-4)](#697)
-            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#698)
-            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#699)
-            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#700)
-            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#701)
-            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#702)
-            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#703)
-            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#704)
-          - [Section 4 : Mise en valeur des zones périphériques (art. R*241-49 à R*241-51)](#705)
-          - [Section 5 : Réserves intégrales (art. R*241-52 à R*241-55)](#706)
-          - [Section 6 : Indemnités (art. R*241-56 à R*241-60)](#707)
-          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#708)
-            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#709)
-            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#710)
-        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-49)](#711)
-          - [Section 1 : Réserves naturelles établies par décret (art. R*242-1 à R*242-25)](#712)
-            - [Sous-section 1 : Classement (art. R*242-1 à R*242-18)](#713)
-              - [Paragraphe 1 : Dispositions générales. (art. R*242-1 à R*242-2)](#714)
-              - [Paragraphe 2 : Procédure comportant une enquête publique. (art. R*242-3 à R*242-9)](#715)
-              - [Paragraphe 3 : Procédure simplifiée. (art. R*242-10)](#716)
-              - [Paragraphe 4 : Décision de classement. (art. R*242-11 à R*242-17)](#717)
-              - [Paragraphe 5 : Modalités de gestion. (art. R*242-18)](#718)
-            - [Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-19 à R*242-23)](#719)
-            - [Sous-section 3 : Modification des limites ou de la réglementation, déclassement (art. R*242-24 à R*242-25)](#720)
-          - [Section 2 : Réserves naturelles volontaires (art. R*242-26 à R*242-35)](#721)
-            - [Sous-section 1 : Agrément (art. R*242-26 à R*242-31)](#722)
-            - [Sous-section 2 : Modification, retrait, abrogation de l'agrément (art. R*242-32 à R*242-35)](#723)
-          - [Section 3 : Dispositions communes (art. R*242-36 à R*242-37)](#724)
-            - [Sous-section 2 : Abords des réserves naturelles (art. R*242-36 à R*242-37)](#725)
-              - [Paragraphe 1 : Périmètres de protection (art. R*242-36)](#726)
-              - [Paragraphe 2 : Zones de protection (art. R*242-37)](#727)
-          - [Section 4 : Dispositions pénales (art. R*242-38 à R*242-49)](#728)
-            - [Sous-section 1 : Peines (art. R*242-38 à R*242-49)](#729)
-        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-34)](#730)
-          - [Section 1 : Dispositions générales (art. R*243-1 à R*243-2)](#731)
-          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#732)
-            - [Sous-section 1 : Constitution, aliénation (art. R*243-3 à R*243-7-1)](#733)
-            - [Sous-section 2 : Gestion (art. R*243-8 à R*243-9)](#734)
-          - [Section 3 : Administration (art. R*243-10 à R*243-29)](#735)
-            - [Sous-section 1 : Conseil d'administration (art. R*243-10 à R*243-21-1)](#736)
-            - [Sous-section 2 : Conseils de rivage (art. R*243-22 à R*243-28)](#737)
-            - [Sous-section 3 : Directeur (art. R*243-29)](#738)
-          - [Section 4 : Dispositions financières (art. R*243-31 à R*243-34)](#739)
-        - [Chapitre IV : Parcs naturels régionaux (art. R*244-1 à R*244-16)](#740)
-          - [Section 1 : Principes généraux (art. R*244-1 à R*244-3)](#741)
-          - [Section 2 : Classement (art. R*244-4 à R*244-11)](#742)
-          - [Section 3 : Effets du classement (art. R*244-12 à R*244-16)](#743)
-      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-29)](#744)
-        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#745)
-          - [Section 1 : Composition (art. R*251-2 à R*251-6)](#746)
-          - [Section 2 : Fonctionnement (art. R*251-7 à R*251-10-1)](#747)
-          - [Section 3 : Comité permanent (art. R*251-11 à R*251-18)](#748)
-          - [Section 4 : Experts (art. R*251-19 à R*251-20)](#749)
-          - [Section 5 : Secrétariat administratif (art. R*251-21)](#750)
-        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-29)](#751)
-          - [Section 1 : Conditions d'obtention de l'agrément (art. R*252-2 à R*252-3)](#752)
-          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#753)
-            - [Sous-section 1 : Demande (art. R*252-5 à R*252-9)](#754)
-            - [Sous-section 2 : Instruction de la demande (art. R*252-10 à R*252-12)](#755)
-            - [Sous-section 3 : Décision (art. R*252-13 à R*252-18)](#756)
-          - [Section 3 : Obligations de l'association agréée (art. R*252-19 à R*252-20)](#757)
-          - [Section 4 : Action en représentation conjointe (art. R*252-21 à R*252-29)](#758)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française (art. R*261-1 à R*264-18)](#759)
-        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*261-1 à R*261-11)](#760)
-          - [Section 1 : Territoire de chasse (art. R*261-2)](#761)
-          - [Section 2 : Temps de chasse (art. R*261-3 à R*261-6)](#762)
-          - [Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion (art. R*261-7 à R*261-11)](#763)
-        - [Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises (art. R*262-1)](#764)
-        - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1 à R*263-33)](#765)
-          - [Section 1 : Protection de la faune et de la flore (art. R*263-2 à R*263-3)](#766)
-          - [Section 2 : Chasse (art. R*263-4 à R*263-11)](#767)
-          - [Section 3 : Pêche en eau douce (art. R*263-12 à R*263-19)](#768)
-          - [Section 4 : Espaces naturels (art. R*263-20 à R*263-24)](#769)
-          - [Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*263-25 à R*263-31)](#770)
-          - [Section 6 : Dispositions particulières (art. R*263-32 à R*263-33)](#771)
-        - [Chapitre IV : Dispositions particulières à la Polynésie française (art. R*264-1 à R*264-18)](#772)
-          - [Section 1 : Conditions d'obtention de l'agrément (art. R*264-2 à R*264-3)](#773)
-          - [Section 2 : Procédure d'agrément (art. R*264-4 à R*264-15)](#774)
-            - [Sous-section 1 : Demande. (art. R*264-4 à R*264-7)](#775)
-            - [Sous-section 2 : Instruction de la demande. (art. R*264-8 à R*264-10)](#776)
-            - [Sous-section 3 : Décision. (art. R*264-11 à R*264-15)](#777)
-          - [Section 3 : Obligations de l'association agréée (art. R*264-16 à R*264-17)](#778)
-          - [Section 4 : Action en représentation conjointe (art. R*264-18)](#779)
+          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-105)](#672)
+            - [Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne. (art. R*236-98 à R*236-99)](#673)
+            - [Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R*236-100 à R*236-102)](#674)
+            - [Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse. (art. R*236-103 à R*236-105)](#675)
+        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#676)
+          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#677)
+          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#678)
+          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#679)
+        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#680)
+          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#681)
+          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#682)
+      - [Titre IV : Espaces naturels (art. R*241-1 à R*244-16)](#683)
+        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#684)
+          - [Section 1 : Comité interministériel des parcs nationaux (art. R*241-1 à R*241-2)](#685)
+          - [Section 2 : Création d'un parc national (art. R*241-3 à R*241-14)](#686)
+          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#687)
+            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27-4)](#688)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#689)
+              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#690)
+              - [Paragraphe 3 : Personnels. (art. R*241-27 à R*241-27-4)](#691)
+            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#692)
+            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#693)
+            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#694)
+            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#695)
+            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#696)
+            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#697)
+            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#698)
+          - [Section 4 : Mise en valeur des zones périphériques (art. R*241-49 à R*241-51)](#699)
+          - [Section 5 : Réserves intégrales (art. R*241-52 à R*241-55)](#700)
+          - [Section 6 : Indemnités (art. R*241-56 à R*241-60)](#701)
+          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#702)
+            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#703)
+            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#704)
+        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-49)](#705)
+          - [Section 1 : Réserves naturelles établies par décret (art. R*242-1 à R*242-25)](#706)
+            - [Sous-section 1 : Classement (art. R*242-1 à R*242-18)](#707)
+              - [Paragraphe 1 : Dispositions générales. (art. R*242-1 à R*242-2)](#708)
+              - [Paragraphe 2 : Procédure comportant une enquête publique. (art. R*242-3 à R*242-9)](#709)
+              - [Paragraphe 3 : Procédure simplifiée. (art. R*242-10)](#710)
+              - [Paragraphe 4 : Décision de classement. (art. R*242-11 à R*242-17)](#711)
+              - [Paragraphe 5 : Modalités de gestion. (art. R*242-18)](#712)
+            - [Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-19 à R*242-23)](#713)
+            - [Sous-section 3 : Modification des limites ou de la réglementation, déclassement (art. R*242-24 à R*242-25)](#714)
+          - [Section 2 : Réserves naturelles volontaires (art. R*242-26 à R*242-35)](#715)
+            - [Sous-section 1 : Agrément (art. R*242-26 à R*242-31)](#716)
+            - [Sous-section 2 : Modification, retrait, abrogation de l'agrément (art. R*242-32 à R*242-35)](#717)
+          - [Section 3 : Dispositions communes (art. R*242-36 à R*242-37)](#718)
+            - [Sous-section 2 : Abords des réserves naturelles (art. R*242-36 à R*242-37)](#719)
+              - [Paragraphe 1 : Périmètres de protection (art. R*242-36)](#720)
+              - [Paragraphe 2 : Zones de protection (art. R*242-37)](#721)
+          - [Section 4 : Dispositions pénales (art. R*242-38 à R*242-49)](#722)
+            - [Sous-section 1 : Peines (art. R*242-38 à R*242-49)](#723)
+        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-34)](#724)
+          - [Section 1 : Dispositions générales (art. R*243-1 à R*243-2)](#725)
+          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#726)
+            - [Sous-section 1 : Constitution, aliénation (art. R*243-3 à R*243-7-1)](#727)
+            - [Sous-section 2 : Gestion (art. R*243-8 à R*243-9)](#728)
+          - [Section 3 : Administration (art. R*243-10 à R*243-29)](#729)
+            - [Sous-section 1 : Conseil d'administration (art. R*243-10 à R*243-21-1)](#730)
+            - [Sous-section 2 : Conseils de rivage (art. R*243-22 à R*243-28)](#731)
+            - [Sous-section 3 : Directeur (art. R*243-29)](#732)
+          - [Section 4 : Dispositions financières (art. R*243-31 à R*243-34)](#733)
+        - [Chapitre IV : Parcs naturels régionaux (art. R*244-1 à R*244-16)](#734)
+          - [Section 1 : Principes généraux (art. R*244-1 à R*244-3)](#735)
+          - [Section 2 : Classement (art. R*244-4 à R*244-11)](#736)
+          - [Section 3 : Effets du classement (art. R*244-12 à R*244-16)](#737)
+      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-29)](#738)
+        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#739)
+          - [Section 1 : Composition (art. R*251-2 à R*251-6)](#740)
+          - [Section 2 : Fonctionnement (art. R*251-7 à R*251-10-1)](#741)
+          - [Section 3 : Comité permanent (art. R*251-11 à R*251-18)](#742)
+          - [Section 4 : Experts (art. R*251-19 à R*251-20)](#743)
+          - [Section 5 : Secrétariat administratif (art. R*251-21)](#744)
+        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-29)](#745)
+          - [Section 1 : Conditions d'obtention de l'agrément (art. R*252-2 à R*252-3)](#746)
+          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#747)
+            - [Sous-section 1 : Demande (art. R*252-5 à R*252-9)](#748)
+            - [Sous-section 2 : Instruction de la demande (art. R*252-10 à R*252-12)](#749)
+            - [Sous-section 3 : Décision (art. R*252-13 à R*252-18)](#750)
+          - [Section 3 : Obligations de l'association agréée (art. R*252-19 à R*252-20)](#751)
+          - [Section 4 : Action en représentation conjointe (art. R*252-21 à R*252-29)](#752)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française (art. R*261-1 à R*264-18)](#753)
+        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*261-1 à R*261-11)](#754)
+          - [Section 1 : Territoire de chasse (art. R*261-2)](#755)
+          - [Section 2 : Temps de chasse (art. R*261-3 à R*261-6)](#756)
+          - [Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion (art. R*261-7 à R*261-11)](#757)
+        - [Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises (art. R*262-1)](#758)
+        - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1 à R*263-33)](#759)
+          - [Section 1 : Protection de la faune et de la flore (art. R*263-2 à R*263-3)](#760)
+          - [Section 2 : Chasse (art. R*263-4 à R*263-11)](#761)
+          - [Section 3 : Pêche en eau douce (art. R*263-12 à R*263-19)](#762)
+          - [Section 4 : Espaces naturels (art. R*263-20 à R*263-24)](#763)
+          - [Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*263-25 à R*263-31)](#764)
+          - [Section 6 : Dispositions particulières (art. R*263-32 à R*263-33)](#765)
+        - [Chapitre IV : Dispositions particulières à la Polynésie française (art. R*264-1 à R*264-18)](#766)
+          - [Section 1 : Conditions d'obtention de l'agrément (art. R*264-2 à R*264-3)](#767)
+          - [Section 2 : Procédure d'agrément (art. R*264-4 à R*264-15)](#768)
+            - [Sous-section 1 : Demande. (art. R*264-4 à R*264-7)](#769)
+            - [Sous-section 2 : Instruction de la demande. (art. R*264-8 à R*264-10)](#770)
+            - [Sous-section 3 : Décision. (art. R*264-11 à R*264-15)](#771)
+          - [Section 3 : Obligations de l'association agréée (art. R*264-16 à R*264-17)](#772)
+          - [Section 4 : Action en représentation conjointe (art. R*264-18)](#773)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -70922,25 +70916,32 @@ locations d'une durée supérieure à neuf ans ;
 
 11° L'acceptation des dons et legs ;
 
-12° Les actions en justice ;
+12° L'organisation et les missions des délégations régionales du Conseil supérieur de la pêche ;
 
-13° L'organisation et les missions des délégations régionales du Conseil supérieur de la pêche ;
+13° Les conditions générales d'attribution des aides et subventions.
 
-14° Les conditions générales d'attribution des aides et subventions.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R234-10
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 2 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*234-11
@@ -70949,7 +70950,7 @@ Les délibérations du conseil d'administration sont exécutoires de plein droit
 leur réception par le ministre chargé de la pêche en eau douce, à moins que, dans ce délai, et à l'exception de celles
 mentionnées au 6° de l'article R. 234-10, le ministre n'y fasse opposition.
 
-Toutefois, les délibérations portant sur les matières énumérées aux 1°, 3°, 4°, 8° et 14° de l'article R. 234-10 ne
+Toutefois, les délibérations portant sur les matières énumérées aux 1°, 3°, 4°, 8° et 13° de l'article R. 234-10 ne
 deviennent exécutoires qu'à l'issue du délai d'un mois suivant la réception du procès-verbal par le ministre chargé de la
 pêche en eau douce et par le ministre chargé du budget sauf opposition expresse de l'un d'entre eux. Les délibérations
 portant sur les matières énumérées aux 7° et 10° de l'article R. 234-10 ne sont exécutoires qu'après approbation par arrêté
@@ -70962,17 +70963,13 @@ Elles sont soumises pour information au conseil d'administration lors de sa plus
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code rural R234-12
-
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 2 () JORF 25 juin 2004
 
 _Cite_:
 
@@ -71016,28 +71013,42 @@ _Abrogé par_:
 
 ###### Article R*234-13
 
-Le directeur général assiste le président dans la préparation des délibérations du conseil d'administration et en assure
-l'exécution. Il rend compte au conseil d'administration de l'exécution des décisions prises par le conseil, il assure la
-direction du Conseil supérieur de la pêche et le représente dans tous les actes de la vie civile, dans ses rapports avec les
-tiers et dans les relations internationales. Il représente l'établissement en justice. Il prépare le budget du Conseil
-supérieur de la pêche. Il assure le secrétariat du conseil d'administration. Il est ordonnateur des recettes et des dépenses
-de l'établissement. Il peut déléguer sa signature.
+Le directeur général dirige le Conseil supérieur de la pêche et le représente dans tous les actes de la vie civile, dans ses
+rapports avec les tiers et dans les relations internationales. Il nomme et gère les personnels de l'établissement.
 
-Le directeur général nomme les personnels de l'établissement et en assure la gestion.
+Il assure le secrétariat du conseil d'administration et assiste le président dans la préparation des délibérations du
+conseil. Il assure l'exécution des décisions du conseil d'administration et lui en rend compte.
+
+Il prépare le budget de l'établissement. Il est ordonnateur des recettes et des dépenses. Il est la personne responsable des
+marchés. Il peut déléguer cette compétence à des personnels de conception et d'encadrement placés sous son autorité. Les
+délégations précisent les catégories et les montants des marchés pour lesquelles elles sont données.
+
+Il décide des actions en justice et des transactions et en rend compte au conseil d'administration.
+
+Il peut déléguer sa signature.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R234-13
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 3 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche.<a id=638></a>
@@ -72404,22 +72415,32 @@ _Abrogé par_:
 
 Les eaux mentionnées à l'article L. 435-1 sont divisées en lots.
 
-Dans chaque lot, sans préjudice des décisions de mise en réserve, le droit de pêche aux lignes et le droit de pêche aux
-engins et aux filets font l'objet d'exploitations distinctes.
+Dans chaque lot, sans préjudice des décisions de mise en réserve, le droit de pêche exercé par les pêcheurs amateurs aux
+lignes, par les pêcheurs amateurs aux engins et aux filets dans les eaux du domaine public et par les pêcheurs professionnels
+en eau douce fait l'objet d'exploitations distinctes.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R235-2
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 4 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 _Cite_:
 
@@ -72556,19 +72577,31 @@ Lorsque l'emploi d'engins et de filets n'est pas jugé nécessaire à l'exploita
 des anguilles peuvent cependant y être attribuées aux membres de l'association agréée départementale de pêcheurs amateurs aux
 engins et aux filets sur les eaux du domaine public.
 
+Des licences particulières sont attribuées dans les lots où la réduction du nombre d'engins destinés à la pêche des anguilles
+fait l'objet de mesures de compensation permettant l'usage d'engins pour la pêche d'espèces autres que l'anguille.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R235-6
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 5 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*235-7
@@ -72613,8 +72646,8 @@ _Cite_:
 
 ###### Article R*235-7-1
 
-Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission départementale ou
-interdépartementale des structures de la pêche professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
+Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission de bassin pour la pêche
+professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
 
 Les licences sont nominatives. Elles sont délivrées pour cinq ans et font l'objet d'un renouvellement général. Toutefois,
 leur date d'expiration peut être prorogée d'un an dans les conditions fixées au premier alinéa de l'article R. 235-8. Le prix
@@ -72625,19 +72658,28 @@ Les demandes de licences de pêche professionnelle doivent comporter tous les é
 candidat à participer à la gestion piscicole et le programme qu'il envisage d'engager pour l'exploitation de la pêche. Le
 candidat doit aussi indiquer s'il entend exercer la pêche professionnelle à temps plein ou à temps partiel.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R235-7
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 6 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 _Cite_:
 
@@ -72976,8 +73018,8 @@ ou la collectivité gestionnaire du cours d'eau.
 Il détermine également les clauses et conditions particulières du cahier des charges pour l'exploitation de chaque lot, après
 avis, le cas échéant, de l'organisme ou de la collectivité gestionnaire. Ces clauses ont notamment pour objet :
 
-1° La désignation des lots où l'exercice de la pêche aux engins et aux filets est jugé nécessaire à une gestion rationnelle
-des ressources piscicoles ;
+1° La désignation des lots où l'exercice de la pêche est jugé nécessaire à une gestion rationnelle des ressources
+piscicoles ;
 
 2° L'indication, pour les lots mentionnés au 1°, du mode d'exploitation retenu, par voie de location ou de licences, et le
 nombre maximum de licences de chaque catégorie ;
@@ -72991,23 +73033,28 @@ nombre maximum de licences de chaque catégorie ;
 6° L'indication, pour l'ensemble des lots, du prix de base des loyers de la pêche aux lignes et, s'il y a lieu, de la pêche
 aux engins, ainsi que du prix des licences.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R235-14
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 8 () JORF 25 juin 2004
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'environnement R235-6
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*235-15
@@ -73069,25 +73116,34 @@ doit aussi indiquer s'il entend exercer la pêche professionnelle à temps plein
 S'il est déjà locataire d'un lot, le pêcheur professionnel doit aussi justifier, à l'appui de sa demande, des conditions dans
 lesquelles il a exercé la pêche précédemment.
 
-Les demandes présentées par les pêcheurs professionnels sont soumises à l'avis de la commission des structures de la pêche
+Les demandes présentées par les pêcheurs professionnels sont soumises à l'avis de la commission de bassin pour la pêche
 professionnelle en eau douce, mentionnée à l'article R. 235-13-1.
 
 Les demandes prévues par le présent article sont adressées au préfet par lettre recommandée quatre mois au moins avant
 l'expiration des baux en cours.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R235-16
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 9 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 _Cite_:
 
@@ -74492,38 +74548,37 @@ _Abrogé par_:
 Toutefois, le préfet peut, par arrêté, autoriser la pêche :
 
 1° De la truite de mer depuis une demi-heure avant le lever du soleil jusqu'à deux heures après son coucher dans les cours
-d'eau classés comme cours d'eau à truite de mer en vertu de l'article R. 236-27 ;
+d'eau figurant comme cours d'eau à truite de mer sur la liste établie par le ministre chargé de la pêche en eau douce ;
 
 2° Des aloses, du flet, des lamproies et du mulet depuis deux heures avant le lever du soleil jusqu'à deux heures après son
 coucher dans les eaux mentionnées à l'article L. 435-1 ;
 
 3° De l'anguille à toute heure ;
 
-4° Des aloses et des lamproies à toute heure dans la zone mentionnée au premier alinéa de l'article L. 436-10 ;
+4° Des aloses et des lamproies à toute heure dans les zones mentionnées à l'article L. 436-10 ;
 
 5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau de 2e catégorie et pendant une période qu'il
 détermine.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code rural R236-19
-
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 2004-06-18 art. 10 I, II JORF 25 juin 2004
+  - Décret n°2004-599 du 18 juin 2004 - art. 10 () JORF 25 juin 2004
 
 _Cite_:
 
   - Code de l'environnement - art. L435-1 (M)
   - Code de l'environnement - art. L436-10 (V)
-  - Code de l'environnement R236-27, L435-1, L436-10
+
+_Anciens textes_:
+
+  - Code rural R236-19
 
 
 ###### Article R*236-20
@@ -76276,677 +76331,284 @@ _Abrogé par_:
 
 ##### Section 6 : Dispositions particulières<a id=672></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=673></a>
+##### Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne.<a id=673></a>
 
 ###### Article R*236-98
 
-Les dispositions des articles R. 236-6 à R. 236-83 relatives aux conditions d'exercice du droit de pêche ne sont pas
-applicables à la Bidassoa et à la section du Doubs formant frontière avec la Suisse ; les dispositions des articles R. 236-6
-à R. 236-66 ne sont pas applicables au lac Léman.
+Les dispositions des articles R. 236-6 à R. 236-95 ne sont pas applicables à la pêche dans la section de la Bidassoa et de la
+baie du Figuier formant frontière avec l'Espagne.
 
-Les dispositions des articles R. 236-84 à R. 236-95, relatives aux réserves et aux interdictions permanentes de pêche, ne
-sont pas applicables au lac Léman et à la Bidassoa.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+_Modifié par_:
+
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+_Cite_:
+
+  - Code de l'environnement R236-6 à R236-95
+
+
+###### Article R*236-99
+
+L'exercice de la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne est soumis
+aux stipulations de la convention entre la France et l'Espagne relative à la pêche en Bidassoa et baie du Figuier du 14
+juillet 1959 modifiée.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code de l'environnement R236-6 à R236-83, R236-6 à R236-66, R236-84 à R236-95
-
-_Anciens textes_:
-
-  - Code rural R236-98
+  - Convention 1959-07-14
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
 
+_Abrogé par_:
 
-##### Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman.<a id=674></a>
-
-###### Article R*236-99
-
-Les dispositions de la présente sous-section s'appliquent à la pêche dans les eaux françaises du lac Léman.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-99
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Temps et heures d'interdiction.<a id=675></a>
+##### Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=674></a>
 
 ###### Article R*236-100
 
-La pêche est autorisée toute l'année à l'exception de :
+Les dispositions des articles R. 236-6 à R. 236-95 ne sont pas applicables à la pêche dans les eaux françaises du lac Léman.
 
-1° La pêche de la truite Salmo trutta, de l'omble chevalier et du corégone, qui est interdite pendant une période d'au moins
-89 jours consécutifs comprise entre la mi-octobre et la mi-janvier. Cette période est fixée par le préfet ;
+**Nota:**
 
-2° La pêche de l'ombre commun, qui est interdite du 1er mars au 14 mai inclus ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-3° La pêche du brochet, qui est interdite du 1er avril au 10 mai inclus.
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-La pêche de l'écrevisse à pattes blanches (Austrapotamobius pallipes) et de l'écrevisse à pattes rouges (Astacus astacus) est
-interdite toute l'année.
-
-Tout poisson capturé pendant la période où sa pêche est interdite doit être immédiatement et soigneusement remis à l'eau, à
-l'exception des perches pêchées par les amateurs, quelle que soit leur taille.
-
-La pêche à la traîne est interdite pendant la période d'interdiction de la pêche des truites, de l'omble chevalier et du
-corégone.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-100
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+_Cite_:
+
+  - Code de l'environnement R236-6 à R236-95
 
 
 ###### Article R*236-101
 
-La pêche aux lignes ne peut s'exercer plus d'une demi-heure avant le lever du soleil ni plus d'une demi-heure après son
-coucher.
+L'exercice de la pêche dans les eaux françaises du lac Léman est soumis aux stipulations de l'accord entre le Gouvernement de
+la République française et le Conseil fédéral suisse concernant la pêche dans le lac Léman du 20 novembre 1980 et de son
+règlement d'application modifiés.
 
-Les nasses, engins et filets ne peuvent être tendus, posés ou relevés que durant les heures suivantes :
+**Nota:**
 
-De 6 h 30 à 18 heures en janvier ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-De 6 heures à 18 h 45 en février ;
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-De 5 h 30 à 19 h 30 en mars ;
-
-De 5 heures à 20 heures en avril ;
-
-De 4 h 15 à 20 h 45 en mai ;
-
-De 4 heures à 21 h 15 en juin ;
-
-De 4 h 15 à 21 heures en juillet ;
-
-De 4 h 45 à 20 h 30 en août ;
-
-De 5 heures à 19 h 30 en septembre ;
-
-De 5 h 15 à 18 h 30 en octobre ;
-
-De 5 h 45 à 17 h 45 en novembre ;
-
-De 6 h 30 à 17 h 30 en décembre.
-
-Pendant la période où l'heure d'été est appliquée, il convient d'ajouter une heure aux heures définies ci-dessus.
-
-Toutefois, les grands pics peuvent être levés une heure avant les heures définies ci-dessus.
-
-Pendant les mois de juin, juillet, août et septembre, la pose des filets à perches dont les dimensions des mailles sont
-inférieures à 32 millimètres est autorisée une heure et demie avant les heures définies ci-dessus.
-
-La circulation sur le lac avec des engins de pêche est autorisée une demi-heure avant l'heure d'ouverture pour autant que les
-filets soient secs.
-
-La circulation sur le lac demeure autorisée une demi-heure après l'heure de fermeture pour le transport des engins, des
-filets ou des poissons.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Code rural R236-101
+  - Accord 1980-11-20
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*236-102
 
-Le préfet peut, par arrêté, interdire ou réglementer la pêche certains jours ou certaines heures ou en certains lieux au
-moyen des types de filets ou d'engins qu'il définit.
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de ne pas respecter les stipulations du règlement
+d'application mentionné à l'article R. 236-101. L'amende encourue est celle prévue pour les contraventions de la 4e classe
+lorsque les infractions ont été commises de nuit.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-102
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+_Cite_:
+
+  - Code de l'environnement R236-101
 
 
-##### Paragraphe 2 : Tailles minimales des poissons.<a id=676></a>
+##### Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse.<a id=675></a>
 
 ###### Article R*236-103
 
-Les poissons désignés ci-après ne peuvent être capturés que s'ils ont atteint la taille minimale suivante :
+Les dispositions des articles R. 236-6 à R. 236-62 ne sont pas applicables à la pêche dans la section Doubs formant frontière
+avec la Suisse.
 
-0,35 mètre pour les truites de lac et de rivière ;
+**Nota:**
 
-0,27 mètre pour l'omble chevalier ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-0,30 mètre pour l'ombre commun ;
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-0,30 mètre pour les corégones ;
-
-0,50 mètre pour les brochets ;
-
-0,15 mètre pour la perche.
-
-La taille du poisson est mesurée du bout du museau à l'extrémité de la nageoire caudale normalement déployée.
-
-Tout poisson n'ayant pas atteint la taille minimale doit être immédiatement et soigneusement remis à l'eau.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-103
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
 
+_Abrogé par_:
 
-##### Paragraphe 3 : Nombre de captures autorisées, conditions de capture.<a id=677></a>
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+_Cite_:
+
+  - Code de l'environnement R236-6 à R236-62
+
 
 ###### Article R*236-104
 
-Le préfet fixe par arrêté les nombres de captures de perches, truites et ombles chevaliers autorisés par jour et par an pour
-les pêcheurs amateurs.
+L'exercice de la pêche dans la section du Doubs formant frontière avec la Suisse est soumis aux stipulations de l'accord
+entre le Gouvernement de la République française et le Conseil fédéral suisse concernant l'exercice de la pêche et la
+protection des milieux aquatiques dans la partie du Doubs formant frontière entre les deux Etats du 29 juillet 1991 et de son
+règlement d'application modifié.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Code rural R236-104
+  - Accord 1991-07-29
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*236-105
 
-Chaque pêcheur détenteur d'une licence doit tenir à jour des fiches statistiques ou un carnet de pêche selon les modalités
-définies par le préfet.
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de ne pas respecter les stipulations du règlement
+d'application mentionné à l'article R. 236-104. L'amende encourue est celle prévue pour les contraventions de la 4e classe
+lorsque les infractions ont été commises de nuit.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-105
 
 _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-
-##### Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.<a id=678></a>
-
-###### Article R*236-106
-
-Les membres de l'association agréée de pêche et de pisciculture, locataire du droit de pêche sur le lac Léman, ne peuvent
-pêcher qu'avec les moyens suivants :
-
-1° Trois lignes au choix parmi les suivantes, qui ne peuvent être utilisées qu'à partir du bord ou d'une embarcation
-immobile : ligne flottante, ligne au lancer, ligne plongeante ou plombée ordinaire, gambe ou plombier, ces lignes étant
-pourvues chacune au maximum de six hameçons mesurant au plus 15 millimètres entre la pointe et la tige, quel que soit le
-nombre de pointes ;
-
-2° Pendant la période d'ouverture fixée au 1° de l'article R. 236-100, quatre lignes ou traînes ou traîneaux portant en tout
-un maximum de vingt hameçons par embarcation ;
-
-3° La filoche ou épuisette, d'un diamètre maximum de 0,75 mètre, pour retirer de l'eau des poissons déjà ferrés ou pour
-pêcher des amorces à usage personnel ;
-
-4° Deux bouteilles à vairons ou gobemouches, d'une capacité unitaire d'un maximum de trois litres, utilisables pour pêcher
-des amorces à usage personnel ;
-
-5° Six balances destinées à la pêche des écrevisses appartenant aux espèces autres que celles mentionnées à l'article R.
-236-100, d'un diamètre maximum de 0,30 mètre.
-
-Les membres d'associations agréées de pêche et de pisciculture autres que celle mentionnée au premier alinéa du présent
-article ne peuvent pêcher que du bord ou en marchant dans l'eau, au moyen d'une seule ligne munie au plus de deux hameçons.
-
-Les pêcheurs amateurs résidant en Suisse et munis d'un permis de pêche valable pour le lac Léman délivré par cet Etat peuvent
-utiliser les moyens de pêche prévus au présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-106
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
 
 _Abrogé par_:
 
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 _Cite_:
 
-  - Code de l'environnement R236-100
+  - Code de l'environnement R236-104
 
 
-###### Article R*236-107
+#### Chapitre VII : Recherche et constatation des infractions<a id=676></a>
 
-L'emploi de la gambe et des lignes de traîne est autorisé aux porteurs de licences selon les modalités fixées par arrêté du
-préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-107
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-108
-
-Un arrêté du préfet fixe :
-
-a) Les dimensions maximales des filets ;
-
-b) Le nombre et les structures de chaque type de filet et d'engin, les époques et les conditions de leur utilisation, les
-conditions de jalonnement, les zones en dehors desquelles ils ne peuvent être tendus ou utilisés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-108
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-109
-
-Sont seuls autorisés les filets dont les mailles sont carrées ou losangiques et les nasses dont les mailles sont carrées,
-losangiques ou hexagonales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-109
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-110
-
-Les dimensions minimales des mailles pour chaque type d'engin et de filet sont fixées par arrêté du préfet en fonction des
-différentes espèces de poisson susceptibles d'être capturées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-110
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-111
-
-Le mode de vérification des mailles et des dimensions des engins et filets est fixé par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-111
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-112
-
-Il est interdit en vue de la capture du poisson :
-
-1° De pêcher à la main ou sous la glace ou en troublant l'eau ou en fouillant sous les racines et autres retraites
-fréquentées par le poisson ;
-
-2° D'employer tous procédés ou de faire usage de tous engins destinés à accrocher le poisson autrement que par la bouche.
-L'emploi de la gaffe est interdit pour retirer de l'eau le poisson déjà ferré ;
-
-3° De se servir d'armes à feu, de fagot, de lacets ou de collets, de moyens optiques ou acoustiques servant à attirer les
-poissons ;
-
-4° D'utiliser des engins de plongée subaquatique ;
-
-5° D'utiliser comme appâts ou comme amorces des oeufs de poisson naturels, qu'ils soient frais, de conserve ou mélangés à une
-composition d'appâts ou artificiels ;
-
-6° D'établir des appareils, d'effectuer des manoeuvres, de battre la surface de l'eau en vue de rassembler le poisson afin
-d'en faciliter la capture ;
-
-7° De détenir tout appareil de sondage par ondes, ou sonar, sur un bateau utilisé pour la pêche à la monte ou à la grande
-senne, ou sur un bateau qui participe à cette pêche ;
-
-8° D'utiliser comme appâts des poissons des espèces dont la taille minimale a été fixée par l'article R. 236-103, des espèces
-mentionnées aux 1° et 2° de l'article L. 432-10.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'environnement - art. L432-10 (M)
-  - Code de l'environnement R236-103, L432-10
-
-_Anciens textes_:
-
-  - Code rural R236-112
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-##### Paragraphe 5 : Zones de protection du poisson.<a id=679></a>
-
-###### Article R*236-113
-
-Il est interdit de pêcher avec des filets ou engins quelconques :
-
-- en tout temps, dans une zone de 300 mètres autour de l'embouchure de la Dranse ;
-
-- durant la fermeture de la pêche des truites, dans une zone de 100 mètres autour de l'embouchure de l'Hermance, de la Morge,
-du Pamphiot, du Foron, du Redon et du Vion.
-
-Les limites de ces zones de protection sont indiquées par des bornes ou des marques placées sur la rive.
-
-L'usage des lignes, quelle qu'en soit la nature, est autorisé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-113
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-114
-
-Pendant la période d'interdiction de la pêche de l'omble chevalier, il est interdit de tendre des filets, engins ou lignes
-sur les emplacements des frayères de ce poisson, dites "omblières", délimitées par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-114
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-115
-
-Il est interdit de pêcher à l'intérieur des roselières et des réserves naturelles.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-115
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-116
-
-Le préfet peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite pour une durée maximale d'une année.
-L'arrêté mentionne l'emplacement de la réserve et sa durée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-116
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-##### Paragraphe 6 : Dispositions pénales.<a id=680></a>
-
-###### Article R*236-117
-
-Sera puni de l'amende prévue pour les contraventions de la 3e classe :
-
-1° Le fait de pêcher pendant les temps d'interdiction fixés par l'article R. 236-100 ;
-
-2° Le fait de pêcher pendant les heures d'interdiction fixées par l'article R. 236-101 ou en application de l'article R.
-236-102 ;
-
-3° Le fait d'employer un procédé ou un mode de pêche ou de l'un des instruments, filets ou engins de pêche prohibés en
-application des articles R. 236-106 à R. 236-110 et R. 236-112 (1° à 7°) ;
-
-4° Le fait de pêcher, de transporter ou de vendre des poissons provenant des eaux soumises à la présente sous-section qui
-n'ont pas les dimensions fixées par l'article R. 236-103 ;
-
-5° Le fait de pêcher ou de transporter des poissons provenant des eaux soumises aux dispositions de la présente sous-section
-dont le nombre excède celui fixé par l'article R. 236-104 ;
-
-6° Le fait d'utiliser comme appâts des poissons appartenant aux espèces définies à l'article R. 236-112 (8°) ;
-
-7° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés
-destinés à être utilisés dans les eaux soumises aux dispositions de la présente sous-section ;
-
-8° Le fait de pêcher dans les zones de protection du poisson fixées par les articles R. 236-113 à R. 236-115 et en
-application de l'article R. 236-116 ;
-
-L'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe lorsque les infractions aux 1°, 3°, 4°,
-5°, 6° et 8° ont été commises de nuit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-117
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-_Cite_:
-
-  - Code de l'environnement R236-100, R236-101, R236-102, R236-106 à R236-110, R236-112, R236-103, R236-104, R236-113 à R236-115, R236-116
-
-
-##### Paragraphe 7 : Capture de géniteurs.<a id=681></a>
-
-###### Article R*236-121
-
-Par dérogation à l'article R. 236-100, le préfet peut, par arrêté, ouvrir la pêche aux engins et aux filets des géniteurs de
-corégones et d'ombles chevaliers en vue de la récolte de leurs oeufs pour satisfaire les objectifs d'alevinage définis au
-plan d'aménagement piscicole :
-
-- du 15 novembre au 31 décembre pour l'omble chevalier ;
-
-- du 1er décembre au 10 janvier pour les corégones.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R236-121
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-_Cite_:
-
-  - Code de l'environnement R236-100
-
-
-#### Chapitre VII : Recherche et constatation des infractions<a id=682></a>
-
-##### Section 1 : Agents compétents.<a id=683></a>
+##### Section 1 : Agents compétents.<a id=677></a>
 
 ###### Article R*237-1
 
@@ -77057,7 +76719,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Recherche des infractions.<a id=684></a>
+##### Section 3 : Recherche des infractions.<a id=678></a>
 
 ###### Article R*237-4
 
@@ -77136,7 +76798,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (M)
 
 
-##### Section 4 : Saisies.<a id=685></a>
+##### Section 4 : Saisies.<a id=679></a>
 
 ###### Article R*237-6
 
@@ -77215,9 +76877,9 @@ _Cite_:
   - Code de l'environnement - art. L437-12 (V)
 
 
-#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=686></a>
+#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=680></a>
 
-##### Section 1 : Transaction.<a id=687></a>
+##### Section 1 : Transaction.<a id=681></a>
 
 ###### Article R*238-1
 
@@ -77370,7 +77032,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Poursuites pénales.<a id=688></a>
+##### Section 2 : Poursuites pénales.<a id=682></a>
 
 ###### Article R*238-5
 
@@ -77466,11 +77128,11 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-### Titre IV : Espaces naturels<a id=689></a>
+### Titre IV : Espaces naturels<a id=683></a>
 
-#### Chapitre Ier : Parcs nationaux<a id=690></a>
+#### Chapitre Ier : Parcs nationaux<a id=684></a>
 
-##### Section 1 : Comité interministériel des parcs nationaux<a id=691></a>
+##### Section 1 : Comité interministériel des parcs nationaux<a id=685></a>
 
 ###### Article R*241-1
 
@@ -77547,7 +77209,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Création d'un parc national<a id=692></a>
+##### Section 2 : Création d'un parc national<a id=686></a>
 
 ###### Article R*241-3
 
@@ -78015,7 +77677,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Aménagement et gestion des parcs nationaux<a id=693></a>
+##### Section 3 : Aménagement et gestion des parcs nationaux<a id=687></a>
 
 ###### Article R*241-15
 
@@ -78052,7 +77714,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Sous-section 1 : Administration générale.<a id=694></a>
+##### Sous-section 1 : Administration générale.<a id=688></a>
 
 ###### Article R*241-16
 
@@ -78086,7 +77748,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Conseil d'administration.<a id=695></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=689></a>
 
 ###### Article R*241-17
 
@@ -78365,7 +78027,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Directeur.<a id=696></a>
+##### Paragraphe 2 : Directeur.<a id=690></a>
 
 ###### Article R*241-25
 
@@ -78436,7 +78098,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Paragraphe 3 : Personnels.<a id=697></a>
+##### Paragraphe 3 : Personnels.<a id=691></a>
 
 ###### Article R*241-27
 
@@ -78611,7 +78273,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Ressources de l'établissement.<a id=698></a>
+##### Sous-section 2 : Ressources de l'établissement.<a id=692></a>
 
 ###### Article R*241-28
 
@@ -78673,7 +78335,7 @@ _Cite_:
   - Code des douanes - art. 285 quater (M)
 
 
-##### Sous-section 3 : Programme d'aménagement du parc.<a id=699></a>
+##### Sous-section 3 : Programme d'aménagement du parc.<a id=693></a>
 
 ###### Article R*241-29
 
@@ -78712,7 +78374,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=700></a>
+##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=694></a>
 
 ###### Article R*241-30
 
@@ -78914,7 +78576,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=701></a>
+##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=695></a>
 
 ###### Article R*241-35
 
@@ -79183,7 +78845,7 @@ _Anciens textes_:
   - Code rural R241-41
 
 
-##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=702></a>
+##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=696></a>
 
 ###### Article R*241-42
 
@@ -79263,7 +78925,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 7 : Contrôle.<a id=703></a>
+##### Sous-section 7 : Contrôle.<a id=697></a>
 
 ###### Article R*241-44
 
@@ -79375,7 +79037,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=704></a>
+##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=698></a>
 
 ###### Article R*241-47
 
@@ -79452,7 +79114,7 @@ _Cite_:
   - Code de l'environnement R241-47
 
 
-##### Section 4 : Mise en valeur des zones périphériques<a id=705></a>
+##### Section 4 : Mise en valeur des zones périphériques<a id=699></a>
 
 ###### Article R*241-49
 
@@ -79567,7 +79229,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 5 : Réserves intégrales<a id=706></a>
+##### Section 5 : Réserves intégrales<a id=700></a>
 
 ###### Article R*241-52
 
@@ -79717,7 +79379,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 6 : Indemnités<a id=707></a>
+##### Section 6 : Indemnités<a id=701></a>
 
 ###### Article R*241-56
 
@@ -79928,9 +79590,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique L13-5 à L13-9, L13-12, L13-14 à L13-25, L14-3, L15-3, L16-3, R13-22 à R13-53, L13-17, R13-43 à R13-46
 
 
-##### Section 8 : Dispositions pénales<a id=708></a>
+##### Section 8 : Dispositions pénales<a id=702></a>
 
-##### Sous-section 1 : Peines.<a id=709></a>
+##### Sous-section 1 : Peines.<a id=703></a>
 
 ###### Article R*241-61
 
@@ -80359,7 +80021,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Constatation et poursuites.<a id=710></a>
+##### Sous-section 2 : Constatation et poursuites.<a id=704></a>
 
 ###### Article R*241-71
 
@@ -80399,13 +80061,13 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre II : Réserves naturelles<a id=711></a>
+#### Chapitre II : Réserves naturelles<a id=705></a>
 
-##### Section 1 : Réserves naturelles établies par décret<a id=712></a>
+##### Section 1 : Réserves naturelles établies par décret<a id=706></a>
 
-##### Sous-section 1 : Classement<a id=713></a>
+##### Sous-section 1 : Classement<a id=707></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=714></a>
+##### Paragraphe 1 : Dispositions générales.<a id=708></a>
 
 ###### Article R*242-1
 
@@ -80460,7 +80122,7 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Paragraphe 2 : Procédure comportant une enquête publique.<a id=715></a>
+##### Paragraphe 2 : Procédure comportant une enquête publique.<a id=709></a>
 
 ###### Article R*242-3
 
@@ -80622,7 +80284,7 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Paragraphe 3 : Procédure simplifiée.<a id=716></a>
+##### Paragraphe 3 : Procédure simplifiée.<a id=710></a>
 
 ###### Article R*242-10
 
@@ -80659,7 +80321,7 @@ _Cite_:
   - Code de l'environnement R242-2
 
 
-##### Paragraphe 4 : Décision de classement.<a id=717></a>
+##### Paragraphe 4 : Décision de classement.<a id=711></a>
 
 ###### Article R*242-11
 
@@ -80849,7 +80511,7 @@ _Cite_:
   - Code de l'environnement - art. L332-6 (M)
 
 
-##### Paragraphe 5 : Modalités de gestion.<a id=718></a>
+##### Paragraphe 5 : Modalités de gestion.<a id=712></a>
 
 ###### Article R*242-18
 
@@ -80879,7 +80541,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=719></a>
+##### Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=713></a>
 
 ###### Article R*242-19
 
@@ -81014,7 +80676,7 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Sous-section 3 : Modification des limites ou de la réglementation, déclassement<a id=720></a>
+##### Sous-section 3 : Modification des limites ou de la réglementation, déclassement<a id=714></a>
 
 ###### Article R*242-24
 
@@ -81066,9 +80728,9 @@ _Cite_:
   - Code de l'environnement - art. L332-5 (V)
 
 
-##### Section 2 : Réserves naturelles volontaires<a id=721></a>
+##### Section 2 : Réserves naturelles volontaires<a id=715></a>
 
-##### Sous-section 1 : Agrément<a id=722></a>
+##### Sous-section 1 : Agrément<a id=716></a>
 
 ###### Article R*242-26
 
@@ -81267,7 +80929,7 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Sous-section 2 : Modification, retrait, abrogation de l'agrément<a id=723></a>
+##### Sous-section 2 : Modification, retrait, abrogation de l'agrément<a id=717></a>
 
 ###### Article R*242-32
 
@@ -81365,11 +81027,11 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 3 : Dispositions communes<a id=724></a>
+##### Section 3 : Dispositions communes<a id=718></a>
 
-##### Sous-section 2 : Abords des réserves naturelles<a id=725></a>
+##### Sous-section 2 : Abords des réserves naturelles<a id=719></a>
 
-##### Paragraphe 1 : Périmètres de protection<a id=726></a>
+##### Paragraphe 1 : Périmètres de protection<a id=720></a>
 
 ###### Article R*242-36
 
@@ -81395,7 +81057,7 @@ _Cite_:
   - Code de l'environnement - art. L332-16 (M)
 
 
-##### Paragraphe 2 : Zones de protection<a id=727></a>
+##### Paragraphe 2 : Zones de protection<a id=721></a>
 
 ###### Article R*242-37
 
@@ -81417,9 +81079,9 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 4 : Dispositions pénales<a id=728></a>
+##### Section 4 : Dispositions pénales<a id=722></a>
 
-##### Sous-section 1 : Peines<a id=729></a>
+##### Sous-section 1 : Peines<a id=723></a>
 
 ###### Article R*242-38
 
@@ -81729,9 +81391,9 @@ _Créé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=730></a>
+#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=724></a>
 
-##### Section 1 : Dispositions générales<a id=731></a>
+##### Section 1 : Dispositions générales<a id=725></a>
 
 ###### Article R*243-1
 
@@ -81811,9 +81473,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Patrimoine du conservatoire<a id=732></a>
+##### Section 2 : Patrimoine du conservatoire<a id=726></a>
 
-##### Sous-section 1 : Constitution, aliénation<a id=733></a>
+##### Sous-section 1 : Constitution, aliénation<a id=727></a>
 
 ###### Article R*243-3
 
@@ -82031,7 +81693,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Gestion<a id=734></a>
+##### Sous-section 2 : Gestion<a id=728></a>
 
 ###### Article R*243-8
 
@@ -82307,9 +81969,9 @@ _Cite_:
   - Code forestier - art. L141-1 (M)
 
 
-##### Section 3 : Administration<a id=735></a>
+##### Section 3 : Administration<a id=729></a>
 
-##### Sous-section 1 : Conseil d'administration<a id=736></a>
+##### Sous-section 1 : Conseil d'administration<a id=730></a>
 
 ###### Article R*243-10
 
@@ -82828,7 +82490,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Conseils de rivage<a id=737></a>
+##### Sous-section 2 : Conseils de rivage<a id=731></a>
 
 ###### Article R*243-22
 
@@ -83104,7 +82766,7 @@ _Cite_:
   - Code de l'environnement R243-1
 
 
-##### Sous-section 3 : Directeur<a id=738></a>
+##### Sous-section 3 : Directeur<a id=732></a>
 
 ###### Article R*243-29
 
@@ -83163,7 +82825,7 @@ _Cite_:
   - Code de l'environnement R243-21
 
 
-##### Section 4 : Dispositions financières<a id=739></a>
+##### Section 4 : Dispositions financières<a id=733></a>
 
 ###### Article R*243-31
 
@@ -83323,9 +82985,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre IV : Parcs naturels régionaux<a id=740></a>
+#### Chapitre IV : Parcs naturels régionaux<a id=734></a>
 
-##### Section 1 : Principes généraux<a id=741></a>
+##### Section 1 : Principes généraux<a id=735></a>
 
 ###### Article R*244-1
 
@@ -83475,7 +83137,7 @@ _Cite_:
   - Code de l'environnement R244-14
 
 
-##### Section 2 : Classement<a id=742></a>
+##### Section 2 : Classement<a id=736></a>
 
 ###### Article R*244-4
 
@@ -83776,7 +83438,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Effets du classement<a id=743></a>
+##### Section 3 : Effets du classement<a id=737></a>
 
 ###### Article R*244-12
 
@@ -83982,9 +83644,9 @@ _Anciens textes_:
   - Code rural R244-16
 
 
-### Titre V : Dispositions communes à la protection de la nature<a id=744></a>
+### Titre V : Dispositions communes à la protection de la nature<a id=738></a>
 
-#### Chapitre Ier : Conseil national de la protection de la nature<a id=745></a>
+#### Chapitre Ier : Conseil national de la protection de la nature<a id=739></a>
 
 ###### Article R*251-1
 
@@ -84029,7 +83691,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 1 : Composition<a id=746></a>
+##### Section 1 : Composition<a id=740></a>
 
 ###### Article R*251-2
 
@@ -84263,7 +83925,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Fonctionnement<a id=747></a>
+##### Section 2 : Fonctionnement<a id=741></a>
 
 ###### Article R*251-7
 
@@ -84432,7 +84094,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Comité permanent<a id=748></a>
+##### Section 3 : Comité permanent<a id=742></a>
 
 ###### Article R*251-11
 
@@ -84700,7 +84362,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 4 : Experts<a id=749></a>
+##### Section 4 : Experts<a id=743></a>
 
 ###### Article R*251-19
 
@@ -84771,7 +84433,7 @@ _Cite_:
   - Code de l'environnement R251-10-1, R251-15, R251-19
 
 
-##### Section 5 : Secrétariat administratif<a id=750></a>
+##### Section 5 : Secrétariat administratif<a id=744></a>
 
 ###### Article R*251-21
 
@@ -84806,7 +84468,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=751></a>
+#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=745></a>
 
 ###### Article R*252-1
 
@@ -84849,7 +84511,7 @@ _Cite_:
   - Code de l'environnement - art. L141-1 (M)
 
 
-##### Section 1 : Conditions d'obtention de l'agrément<a id=752></a>
+##### Section 1 : Conditions d'obtention de l'agrément<a id=746></a>
 
 ###### Article R*252-2
 
@@ -84940,9 +84602,9 @@ _Cite_:
   - Code de l'environnement R252-2, L141-1
 
 
-##### Section 2 : Procédure d'agrément<a id=753></a>
+##### Section 2 : Procédure d'agrément<a id=747></a>
 
-##### Sous-section 1 : Demande<a id=754></a>
+##### Sous-section 1 : Demande<a id=748></a>
 
 ###### Article R*252-5
 
@@ -85144,7 +84806,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Instruction de la demande<a id=755></a>
+##### Sous-section 2 : Instruction de la demande<a id=749></a>
 
 ###### Article R*252-10
 
@@ -85259,7 +84921,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Décision<a id=756></a>
+##### Sous-section 3 : Décision<a id=750></a>
 
 ###### Article R*252-13
 
@@ -85454,7 +85116,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Obligations de l'association agréée<a id=757></a>
+##### Section 3 : Obligations de l'association agréée<a id=751></a>
 
 ###### Article R*252-19
 
@@ -85541,7 +85203,7 @@ _Cite_:
   - Code de l'environnement R252-19, R252-10, L141-1, R252-17
 
 
-##### Section 4 : Action en représentation conjointe<a id=758></a>
+##### Section 4 : Action en représentation conjointe<a id=752></a>
 
 ###### Article R*252-21
 
@@ -85892,9 +85554,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française<a id=759></a>
+### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française<a id=753></a>
 
-#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=760></a>
+#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=754></a>
 
 ###### Article R*261-1
 
@@ -85928,7 +85590,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 1 : Territoire de chasse<a id=761></a>
+##### Section 1 : Territoire de chasse<a id=755></a>
 
 ###### Article R*261-2
 
@@ -85968,7 +85630,7 @@ _Cite_:
   - Code de l'environnement R222-1 à R222-81
 
 
-##### Section 2 : Temps de chasse<a id=762></a>
+##### Section 2 : Temps de chasse<a id=756></a>
 
 ###### Article R*261-3
 
@@ -86215,7 +85877,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion<a id=763></a>
+##### Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion<a id=757></a>
 
 ###### Article R*261-7
 
@@ -86430,7 +86092,7 @@ _Cite_:
   - Code de l'environnement R236-54, R236-6, R261-8, R236-30, R236-32, R261-9, R261-10
 
 
-#### Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises<a id=764></a>
+#### Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises<a id=758></a>
 
 ###### Article R*262-1
 
@@ -86456,7 +86118,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-#### Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte<a id=765></a>
+#### Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte<a id=759></a>
 
 ###### Article R*263-1
 
@@ -86493,7 +86155,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 1 : Protection de la faune et de la flore<a id=766></a>
+##### Section 1 : Protection de la faune et de la flore<a id=760></a>
 
 ###### Article R*263-2
 
@@ -86570,7 +86232,7 @@ _Cite_:
   - Code de l'environnement R215-2, R263-2, R211-16 à R211-18, R215-3
 
 
-##### Section 2 : Chasse<a id=767></a>
+##### Section 2 : Chasse<a id=761></a>
 
 ###### Article R*263-4
 
@@ -86808,7 +86470,7 @@ _Cite_:
   - Code de l'environnement R227-22
 
 
-##### Section 3 : Pêche en eau douce<a id=768></a>
+##### Section 3 : Pêche en eau douce<a id=762></a>
 
 ###### Article R*263-12
 
@@ -87070,7 +86732,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 4 : Espaces naturels<a id=769></a>
+##### Section 4 : Espaces naturels<a id=763></a>
 
 ###### Article R*263-20
 
@@ -87222,7 +86884,7 @@ _Cite_:
   - Code de l'environnement R242-16
 
 
-##### Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement<a id=770></a>
+##### Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement<a id=764></a>
 
 ###### Article R*263-25
 
@@ -87445,7 +87107,7 @@ _Cite_:
   - Code de l'environnement R252-13, R252-16
 
 
-##### Section 6 : Dispositions particulières<a id=771></a>
+##### Section 6 : Dispositions particulières<a id=765></a>
 
 ###### Article R*263-32
 
@@ -87541,7 +87203,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-#### Chapitre IV : Dispositions particulières à la Polynésie française<a id=772></a>
+#### Chapitre IV : Dispositions particulières à la Polynésie française<a id=766></a>
 
 ###### Article R*264-1
 
@@ -87571,7 +87233,7 @@ _Anciens textes_:
   - Code rural R264-1
 
 
-##### Section 1 : Conditions d'obtention de l'agrément<a id=773></a>
+##### Section 1 : Conditions d'obtention de l'agrément<a id=767></a>
 
 ###### Article R*264-2
 
@@ -87641,9 +87303,9 @@ _Cite_:
   - Code de l'environnement L621-1, R264-2
 
 
-##### Section 2 : Procédure d'agrément<a id=774></a>
+##### Section 2 : Procédure d'agrément<a id=768></a>
 
-##### Sous-section 1 : Demande.<a id=775></a>
+##### Sous-section 1 : Demande.<a id=769></a>
 
 ###### Article R*264-4
 
@@ -87757,7 +87419,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Sous-section 2 : Instruction de la demande.<a id=776></a>
+##### Sous-section 2 : Instruction de la demande.<a id=770></a>
 
 ###### Article R*264-8
 
@@ -87836,7 +87498,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Sous-section 3 : Décision.<a id=777></a>
+##### Sous-section 3 : Décision.<a id=771></a>
 
 ###### Article R*264-11
 
@@ -87982,7 +87644,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 3 : Obligations de l'association agréée<a id=778></a>
+##### Section 3 : Obligations de l'association agréée<a id=772></a>
 
 ###### Article R*264-16
 
@@ -88049,7 +87711,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 4 : Action en représentation conjointe<a id=779></a>
+##### Section 4 : Action en représentation conjointe<a id=773></a>
 
 ###### Article R*264-18
 
