@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-01-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -26082,7 +26082,7 @@ Sont soumis aux dispositions du présent titre les usines, ateliers, dépôts, c
 installations exploitées ou détenues par toute personne physique ou morale, publique ou privée, qui peuvent présenter des
 dangers ou des inconvénients soit pour la commodité du voisinage, soit pour la santé, la sécurité, la salubrité publiques,
 soit pour l'agriculture, soit pour la protection de la nature et de l'environnement, soit pour la conservation des sites et
-des monuments.
+des monuments ainsi que des éléments du patrimoine archéologique.
 
 Les dispositions du présent titre sont également applicables aux exploitations de carrières au sens des articles 1er et 4 du
 code minier.
@@ -26364,6 +26364,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
 
 _Cite_:
 
