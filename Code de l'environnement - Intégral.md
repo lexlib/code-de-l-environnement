@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -6291,9 +6291,9 @@ Le fait de jeter, déverser ou laisser s'écouler dans les eaux superficielles, 
 limite des eaux territoriales, directement ou indirectement, une ou des substances quelconques dont l'action ou les réactions
 entraînent, même provisoirement, des effets nuisibles sur la santé ou des dommages à la flore ou à la faune, à l'exception
 des dommages visés aux articles L. 218-73 et L. 432-2, ou des modifications significatives du régime normal d'alimentation en
-eau ou des limitations d'usage des zones de baignade, est puni de deux ans d'emprisonnement et de 500 000 F d'amende. Lorsque
-l'opération de rejet est autorisée par arrêté, les dispositions de cet alinéa ne s'appliquent que si les prescriptions de cet
-arrêté ne sont pas respectées.
+eau ou des limitations d'usage des zones de baignade, est puni de deux ans d'emprisonnement et de 75 000 euros d'amende.
+Lorsque l'opération de rejet est autorisée par arrêté, les dispositions de cet alinéa ne s'appliquent que si les
+prescriptions de cet arrêté ne sont pas respectées. 
 
 Le tribunal peut également imposer au condamné de procéder à la restauration du milieu aquatique dans le cadre de la
 procédure prévue par l'article L. 216-9.
@@ -6314,6 +6314,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
@@ -6332,14 +6336,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L218-73 (M)
-  - Code de l'environnement - art. L432-2 (M)
+  - Code de l'environnement - art. L218-73 (V)
+  - Code de l'environnement - art. L432-2 (VT)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L216-7
 
 Sans préjudice de la responsabilité encourue vis-à-vis du bénéficiaire du débit affecté, le fait de ne pas respecter les
-prescriptions définies par l'acte déclaratif d'utilité publique mentionné à l'article L. 214-9 est puni de 80 000 F d'amende.
+prescriptions définies par l'acte déclaratif d'utilité publique mentionné à l'article L. 214-9 est puni de 12 000 euros
+d'amende.
 
 **Liens relatifs à cet article**
 
@@ -6353,6 +6363,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L214-9 (M)
@@ -6361,10 +6375,15 @@ _Cité par_:
 
   - Code de l'environnement - art. L216-9 (VT)
 
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L216-8
 
-I. - Est puni de deux ans d'emprisonnement et de 120 000 F d'amende le fait, sans l'autorisation requise pour un acte, une
+I. - Est puni de deux ans d'emprisonnement et de 18 000 euros d'amende le fait, sans l'autorisation requise pour un acte, une
 opération, une installation ou un ouvrage, de :
 
 1° Commettre cet acte ;
@@ -6375,7 +6394,7 @@ opération, une installation ou un ouvrage, de :
 
 4° Mettre en place ou participer à la mise en place d'une telle installation ou d'un tel ouvrage.
 
-II. - En cas de récidive, l'amende est portée à 1 000 000 F.
+II. - En cas de récidive, l'amende est portée à 150 000 euros.
 
 III. - En cas de condamnation, le tribunal peut ordonner qu'il soit mis fin aux opérations, à l'utilisation de l'ouvrage ou
 de l'installation. L'exécution provisoire de cette décision peut être ordonnée.
@@ -6398,12 +6417,21 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Décret n°2002-755 du 2 mai 2002 - art. 2 (Ab)
   - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
   - Code de l'environnement - art. D211-88 (V)
   - Code de l'environnement - art. L216-9 (VT)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L216-9
@@ -6414,7 +6442,7 @@ décisions individuelles pris pour leur application, le tribunal peut, après av
 l'ajournement du prononcé de la peine en lui enjoignant de respecter les prescriptions auxquelles il a été contrevenu.
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut assortir l'injonction d'une astreinte dont il
-fixe le taux et la durée maximum. Son montant est de 100 F à 20 000 F par jour de retard dans l'exécution des mesures
+fixe le taux et la durée maximum. Son montant est de 15 euros à 3 000 euros par jour de retard dans l'exécution des mesures
 imposées.
 
 L'ajournement ne peut intervenir qu'une fois. Il peut être ordonné même si le prévenu ne comparaît pas en personne. Dans tous
@@ -6448,6 +6476,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L216-5 (M)
@@ -6457,13 +6489,18 @@ _Cité par_:
   - Code de l'environnement - art. L216-6 (VT)
   - Code de l'environnement - art. L216-8 (VT)
 
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L216-10
 
 Le fait d'exploiter une installation ou un ouvrage ou de réaliser des travaux en violation d'une mesure de mise hors service,
 de retrait ou de suspension d'une autorisation ou de suppression d'une installation ou d'une mesure d'interdiction prononcée
-en application des dispositions mentionnées à l'article L. 216-5, est puni d'une peine de deux ans d'emprisonnement et de 1
-000 000 F d'amende.
+en application des dispositions mentionnées à l'article L. 216-5, est puni d'une peine de deux ans d'emprisonnement et de 150
+000 euros d'amende.
 
 Est puni des mêmes peines le fait de poursuivre une opération ou l'exploitation d'une installation ou d'un ouvrage sans se
 conformer à l'arrêté de mise en demeure, pris par le préfet, d'avoir à respecter, au terme d'un délai fixé, les prescriptions
@@ -6471,7 +6508,7 @@ techniques prévues par l'autorisation ou les règlements pris en application de
 216-5.
 
 Le fait de mettre obstacle à l'exercice des fonctions confiées aux agents mentionnés aux articles L. 211-2 et L. 216-3 est
-puni d'une peine de six mois d'emprisonnement et de 50 000 F d'amende.
+puni d'une peine de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -6484,6 +6521,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -6498,6 +6539,11 @@ _Cité par_:
 _Cite_:
 
   - Code de l'environnement - art. L211-2 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L216-11
@@ -6882,10 +6928,10 @@ _Abrogé par_:
 
 ###### Article L218-8
 
-Est puni de 500 000 F d'amende :
+Est puni de 75 000 euros d'amende : 
 
 1° Le fait pour le propriétaire d'un navire de le laisser commercer sans respecter les obligations prévues par l'article L.
-218-2 ;
+218-2 ; 
 
 2° Le fait de quitter un port ou une installation terminale ou d'y accéder sans respecter les obligations prévues par
 l'article L. 218-3.
@@ -6899,12 +6945,25 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2013-431 du 28 mai 2013 - art. 30
 
 _Cite_:
 
-  - Code de l'environnement - art. L218-2 (V)
-  - Code de l'environnement - art. L218-3 (V)
+  - Code de l'environnement - art. L218-2
+  - Code de l'environnement - art. L218-3
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-9
@@ -7970,23 +8029,23 @@ _Cité par_:
 
 ###### Article L218-34
 
-I. - Est puni de deux ans d'emprisonnement et de 120 000 F d'amende le fait de commettre une infraction aux dispositions de
-l'article L. 218-32.
+I.-Est puni de deux ans d'emprisonnement et de 18 000 euros d'amende le fait de commettre une infraction aux dispositions de
+l'article L. 218-32. 
 
-II. - Lorsque l'infraction est commise sur l'ordre du titulaire du titre d'exploration ou d'exploitation, ou de son
+II.-Lorsque l'infraction est commise sur l'ordre du titulaire du titre d'exploration ou d'exploitation, ou de son
 représentant, ou de la personne assumant à bord de ces installations et dispositifs la conduite des travaux d'exploration ou
-d'exploitation, y compris le stockage, ceux-ci sont passibles du double des peines prévues à l'alinéa précédent.
+d'exploitation, y compris le stockage, ceux-ci sont passibles du double des peines prévues à l'alinéa précédent. 
 
-III. - Est tenu comme complice de l'infraction tout représentant du titulaire du titre d'exploration ou d'exploitation qui,
+III.-Est tenu comme complice de l'infraction tout représentant du titulaire du titre d'exploration ou d'exploitation qui,
 ayant la responsabilité desdites opérations, n'a pas donné à la personne assumant directement sur place la conduite des
-travaux l'ordre écrit de se conformer aux dispositions des alinéas 1er à 4 de l'article L. 218-32.
+travaux l'ordre écrit de se conformer aux dispositions des alinéas 1er à 4 de l'article L. 218-32. 
 
-IV. - Cependant, l'infraction n'est pas constituée lorsque toutes les mesures nécessaires au respect de l'article L. 218-32
-ayant été prises :
+IV.-Cependant, l'infraction n'est pas constituée lorsque toutes les mesures nécessaires au respect de l'article L. 218-32
+ayant été prises : 
 
 1° Le déversement a pour but d'assurer la sécurité d'une installation ou d'un dispositif visé à l'article L. 218-33, ou de
 leur éviter une avarie grave mettant en cause la sécurité des personnes ou la protection de l'environnement, ou pour sauver
-des vies humaines en mer ;
+des vies humaines en mer ; 
 
 2° L'échappement provient d'une avarie ou d'une fuite imprévisible et impossible à éviter, si toutes les mesures nécessaires
 ont été prises après l'avarie ou la découverte de la fuite pour empêcher, arrêter ou réduire cet échappement afin d'en
@@ -8003,6 +8062,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L218-32 (V)
@@ -8011,6 +8074,8 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L218-35 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-35
@@ -8424,7 +8489,7 @@ _Cité par_:
 
 ###### Article L218-48
 
-Est puni de deux ans d'emprisonnement et de 120 000 F d'amende le fait, pour tout capitaine d'un bâtiment français ou tout
+Est puni de deux ans d'emprisonnement et de 18 000 euros d'amende le fait, pour tout capitaine d'un bâtiment français ou tout
 commandant de bord d'un aéronef français ou toute personne assumant la conduite des opérations d'immersion sur les engins
 français ou plates-formes fixes ou flottantes sous juridiction française, au sens de l'article 19 de la convention mentionnée
 à l'article L. 218-42, de se rendre coupable d'infraction aux dispositions des articles 5, 6 et 7 de ladite convention ou aux
@@ -8445,6 +8510,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 131-35 (M)
@@ -8454,6 +8523,8 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cité par_:
 
@@ -8468,17 +8539,11 @@ _Cité par_:
 
 Dans les cas prévus à l'article 8-1 de la convention internationale mentionnée à l'article L. 218-42, les immersions doivent
 être notifiées dans les plus brefs délais, par l'une des personnes visées à l'article L. 218-48, au préfet maritime ou son
-représentant sous peine d'une amende de 25 000 F.
+représentant sous peine d'une amende de 3 750 euros.
 
 Cette notification doit mentionner avec précision les circonstances dans lesquelles sont intervenues les immersions.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Convention d'Oslo 1972-02-15 art. 8-1
-  - Code de l'environnement - art. L218-42 (M)
-  - Code de l'environnement - art. L218-48 (M)
 
 _Anciens textes_:
 
@@ -8489,9 +8554,21 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de l'environnement - art. L218-42 (M)
+  - Code de l'environnement - art. L218-48 (M)
+  - Convention d'Oslo 1972-02-15 art. 8-1
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-50
@@ -8943,12 +9020,12 @@ _Codifié par_:
 
 ###### Article L218-64
 
-Est puni de deux ans d'emprisonnement et de 500 000 F d'amende le fait, pour tout capitaine d'un navire français ou, à
+Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait, pour tout capitaine d'un navire français ou, à
 défaut, toute personne assumant la conduite d'opération d'incinération effectuées sur un navire français ou une structure
-artificielle fixe sous juridiction française, de procéder à une incinération en mer.
+artificielle fixe sous juridiction française, de procéder à une incinération en mer. 
 
 Les peines prévues à l'alinéa précédent sont applicables à tout capitaine de navire embarquant ou chargeant sur le territoire
-français des déchets, substances, produits ou matériaux destinés à être incinérés en mer.
+français des déchets, substances, produits ou matériaux destinés à être incinérés en mer. 
 
 Les personnes physiques coupables des infractions prévues par la présente section encourent également, à titre de peine
 complémentaire, la peine d'affichage de la décision prononcée ou de diffusion de celle-ci dans les conditions prévues à
@@ -8965,15 +9042,24 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-35 (V)
 
 _Cité par_:
 
   - Code de l'environnement - art. L218-61 (V)
   - Code de l'environnement - art. L218-65 (V)
   - Code de l'environnement - art. L218-68 (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-65
@@ -9254,8 +9340,8 @@ _Cité par_:
 
 ###### Article L218-73
 
-Est puni d'une amende de 150 000 F le fait de jeter, déverser ou laisser écouler, directement ou indirectement en mer ou dans
-la partie des cours d'eau, canaux ou plans d'eau où les eaux sont salées, des substances ou organismes nuisibles pour la
+Est puni d'une amende de 22 500 euros le fait de jeter, déverser ou laisser écouler, directement ou indirectement en mer ou
+dans la partie des cours d'eau, canaux ou plans d'eau où les eaux sont salées, des substances ou organismes nuisibles pour la
 conservation ou la reproduction des mammifères marins, poissons, crustacés, coquillages, mollusques ou végétaux, ou de nature
 à les rendre impropres à la consommation.
 
@@ -9265,6 +9351,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -9284,6 +9374,8 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L218-78 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Anciens textes_:
 
@@ -9363,7 +9455,7 @@ _Anciens textes_:
 
 En cas de condamnation pour les infractions prévues par l'article L. 218-73, le tribunal fixe, s'il y a lieu, les mesures à
 prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées
-ainsi qu'une astreinte d'un montant maximum de 2 000 F par jour de retard dans l'exécution des mesures ou obligations
+ainsi qu'une astreinte d'un montant maximum de 300 euros par jour de retard dans l'exécution des mesures ou obligations
 imposées.
 
 L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à
@@ -9382,6 +9474,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L218-73 (M)
@@ -9389,6 +9485,11 @@ _Cite_:
 _Cité par_:
 
   - Code de l'environnement - art. R218-14-1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-77
@@ -10471,8 +10572,8 @@ _Codifié par_:
 Les exploitants de réseaux de transport public en commun de voyageurs faisant équiper leurs véhicules de transport en commun,
 mis en circulation entre le 1er janvier 1991 et le 1er juillet 1996, de systèmes permettant de réduire les émissions
 polluantes bénéficient d'un remboursement du coût de cet équipement à hauteur de la moitié de son prix d'acquisition et dans
-la limite de 8 000 F par véhicule de transport en commun. Les systèmes ouvrant droit à remboursement doivent être agréés par
-arrêté conjoint du ministre chargé du budget, du ministre chargé des transports et du ministre chargé de l'environnement.
+la limite de 1 215 euros par véhicule de transport en commun. Les systèmes ouvrant droit à remboursement doivent être agréés
+par arrêté conjoint du ministre chargé du budget, du ministre chargé des transports et du ministre chargé de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -10484,6 +10585,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 #### Chapitre VI : Contrôles et sanctions<a id=79></a>
@@ -10804,11 +10909,11 @@ _Cité par_:
 ###### Article L226-9
 
 Le fait de mettre obstacle à l'exercice des fonctions confiées par le présent titre aux agents mentionnés à l'article L.
-226-2 est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+226-2 est puni de six mois d'emprisonnement et de 7 500 euros d'amende. 
 
 Lorsqu'une entreprise industrielle, commerciale, agricole ou de services émet des substances polluantes constitutives d'une
 pollution atmosphérique, telle que définie à l'article L. 220-2, en violation d'une mise en demeure prononcée en application
-de l'article L. 226-8, l'exploitant est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+de l'article L. 226-8, l'exploitant est puni de six mois d'emprisonnement et de 7 500 euros d'amende. 
 
 L'exploitant encourt également les peines complémentaires mentionnées aux 10° et 11° de l'article 131-6 du code pénal ainsi
 que la peine d'affichage de la décision prononcée ou la diffusion de celle-ci soit par la presse écrite, soit par tout moyen
@@ -10825,17 +10930,26 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 131-35 (M)
-  - Code pénal - art. 131-6 (M)
+  - Code pénal - art. 131-35 (V)
+  - Code pénal - art. 131-6 (V)
   - Code de l'environnement - art. L220-2 (V)
-  - Code de l'environnement - art. L226-2 (V)
-  - Code de l'environnement - art. L226-8 (V)
+  - Code de l'environnement - art. L226-2 (VT)
+  - Code de l'environnement - art. L226-8 (VT)
 
 _Cité par_:
 
   - Code de l'environnement - art. L226-11 (VT)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L226-10
@@ -11503,8 +11617,8 @@ et l'île.
 Le droit mentionné au premier alinéa est établi et recouvré au profit du département. Il peut être perçu par l'exploitant de
 l'ouvrage en vue du reversement au département.
 
-Le montant de ce droit, qui ne peut excéder 20 F par véhicule, est fixé par le conseil général après accord avec la majorité
-des communes et groupements de communes mentionnés au premier alinéa.
+Le montant de ce droit, qui ne peut excéder 3,05 euros par véhicule, est fixé par le conseil général après accord avec la
+majorité des communes et groupements de communes mentionnés au premier alinéa.
 
 La délibération du conseil général peut prévoir des tarifs différents ou la gratuité selon les diverses catégories d'usagers
 pour tenir compte soit d'une nécessité d'intérêt général en rapport avec les espaces naturels protégés, soit de la situation
@@ -11526,6 +11640,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Anciens textes_:
 
   - Code de la voirie routière - art. L173-3 (M)
@@ -11546,6 +11664,8 @@ _Cité par_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de la voirie routière - art. L173-3 (VD)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Section 6 : Transport maritime de passagers vers des espaces protégés<a id=95></a>
@@ -11575,7 +11695,7 @@ liste que sur demande des communes concernées.
 La taxe est ajoutée au prix demandé aux passagers. Elle est constatée, recouvrée et contrôlée par le service des douanes sous
 les mêmes garanties, sanctions et privilèges qu'en matière de droits de douane. L'Etat perçoit sur le produit de cette taxe
 un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % dudit produit. Le tarif de la taxe est fixé par arrêté
-du ministre chargé du budget dans la limite de 10 F par passager. Cet arrêté peut prévoir des tarifs différents ou la
+du ministre chargé du budget dans la limite de 1,52 euro par passager. Cet arrêté peut prévoir des tarifs différents ou la
 gratuité selon les diverses catégories d'usagers pour tenir compte soit d'une nécessité d'intérêt général en rapport avec
 l'espace protégé, soit de la situation particulière de certains usagers, et notamment de ceux qui ont leur domicile ou leur
 lieu de travail dans l'espace protégé ou dans une île dont tout ou partie du territoire fait partie de l'espace protégé.
@@ -11592,12 +11712,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code des douanes - art. 285 quater (M)
-  - Code de l'environnement - art. L322-1 (M)
-  - Code de l'environnement - art. L331-1 (M)
-  - Code de l'environnement - art. L332-1 (V)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -13922,8 +14039,8 @@ _Anciens textes_:
 
 ###### Article L332-25
 
-Sont punies de six mois d'emprisonnement et de 60 000 F d'amende les infractions aux dispositions des articles L. 332-6, L.
-332-7, L. 332-9, L. 332-12, L. 332-17 et L. 332-18.
+Sont punies de six mois d'emprisonnement et de 9 000 euros d'amende les infractions aux dispositions des articles L. 332-6,
+L. 332-7, L. 332-9, L. 332-12, L. 332-17 et L. 332-18.
 
 **Liens relatifs à cet article**
 
@@ -13931,6 +14048,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -13954,6 +14075,11 @@ _Anciens textes_:
 
   - Code rural - art. L242-20 (Ab)
   - Code rural L242-20
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L332-26
@@ -14950,7 +15076,7 @@ _Cite_:
 
 ###### Article L341-19
 
-I. - Est puni d'une amende de 60 000 F :
+I. - Est puni d'une amende de 9 000 euros :
 
 1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit sans en aviser l'administration dans les
 conditions prévues à l'article L. 341-1, alinéa 4 ;
@@ -15028,10 +15154,16 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L341-22 (V)
   - PILOTE_SUIVEUR: Code du patrimoine. - art. L630-1 (VD)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L341-20
@@ -17003,7 +17135,7 @@ _Anciens textes_:
 
 ###### Article L415-3
 
-Est puni de six mois d'emprisonnement et de 60 000 F d'amende :
+Est puni de six mois d'emprisonnement et de 9 000 euros d'amende :
 
 1° Le fait de porter atteinte à la conservation d'espèces animales non domestiques ou végétales non cultivées en violation
 des interdictions prévues à l'article L. 411-1, à l'exception des perturbations intentionnelles, et des règlements pris en
@@ -17023,10 +17155,19 @@ titulaire du certificat de capacité prévu à l'article L. 413-2 ;
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Code rural L215-1
+  - Code rural - art. L215-1 (Ab)
+
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17054,10 +17195,10 @@ _Cite_:
   - Code de l'environnement - art. L413-2 (V)
   - Code de l'environnement - art. L413-3 (V)
 
-_Anciens textes_:
+**Liens**:
 
-  - Code rural - art. L215-1 (Ab)
-  - Code rural L215-1
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L415-4
@@ -18998,7 +19139,7 @@ _Anciens textes_:
 ###### Article L423-6
 
 Pour l'inscription à l'examen du permis de chasser, il est perçu un droit d'examen dont le montant est fixé, dans la limite
-de 100 F, par arrêté du ministre chargé de la chasse et du ministre chargé du budget.
+de 16 euros, par arrêté du ministre chargé de la chasse et du ministre chargé du budget.
 
 Le produit de ces droits est reversé à l'Office national de la chasse et de la faune sauvage pour être affecté à
 l'organisation matérielle de l'examen.
@@ -19009,6 +19150,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -19500,15 +19645,15 @@ _Codifié par_:
 Le montant des redevances cynégétiques est fixé par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du
 budget, dans la limite des plafonds suivants :
 
-Redevance cynégétique nationale : 1 270 francs
+Redevance cynégétique nationale : 194 euros
 
-Redevance cynégétique nationale temporaire : 762 francs
+Redevance cynégétique nationale temporaire : 116 euros
 
-Redevance cynégétique départementale : 250 francs
+Redevance cynégétique départementale : 38 euros
 
-Redevance cynégétique départementale temporaire : 150 francs
+Redevance cynégétique départementale temporaire : 23 euros
 
-Redevance cynégétique gibier d'eau : 96 francs
+Redevance cynégétique gibier d'eau : 15 euros
 
 La perception des redevances cynégétiques donne lieu à l'apposition de timbres, sur le permis de chasser, par le comptable du
 Trésor territorialement compétent ou, dans des conditions fixées par décret en Conseil d'Etat, par un autre comptable public.
@@ -19520,10 +19665,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 47 (V) JORF 31 décembre 2000 en vigueur le 27 juillet 2000
-  - Loi n°2000-1353 2000-12-30 art. 47 I, II finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 27 juillet 2000
+  - Loi - art. 47 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20514,13 +20658,13 @@ convenable aux exploitants agricoles dont les cultures ont subi des dégâts imp
 II. - Le taux de cette taxe est fixé par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget,
 dans la limite des plafonds suivants :
 
-1° Cerf élaphe : 600 F ;
+1° Cerf élaphe : 96 euros ;
 
-2° Daim et mouflon : 400 F ;
+2° Daim et mouflon : 64 euros ;
 
-3° Cerf sika et chevreuil : 200 F ;
+3° Cerf sika et chevreuil : 32 euros ;
 
-4° Sanglier : 100 F.
+4° Sanglier : 16 euros.
 
 III. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment les modalités de
 recouvrement de la taxe dont le produit dans chaque département est versé à la fédération départementale des chasseurs pour
@@ -20532,6 +20676,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20553,6 +20701,10 @@ _Cité par_:
   - Code forestier (nouveau) - art. R213-48 (V)
   - Code rural - art. R*225-11 (Ab)
   - Code rural - art. R226-1 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 _Cite_:
 
@@ -21197,19 +21349,17 @@ _Codifié par_:
 
 ###### Article L428-1
 
-Est puni de trois mois d'emprisonnement et d'une amende de 25 000 F le fait de chasser sur le terrain d'autrui sans son
+Est puni de trois mois d'emprisonnement et d'une amende de 3 750 euros le fait de chasser sur le terrain d'autrui sans son
 consentement, si ce terrain est attenant à une maison habitée ou servant à l'habitation, et s'il est entouré d'une clôture
 continue faisant obstacle à toute communication avec les héritages voisins.
 
 Si le délit est commis pendant la nuit, la peine d'emprisonnement encourue est de deux ans.
 
-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait de chasser dans les réserves de chasse
-approuvées par l'Etat ou établies en application des dispositions de l'article L. 422-27.
-
 **Nota:**
 
-NOTA : Ordonnance 2000-914 du 18 septembre 2000 art. 5 III : Sera abrogé à compter de l'entrée en vigueur de la partie
-réglementaire du code de l'environnement le troisième alinéa de l'article L428-1.
+L'ordonnance n° 2000-914, en son article 5, III prévoyait l'abrogation du troisième alinéa de cet article lors de l'entrée en
+vigueur de la partie réglementaire du code de l'environnement. Le décret n° 2005-935 du 2 août 2005 porte publication de
+cette partie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -21217,6 +21367,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -21234,6 +21388,11 @@ _Anciens textes_:
   - Code rural - art. L228-1 (Ab)
   - Code rural - art. L228-2 (Ab)
   - Code rural L228-1, L228-2
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Sous-section 2 : Permis de chasser<a id=217></a>
@@ -21332,7 +21491,7 @@ _Anciens textes_:
 
 ###### Article L428-4
 
-Est puni de quatre mois d'emprisonnement et d'une amende de 25 000 F le fait de :
+Est puni de quatre mois d'emprisonnement et d'une amende de 3 750 euros le fait de :
 
 1° Chasser dans les réserves de chasse approuvées par l'Etat ou établies en application des dispositions de l'article L.
 422-27 ;
@@ -21360,6 +21519,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L422-27 (M)
@@ -21377,10 +21540,15 @@ _Anciens textes_:
   - Code rural - art. L228-9 (Ab)
   - Code rural L228-9
 
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L428-5
 
-I. - Est puni de quatre mois d'emprisonnement et d'une amende de 25 000 F le fait de :
+I. - Est puni de quatre mois d'emprisonnement et d'une amende de 3 750 euros le fait de :
 
 1° Chasser sur le terrain d'autrui sans son consentement, si ce terrain est attenant à une maison habitée ou servant à
 l'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins ;
@@ -21427,6 +21595,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de l'environnement - art. L420-4 (VD)
@@ -21444,6 +21616,11 @@ _Anciens textes_:
 
   - Code rural - art. L228-10 (Ab)
   - Code rural L228-10
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L428-6
@@ -23306,7 +23483,7 @@ _Codifié par_:
 
 ###### Article L429-34
 
-Celui qui chasse sur un terrain où il n'a pas le droit de chasser est puni de trois mois d'emprisonnement et de 25 000 F
+Celui qui chasse sur un terrain où il n'a pas le droit de chasser est puni de trois mois d'emprisonnement et de 3 750 euros
 d'amende.
 
 Si le coupable est un proche de la personne à qui appartient le droit de chasse, la poursuite n'a lieu que sur plainte. La
@@ -23314,21 +23491,30 @@ plainte peut être retirée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code rural L229-31
-  - Code rural - art. L229-31 (Ab)
-
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Code de l'environnement - art. L429-35 (V)
   - Code de l'environnement - art. L429-36 (V)
   - Code de l'environnement - art. L429-39 (V)
+
+_Anciens textes_:
+
+  - Code rural - art. L229-31 (Ab)
+  - Code rural L229-31
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L429-35
@@ -23750,7 +23936,7 @@ Les enclos piscicoles créés sans autorisation avant le 1er janvier 1986 font l
 d'une procédure de régularisation par l'administration, dans des conditions fixées par décret. Les propriétaires doivent
 avoir déposé leur demande avant le 1er janvier 1999.
 
-Ceux qui ont créé des piscicultures sans concession ou sans autorisation sont punis de 25 000 F d'amende et condamnés à
+Ceux qui ont créé des piscicultures sans concession ou sans autorisation sont punis de 3 750 euros d'amende et condamnés à
 remettre les lieux en état, sous astreinte définie à l'article L. 437-20, sans préjudice de l'application des dispositions du
 présent titre.
 
@@ -23767,7 +23953,6 @@ _Cité par_:
   - Code civil - art. 564 (V)
   - Code de l'environnement - art. D436-1 (M)
   - Code de l'environnement - art. L431-3 (V)
-  - Code de l'environnement - art. L431-7 (M)
   - Code de l'environnement - art. L432-3 (Ab)
   - Code de l'environnement - art. L436-15 (M)
   - Code de l'environnement - art. L437-20 (VT)
@@ -23795,21 +23980,27 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-  - SPEC_APPLI: Code de l'environnement - art. L432-10 (M)
-  - SPEC_APPLI: Code de l'environnement - art. L432-12 (V)
-  - SPEC_APPLI: Code de l'environnement - art. L432-2 (V)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
+  - Code de l'environnement - art. L431-7 (M)
   - Code de l'environnement - art. L432-10 (M)
   - Code de l'environnement - art. L432-11 (Ab)
   - Code de l'environnement - art. L432-12 (M)
   - Code de l'environnement - art. L432-2 (M)
   - Code de l'environnement - art. L436-1 (AbD)
   - Code de l'environnement - art. L436-2 (AbD)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'environnement - art. L432-10 (M)
+  - SPEC_APPLI: Code de l'environnement - art. L432-12 (V)
+  - SPEC_APPLI: Code de l'environnement - art. L432-2 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Anciens textes_:
 
@@ -24004,7 +24195,7 @@ _Anciens textes_:
 
 Le fait de jeter, déverser ou laisser écouler dans les eaux mentionnées à l'article L. 431-3, directement ou indirectement,
 des substances quelconques dont l'action ou les réactions ont détruit le poisson ou nui à sa nutrition, à sa reproduction ou
-à sa valeur alimentaire, est puni de deux ans d'emprisonnement et de 120 000 F d'amende.
+à sa valeur alimentaire, est puni de deux ans d'emprisonnement et de 18 000 euros d'amende. 
 
 Le tribunal peut, en outre, ordonner la publication d'un extrait du jugement aux frais de l'auteur de l'infraction dans deux
 journaux ou plus.
@@ -24020,42 +24211,50 @@ _Cité par_:
   - Code de l'environnement - art. L432-4 (VT)
   - Code de l'environnement - art. L437-14 (VT)
 
+_Anciens textes_:
+
+  - Code rural L232-2
+  - Code rural - art. L232-2 (Ab)
+
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
   - SPEC_APPLI: Code de l'environnement - art. L431-6 (M)
   - SPEC_APPLI: Code de l'environnement - art. L431-7 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
-  - Code de l'environnement - art. L431-3 (M)
-
-_Anciens textes_:
-
-  - Code rural - art. L232-2 (Ab)
-  - Code rural L232-2
+  - Code de l'environnement - art. L431-3 (V)
 
 
 ###### Article L432-3
 
 Lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation ou de réserves de
 nourriture de la faune piscicole, l'installation ou l'aménagement d'ouvrages, ainsi que l'exécution de travaux dans le lit
-d'un cours d'eau sont soumis à autorisation. Le défaut d'autorisation est puni de 120 000 F d'amende.
+d'un cours d'eau sont soumis à autorisation. Le défaut d'autorisation est puni de 18 000 euros d'amende.
 
 L'autorisation délivrée en application du présent article fixe des mesures compensatoires visant à remettre en état le milieu
 naturel aquatique.
 
+**Nota:**
+
+NOTA : Ordonnance 2005-805 du 18 juillet 2005 art. 22 II :
+
+"L'article L. 432-3 est abrogé à la date de publication du décret prévu au I du présent article". Il s'agit du décret n°
+2006-881 publié au Journal officiel du 18 juillet 2006.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural L232-3
-  - Code rural - art. L232-3 (Ab)
 
 _Cité par_:
 
@@ -24079,9 +24278,30 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Anciens textes_:
+
+  - Code rural L232-3
+  - Code rural - art. L232-3 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V) JORF 19 juillet 2005
+
+_Cite_:
+
+  - Code de l'environnement - art. L431-6 (M)
+  - Code de l'environnement - art. L432-9 (M)
+  - Code de l'environnement - art. L437-20 (M)
+  - Code de l'environnement L432-3, L432-9, L437-20, 22, L431-6
+
 **Liens**:
 
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L432-4
@@ -24260,7 +24480,7 @@ _Anciens textes_:
 
 ###### Article L432-8
 
-Le fait de ne pas respecter les dispositions des articles L. 432-5 et L. 432-6 est puni de 80 000 F d'amende.
+Le fait de ne pas respecter les dispositions des articles L. 432-5 et L. 432-6 est puni de 12 000 euros d'amende.
 
 Lorsqu'une personne est condamnée en application du présent article, le tribunal peut décider que le défaut d'exécution, dans
 le délai qu'il fixe, des mesures qu'il prescrit aux fins prévues aux articles susmentionnés entraîne le paiement d'une
@@ -24273,14 +24493,18 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
+
 _Cité par_:
 
   - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
   - Code de l'environnement - art. L437-20 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 _Cite_:
 
@@ -24292,20 +24516,45 @@ _Anciens textes_:
   - Code rural - art. L232-8 (Ab)
   - Code rural L232-8
 
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L432-9
 
 Les vidanges de plans d'eau mentionnés ou non à l'article L. 431-3 sont soumises à autorisation en application du présent
 article. Ces autorisations déterminent le programme de l'opération et la destination du poisson.
 
-Le fait d'effectuer une vidange sans l'autorisation prévue à l'alinéa précédent est puni de 80 000 F d'amende.
+Le fait d'effectuer une vidange sans l'autorisation prévue à l'alinéa précédent est puni de 12 000 euros d'amende.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-805 du 18 juillet 2005 art. 22 II :
+
+"L'article L. 432-9 est abrogé à la date de publication du décret prévu au I du présent article." Il s'agit du décret n°
+2006-881 publié au Journal officiel du 18 juillet 2006.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code rural L232-9
+  - Code rural - art. L232-9 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V) JORF 19 juillet 2005
 
 _Cité par_:
 
@@ -24318,31 +24567,27 @@ _Cité par_:
   - Code de l'environnement - art. R436-12 (M)
   - Code de l'environnement - art. R436-25 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 _Cite_:
 
   - Code de l'environnement - art. L431-3 (M)
 
-_Anciens textes_:
+**Liens**:
 
-  - Code rural - art. L232-9 (Ab)
-  - Code rural L232-9
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Section 4 : Contrôle des peuplements<a id=259></a>
 
 ###### Article L432-10
 
-Est puni d'une amende de 60 000 F le fait :
+Est puni d'une amende de 9 000 euros le fait : 
 
 1° D'introduire dans les eaux mentionnées par le présent titre des poissons appartenant à des espèces susceptibles de
-provoquer des déséquilibres biologiques, et dont la liste est fixée par décret ;
+provoquer des déséquilibres biologiques, et dont la liste est fixée par décret ; 
 
 2° D'introduire sans autorisation dans les eaux mentionnées par le présent titre des poissons qui n'y sont pas représentés ;
-la liste des espèces représentées est fixée par le ministre chargé de la pêche en eau douce ;
+la liste des espèces représentées est fixée par le ministre chargé de la pêche en eau douce ; 
 
 3° D'introduire dans les eaux classées en première catégorie, en vertu du 10° de l'article L. 436-5, des poissons des espèces
 suivantes : brochet, perche, sandre et black-bass ; toutefois, cette disposition n'est pas applicable aux lacs Léman,
@@ -24373,11 +24618,17 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
   - SPEC_APPLI: Code de l'environnement - art. L431-6 (M)
   - SPEC_APPLI: Code de l'environnement - art. L431-7 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
@@ -24426,8 +24677,8 @@ _Anciens textes_:
 
 ###### Article L432-12
 
-Est puni d'une amende de 60 000 F le fait d'introduire dans les eaux mentionnées par le présent titre, pour rempoissonner ou
-aleviner, des poissons qui ne proviennent pas d'établissements de pisciculture ou d'aquaculture agréés dans les conditions
+Est puni d'une amende de 9 000 euros le fait d'introduire dans les eaux mentionnées par le présent titre, pour rempoissonner
+ou aleviner, des poissons qui ne proviennent pas d'établissements de pisciculture ou d'aquaculture agréés dans les conditions
 fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -24449,11 +24700,17 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
   - SPEC_APPLI: Code de l'environnement - art. L431-6 (M)
   - SPEC_APPLI: Code de l'environnement - art. L431-7 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Anciens textes_:
 
@@ -25387,7 +25644,7 @@ _Anciens textes_:
 ###### Article L436-6
 
 Le fait de placer un barrage, appareil ou établissement quelconque de pêcherie ayant pour objet d'empêcher entièrement le
-passage du poisson ou de le retenir captif est puni de 25 000 F d'amende.
+passage du poisson ou de le retenir captif est puni de 3 750 euros d'amende. 
 
 Le tribunal peut ordonner la remise en état des lieux, sous astreinte dans les conditions définies à l'article L. 437-20,
 sans préjudice de l'application des dispositions du présent titre.
@@ -25399,9 +25656,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cité par_:
 
@@ -25416,7 +25679,7 @@ _Anciens textes_:
 ###### Article L436-7
 
 Le fait de jeter dans les eaux définies à l'article L. 431-3 des drogues ou appâts en vue d'enivrer le poisson ou de le
-détruire est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+détruire est puni de deux ans d'emprisonnement et de 4 500 euros d'amende. 
 
 Ceux qui, en vue de capturer ou de détruire le poisson, se servent d'explosifs, de procédés d'électrocution ou de produits ou
 de moyens non autorisés sont punis des mêmes peines.
@@ -25428,13 +25691,19 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
-  - Code de l'environnement - art. L431-3 (M)
+  - Code de l'environnement - art. L431-3 (V)
 
 _Cité par_:
 
@@ -25667,7 +25936,7 @@ _Cité par_:
 ###### Article L436-14
 
 Sous réserve des dispositions de l'article L. 436-15, le fait, pour toute personne, de vendre le produit de sa pêche sans
-avoir la qualité de pêcheur professionnel en eau douce est puni de 25 000 F d'amende.
+avoir la qualité de pêcheur professionnel en eau douce est puni de 3 750 euros d'amende.
 
 Le fait d'acheter ou commercialiser sciemment le produit de la pêche d'une personne n'ayant pas la qualité de pêcheur
 professionnel en eau douce est puni des mêmes peines.
@@ -25679,9 +25948,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
@@ -26451,7 +26726,7 @@ _Codifié par_:
 ###### Article L437-20
 
 L'astreinte prononcée par le tribunal en application des articles L. 431-6, L. 432-4, L. 432-8 et L. 436-6 est d'un montant
-de 100 F à 2 000 F par jour de retard dans l'exécution des mesures et obligations imposées.
+de 15 euros à 300 euros par jour de retard dans l'exécution des mesures et obligations imposées.
 
 L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à
 la demande de l'intéressé et recouvrée par le comptable du Trésor comme une amende pénale.
@@ -26460,10 +26735,19 @@ Elle ne donne pas lieu à la contrainte par corps.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Code rural L238-7
+  - Code rural - art. L238-7 (Ab)
+
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26479,11 +26763,8 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
-_Anciens textes_:
-
-  - Code rural - art. L238-7 (Ab)
-  - Code rural L238-7
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Sous-section 3 : Confiscation<a id=289></a>
@@ -26533,8 +26814,8 @@ un pêcheur professionnel dans l'exercice de son activité, le tribunal peut pro
 de pêcheurs professionnels pour une durée qui ne peut excéder deux ans ; en cas de récidive, cette exclusion ne peut excéder
 cinq ans.
 
-Celui qui, durant le temps où il a été exclu, se livre à l'exercice de la pêche, est puni de 25 000 F d'amende. Les lignes,
-filets et engins sont confisqués.
+Celui qui, durant le temps où il a été exclu, se livre à l'exercice de la pêche, est puni de 3 750 euros d'amende. Les
+lignes, filets et engins sont confisqués.
 
 **Liens relatifs à cet article**
 
@@ -26548,9 +26829,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Sous-section 5 : Responsabilité des personnes morales<a id=291></a>
@@ -28512,7 +28799,7 @@ _Cité par_:
 
 ###### Article L514-9
 
-I. - Le fait d'exploiter une installation sans l'autorisation requise est puni d'un an d'emprisonnement et de 500 000 F
+I. - Le fait d'exploiter une installation sans l'autorisation requise est puni d'un an d'emprisonnement et de 75 000 euros
 d'amende.
 
 II. - En cas de condamnation, le tribunal peut interdire l'utilisation de l'installation. L'interdiction cesse de produire
@@ -28541,6 +28828,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de l'environnement - art. D211-88 (V)
@@ -28550,6 +28841,8 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
@@ -28616,11 +28909,11 @@ _Cité par_:
 
 I. - Le fait d'exploiter une installation en infraction à une mesure de fermeture, de suppression ou de suspension prise en
 application des articles L. 514-1, L. 514-2 ou L. 514-7 ou à une mesure d'interdiction prononcée en vertu des articles L.
-514-9 ou L. 514-10 est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende.
+514-9 ou L. 514-10 est puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
 
 II. - Le fait de poursuivre l'exploitation d'une installation classée sans se conformer à l'arrêté de mise en demeure d'avoir
 à respecter, au terme d'un délai fixé, les prescriptions techniques déterminées en application des articles L. 512-1, L.
-512-3, L. 512-5, L. 512-7, L. 512-8, L. 512-9 ou L. 512-12 est puni de six mois d'emprisonnement et de 500 000 F d'amende.
+512-3, L. 512-5, L. 512-7, L. 512-8, L. 512-9 ou L. 512-12 est puni de six mois d'emprisonnement et de 75 000 euros d'amende.
 
 Est puni des mêmes peines le fait de poursuivre l'exploitation d'une installation sans se conformer à un arrêté de mise en
 demeure pris en application de l'article L. 514-4 par le préfet sur avis du maire et de la commission départementale
@@ -28629,7 +28922,7 @@ consultative compétente.
 III. - Le fait de ne pas se conformer à l'arrêté de mise en demeure de prendre, dans un délai déterminé, les mesures de
 surveillance ou de remise en état d'une installation ou de son site prescrites en application des articles L. 512-3, L.
 512-5, L. 512-7, L. 512-9, L. 512-12, L. 514-2, L. 514-4 ou L. 514-7 lorsque l'activité a cessé est puni de six mois
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28643,9 +28936,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
@@ -28672,7 +28971,7 @@ _Cité par_:
 ###### Article L514-12
 
 Le fait de mettre obstacle à l'exercice des fonctions des personnes chargées de l'inspection ou de l'expertise des
-installations classées est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+installations classées est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28683,12 +28982,22 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Ordonnance n°2000-914 du 18 septembre 2000
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 13
 
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L514-13
@@ -29608,8 +29917,8 @@ est réputé accordé.
 II. - Ainsi qu'il est dit à l'article 90 II de la loi de finances rectificative pour 1992 (n° 92-1476 du 31 décembre 1992),
 toute demande de l'agrément mentionné au I au titre de l'utilisation confinée d'organismes génétiquement modifiés est
 assortie d'une taxe représentative des frais d'instruction et perçue au profit du budget général de l'Etat. Elle est exigible
-lors du dépôt du dossier. Son montant est fixé à 10 000 F par dossier. Il est réduit à 2 000 F lorsque la demande d'agrément
-concerne une utilisation confinée autre que la première.
+lors du dépôt du dossier. Son montant est fixé à 1 524,49 euros par dossier. Il est réduit à 304,90 euros lorsque la demande
+d'agrément concerne une utilisation confinée autre que la première.
 
 Le recouvrement et le contentieux de la taxe instituée au précédent alinéa sont suivis par les comptables du Trésor public
 selon les modalités fixées aux articles 81 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
@@ -29643,9 +29952,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Section 5 : Installations d'élimination de déchets<a id=310></a>
@@ -32373,7 +32688,7 @@ Toute demande d'agrément ou d'utilisation à des fins de recherche, d'enseignem
 génétiquement modifiés est assortie d'une taxe représentative des frais d'instruction et perçue au profit du budget général
 de l'Etat. Cette taxe est exigible lors du dépôt du dossier.
 
-Elle est fixée à 10 000 F par dossier. Son montant est réduit à 2 000 F lorsque la demande d'agrément concerne une
+Elle est fixée à 1 525 euros par dossier. Son montant est réduit à 305 euros lorsque la demande d'agrément concerne une
 utilisation confinée autre que la première.
 
 Le recouvrement et le contentieux de la taxe instituée au présent article sont suivis par les comptables du Trésor selon les
@@ -32381,10 +32696,6 @@ modalités fixées aux articles 81 à 95 du décret n° 62-1587 du 29 décembre 
 publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 1962-12-29 art. 81 à 95
 
 _Anciens textes_:
 
@@ -32395,6 +32706,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 **Liens**:
 
@@ -32860,7 +33175,7 @@ _Cité par_:
 I. - Toute demande d'autorisation de dissémination ou de mise sur le marché est assortie d'une taxe représentative des frais
 d'instruction et perçue au profit du budget général de l'Etat. Elle est exigible lors du dépôt du dossier.
 
-II. - Cette taxe est fixée à 10 000 F par dossier. Son montant est réduit à 4 000 F :
+II. - Cette taxe est fixée à 1 525 euros par dossier. Son montant est réduit à 610 euros ;
 
 1° Lorsque l'autorisation est demandée pour une dissémination ayant déjà fait l'objet d'une autorisation moins d'un an
 auparavant ;
@@ -32873,10 +33188,6 @@ selon les modalités fixées aux articles 81 à 95 du décret n° 62-1587 du 29 
 comptabilité publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 1962-12-29 art. 81 à 95
 
 _Anciens textes_:
 
@@ -32909,6 +33220,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 **Liens**:
 
@@ -33156,7 +33471,8 @@ _Cité par_:
 
 Le fait d'exploiter une installation utilisant des organismes génétiquement modifiés à des fins de recherche, de
 développement ou d'enseignement sans l'agrément requis en application de l'article L. 532-3, ou en violation des
-prescriptions techniques auxquelles cet agrément est subordonné, est puni d'un an d'emprisonnement et de 500 000 F d'amende.
+prescriptions techniques auxquelles cet agrément est subordonné, est puni d'un an d'emprisonnement et de 75 000 euros
+d'amende.
 
 En cas de condamnation, le tribunal peut interdire le fonctionnement de l'installation. L'interdiction cesse de produire
 effet si un agrément est délivré ultérieurement dans les conditions prévues par le présent titre. L'exécution provisoire de
@@ -33165,7 +33481,7 @@ l'interdiction peut être ordonnée.
 Le fait d'exploiter une installation utilisant des organismes génétiquement modifiés à des fins de recherche ou
 d'enseignement en violation des prescriptions imposées en application du 1° de l'article L. 532-5, ou en violation d'une
 mesure de suspension ou de retrait d'agrément prise en application des 2° et 3° de l'article L. 532-5, est puni de deux ans
-d'emprisonnement et de 1 000 000 F d'amende.
+d'emprisonnement et de 150 000 euros d'amende.
 
 En cas de condamnation, le tribunal peut interdire le fonctionnement de l'installation.
 
@@ -33181,14 +33497,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
-
-_Cite_:
-
-  - Code de l'environnement - art. L532-3 (V)
-  - Code de l'environnement - art. L532-5 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cité par_:
 
@@ -33198,7 +33515,7 @@ _Cité par_:
 
 ###### Article L536-4
 
-Est puni d'un an d'emprisonnement et de 500 000 F d'amende le fait sans l'autorisation requise :
+Est puni d'un an d'emprisonnement et de 75 000 euros d'amende le fait sans l'autorisation requise :
 
 1° De pratiquer une dissémination volontaire d'organismes génétiquement modifiés ou d'une combinaison d'organismes
 génétiquement modifiés ;
@@ -33217,18 +33534,24 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L536-5
 
 Le fait de ne pas respecter une mesure de suspension, de retrait, d'interdiction ou de consignation prise en application des
-articles L. 535-2, L. 535-5 ou L. 535-6 est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende.
+articles L. 535-2, L. 535-5 ou L. 535-6 est puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
 
 Le fait de poursuivre une dissémination volontaire ou une mise sur le marché sans se conformer à une décision de mise en
-demeure prise en application du I de l'article L. 535-5 est puni de six mois d'emprisonnement et de 500 000 F d'amende.
+demeure prise en application du I de l'article L. 535-5 est puni de six mois d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33242,21 +33565,21 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
-
-_Cite_:
-
-  - Code de l'environnement - art. L535-2 (V)
-  - Code de l'environnement - art. L535-5 (V)
-  - Code de l'environnement - art. L535-6 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L536-6
 
 Le fait de mettre obstacle à l'exercice des fonctions des agents mentionnés aux articles L. 536-1 et L. 536-2 est puni d'un
-an d'emprisonnement et de 100 000 F d'amende.
+an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33271,14 +33594,23 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 15
+
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 _Cite_:
 
-  - Code de l'environnement - art. L536-1 (M)
-  - Code de l'environnement - art. L536-2 (V)
+  - Code de l'environnement - art. L536-1 (VT)
 
 _Cité par_:
 
@@ -34559,8 +34891,8 @@ Lorsqu'elle constate que les garanties financières exigées en application de l
 l'autorité administrative compétente met en demeure l'exploitant de les reconstituer. Tout manquement constaté un mois après
 la mise en demeure peut donner lieu au prononcé d'une amende administrative par le ministre chargé de l'environnement. Le
 montant de l'amende est égal à trois fois la valeur de la différence entre le montant des garanties exigées et celui des
-garanties réellement constituées, dans la limite de 200 millions de francs. Le ministre ne peut infliger une amende plus d'un
-an après la mise en demeure.
+garanties réellement constituées, dans la limite de 30 000 000 euros. Le ministre ne peut infliger une amende plus d'un an
+après la mise en demeure.
 
 Le recouvrement est effectué au profit du Trésor public comme en matière de créances étrangères à l'impôt et au domaine. Le
 produit de l'amende est affecté à l'Agence de l'environnement et de la maîtrise de l'énergie pour des opérations de
@@ -34588,15 +34920,24 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de l'environnement - art. L515-14 (M)
   - Code de l'environnement - art. L515-7 (V)
-  - Code de l'environnement - art. L516-1 (VT)
+
+_Cite_:
+
+  - Code de l'environnement - art. L516-1 (V)
 
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L541-27
@@ -35283,7 +35624,7 @@ _Codifié par_:
 
 ###### Article L541-46
 
-I. - Est puni de deux ans d'emprisonnement et de 500 000 F d'amende le fait de :
+I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de :
 
 1° Refuser de fournir à l'administration les informations visées à l'article L. 541-9 ou fournir des informations inexactes ;
 
@@ -35360,6 +35701,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 131-35 (M)
@@ -35381,6 +35726,8 @@ _Cite_:
 
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
   - SPEC_APPLI: Code de l'environnement - art. L541-48 (V)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L541-47
@@ -37497,7 +37844,7 @@ _Cite_:
 
 ###### Article L571-22
 
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait de mettre obstacle à l'accomplissement des contrôles
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait de mettre obstacle à l'accomplissement des contrôles
 par les agents mentionnés à l'article L. 571-18.
 
 **Liens relatifs à cet article**
@@ -37512,14 +37859,23 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L571-18 (M)
 
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L571-23
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait de :
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de :
 
 1° Fabriquer, importer ou mettre sur le marché des objets ou des dispositifs non pourvus de l'homologation ou de la
 certification exigées en application de l'article L. 571-2 ;
@@ -37539,11 +37895,20 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L571-17 (M)
   - Code de l'environnement - art. L571-2 (M)
   - Code de l'environnement - art. L571-6 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L571-24
@@ -38591,7 +38956,7 @@ _Cité par_:
 
 ###### Article L581-26
 
-Sans préjudice des dispositions des articles L. 581-30 et L. 581-34, est punie d'une amende d'un montant de 5 000 F la
+Sans préjudice des dispositions des articles L. 581-30 et L. 581-34, est punie d'une amende d'un montant de 750 euros la
 personne qui a apposé ou fait apposer un dispositif ou matériel visé à l'article L. 581-6, sans déclaration préalable ou non
 conforme à cette déclaration. Le manquement est constaté par un procès-verbal établi par un fonctionnaire ou agent mentionné
 à l'article L. 581-40. Une copie du procès-verbal est adressée à la personne visée. Le manquement ainsi relevé donne lieu à
@@ -38617,7 +38982,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-914 2000-09-18 art. 12 3° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -38632,6 +38997,8 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L581-27
@@ -38742,7 +39109,7 @@ _Cite_:
 ###### Article L581-30
 
 A l'expiration du délai de quinze jours, dont le point de départ se situe au jour de la notification de l'arrêté, la personne
-à qui il a été notifié est redevable d'une astreinte de cinq cents francs par jour et par publicité, enseigne ou préenseigne
+à qui il a été notifié est redevable d'une astreinte de 84,61 (1) euros par jour et par publicité, enseigne ou préenseigne
 maintenue. Ce montant est réévalué chaque année, en fonction de l'évolution du coût de la vie, dans des conditions fixées par
 décret en Conseil d'Etat.
 
@@ -38760,6 +39127,15 @@ Le maire ou le préfet, après avis du maire, peut consentir une remise ou un re
 lorsque les travaux prescrits par l'arrêté ont été exécutés et que le redevable établit qu'il n'a pu observer le délai imposé
 pour l'exécution totale de ses obligations qu'en raison de circonstances indépendantes de sa volonté.
 
+**Nota:**
+
+NOTA : (1) Pour l'année 2003, la nouvelle valeur ainsi calculée à partir de l'indice des prix à la consommation des ménages
+calculée par l'INSEE pour le mois de janvier de l'année considérée, publiée au JORF du 28 février 2003, s'applique à tous les
+arrêtés pris postérieurement à cette date.
+
+Pour l'année 2004, le montant de l'astreinte est porté à 85,80 euros par application de l'indice INSEE publié au JORF du 28
+février 2004.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -38774,7 +39150,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-914 2000-09-18 art. 12 4° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -38792,6 +39168,8 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L581-31
@@ -38892,7 +39270,7 @@ _Cite_:
 
 ###### Article L581-34
 
-I. - Est puni d'une amende de 25 000 F le fait d'apposer, de faire apposer ou de maintenir après mise en demeure une
+I. - Est puni d'une amende de 3 750 euros le fait d'apposer, de faire apposer ou de maintenir après mise en demeure une
 publicité, une enseigne ou une préenseigne :
 
 1° Dans des lieux, sur des emplacements ou selon des procédés interdits en application des articles L. 581-4, L. 581-7, L.
@@ -38923,6 +39301,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de l'environnement - art. L581-15 (M)
@@ -38945,6 +39327,8 @@ _Cité par_:
 
   - SPEC_APPLI: Code de l'environnement - art. L581-40 (M)
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L581-35
@@ -38986,8 +39370,8 @@ _Cite_:
 ###### Article L581-36
 
 En cas de condamnation, le tribunal ordonne soit la suppression, dans un délai qui ne peut excéder un mois et sous astreinte
-de 50 à 500 F par jour de retard, des publicités, enseignes ou préenseignes qui constituent l'infraction, soit leur mise en
-conformité, dans le même délai et sous les mêmes conditions, avec les prescriptions auxquelles ils contreviennent ; il
+de 7,5 à 75 euros par jour de retard, des publicités, enseignes ou préenseignes qui constituent l'infraction, soit leur mise
+en conformité, dans le même délai et sous les mêmes conditions, avec les prescriptions auxquelles ils contreviennent ; il
 ordonne, le cas échéant, la remise en état des lieux. Il peut déclarer sa décision exécutoire par provision.
 
 **Liens relatifs à cet article**
@@ -39001,15 +39385,21 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L581-39 (M)
-  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Code de l'environnement - art. L581-39 (M)
   - Code de l'environnement - art. R581-84 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'environnement - art. L581-39 (M)
+  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L581-37
