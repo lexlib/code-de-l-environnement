@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-12-28
+Version Consolidée au 2004-12-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -5885,6 +5885,9 @@ L'agence attribue des subventions et des avances remboursables aux personnes pub
 d'intérêt commun au bassin ou au groupement de bassins directement effectués par elles, dans la mesure où ces travaux sont de
 nature à réduire les charges financières de l'agence.
 
+L'agence attribue des subventions en capital aux collectivités territoriales et à leurs groupements pour l'exécution de
+travaux d'alimentation en eau potable et d'assainissement dans les communes rurales.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -5903,6 +5906,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 121 (V) JORF 31 décembre 2004
 
 
 ###### Article L213-7
@@ -38470,9 +38477,10 @@ Sous sa forme financière, la contribution est remise à un organisme agréé pa
 collectivités territoriales, de l'économie et de l'industrie, qui la verse aux collectivités territoriales au titre de
 participation aux coûts de collecte, de valorisation et d'élimination qu'elles supportent.
 
-La contribution en nature consiste en la mise à disposition d'espaces de communication au profit des établissements publics
-de coopération intercommunale assurant l'élimination des déchets ménagers. Ces espaces de communication sont utilisés pour
-promouvoir la collecte, la valorisation et l'élimination des déchets.
+La contribution en nature repose sur le principe du volontariat des établissements publics de coopération intercommunale
+assurant l'élimination des déchets. Elle consiste en la mise à disposition d'espaces de communication au profit des
+établissements de coopération intercommunale assurant l'élimination des déchets ménagers qui le souhaitent. Ces espaces de
+communication sont utilisés pour promouvoir la collecte, la valorisation et l'élimination des déchets.
 
 Les contributions financières et en nature sont déterminées suivant un barème fixé par décret.
 
@@ -38488,9 +38496,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 20 () JORF 31 décembre 2003
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 61 () JORF 31 décembre 2004
 
 _Cité par_:
 
