@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-09-13
+Version Consolidée au 2003-10-03
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -365,7 +365,7 @@ Version Consolidée au 2003-09-13
       - [Titre V : Dispositions particulières à certains ouvrages ou installations (art. L551-1 à L553-4)](#362)
         - [Chapitre Ier : Etude de dangers (art. L551-1 à L551-2)](#363)
         - [Chapitre II : Garanties financières (art. L552-1)](#364)
-        - [Chapitre III : Eoliennes (art. L553-2 à L553-4)](#365)
+        - [Chapitre III : Eoliennes (art. L553-1 à L553-4)](#365)
       - [Titre VI : Prévention des risques naturels (art. L561-1 à L565-2)](#366)
         - [Chapitre Ier : Mesures de sauvegarde des populations menacées par certains risques naturels majeurs (art. L561-1 à L561-5)](#367)
         - [Chapitre II : Plans de prévention des risques naturels prévisibles (art. L562-1 à L562-9)](#368)
@@ -39508,6 +39508,53 @@ _Cité par_:
 
 
 #### Chapitre III : Eoliennes<a id=365></a>
+
+###### Article L553-1
+
+Ainsi qu'il est dit au premier alinéa de l'article L. 421-1-1 du code de l'urbanisme ci-après reproduit :
+
+Art. L. 421-1-1 (premier alinéa) : L'implantation d'une installation produisant de l'électricité à partir de l'énergie
+mécanique du vent d'une hauteur supérieure ou égale à 12 mètres est subordonnée à l'obtention d'un permis de construire.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 octobre 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 34 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L421-1-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L515-44 (V)
+
+_Cité par_:
+
+  - Code de l'environnement - art. R553-10 (V)
+  - Code de l'environnement - art. R553-3 (V)
+
 
 ###### Article L553-2
 
