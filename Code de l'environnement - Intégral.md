@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-07-03
+Version Consolidée au 2003-07-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -33,401 +33,403 @@ Version Consolidée au 2003-07-03
         - [Chapitre II : Planification (art. L212-1 à L212-7)](#30)
           - [Section 1 : Schémas directeurs d'aménagement et de gestion des eaux (art. L212-1 à L212-2)](#31)
           - [Section 2 : Schémas d'aménagement et de gestion des eaux (art. L212-3 à L212-7)](#32)
-        - [Chapitre III : Structures administratives et financières (art. L213-1 à L213-12)](#33)
+        - [Chapitre III : Structures administratives et financières (art. L213-1 à L213-20)](#33)
           - [Section 1 : Comité national de l'eau (art. L213-1)](#34)
           - [Section 2 : Comités de bassin (art. L213-2 à L213-4)](#35)
           - [Section 3 : Agences de l'eau (art. L213-5 à L213-7)](#36)
           - [Section 4 : Fonds national de l'eau (art. L213-8)](#37)
-          - [Section 5 : Communautés locales de l'eau (art. L213-9)](#38)
-          - [Section 6 : Etablissements publics à vocation de maîtrise d'ouvrage (art. L213-10 à L213-12)](#39)
-        - [Chapitre IV : Activités, installations et usage (art. L214-1 à L214-16)](#40)
-          - [Section 1 : Régimes d'autorisation ou de déclaration (art. L214-1 à L214-11)](#41)
-          - [Section 2 : Circulation des engins et embarcations (art. L214-12 à L214-13)](#42)
-          - [Section 3 : Assainissement (art. L214-14)](#43)
-          - [Section 4 : Prix de l'eau (art. L214-15 à L214-16)](#44)
-        - [Chapitre V : Dispositions propres aux cours d'eau non domaniaux (art. L215-1 à L215-24)](#45)
-          - [Section 1 : Droits des riverains (art. L215-1 à L215-6)](#46)
-          - [Section 2 : Police et conservation des eaux (art. L215-7 à L215-13)](#47)
-          - [Section 3 : Curage, entretien, élargissement et redressement (art. L215-14 à L215-24)](#48)
-            - [Sous-section 1 : Curage et entretien (art. L215-14 à L215-19)](#49)
-            - [Sous-section 2 : Elargissement, régularisation et redressement (art. L215-20)](#50)
-            - [Sous-section 3 : Dispositions communes (art. L215-21 à L215-24)](#51)
-        - [Chapitre VI : Sanctions (art. L216-1 à L216-13)](#52)
-          - [Section 1 : Sanctions administratives (art. L216-1 à L216-2)](#53)
-          - [Section 2 : Dispositions pénales (art. L216-3 à L216-13)](#54)
-            - [Sous-section 1 : Constatation des infractions (art. L216-3 à L216-5)](#55)
-            - [Sous-section 2 : Sanctions pénales (art. L216-6 à L216-13)](#56)
-        - [Chapitre VII : Défense nationale (art. L217-1)](#57)
-        - [Chapitre VIII : Dispositions spéciales aux eaux marines et aux voies ouvertes à la navigation maritime (art. L218-1 à L218-81)](#58)
-          - [Section 1 : Pollution par les rejets des navires (art. L218-1 à L218-31)](#59)
-            - [Sous-section 1 : Responsabilité civile et obligation d'assurance des propriétaires de navires pour les dommages résultant de la pollution par les hydrocarbures (art. L218-1 à L218-9)](#60)
-            - [Sous-section 2 : Dispositions répressives relatives aux rejets polluants des navires (art. L218-10 à L218-31)](#61)
-          - [Section 2 : Pollution due aux opérations d'exploration ou d'exploitation du fond de la mer ou de son sous-sol (art. L218-32 à L218-41)](#62)
-          - [Section 3 : Pollution par les opérations d'immersion (art. L218-42 à L218-58)](#63)
-            - [Sous-section 1 : Autorisations (art. L218-42 à L218-47)](#64)
-            - [Sous-section 2 : Dispositions pénales (art. L218-48 à L218-57)](#65)
-            - [Sous-section 3 : Défense nationale (art. L218-58)](#66)
-          - [Section 4 : Pollution par les opérations d'incinération (art. L218-59 à L218-71)](#67)
-          - [Section 5 : Mesures de police maritime d'urgence (art. L218-72)](#68)
-          - [Section 6 : Autres dispositions applicables aux rejets nuisibles en mer ou dans les eaux salées (art. L218-73 à L218-80)](#69)
-          - [Section 7 : Zone de protection écologique (art. L218-81)](#70)
-      - [Titre II : Air et atmosphère (art. L220-1 à L229-4)](#71)
-        - [Chapitre Ier : Surveillance de la qualité de l'air et information du public (art. L221-1 à L221-6)](#72)
-          - [Section 1 : Surveillance de la qualité de l'air (art. L221-1 à L221-5)](#73)
-          - [Section 2 : Information du public (art. L221-6)](#74)
-        - [Chapitre II : Planification (art. L222-1 à L222-8)](#75)
-          - [Section 1 : Plans régionaux pour la qualité de l'air (art. L222-1 à L222-3)](#76)
-          - [Section 2 : Plans de protection de l'atmosphère (art. L222-4 à L222-7)](#77)
-          - [Section 3 : Plans de déplacements urbains (art. L222-8)](#78)
-        - [Chapitre III : Mesures d'urgence (art. L223-1 à L223-2)](#79)
-        - [Chapitre IV : Mesures techniques nationales de prévention de la pollution atmosphérique et d'utilisation rationnelle de l'énergie (art. L224-1 à L224-5)](#80)
-          - [Section 1 : Dispositions générales (art. L224-1 à L224-2)](#81)
-          - [Section 2 : Véhicules automobiles (art. L224-3 à L224-5)](#82)
-        - [Chapitre V : Dispositions financières et fiscales (art. L225-1 à L225-2)](#83)
-        - [Chapitre VI : Contrôles et sanctions (art. L226-1 à L226-11)](#84)
-          - [Section 1 : Recherche et constatation des infractions (art. L226-2 à L226-5)](#85)
-          - [Section 2 : Sanctions (art. L226-6 à L226-11)](#86)
-        - [Chapitre VII : Dispositions particulières aux pollutions causées par des substances radioactives (art. L227-1)](#87)
-        - [Chapitre VIII : Dispositions diverses (art. L228-1 à L228-2)](#88)
-          - [Section 1 : Défense nationale (art. L228-1)](#89)
-          - [Section 2 : Itinéraires cyclables (art. L228-2)](#90)
-        - [Chapitre IX : Effet de serre (art. L229-1 à L229-4)](#91)
-    - [Livre III : Espaces naturels (art. L300-1 à L364-1)](#92)
-      - [Titre Ier : Inventaire et mise en valeur du patrimoine naturel (art. L310-1 à L310-3)](#93)
-      - [Titre II : Littoral (art. L321-1 à L322-14)](#94)
-        - [Chapitre Ier : Protection et aménagement du littoral (art. L321-1 à L321-12)](#95)
-          - [Section 1 : Dispositions générales (art. L321-1 à L321-2)](#96)
-          - [Section 2 : Aménagement et urbanisme (art. L321-3 à L321-7)](#97)
-          - [Section 3 : Extraction de matériaux (art. L321-8)](#98)
-          - [Section 4 : Accès au rivage (art. L321-9 à L321-10)](#99)
-          - [Section 5 : Ouvrages d'art reliant les îles au continent (art. L321-11)](#100)
-          - [Section 6 : Transport maritime de passagers vers des espaces protégés (art. L321-12)](#101)
-        - [Chapitre II : Conservatoire de l'espace littoral et des rivages lacustres (art. L322-1 à L322-14)](#102)
-          - [Section 1 : Dispositions générales (art. L322-1 à L322-2)](#103)
-          - [Section 2 : Patrimoine du Conservatoire (art. L322-3 à L322-10-3)](#104)
-            - [Sous-section 1 : Constitution et aliénations (art. L322-3 à L322-8)](#105)
-            - [Sous-section 2 : Gestion (art. L322-9 à L322-10-3)](#106)
-          - [Section 3 : Administration (art. L322-11 à L322-13)](#107)
-            - [Sous-section 1 : Conseil d'administration (art. L322-11 à L322-12)](#108)
-            - [Sous-section 2 : Conseils de rivage (art. L322-13)](#109)
-          - [Section 4 : Dispositions financières (art. L322-14)](#110)
-      - [Titre III : Parcs et réserves (art. L331-1 à L333-4)](#111)
-        - [Chapitre Ier : Parcs nationaux (art. L331-1 à L331-25)](#112)
-          - [Section 1 : Création et dispositions générales (art. L331-1 à L331-7)](#113)
-          - [Section 2 : Aménagement et gestion (art. L331-8 à L331-14)](#114)
-          - [Section 3 : Mise en valeur des zones périphériques (art. L331-15)](#115)
-          - [Section 4 : Réserves intégrales (art. L331-16)](#116)
-          - [Section 5 : Indemnités (art. L331-17)](#117)
-          - [Section 7 : Dispositions pénales (art. L331-18 à L331-25)](#118)
-            - [Sous-section 1 : Constatation des infractions et poursuites (art. L331-18 à L331-25)](#119)
-        - [Chapitre II : Réserves naturelles (art. L332-1 à L332-27)](#120)
-          - [Section 1 : Réserves naturelles classées (art. L332-1 à L332-10)](#121)
-            - [Sous-section 1 : Création (art. L332-1 à L332-8)](#122)
-            - [Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle (art. L332-9)](#123)
-            - [Sous-section 3 : Déclassement (art. L332-10)](#124)
-          - [Section 2 : Réserves naturelles volontaires (art. L332-11)](#125)
-          - [Section 3 : Dispositions communes (art. L332-13 à L332-19-1)](#126)
-            - [Sous-section 1 : Protection des réserves naturelles (art. L332-13 à L332-15)](#127)
-            - [Sous-section 2 : Périmètre de protection (art. L332-16 à L332-18)](#128)
-            - [Sous-section 3 : Dispositions diverses (art. L332-19 à L332-19-1)](#129)
-          - [Section 4 : Dispositions pénales (art. L332-20 à L332-27)](#130)
-            - [Sous-section 1 : Constatation des infractions et poursuites (art. L332-20 à L332-24)](#131)
-            - [Sous-section 2 : Sanctions (art. L332-25 à L332-27)](#132)
-        - [Chapitre III : Parcs naturels régionaux (art. L333-1 à L333-4)](#133)
-      - [Titre IV : Sites (art. L341-1 à L342-1)](#134)
-        - [Chapitre Ier : Sites inscrits et classés (art. L341-1 à L341-22)](#135)
-          - [Section 1 : Inventaire et classement (art. L341-1 à L341-15)](#136)
-          - [Section 2 : Organismes (art. L341-16 à L341-18)](#137)
-          - [Section 3 : Dispositions pénales (art. L341-19 à L341-22)](#138)
-        - [Chapitre II : Autres sites protégés (art. L342-1)](#139)
-      - [Titre V : Paysages (art. L350-1 à L350-2)](#140)
-      - [Titre VI : Accès à la nature (art. L361-1 à L364-1)](#141)
-        - [Chapitre Ier : Itinéraires de randonnées (art. L361-1 à L361-2)](#142)
-        - [Chapitre II : Circulation motorisée (art. L362-1 à L362-8)](#143)
-        - [Chapitre III : Autres modes d'accès (art. L363-1)](#144)
-        - [Chapitre IV : Espaces, sites et itinéraires relatifs aux sports de nature (art. L364-1)](#145)
-    - [Livre IV : Faune et flore (art. L411-1 à L438-2)](#146)
-      - [Titre Ier : Protection de la faune et de la flore (art. L411-1 à L415-5)](#147)
-        - [Chapitre Ier : Préservation et surveillance du patrimoine biologique (art. L411-1 à L411-7)](#148)
-          - [Section 1 : Préservation du patrimoine biologique (art. L411-1 à L411-6)](#149)
-          - [Section 2 : Surveillance biologique du territoire (art. L411-7)](#150)
-        - [Chapitre II : Activités soumises à autorisation (art. L412-1)](#151)
-        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. L413-1 à L413-5)](#152)
-        - [Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages (art. L414-1 à L414-7)](#153)
-          - [Section 1 : Sites Natura 2000 (art. L414-1 à L414-7)](#154)
-        - [Chapitre V : Dispositions pénales (art. L415-1 à L415-5)](#155)
-          - [Section 1 : Constatation des infractions (art. L415-1 à L415-2)](#156)
-          - [Section 2 : Sanctions (art. L415-3 à L415-5)](#157)
-      - [Titre II : Chasse (art. L420-1 à L429-40)](#158)
-        - [Chapitre Ier : Organisation de la chasse (art. L421-1 à L421-14)](#159)
-          - [Section 2 : Office national de la chasse et de la faune sauvage (art. L421-1 à L421-4)](#160)
-            - [Sous-section 1 : Dispositions générales (art. L421-1)](#161)
-            - [Sous-section 2 : Administration générale (art. L421-2 à L421-4)](#162)
-          - [Section 4 : Fédérations départementales des chasseurs (art. L421-5 à L421-11)](#163)
-          - [Section 5 : Fédérations interdépartementales des chasseurs (art. L421-12)](#164)
-          - [Section 6 : Fédérations régionales des chasseurs (art. L421-13)](#165)
-          - [Section 7 : Fédération nationale des chasseurs (art. L421-14)](#166)
-        - [Chapitre II : Territoire de chasse (art. L422-1 à L422-29)](#167)
-          - [Section 1 : Associations communales et intercommunales de chasse agréées (art. L422-2 à L422-26)](#168)
-            - [Sous-section 1 : Dispositions générales (art. L422-2 à L422-5)](#169)
-            - [Sous-section 2 : Institution des associations communales de chasse agréées (art. L422-6 à L422-7)](#170)
-              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées (art. L422-6)](#171)
-              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées (art. L422-7)](#172)
-            - [Sous-section 3 : Modalités de constitution (art. L422-8 à L422-9)](#173)
-            - [Sous-section 4 : Territoire (art. L422-10 à L422-20)](#174)
-              - [Paragraphe 1 : Terrains soumis à l'action de l'association (art. L422-10 à L422-12)](#175)
-              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition (art. L422-13 à L422-15)](#176)
-              - [Paragraphe 3 : Apports (art. L422-16 à L422-17)](#177)
-              - [Paragraphe 4 : Modification du territoire de l'association (art. L422-18 à L422-19)](#178)
-              - [Paragraphe 5 : Enclaves (art. L422-20)](#179)
-            - [Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées (art. L422-21 à L422-22)](#180)
-            - [Sous-section 6 : Réserves et garderie (art. L422-23)](#181)
-            - [Sous-section 7 : Associations intercommunales de chasse agréées (art. L422-24)](#182)
-            - [Sous-section 8 : Dispositions diverses (art. L422-25 à L422-26)](#183)
-          - [Section 2 : Réserves de chasse (art. L422-27)](#184)
-          - [Section 3 : Chasse maritime (art. L422-28)](#185)
-          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. L422-29)](#186)
-            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. L422-29)](#187)
-        - [Chapitre III : Permis de chasser (art. L423-1 à L423-27)](#188)
-          - [Section 1 : Examen pour la délivrance du permis de chasser (art. L423-5 à L423-8)](#189)
-          - [Section 2 : Délivrance et validation du permis de chasser (art. L423-9 à L423-26)](#190)
-            - [Sous-section 1 : Délivrance (art. L423-9 à L423-11)](#191)
-            - [Sous-section 2 : Validation du permis de chasser (art. L423-12 à L423-18)](#192)
-            - [Sous-section 3 : Modalités de validation du permis de chasser (art. L423-19 à L423-21-1)](#193)
-            - [Sous-section 5 : Licences (art. L423-22)](#194)
-            - [Sous-section 6 : Refus et exclusions (art. L423-23 à L423-25)](#195)
-            - [Sous-section 7 : Dispositions propres à certains agents (art. L423-26)](#196)
-          - [Section 3 : Affectation des redevances cynégétiques (art. L423-27)](#197)
-        - [Chapitre IV : Exercice de la chasse (art. L424-1 à L424-16)](#198)
-          - [Section 1 : Protection du gibier (art. L424-1)](#199)
-          - [Section 2 : Temps de chasse (art. L424-2 à L424-3)](#200)
-          - [Section 3 : Modes et moyens de chasse (art. L424-4 à L424-7)](#201)
-          - [Section 4 : Commercialisation et transport du gibier (art. L424-8 à L424-13)](#202)
-            - [Sous-section 1 : Interdiction permanente (art. L424-8 à L424-11)](#203)
-            - [Sous-section 2 : Interdiction temporaire (art. L424-12 à L424-13)](#204)
-          - [Section 5 : Dispositions spéciales à la chasse maritime (art. L424-14)](#205)
-          - [Section 6 : Règles de sécurité (art. L424-15 à L424-16)](#206)
-        - [Chapitre V : Gestion (art. L425-3-1 à L425-5)](#207)
-          - [Section 1 : Schémas départementaux de gestion cynégétique (art. L425-3-1)](#208)
-          - [Section 1 : Plan de chasse (art. L425-1 à L425-4)](#209)
-          - [Section 2 : Prélèvement maximal autorisé (art. L425-5)](#210)
-        - [Chapitre VI : Indemnisation des dégâts de gibiers (art. L426-1 à L426-8)](#211)
-          - [Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers (art. L426-1 à L426-6)](#212)
-          - [Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes (art. L426-7 à L426-8)](#213)
-        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. L427-1 à L427-10)](#214)
-          - [Section 1 : Mesures administratives (art. L427-1 à L427-7)](#215)
-            - [Sous-section 1 : Louveterie (art. L427-1 à L427-3)](#216)
-            - [Sous-section 2 : Battues administratives (art. L427-4 à L427-7)](#217)
-          - [Section 2 : Droits des particuliers (art. L427-8 à L427-9)](#218)
-          - [Section 3 : Commercialisation et transport (art. L427-10)](#219)
-        - [Chapitre VIII : Dispositions pénales (art. L428-1 à L428-34)](#220)
-          - [Section 1 : Peines (art. L428-1 à L428-3)](#221)
-            - [Sous-section 1 : Territoire (art. L428-1)](#222)
-            - [Sous-section 2 : Permis de chasser (art. L428-2 à L428-3)](#223)
-          - [Section 2 : Circonstances aggravantes (art. L428-4 à L428-8)](#224)
-          - [Section 3 : Peines accessoires et complémentaires (art. L428-9 à L428-18)](#225)
-            - [Sous-section 1 : Confiscation (art. L428-9 à L428-11)](#226)
-            - [Sous-section 2 : Frais de validation du permis de chasser (art. L428-12 à L428-13)](#227)
-            - [Sous-section 3 : Retrait et suspension du permis de chasser (art. L428-14 à L428-17)](#228)
-              - [Paragraphe 1 : Retrait (art. L428-14)](#229)
-              - [Paragraphe 2 : Suspension (art. L428-15 à L428-17)](#230)
-            - [Sous-section 4 : Suspension du permis de conduire (art. L428-18)](#231)
-          - [Section 4 : Constatation des infractions et poursuites (art. L428-19 à L428-34)](#232)
-            - [Sous-section 1 : Constatation des infractions (art. L428-19 à L428-26)](#233)
-            - [Sous-section 2 : Recherche des infractions (art. L428-27 à L428-32)](#234)
-            - [Sous-section 3 : Poursuites (art. L428-33)](#235)
-            - [Sous-section 4 : Dispositions diverses (art. L428-34)](#236)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L429-1 à L429-40)](#237)
-          - [Section 1 : Administration de la chasse sur le ban communal (art. L429-2 à L429-18)](#238)
-            - [Sous-section 1 : Ban communal (art. L429-2 à L429-6)](#239)
-            - [Sous-section 2 : Exploitation du droit de chasse (art. L429-7 à L429-16)](#240)
-            - [Sous-section 3 : Enclaves (art. L429-17)](#241)
-            - [Sous-section 4 : Dispositions diverses (art. L429-18)](#242)
-          - [Section 2 : Exercice de la chasse (art. L429-19 à L429-22)](#243)
-            - [Sous-section 1 : Temps de chasse (art. L429-19)](#244)
-            - [Sous-section 3 : Modes et moyens de chasse (art. L429-20)](#245)
-            - [Sous-section 4 : Commercialisation et transport du gibier (art. L429-21 à L429-22)](#246)
-          - [Section 3 : Indemnisation des dégâts de gibier (art. L429-23 à L429-32)](#247)
-            - [Sous-section 1 : Régime général (art. L429-23 à L429-26)](#248)
-            - [Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers (art. L429-27 à L429-32)](#249)
-          - [Section 4 : Pénalités (art. L429-33 à L429-40)](#250)
-            - [Sous-section 1 : Peines (art. L429-33 à L429-37)](#251)
-              - [Paragraphe 1 : Territoire (art. L429-33 à L429-36)](#252)
-              - [Paragraphe 2 : Exercice de la chasse (art. L429-37)](#253)
-            - [Sous-section 2 : Récidive (art. L429-38)](#254)
-            - [Sous-section 3 : Peines accessoires et complémentaires (art. L429-39 à L429-40)](#255)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. L430-1 à L438-2)](#256)
-        - [Chapitre Ier : Champ d'application (art. L431-1 à L431-5)](#257)
-          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#258)
-          - [Section 2 : Piscicultures (art. L431-6 à L431-8)](#259)
-          - [Section 2 : Eaux closes (art. L431-5)](#260)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. L432-1 à L432-12)](#261)
-          - [Section 1 : Obligations générales (art. L432-1)](#262)
-          - [Section 2 : Protection de la faune piscicole et de son habitat (art. L432-2 à L432-4)](#263)
-          - [Section 3 : Obligations relatives aux ouvrages (art. L432-5 à L432-9)](#264)
-          - [Section 4 : Contrôle des peuplements (art. L432-10 à L432-12)](#265)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. L433-3 à L433-2)](#266)
-          - [Section 1 : Orientations de bassin. (art. L433-1)](#267)
-          - [Section 2 : Schéma départemental de vocation piscicole (art. L433-2)](#268)
-        - [Chapitre IV : Organisation des pêcheurs (art. L434-1 à L434-6)](#269)
-          - [Section 1 : Conseil supérieur de la pêche (art. L434-1 à L434-2)](#270)
-          - [Section 2 : Organisation de la pêche de loisir (art. L434-3 à L434-5)](#271)
-          - [Section 3 : Organisation de la pêche professionnelle (art. L434-6)](#272)
-        - [Chapitre V : Droit de pêche (art. L435-1 à L435-9)](#273)
-          - [Section 1 : Droit de pêche de l'Etat (art. L435-1 à L435-3)](#274)
-          - [Section 2 : Droit de pêche des riverains (art. L435-4 à L435-5)](#275)
-          - [Section 3 : Droit de passage (art. L435-6 à L435-9)](#276)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. L436-1 à L436-16)](#277)
-          - [Section 1 : Dispositions générales (art. L436-1 à L436-8)](#278)
-          - [Section 2 : Autorisations exceptionnelles (art. L436-9)](#279)
-          - [Section 3 : Estuaires (art. L436-10 à L436-11)](#280)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. L436-12)](#281)
-          - [Section 5 : Commercialisation (art. L436-13 à L436-16)](#282)
-        - [Chapitre VII : Dispositions pénales complémentaires (art. L437-1 à L437-23)](#283)
-          - [Section 1 : Recherche et constatation des infractions (art. L437-1 à L437-13)](#284)
-            - [Sous-section 1 : Agents compétents (art. L437-1 à L437-3)](#285)
-            - [Sous-section 2 : Procès-verbaux (art. L437-4 à L437-5)](#286)
-            - [Sous-section 3 : Recherche des infractions (art. L437-6 à L437-12)](#287)
-            - [Sous-section 4 : Gardes-pêche particuliers (art. L437-13)](#288)
-          - [Section 2 : Transaction (art. L437-14)](#289)
-          - [Section 3 : Poursuites (art. L437-15 à L437-17)](#290)
-          - [Section 4 : Action civile (art. L437-18)](#291)
-          - [Section 5 : Sanctions (art. L437-19 à L437-23)](#292)
-            - [Sous-section 1 : Circonstances aggravantes (art. L437-19)](#293)
-            - [Sous-section 2 : Astreinte (art. L437-20)](#294)
-            - [Sous-section 3 : Confiscation (art. L437-21)](#295)
-            - [Sous-section 4 : Exclusion des associations agréées (art. L437-22)](#296)
-            - [Sous-section 5 : Responsabilité des personnes morales (art. L437-23)](#297)
-        - [Chapitre VIII : Dispositions diverses (art. L438-1 à L438-2)](#298)
-    - [Livre V : Prévention des pollutions, des risques et des nuisances (art. L511-1 à L581-45)](#299)
-      - [Titre Ier : Installations classées pour la protection de l'environnement (art. L511-1 à L517-2)](#300)
-        - [Chapitre Ier : Dispositions générales (art. L511-1 à L511-2)](#301)
-        - [Chapitre II : Installations soumises à autorisation ou à déclaration. (art. L512-1 à L512-16)](#302)
-          - [Section 1 : Installations soumises à autorisation (art. L512-1 à L512-7)](#303)
-          - [Section 2 : Installations soumises à déclaration. (art. L512-8 à L512-13)](#304)
-          - [Section 3 : Dispositions communes à l'autorisation et à la déclaration. (art. L512-14 à L512-16)](#305)
-        - [Chapitre III : Installations fonctionnant au bénéfice des droits acquis (art. L513-1)](#306)
-        - [Chapitre IV : Contrôle et contentieux des installations classées (art. L514-1 à L514-20)](#307)
-          - [Section 1 : Contrôle et sanctions administratifs (art. L514-1 à L514-8)](#308)
-          - [Section 2 : Dispositions pénales (art. L514-9 à L514-18)](#309)
-          - [Section 3 : Protection des tiers (art. L514-19 à L514-20)](#310)
-        - [Chapitre V : Dispositions particulières à certaines installations (art. L515-1 à L515-14)](#311)
-          - [Section 1 : Carrières (art. L515-1 à L515-6)](#312)
-          - [Section 2 : Stockage souterrain de produits dangereux (art. L515-7)](#313)
-          - [Section 3 : Installations susceptibles de donner lieu à des servitudes d'utilité publique (art. L515-8 à L515-12)](#314)
-          - [Section 4 : Installations où s'effectuent des opérations soumises à agrément (art. L515-13)](#315)
-          - [Section 5 : Installations d'élimination de déchets (art. L515-14)](#316)
-        - [Chapitre VI : Dispositions financières (art. L516-1)](#317)
-        - [Chapitre VII : Dispositions diverses (art. L517-1 à L517-2)](#318)
-      - [Titre II : Produits chimiques et biocides (art. L521-1 à L522-18)](#319)
-        - [Chapitre Ier : Contrôle des produits chimiques (art. L521-1 à L521-24)](#320)
-          - [Section 1 : Déclaration des substances nouvelles (art. L521-3 à L521-5)](#321)
-          - [Section 3 : Contrôle et constatation des infractions (art. L521-12 à L521-16)](#322)
-          - [Section 2 : Dispositions communes aux substances et préparations (art. L521-6 à L521-11)](#323)
-          - [Section 4 : Sanctions administratives (art. L521-17 à L521-20)](#324)
-          - [Section 5 : Sanctions pénales (art. L521-21 à L521-24)](#325)
-        - [Chapitre II : Contrôle de la mise sur le marché des substances actives biocides et autorisation de mise sur le marché des produits biocides (art. L522-1 à L522-18)](#326)
-          - [Section 1 : Contrôle des substances actives (art. L522-2 à L522-3)](#327)
-          - [Section 2 : Contrôle de la mise sur le marché des produits biocides (art. L522-4 à L522-7)](#328)
-          - [Section 3 : Dispositions diverses (art. L522-8 à L522-14)](#329)
-          - [Section 4 : Contrôles et sanctions (art. L522-15 à L522-18)](#330)
-      - [Titre III : Organismes génétiquement modifiés (art. L531-1 à L537-1)](#331)
-        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-5)](#332)
-        - [Chapitre II : Utilisation confinée des organismes génétiquement modifiés (art. L532-1 à L532-6)](#333)
-        - [Chapitre III : Dissémination volontaire et mise sur le marché d'organismes génétiquement modifiés. (art. L533-1 à L533-7)](#334)
-        - [Chapitre IV : Surveillance biologique du territoire (art. L534-1)](#335)
-        - [Chapitre V : Contrôle et sanctions administratifs (art. L535-1 à L535-8)](#336)
-        - [Chapitre VI : Dispositions pénales (art. L536-1 à L536-7)](#337)
-          - [Section 1 : Constatation des infractions (art. L536-1 à L536-2)](#338)
-          - [Section 2 : Sanctions (art. L536-3 à L536-7)](#339)
-        - [Chapitre VII : Dispositions diverses (art. L537-1)](#340)
-      - [Titre IV : Déchets (art. L541-1 à L542-14)](#341)
-        - [Chapitre Ier : Elimination des déchets et récupération des matériaux (art. L541-1 à L541-50)](#342)
-          - [Section 1 : Dispositions générales (art. L541-1 à L541-8)](#343)
-          - [Section 2 : Production et distribution de produits générateurs de déchets (art. L541-9 à L541-10)](#344)
-          - [Section 3 : Elimination des déchets (art. L541-11 à L541-39)](#345)
-            - [Sous-section 1 : Plans d'élimination des déchets (art. L541-11 à L541-15)](#346)
-            - [Sous-section 2 : Stockages souterrains des déchets (art. L541-16 à L541-20)](#347)
-            - [Sous-section 3 : Collecte des déchets ménagers et assimilés (art. L541-21)](#348)
-            - [Sous-section 4 : Installations ayant pour objet l'élimination des déchets (art. L541-22 à L541-30)](#349)
-            - [Sous-section 5 : Récupération des déchets (art. L541-31 à L541-39)](#350)
-          - [Section 4 : Dispositions particulières aux mouvements transfrontaliers de déchets (art. L541-40 à L541-42)](#351)
-          - [Section 5 : Dispositions financières (art. L541-43)](#352)
-          - [Section 6 : Dispositions pénales (art. L541-44 à L541-48)](#353)
-            - [Sous-section 1 : Constatation des infractions (art. L541-44 à L541-45)](#354)
-            - [Sous-section 2 : Sanctions (art. L541-46 à L541-48)](#355)
-          - [Section 7 : Dispositions diverses (art. L541-49 à L541-50)](#356)
-        - [Chapitre II : Dispositions particulières aux déchets radioactifs (art. L542-1 à L542-14)](#357)
-      - [Titre V : Dispositions particulières à certains ouvrages ou installations (art. L551-1 à L553-4)](#358)
-        - [Chapitre Ier : Etude de dangers (art. L551-1)](#359)
-        - [Chapitre II : Garanties financières (art. L552-1)](#360)
-        - [Chapitre III : Eoliennes (art. L553-2 à L553-4)](#361)
-      - [Titre VI : Prévention des risques naturels (art. L561-1 à L563-2)](#362)
-        - [Chapitre Ier : Mesures de sauvegarde des populations menacées par certains risques naturels majeurs (art. L561-1 à L561-5)](#363)
-        - [Chapitre II : Plans de prévention des risques naturels prévisibles (art. L562-1 à L562-9)](#364)
-        - [Chapitre III : Autres mesures de prévention (art. L563-1 à L563-2)](#365)
-      - [Titre VII : Prévention des nuisances acoustiques et visuelles (art. L571-1 à L572-1)](#366)
-        - [Chapitre Ier : Lutte contre le bruit (art. L571-1 à L571-26)](#367)
-          - [Section 1 : Emissions sonores des objets (art. L571-2 à L571-5)](#368)
-          - [Section 2 : Activités bruyantes (art. L571-6 à L571-8)](#369)
-          - [Section 3 : Aménagements et infrastructures de transports terrestres (art. L571-9 à L571-10)](#370)
-          - [Section 4 : Bruit des transports aériens (art. L571-11 à L571-16)](#371)
-            - [Sous-section 1 : Plan d'exposition au bruit (art. L571-11)](#372)
-            - [Sous-section 2 : Environnement des aérodromes (art. L571-12)](#373)
-            - [Sous-section 3 : Commission consultative de l'environnement (art. L571-13)](#374)
-            - [Sous-section 4 : Aide aux riverains (art. L571-14 à L571-16)](#375)
-          - [Section 5 : Contrôles et sanctions administratifs (art. L571-17)](#376)
-          - [Section 6 : Dispositions pénales (art. L571-18 à L571-26)](#377)
-            - [Sous-section 1 : Constatation des infractions. (art. L571-18 à L571-21)](#378)
-            - [Sous-section 2 : Sanctions. (art. L571-22 à L571-26)](#379)
-        - [Chapitre II : Prévention des nuisances visuelles (art. L572-1)](#380)
-      - [Titre VIII : Protection du cadre de vie (art. L581-1 à L581-45)](#381)
-        - [Chapitre unique : Publicité, enseignes et préenseignes (art. L581-1 à L581-45)](#382)
-          - [Section 1 : Principes généraux (art. L581-1 à L581-3)](#383)
-          - [Section 2 : Publicité (art. L581-4 à L581-17)](#384)
-            - [Sous-section 1 : Dispositions générales. (art. L581-4 à L581-6)](#385)
-            - [Sous-section 2 : Publicité en dehors des agglomérations. (art. L581-7)](#386)
-            - [Sous-section 3 : Publicité à l'intérieur des agglomérations. (art. L581-8 à L581-13)](#387)
-            - [Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie. (art. L581-14)](#388)
-            - [Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité. (art. L581-15 à L581-17)](#389)
-          - [Section 3 : Enseignes et préenseignes (art. L581-18 à L581-20)](#390)
-          - [Section 4 : Dispositions communes (art. L581-21 à L581-24)](#391)
-          - [Section 5 : Contrats de louage d'emplacement (art. L581-25)](#392)
-          - [Section 6 : Sanctions (art. L581-26 à L581-45)](#393)
-            - [Sous-section 1 : Procédure administrative (art. L581-26 à L581-33)](#394)
-            - [Sous-section 2 : Sanctions pénales (art. L581-34 à L581-45)](#395)
-    - [Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte (art. L611-1 à L656-1)](#396)
-      - [Titre Ier : Dispositions applicables en Nouvelle-Calédonie (art. L611-1 à L614-1)](#397)
-        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement. (art. L611-1 à L611-4)](#398)
-        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L612-1 à L612-2)](#399)
-        - [Chapitre III : Antarctique (art. L613-1)](#400)
-        - [Chapitre IV : Autres dispositions (art. L614-1)](#401)
-      - [Titre II : Dispositions applicables en Polynésie Française (art. L621-1 à L624-1)](#402)
-        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L621-1 à L621-4)](#403)
-        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L622-1 à L622-2)](#404)
-        - [Chapitre III : Antarctique (art. L623-1)](#405)
-        - [Chapitre IV : Autres dispositions (art. L624-1)](#406)
-      - [Titre III : Dispositions applicables à Wallis et Futuna (art. L631-1 à L635-1)](#407)
-        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L631-1 à L631-4)](#408)
-        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L632-1 à L632-2)](#409)
-        - [Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique (art. L633-1)](#410)
-        - [Chapitre IV : Antarctique (art. L634-1)](#411)
-        - [Chapitre V : Autres dispositions (art. L635-1)](#412)
-      - [Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises (art. L640-1 à L640-3)](#413)
-      - [Titre V : Dispositions applicables à Mayotte (art. L651-1 à L656-1)](#414)
-        - [Chapitre Ier : Dispositions communes (art. L651-1 à L651-8)](#415)
-        - [Chapitre II : Milieux physiques (art. L652-1 à L652-3)](#416)
-        - [Chapitre III : Espaces naturels (art. L653-1 à L653-2)](#417)
-        - [Chapitre IV : Faune et flore (art. L654-1 à L654-9)](#418)
-        - [Chapitre V : Prévention des pollutions, des risques et des nuisances (art. L655-1 à L655-7)](#419)
-        - [Chapitre VI : Antarctique (art. L656-1)](#420)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. L711-1 à L713-9)](#421)
-      - [Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. L711-1 à L713-9)](#422)
-        - [Chapitre Ier : Dispositions communes (art. L711-1 à L711-4)](#423)
-        - [Chapitre II : Déclaration et autorisation (art. L712-1 à L712-5)](#424)
-        - [Chapitre III : Contrôles et sanctions (art. L713-1 à L713-9)](#425)
-          - [Section 1 : Contrôles et sanctions administratifs (art. L713-1 à L713-4)](#426)
-          - [Section 2 : Sanctions pénales (art. L713-5 à L713-9)](#427)
+          - [Section 5 : Comités de bassin et offices de l'eau des départements d'outre-mer (art. L213-17)](#38)
+          - [Section 5 : Communautés locales de l'eau (art. L213-9)](#39)
+          - [Section 6 : Etablissements publics à vocation de maîtrise d'ouvrage (art. L213-10 à L213-12)](#40)
+          - [Section 7 : Offices de l'eau des départements d'outre-mer (art. L213-13 à L213-20)](#41)
+        - [Chapitre IV : Activités, installations et usage (art. L214-1 à L214-16)](#42)
+          - [Section 1 : Régimes d'autorisation ou de déclaration (art. L214-1 à L214-11)](#43)
+          - [Section 2 : Circulation des engins et embarcations (art. L214-12 à L214-13)](#44)
+          - [Section 3 : Assainissement (art. L214-14)](#45)
+          - [Section 4 : Prix de l'eau (art. L214-15 à L214-16)](#46)
+        - [Chapitre V : Dispositions propres aux cours d'eau non domaniaux (art. L215-1 à L215-24)](#47)
+          - [Section 1 : Droits des riverains (art. L215-1 à L215-6)](#48)
+          - [Section 2 : Police et conservation des eaux (art. L215-7 à L215-13)](#49)
+          - [Section 3 : Curage, entretien, élargissement et redressement (art. L215-14 à L215-24)](#50)
+            - [Sous-section 1 : Curage et entretien (art. L215-14 à L215-19)](#51)
+            - [Sous-section 2 : Elargissement, régularisation et redressement (art. L215-20)](#52)
+            - [Sous-section 3 : Dispositions communes (art. L215-21 à L215-24)](#53)
+        - [Chapitre VI : Sanctions (art. L216-1 à L216-13)](#54)
+          - [Section 1 : Sanctions administratives (art. L216-1 à L216-2)](#55)
+          - [Section 2 : Dispositions pénales (art. L216-3 à L216-13)](#56)
+            - [Sous-section 1 : Constatation des infractions (art. L216-3 à L216-5)](#57)
+            - [Sous-section 2 : Sanctions pénales (art. L216-6 à L216-13)](#58)
+        - [Chapitre VII : Défense nationale (art. L217-1)](#59)
+        - [Chapitre VIII : Dispositions spéciales aux eaux marines et aux voies ouvertes à la navigation maritime (art. L218-1 à L218-81)](#60)
+          - [Section 1 : Pollution par les rejets des navires (art. L218-1 à L218-31)](#61)
+            - [Sous-section 1 : Responsabilité civile et obligation d'assurance des propriétaires de navires pour les dommages résultant de la pollution par les hydrocarbures (art. L218-1 à L218-9)](#62)
+            - [Sous-section 2 : Dispositions répressives relatives aux rejets polluants des navires (art. L218-10 à L218-31)](#63)
+          - [Section 2 : Pollution due aux opérations d'exploration ou d'exploitation du fond de la mer ou de son sous-sol (art. L218-32 à L218-41)](#64)
+          - [Section 3 : Pollution par les opérations d'immersion (art. L218-42 à L218-58)](#65)
+            - [Sous-section 1 : Autorisations (art. L218-42 à L218-47)](#66)
+            - [Sous-section 2 : Dispositions pénales (art. L218-48 à L218-57)](#67)
+            - [Sous-section 3 : Défense nationale (art. L218-58)](#68)
+          - [Section 4 : Pollution par les opérations d'incinération (art. L218-59 à L218-71)](#69)
+          - [Section 5 : Mesures de police maritime d'urgence (art. L218-72)](#70)
+          - [Section 6 : Autres dispositions applicables aux rejets nuisibles en mer ou dans les eaux salées (art. L218-73 à L218-80)](#71)
+          - [Section 7 : Zone de protection écologique (art. L218-81)](#72)
+      - [Titre II : Air et atmosphère (art. L220-1 à L229-4)](#73)
+        - [Chapitre Ier : Surveillance de la qualité de l'air et information du public (art. L221-1 à L221-6)](#74)
+          - [Section 1 : Surveillance de la qualité de l'air (art. L221-1 à L221-5)](#75)
+          - [Section 2 : Information du public (art. L221-6)](#76)
+        - [Chapitre II : Planification (art. L222-1 à L222-8)](#77)
+          - [Section 1 : Plans régionaux pour la qualité de l'air (art. L222-1 à L222-3)](#78)
+          - [Section 2 : Plans de protection de l'atmosphère (art. L222-4 à L222-7)](#79)
+          - [Section 3 : Plans de déplacements urbains (art. L222-8)](#80)
+        - [Chapitre III : Mesures d'urgence (art. L223-1 à L223-2)](#81)
+        - [Chapitre IV : Mesures techniques nationales de prévention de la pollution atmosphérique et d'utilisation rationnelle de l'énergie (art. L224-1 à L224-5)](#82)
+          - [Section 1 : Dispositions générales (art. L224-1 à L224-2)](#83)
+          - [Section 2 : Véhicules automobiles (art. L224-3 à L224-5)](#84)
+        - [Chapitre V : Dispositions financières et fiscales (art. L225-1 à L225-2)](#85)
+        - [Chapitre VI : Contrôles et sanctions (art. L226-1 à L226-11)](#86)
+          - [Section 1 : Recherche et constatation des infractions (art. L226-2 à L226-5)](#87)
+          - [Section 2 : Sanctions (art. L226-6 à L226-11)](#88)
+        - [Chapitre VII : Dispositions particulières aux pollutions causées par des substances radioactives (art. L227-1)](#89)
+        - [Chapitre VIII : Dispositions diverses (art. L228-1 à L228-2)](#90)
+          - [Section 1 : Défense nationale (art. L228-1)](#91)
+          - [Section 2 : Itinéraires cyclables (art. L228-2)](#92)
+        - [Chapitre IX : Effet de serre (art. L229-1 à L229-4)](#93)
+    - [Livre III : Espaces naturels (art. L300-1 à L364-1)](#94)
+      - [Titre Ier : Inventaire et mise en valeur du patrimoine naturel (art. L310-1 à L310-3)](#95)
+      - [Titre II : Littoral (art. L321-1 à L322-14)](#96)
+        - [Chapitre Ier : Protection et aménagement du littoral (art. L321-1 à L321-12)](#97)
+          - [Section 1 : Dispositions générales (art. L321-1 à L321-2)](#98)
+          - [Section 2 : Aménagement et urbanisme (art. L321-3 à L321-7)](#99)
+          - [Section 3 : Extraction de matériaux (art. L321-8)](#100)
+          - [Section 4 : Accès au rivage (art. L321-9 à L321-10)](#101)
+          - [Section 5 : Ouvrages d'art reliant les îles au continent (art. L321-11)](#102)
+          - [Section 6 : Transport maritime de passagers vers des espaces protégés (art. L321-12)](#103)
+        - [Chapitre II : Conservatoire de l'espace littoral et des rivages lacustres (art. L322-1 à L322-14)](#104)
+          - [Section 1 : Dispositions générales (art. L322-1 à L322-2)](#105)
+          - [Section 2 : Patrimoine du Conservatoire (art. L322-3 à L322-10-3)](#106)
+            - [Sous-section 1 : Constitution et aliénations (art. L322-3 à L322-8)](#107)
+            - [Sous-section 2 : Gestion (art. L322-9 à L322-10-3)](#108)
+          - [Section 3 : Administration (art. L322-11 à L322-13)](#109)
+            - [Sous-section 1 : Conseil d'administration (art. L322-11 à L322-12)](#110)
+            - [Sous-section 2 : Conseils de rivage (art. L322-13)](#111)
+          - [Section 4 : Dispositions financières (art. L322-14)](#112)
+      - [Titre III : Parcs et réserves (art. L331-1 à L333-4)](#113)
+        - [Chapitre Ier : Parcs nationaux (art. L331-1 à L331-25)](#114)
+          - [Section 1 : Création et dispositions générales (art. L331-1 à L331-7)](#115)
+          - [Section 2 : Aménagement et gestion (art. L331-8 à L331-14)](#116)
+          - [Section 3 : Mise en valeur des zones périphériques (art. L331-15)](#117)
+          - [Section 4 : Réserves intégrales (art. L331-16)](#118)
+          - [Section 5 : Indemnités (art. L331-17)](#119)
+          - [Section 7 : Dispositions pénales (art. L331-18 à L331-25)](#120)
+            - [Sous-section 1 : Constatation des infractions et poursuites (art. L331-18 à L331-25)](#121)
+        - [Chapitre II : Réserves naturelles (art. L332-1 à L332-27)](#122)
+          - [Section 1 : Réserves naturelles classées (art. L332-1 à L332-10)](#123)
+            - [Sous-section 1 : Création (art. L332-1 à L332-8)](#124)
+            - [Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle (art. L332-9)](#125)
+            - [Sous-section 3 : Déclassement (art. L332-10)](#126)
+          - [Section 2 : Réserves naturelles volontaires (art. L332-11)](#127)
+          - [Section 3 : Dispositions communes (art. L332-13 à L332-19-1)](#128)
+            - [Sous-section 1 : Protection des réserves naturelles (art. L332-13 à L332-15)](#129)
+            - [Sous-section 2 : Périmètre de protection (art. L332-16 à L332-18)](#130)
+            - [Sous-section 3 : Dispositions diverses (art. L332-19 à L332-19-1)](#131)
+          - [Section 4 : Dispositions pénales (art. L332-20 à L332-27)](#132)
+            - [Sous-section 1 : Constatation des infractions et poursuites (art. L332-20 à L332-24)](#133)
+            - [Sous-section 2 : Sanctions (art. L332-25 à L332-27)](#134)
+        - [Chapitre III : Parcs naturels régionaux (art. L333-1 à L333-4)](#135)
+      - [Titre IV : Sites (art. L341-1 à L342-1)](#136)
+        - [Chapitre Ier : Sites inscrits et classés (art. L341-1 à L341-22)](#137)
+          - [Section 1 : Inventaire et classement (art. L341-1 à L341-15)](#138)
+          - [Section 2 : Organismes (art. L341-16 à L341-18)](#139)
+          - [Section 3 : Dispositions pénales (art. L341-19 à L341-22)](#140)
+        - [Chapitre II : Autres sites protégés (art. L342-1)](#141)
+      - [Titre V : Paysages (art. L350-1 à L350-2)](#142)
+      - [Titre VI : Accès à la nature (art. L361-1 à L364-1)](#143)
+        - [Chapitre Ier : Itinéraires de randonnées (art. L361-1 à L361-2)](#144)
+        - [Chapitre II : Circulation motorisée (art. L362-1 à L362-8)](#145)
+        - [Chapitre III : Autres modes d'accès (art. L363-1)](#146)
+        - [Chapitre IV : Espaces, sites et itinéraires relatifs aux sports de nature (art. L364-1)](#147)
+    - [Livre IV : Faune et flore (art. L411-1 à L438-2)](#148)
+      - [Titre Ier : Protection de la faune et de la flore (art. L411-1 à L415-5)](#149)
+        - [Chapitre Ier : Préservation et surveillance du patrimoine biologique (art. L411-1 à L411-7)](#150)
+          - [Section 1 : Préservation du patrimoine biologique (art. L411-1 à L411-6)](#151)
+          - [Section 2 : Surveillance biologique du territoire (art. L411-7)](#152)
+        - [Chapitre II : Activités soumises à autorisation (art. L412-1)](#153)
+        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. L413-1 à L413-5)](#154)
+        - [Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages (art. L414-1 à L414-7)](#155)
+          - [Section 1 : Sites Natura 2000 (art. L414-1 à L414-7)](#156)
+        - [Chapitre V : Dispositions pénales (art. L415-1 à L415-5)](#157)
+          - [Section 1 : Constatation des infractions (art. L415-1 à L415-2)](#158)
+          - [Section 2 : Sanctions (art. L415-3 à L415-5)](#159)
+      - [Titre II : Chasse (art. L420-1 à L429-40)](#160)
+        - [Chapitre Ier : Organisation de la chasse (art. L421-1 à L421-14)](#161)
+          - [Section 2 : Office national de la chasse et de la faune sauvage (art. L421-1 à L421-4)](#162)
+            - [Sous-section 1 : Dispositions générales (art. L421-1)](#163)
+            - [Sous-section 2 : Administration générale (art. L421-2 à L421-4)](#164)
+          - [Section 4 : Fédérations départementales des chasseurs (art. L421-5 à L421-11)](#165)
+          - [Section 5 : Fédérations interdépartementales des chasseurs (art. L421-12)](#166)
+          - [Section 6 : Fédérations régionales des chasseurs (art. L421-13)](#167)
+          - [Section 7 : Fédération nationale des chasseurs (art. L421-14)](#168)
+        - [Chapitre II : Territoire de chasse (art. L422-1 à L422-29)](#169)
+          - [Section 1 : Associations communales et intercommunales de chasse agréées (art. L422-2 à L422-26)](#170)
+            - [Sous-section 1 : Dispositions générales (art. L422-2 à L422-5)](#171)
+            - [Sous-section 2 : Institution des associations communales de chasse agréées (art. L422-6 à L422-7)](#172)
+              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées (art. L422-6)](#173)
+              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées (art. L422-7)](#174)
+            - [Sous-section 3 : Modalités de constitution (art. L422-8 à L422-9)](#175)
+            - [Sous-section 4 : Territoire (art. L422-10 à L422-20)](#176)
+              - [Paragraphe 1 : Terrains soumis à l'action de l'association (art. L422-10 à L422-12)](#177)
+              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition (art. L422-13 à L422-15)](#178)
+              - [Paragraphe 3 : Apports (art. L422-16 à L422-17)](#179)
+              - [Paragraphe 4 : Modification du territoire de l'association (art. L422-18 à L422-19)](#180)
+              - [Paragraphe 5 : Enclaves (art. L422-20)](#181)
+            - [Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées (art. L422-21 à L422-22)](#182)
+            - [Sous-section 6 : Réserves et garderie (art. L422-23)](#183)
+            - [Sous-section 7 : Associations intercommunales de chasse agréées (art. L422-24)](#184)
+            - [Sous-section 8 : Dispositions diverses (art. L422-25 à L422-26)](#185)
+          - [Section 2 : Réserves de chasse (art. L422-27)](#186)
+          - [Section 3 : Chasse maritime (art. L422-28)](#187)
+          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. L422-29)](#188)
+            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. L422-29)](#189)
+        - [Chapitre III : Permis de chasser (art. L423-1 à L423-27)](#190)
+          - [Section 1 : Examen pour la délivrance du permis de chasser (art. L423-5 à L423-8)](#191)
+          - [Section 2 : Délivrance et validation du permis de chasser (art. L423-9 à L423-26)](#192)
+            - [Sous-section 1 : Délivrance (art. L423-9 à L423-11)](#193)
+            - [Sous-section 2 : Validation du permis de chasser (art. L423-12 à L423-18)](#194)
+            - [Sous-section 3 : Modalités de validation du permis de chasser (art. L423-19 à L423-21-1)](#195)
+            - [Sous-section 5 : Licences (art. L423-22)](#196)
+            - [Sous-section 6 : Refus et exclusions (art. L423-23 à L423-25)](#197)
+            - [Sous-section 7 : Dispositions propres à certains agents (art. L423-26)](#198)
+          - [Section 3 : Affectation des redevances cynégétiques (art. L423-27)](#199)
+        - [Chapitre IV : Exercice de la chasse (art. L424-1 à L424-16)](#200)
+          - [Section 1 : Protection du gibier (art. L424-1)](#201)
+          - [Section 2 : Temps de chasse (art. L424-2 à L424-3)](#202)
+          - [Section 3 : Modes et moyens de chasse (art. L424-4 à L424-7)](#203)
+          - [Section 4 : Commercialisation et transport du gibier (art. L424-8 à L424-13)](#204)
+            - [Sous-section 1 : Interdiction permanente (art. L424-8 à L424-11)](#205)
+            - [Sous-section 2 : Interdiction temporaire (art. L424-12 à L424-13)](#206)
+          - [Section 5 : Dispositions spéciales à la chasse maritime (art. L424-14)](#207)
+          - [Section 6 : Règles de sécurité (art. L424-15 à L424-16)](#208)
+        - [Chapitre V : Gestion (art. L425-3-1 à L425-5)](#209)
+          - [Section 1 : Schémas départementaux de gestion cynégétique (art. L425-3-1)](#210)
+          - [Section 1 : Plan de chasse (art. L425-1 à L425-4)](#211)
+          - [Section 2 : Prélèvement maximal autorisé (art. L425-5)](#212)
+        - [Chapitre VI : Indemnisation des dégâts de gibiers (art. L426-1 à L426-8)](#213)
+          - [Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers (art. L426-1 à L426-6)](#214)
+          - [Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes (art. L426-7 à L426-8)](#215)
+        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. L427-1 à L427-10)](#216)
+          - [Section 1 : Mesures administratives (art. L427-1 à L427-7)](#217)
+            - [Sous-section 1 : Louveterie (art. L427-1 à L427-3)](#218)
+            - [Sous-section 2 : Battues administratives (art. L427-4 à L427-7)](#219)
+          - [Section 2 : Droits des particuliers (art. L427-8 à L427-9)](#220)
+          - [Section 3 : Commercialisation et transport (art. L427-10)](#221)
+        - [Chapitre VIII : Dispositions pénales (art. L428-1 à L428-34)](#222)
+          - [Section 1 : Peines (art. L428-1 à L428-3)](#223)
+            - [Sous-section 1 : Territoire (art. L428-1)](#224)
+            - [Sous-section 2 : Permis de chasser (art. L428-2 à L428-3)](#225)
+          - [Section 2 : Circonstances aggravantes (art. L428-4 à L428-8)](#226)
+          - [Section 3 : Peines accessoires et complémentaires (art. L428-9 à L428-18)](#227)
+            - [Sous-section 1 : Confiscation (art. L428-9 à L428-11)](#228)
+            - [Sous-section 2 : Frais de validation du permis de chasser (art. L428-12 à L428-13)](#229)
+            - [Sous-section 3 : Retrait et suspension du permis de chasser (art. L428-14 à L428-17)](#230)
+              - [Paragraphe 1 : Retrait (art. L428-14)](#231)
+              - [Paragraphe 2 : Suspension (art. L428-15 à L428-17)](#232)
+            - [Sous-section 4 : Suspension du permis de conduire (art. L428-18)](#233)
+          - [Section 4 : Constatation des infractions et poursuites (art. L428-19 à L428-34)](#234)
+            - [Sous-section 1 : Constatation des infractions (art. L428-19 à L428-26)](#235)
+            - [Sous-section 2 : Recherche des infractions (art. L428-27 à L428-32)](#236)
+            - [Sous-section 3 : Poursuites (art. L428-33)](#237)
+            - [Sous-section 4 : Dispositions diverses (art. L428-34)](#238)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L429-1 à L429-40)](#239)
+          - [Section 1 : Administration de la chasse sur le ban communal (art. L429-2 à L429-18)](#240)
+            - [Sous-section 1 : Ban communal (art. L429-2 à L429-6)](#241)
+            - [Sous-section 2 : Exploitation du droit de chasse (art. L429-7 à L429-16)](#242)
+            - [Sous-section 3 : Enclaves (art. L429-17)](#243)
+            - [Sous-section 4 : Dispositions diverses (art. L429-18)](#244)
+          - [Section 2 : Exercice de la chasse (art. L429-19 à L429-22)](#245)
+            - [Sous-section 1 : Temps de chasse (art. L429-19)](#246)
+            - [Sous-section 3 : Modes et moyens de chasse (art. L429-20)](#247)
+            - [Sous-section 4 : Commercialisation et transport du gibier (art. L429-21 à L429-22)](#248)
+          - [Section 3 : Indemnisation des dégâts de gibier (art. L429-23 à L429-32)](#249)
+            - [Sous-section 1 : Régime général (art. L429-23 à L429-26)](#250)
+            - [Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers (art. L429-27 à L429-32)](#251)
+          - [Section 4 : Pénalités (art. L429-33 à L429-40)](#252)
+            - [Sous-section 1 : Peines (art. L429-33 à L429-37)](#253)
+              - [Paragraphe 1 : Territoire (art. L429-33 à L429-36)](#254)
+              - [Paragraphe 2 : Exercice de la chasse (art. L429-37)](#255)
+            - [Sous-section 2 : Récidive (art. L429-38)](#256)
+            - [Sous-section 3 : Peines accessoires et complémentaires (art. L429-39 à L429-40)](#257)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. L430-1 à L438-2)](#258)
+        - [Chapitre Ier : Champ d'application (art. L431-1 à L431-5)](#259)
+          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#260)
+          - [Section 2 : Piscicultures (art. L431-6 à L431-8)](#261)
+          - [Section 2 : Eaux closes (art. L431-5)](#262)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. L432-1 à L432-12)](#263)
+          - [Section 1 : Obligations générales (art. L432-1)](#264)
+          - [Section 2 : Protection de la faune piscicole et de son habitat (art. L432-2 à L432-4)](#265)
+          - [Section 3 : Obligations relatives aux ouvrages (art. L432-5 à L432-9)](#266)
+          - [Section 4 : Contrôle des peuplements (art. L432-10 à L432-12)](#267)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. L433-3 à L433-2)](#268)
+          - [Section 1 : Orientations de bassin. (art. L433-1)](#269)
+          - [Section 2 : Schéma départemental de vocation piscicole (art. L433-2)](#270)
+        - [Chapitre IV : Organisation des pêcheurs (art. L434-1 à L434-6)](#271)
+          - [Section 1 : Conseil supérieur de la pêche (art. L434-1 à L434-2)](#272)
+          - [Section 2 : Organisation de la pêche de loisir (art. L434-3 à L434-5)](#273)
+          - [Section 3 : Organisation de la pêche professionnelle (art. L434-6)](#274)
+        - [Chapitre V : Droit de pêche (art. L435-1 à L435-9)](#275)
+          - [Section 1 : Droit de pêche de l'Etat (art. L435-1 à L435-3)](#276)
+          - [Section 2 : Droit de pêche des riverains (art. L435-4 à L435-5)](#277)
+          - [Section 3 : Droit de passage (art. L435-6 à L435-9)](#278)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. L436-1 à L436-16)](#279)
+          - [Section 1 : Dispositions générales (art. L436-1 à L436-8)](#280)
+          - [Section 2 : Autorisations exceptionnelles (art. L436-9)](#281)
+          - [Section 3 : Estuaires (art. L436-10 à L436-11)](#282)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. L436-12)](#283)
+          - [Section 5 : Commercialisation (art. L436-13 à L436-16)](#284)
+        - [Chapitre VII : Dispositions pénales complémentaires (art. L437-1 à L437-23)](#285)
+          - [Section 1 : Recherche et constatation des infractions (art. L437-1 à L437-13)](#286)
+            - [Sous-section 1 : Agents compétents (art. L437-1 à L437-3)](#287)
+            - [Sous-section 2 : Procès-verbaux (art. L437-4 à L437-5)](#288)
+            - [Sous-section 3 : Recherche des infractions (art. L437-6 à L437-12)](#289)
+            - [Sous-section 4 : Gardes-pêche particuliers (art. L437-13)](#290)
+          - [Section 2 : Transaction (art. L437-14)](#291)
+          - [Section 3 : Poursuites (art. L437-15 à L437-17)](#292)
+          - [Section 4 : Action civile (art. L437-18)](#293)
+          - [Section 5 : Sanctions (art. L437-19 à L437-23)](#294)
+            - [Sous-section 1 : Circonstances aggravantes (art. L437-19)](#295)
+            - [Sous-section 2 : Astreinte (art. L437-20)](#296)
+            - [Sous-section 3 : Confiscation (art. L437-21)](#297)
+            - [Sous-section 4 : Exclusion des associations agréées (art. L437-22)](#298)
+            - [Sous-section 5 : Responsabilité des personnes morales (art. L437-23)](#299)
+        - [Chapitre VIII : Dispositions diverses (art. L438-1 à L438-2)](#300)
+    - [Livre V : Prévention des pollutions, des risques et des nuisances (art. L511-1 à L581-45)](#301)
+      - [Titre Ier : Installations classées pour la protection de l'environnement (art. L511-1 à L517-2)](#302)
+        - [Chapitre Ier : Dispositions générales (art. L511-1 à L511-2)](#303)
+        - [Chapitre II : Installations soumises à autorisation ou à déclaration. (art. L512-1 à L512-16)](#304)
+          - [Section 1 : Installations soumises à autorisation (art. L512-1 à L512-7)](#305)
+          - [Section 2 : Installations soumises à déclaration. (art. L512-8 à L512-13)](#306)
+          - [Section 3 : Dispositions communes à l'autorisation et à la déclaration. (art. L512-14 à L512-16)](#307)
+        - [Chapitre III : Installations fonctionnant au bénéfice des droits acquis (art. L513-1)](#308)
+        - [Chapitre IV : Contrôle et contentieux des installations classées (art. L514-1 à L514-20)](#309)
+          - [Section 1 : Contrôle et sanctions administratifs (art. L514-1 à L514-8)](#310)
+          - [Section 2 : Dispositions pénales (art. L514-9 à L514-18)](#311)
+          - [Section 3 : Protection des tiers (art. L514-19 à L514-20)](#312)
+        - [Chapitre V : Dispositions particulières à certaines installations (art. L515-1 à L515-14)](#313)
+          - [Section 1 : Carrières (art. L515-1 à L515-6)](#314)
+          - [Section 2 : Stockage souterrain de produits dangereux (art. L515-7)](#315)
+          - [Section 3 : Installations susceptibles de donner lieu à des servitudes d'utilité publique (art. L515-8 à L515-12)](#316)
+          - [Section 4 : Installations où s'effectuent des opérations soumises à agrément (art. L515-13)](#317)
+          - [Section 5 : Installations d'élimination de déchets (art. L515-14)](#318)
+        - [Chapitre VI : Dispositions financières (art. L516-1)](#319)
+        - [Chapitre VII : Dispositions diverses (art. L517-1 à L517-2)](#320)
+      - [Titre II : Produits chimiques et biocides (art. L521-1 à L522-18)](#321)
+        - [Chapitre Ier : Contrôle des produits chimiques (art. L521-1 à L521-24)](#322)
+          - [Section 1 : Déclaration des substances nouvelles (art. L521-3 à L521-5)](#323)
+          - [Section 3 : Contrôle et constatation des infractions (art. L521-12 à L521-16)](#324)
+          - [Section 2 : Dispositions communes aux substances et préparations (art. L521-6 à L521-11)](#325)
+          - [Section 4 : Sanctions administratives (art. L521-17 à L521-20)](#326)
+          - [Section 5 : Sanctions pénales (art. L521-21 à L521-24)](#327)
+        - [Chapitre II : Contrôle de la mise sur le marché des substances actives biocides et autorisation de mise sur le marché des produits biocides (art. L522-1 à L522-18)](#328)
+          - [Section 1 : Contrôle des substances actives (art. L522-2 à L522-3)](#329)
+          - [Section 2 : Contrôle de la mise sur le marché des produits biocides (art. L522-4 à L522-7)](#330)
+          - [Section 3 : Dispositions diverses (art. L522-8 à L522-14)](#331)
+          - [Section 4 : Contrôles et sanctions (art. L522-15 à L522-18)](#332)
+      - [Titre III : Organismes génétiquement modifiés (art. L531-1 à L537-1)](#333)
+        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-5)](#334)
+        - [Chapitre II : Utilisation confinée des organismes génétiquement modifiés (art. L532-1 à L532-6)](#335)
+        - [Chapitre III : Dissémination volontaire et mise sur le marché d'organismes génétiquement modifiés. (art. L533-1 à L533-7)](#336)
+        - [Chapitre IV : Surveillance biologique du territoire (art. L534-1)](#337)
+        - [Chapitre V : Contrôle et sanctions administratifs (art. L535-1 à L535-8)](#338)
+        - [Chapitre VI : Dispositions pénales (art. L536-1 à L536-7)](#339)
+          - [Section 1 : Constatation des infractions (art. L536-1 à L536-2)](#340)
+          - [Section 2 : Sanctions (art. L536-3 à L536-7)](#341)
+        - [Chapitre VII : Dispositions diverses (art. L537-1)](#342)
+      - [Titre IV : Déchets (art. L541-1 à L542-14)](#343)
+        - [Chapitre Ier : Elimination des déchets et récupération des matériaux (art. L541-1 à L541-50)](#344)
+          - [Section 1 : Dispositions générales (art. L541-1 à L541-8)](#345)
+          - [Section 2 : Production et distribution de produits générateurs de déchets (art. L541-9 à L541-10)](#346)
+          - [Section 3 : Elimination des déchets (art. L541-11 à L541-39)](#347)
+            - [Sous-section 1 : Plans d'élimination des déchets (art. L541-11 à L541-15)](#348)
+            - [Sous-section 2 : Stockages souterrains des déchets (art. L541-16 à L541-20)](#349)
+            - [Sous-section 3 : Collecte des déchets ménagers et assimilés (art. L541-21)](#350)
+            - [Sous-section 4 : Installations ayant pour objet l'élimination des déchets (art. L541-22 à L541-30)](#351)
+            - [Sous-section 5 : Récupération des déchets (art. L541-31 à L541-39)](#352)
+          - [Section 4 : Dispositions particulières aux mouvements transfrontaliers de déchets (art. L541-40 à L541-42)](#353)
+          - [Section 5 : Dispositions financières (art. L541-43)](#354)
+          - [Section 6 : Dispositions pénales (art. L541-44 à L541-48)](#355)
+            - [Sous-section 1 : Constatation des infractions (art. L541-44 à L541-45)](#356)
+            - [Sous-section 2 : Sanctions (art. L541-46 à L541-48)](#357)
+          - [Section 7 : Dispositions diverses (art. L541-49 à L541-50)](#358)
+        - [Chapitre II : Dispositions particulières aux déchets radioactifs (art. L542-1 à L542-14)](#359)
+      - [Titre V : Dispositions particulières à certains ouvrages ou installations (art. L551-1 à L553-4)](#360)
+        - [Chapitre Ier : Etude de dangers (art. L551-1)](#361)
+        - [Chapitre II : Garanties financières (art. L552-1)](#362)
+        - [Chapitre III : Eoliennes (art. L553-2 à L553-4)](#363)
+      - [Titre VI : Prévention des risques naturels (art. L561-1 à L563-2)](#364)
+        - [Chapitre Ier : Mesures de sauvegarde des populations menacées par certains risques naturels majeurs (art. L561-1 à L561-5)](#365)
+        - [Chapitre II : Plans de prévention des risques naturels prévisibles (art. L562-1 à L562-9)](#366)
+        - [Chapitre III : Autres mesures de prévention (art. L563-1 à L563-2)](#367)
+      - [Titre VII : Prévention des nuisances acoustiques et visuelles (art. L571-1 à L572-1)](#368)
+        - [Chapitre Ier : Lutte contre le bruit (art. L571-1 à L571-26)](#369)
+          - [Section 1 : Emissions sonores des objets (art. L571-2 à L571-5)](#370)
+          - [Section 2 : Activités bruyantes (art. L571-6 à L571-8)](#371)
+          - [Section 3 : Aménagements et infrastructures de transports terrestres (art. L571-9 à L571-10)](#372)
+          - [Section 4 : Bruit des transports aériens (art. L571-11 à L571-16)](#373)
+            - [Sous-section 1 : Plan d'exposition au bruit (art. L571-11)](#374)
+            - [Sous-section 2 : Environnement des aérodromes (art. L571-12)](#375)
+            - [Sous-section 3 : Commission consultative de l'environnement (art. L571-13)](#376)
+            - [Sous-section 4 : Aide aux riverains (art. L571-14 à L571-16)](#377)
+          - [Section 5 : Contrôles et sanctions administratifs (art. L571-17)](#378)
+          - [Section 6 : Dispositions pénales (art. L571-18 à L571-26)](#379)
+            - [Sous-section 1 : Constatation des infractions. (art. L571-18 à L571-21)](#380)
+            - [Sous-section 2 : Sanctions. (art. L571-22 à L571-26)](#381)
+        - [Chapitre II : Prévention des nuisances visuelles (art. L572-1)](#382)
+      - [Titre VIII : Protection du cadre de vie (art. L581-1 à L581-45)](#383)
+        - [Chapitre unique : Publicité, enseignes et préenseignes (art. L581-1 à L581-45)](#384)
+          - [Section 1 : Principes généraux (art. L581-1 à L581-3)](#385)
+          - [Section 2 : Publicité (art. L581-4 à L581-17)](#386)
+            - [Sous-section 1 : Dispositions générales. (art. L581-4 à L581-6)](#387)
+            - [Sous-section 2 : Publicité en dehors des agglomérations. (art. L581-7)](#388)
+            - [Sous-section 3 : Publicité à l'intérieur des agglomérations. (art. L581-8 à L581-13)](#389)
+            - [Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie. (art. L581-14)](#390)
+            - [Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité. (art. L581-15 à L581-17)](#391)
+          - [Section 3 : Enseignes et préenseignes (art. L581-18 à L581-20)](#392)
+          - [Section 4 : Dispositions communes (art. L581-21 à L581-24)](#393)
+          - [Section 5 : Contrats de louage d'emplacement (art. L581-25)](#394)
+          - [Section 6 : Sanctions (art. L581-26 à L581-45)](#395)
+            - [Sous-section 1 : Procédure administrative (art. L581-26 à L581-33)](#396)
+            - [Sous-section 2 : Sanctions pénales (art. L581-34 à L581-45)](#397)
+    - [Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte (art. L611-1 à L656-1)](#398)
+      - [Titre Ier : Dispositions applicables en Nouvelle-Calédonie (art. L611-1 à L614-1)](#399)
+        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement. (art. L611-1 à L611-4)](#400)
+        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L612-1 à L612-2)](#401)
+        - [Chapitre III : Antarctique (art. L613-1)](#402)
+        - [Chapitre IV : Autres dispositions (art. L614-1)](#403)
+      - [Titre II : Dispositions applicables en Polynésie Française (art. L621-1 à L624-1)](#404)
+        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L621-1 à L621-4)](#405)
+        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L622-1 à L622-2)](#406)
+        - [Chapitre III : Antarctique (art. L623-1)](#407)
+        - [Chapitre IV : Autres dispositions (art. L624-1)](#408)
+      - [Titre III : Dispositions applicables à Wallis et Futuna (art. L631-1 à L635-1)](#409)
+        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L631-1 à L631-4)](#410)
+        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L632-1 à L632-2)](#411)
+        - [Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique (art. L633-1)](#412)
+        - [Chapitre IV : Antarctique (art. L634-1)](#413)
+        - [Chapitre V : Autres dispositions (art. L635-1)](#414)
+      - [Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises (art. L640-1 à L640-3)](#415)
+      - [Titre V : Dispositions applicables à Mayotte (art. L651-1 à L656-1)](#416)
+        - [Chapitre Ier : Dispositions communes (art. L651-1 à L651-8)](#417)
+        - [Chapitre II : Milieux physiques (art. L652-1 à L652-3)](#418)
+        - [Chapitre III : Espaces naturels (art. L653-1 à L653-2)](#419)
+        - [Chapitre IV : Faune et flore (art. L654-1 à L654-9)](#420)
+        - [Chapitre V : Prévention des pollutions, des risques et des nuisances (art. L655-1 à L655-7)](#421)
+        - [Chapitre VI : Antarctique (art. L656-1)](#422)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. L711-1 à L713-9)](#423)
+      - [Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. L711-1 à L713-9)](#424)
+        - [Chapitre Ier : Dispositions communes (art. L711-1 à L711-4)](#425)
+        - [Chapitre II : Déclaration et autorisation (art. L712-1 à L712-5)](#426)
+        - [Chapitre III : Contrôles et sanctions (art. L713-1 à L713-9)](#427)
+          - [Section 1 : Contrôles et sanctions administratifs (art. L713-1 à L713-4)](#428)
+          - [Section 2 : Sanctions pénales (art. L713-5 à L713-9)](#429)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -4780,7 +4782,54 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4424-36 (V)
 
 
-##### Section 5 : Communautés locales de l'eau<a id=38></a>
+##### Section 5 : Comités de bassin et offices de l'eau des départements d'outre-mer<a id=38></a>
+
+###### Article L213-17
+
+I. - Sont établies d'office les redevances dues par les personnes :
+
+1° Qui n'ont pas produit la déclaration des éléments nécessaires à leur calcul à la date fixée en application de l'article L.
+213-14, après l'expiration d'un délai de trente jours suivant la mise en demeure préalable qui leur est adressée par
+l'office ;
+
+2° Qui se sont abstenues de répondre aux demandes de renseignements, justifications ou éclaircissements présentées sur le
+fondement de l'article L. 213-15 ;
+
+3° Qui ont refusé de se soumettre aux contrôles ou qui ont fait obstacle à leur déroulement.
+
+II. - En cas de taxation d'office par suite d'opposition à contrôle, les suppléments de droits mis à la charge du redevable
+sont assortis d'une majoration de 100 %.
+
+III. - En cas d'imposition d'office, les bases ou éléments servant au calcul des redevances sont portés à la connaissance du
+redevable au moins trente jours avant la mise en recouvrement des redevances, au moyen d'une notification précisant les
+modalités de détermination de ces bases ou éléments et le montant retenu de la redevance, ainsi que la faculté pour le
+redevable de présenter ses observations dans ce même délai.
+
+Cette notification interrompt la prescription.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cite_:
+
+  - Code de l'environnement - art. L213-14 (AbD)
+  - Code de l'environnement - art. L213-15 (AbD)
+
+
+##### Section 5 : Communautés locales de l'eau<a id=39></a>
 
 ###### Article L213-9
 
@@ -4824,7 +4873,7 @@ _Cite_:
   - Code de l'environnement - art. L211-7 (M)
 
 
-##### Section 6 : Etablissements publics à vocation de maîtrise d'ouvrage<a id=39></a>
+##### Section 6 : Etablissements publics à vocation de maîtrise d'ouvrage<a id=40></a>
 
 ###### Article L213-10
 
@@ -4973,9 +5022,331 @@ _Cité par_:
   - Code rural - art. R114-7 (V)
 
 
-#### Chapitre IV : Activités, installations et usage<a id=40></a>
+##### Section 7 : Offices de l'eau des départements d'outre-mer<a id=41></a>
 
-##### Section 1 : Régimes d'autorisation ou de déclaration<a id=41></a>
+###### Article L213-13
+
+I. - Il est créé, dans chacun des départements d'outre-mer, un office de l'eau, établissement public local à caractère
+administratif, rattaché au département.
+
+En liaison avec le comité de bassin, et conformément aux principes de gestion des ressources et des milieux naturels définis
+à l'article L. 110-1, l'office de l'eau est chargé de faciliter les diverses actions d'intérêt commun dans le domaine de la
+gestion de l'eau et des milieux aquatiques. Sans préjudice des compétences dévolues en la matière à l'Etat et aux
+collectivités territoriales, il exerce les missions suivantes :
+
+a) L'étude et le suivi des ressources en eau, des milieux aquatiques et littoraux et de leurs usages ;
+
+b) Le conseil et l'assistance technique aux maîtres d'ouvrage, la formation et l'information dans le domaine de la gestion de
+l'eau et des milieux aquatiques ;
+
+c) Sur proposition du comité de bassin, la programmation et le financement d'actions et de travaux.
+
+II. - L'office de l'eau est administré par un conseil d'administration qui comprend :
+
+1° Des représentants de la région, du département et des communes, ainsi que des établissements publics de coopération
+intercommunale ou des syndicats mixtes ayant des compétences dans le domaine de l'eau ;
+
+2° Des représentants des services de l'Etat dans le département ;
+
+3° Des représentants d'usagers et des milieux socioprofessionnels ;
+
+4° Des représentants d'associations agréées de consommateurs et de protection de l'environnement ;
+
+5° Des personnalités qualifiées dans le domaine de l'eau et des milieux aquatiques et littoraux.
+
+Les membres nommés au titre du 1° constituent au moins 50 % du conseil d'administration.
+
+Un représentant du personnel siège au conseil d'administration avec voix consultative.
+
+La présidence de l'office est assurée par le président du conseil général.
+
+Le directeur de l'office est nommé, après avis du préfet, par arrêté du président du conseil général.
+
+Le préfet exerce les fonctions de commissaire du Gouvernement auprès de l'office.
+
+III. - Le personnel de l'office est recruté et géré dans le cadre des dispositions législatives et réglementaires applicables
+à la fonction publique territoriale.
+
+IV. - Les ressources de l'office se composent :
+
+1° De redevances pour prélèvement d'eau, sur proposition du comité de bassin et dans le cadre d'un programme pluriannuel
+d'intervention ;
+
+2° De redevances pour services rendus ;
+
+3° De subventions ;
+
+4° Des ressources financières prévues par les lois et règlements en vigueur.
+
+Le contrôle de légalité et le contrôle budgétaire des actes de l'office s'exercent conformément aux dispositions de l'article
+L. 3241-1 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, II JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Décret n°2005-1541 du 9 décembre 2005 - art. 1 (Ab)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 74 (V)
+  - Décret n°2017-401 du 27 mars 2017 (V)
+  - Code de l'environnement - art. L213-14 (V)
+  - Code de l'environnement - art. L652-4 (V)
+  - Code de l'environnement - art. R213-60 (V)
+  - Code de l'environnement - art. R213-61 (V)
+  - Code général des collectivités territoriales - art. L3232-1-1 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3241-1 (M)
+  - Code de l'environnement - art. L110-1 (M)
+
+
+###### Article L213-14
+
+I. - Dans le cas où le comité de bassin confie à l'office de l'eau, en application des dispositions du c du I de l'article L.
+213-13, la programmation et le financement d'actions et de travaux, l'office de l'eau arrête un programme pluriannuel
+d'intervention déterminant les domaines et les conditions de son intervention et prévoyant le montant des dépenses et des
+recettes nécessaires à sa mise en oeuvre.
+
+II. - Sur proposition du comité de bassin et dans le cadre du programme pluriannuel ci-dessus mentionné, l'office établit et
+perçoit une redevance pour prélèvement de l'eau sur les personnes publiques ou privées prélevant l'eau dans le milieu
+naturel. La redevance est calculée en appliquant au volume d'eau prélevé des taux qui tiennent compte de l'usage de l'eau
+prélevée.
+
+III. - Dans le cas où elle est établie, la redevance pour prélèvement d'eau est assise sur le volume d'eau prélevé dans le
+milieu naturel au cours d'une année. Elle est due par la personne effectuant le prélèvement. Les obligations de déclaration
+auxquelles sont assujettis ceux qui prélèvent de l'eau dans les milieux naturels sont fixées par décret.
+
+IV. - Le taux de la redevance pour prélèvement d'eau est fixé par délibération du conseil d'administration de l'office après
+avis conforme du comité de bassin dans les limites suivantes :
+
+- pour les prélèvements d'eau destinée à l'alimentation en eau potable : entre 0,5 centime d'euro par mètre cube et 5
+centimes d'euro par mètre cube ;
+
+- pour les prélèvements d'eau réalisés pour l'irrigation de terres agricoles : entre 0,1 centime d'euro par mètre cube et 0,5
+centime d'euro par mètre cube ;
+
+- pour les prélèvements d'eau réalisés pour les autres activités économiques : entre 0,25 centime d'euro par mètre cube et
+2,5 centimes d'euro par mètre cube ;
+
+Lorsque le prélèvement est destiné à plusieurs usages, la redevance est calculée au prorata des volumes utilisés pour chaque
+usage.
+
+Lorsque les prélèvements sont destinés à une distribution publique, les personnes effectuant le prélèvement sont tenues de
+répartir équitablement le coût de cette redevance sur tous les consommateurs.
+
+V. - Sont exonérés de la redevance :
+
+1° Les prélèvements effectués en mer ;
+
+2° Les exhaures de mines ainsi que les prélèvements rendus nécessaires par l'exécution de travaux souterrains, dans la mesure
+où l'eau prélevée n'est pas utilisée directement à des fins domestiques, industrielles ou agricoles ;
+
+3° Les prélèvements liés à l'aquaculture ;
+
+4° Les prélèvements destinés à la réalimentation de milieux naturels ;
+
+5° Les prélèvements destinés à la lutte contre l'incendie ;
+
+6° Les prélèvements d'eau destinés à la production d'énergies renouvelables ;
+
+7° Les prélèvements d'eaux souterraines effectués lors d'un drainage réalisé en vue de maintenir à sec des bâtiments ou des
+ouvrages.
+
+VI. - La redevance n'est pas due lorsque le volume d'eau prélevé est inférieur à 50 000 mètres cubes par an.
+
+VII. - En l'absence de mesure des volumes prélevés, la redevance est assise sur un volume forfaitaire selon l'activité.
+
+La valeur des volumes forfaitaires spécifiques à l'activité est fixée dans des conditions déterminées par décret, après avis
+du Comité national de l'eau.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code de l'environnement - art. L213-13 (VD)
+  - Code de l'environnement - art. L213-17 (AbD)
+  - Code de l'environnement - art. R213-71 (V)
+
+
+###### Article L213-15
+
+I. - L'office contrôle l'ensemble des éléments permettant de vérifier l'assiette de la redevance. Le contrôle peut être
+effectué sur pièces et sur place.
+
+II. - L'office peut demander la production des pièces nécessaires ainsi que toute justification utile au contrôle du volume
+prélevé.
+
+III. - Le contrôle sur place est effectué sous la responsabilité des agents de l'office habilités par son directeur. L'office
+informe préalablement le redevable qu'il peut se faire assister au cours des opérations de contrôle par un conseil de son
+choix.
+
+IV. - L'office notifie au redevable les résultats du contrôle.
+
+V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code de l'environnement - art. L213-17 (V)
+
+
+###### Article L213-16
+
+I. - L'office dispose du droit de communication qui lui permet de prendre connaissance et, au besoin, copie des documents
+détenus par des tiers en vue de leur utilisation à des fins d'assiette ou de contrôle de la redevance.
+
+II. - Les administrations de l'Etat, les collectivités territoriales, les entreprises contrôlées par l'Etat, ainsi que les
+établissements ou organismes de toute nature soumis au contrôle de l'autorité administrative, doivent communiquer à l'office,
+sur sa demande, les documents de service en leur possession nécessaires à l'accomplissement du contrôle de l'assiette sans
+pouvoir lui opposer le secret professionnel.
+
+III. - L'obligation de secret professionnel, telle qu'elle est définie à l'article 226-13 du code pénal, s'applique à toutes
+les personnes appelées à l'occasion de leurs fonctions ou attributions à intervenir dans l'assiette, le contrôle, le
+recouvrement ou le contentieux des redevances.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (M)
+
+
+###### Article L213-18
+
+Les omissions totales ou partielles constatées dans l'assiette des redevances, les insuffisances, les inexactitudes ou les
+erreurs d'imposition peuvent être réparées par l'office jusqu'à la fin de la troisième année qui suit celle au titre de
+laquelle la redevance est due.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code de l'environnement - art. D213-75 (VD)
+  - Code de l'environnement - art. D213-76-2 (VD)
+
+
+###### Article L213-19
+
+L'office peut prononcer d'office le dégrèvement ou la restitution de redevances et pénalités qui n'étaient pas dues.
+
+L'office peut accorder des remises totales ou partielles de redevances et pénalités sur demande motivée du redevable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+
+###### Article L213-20
+
+Le directeur de l'office établit et rend exécutoires les titres de recettes relatifs à la redevance.
+
+Les redevances sont recouvrées par le comptable de l'office comme en matière de contributions directes.
+
+La date de mise en recouvrement est le point de départ des délais du présent article.
+
+La date d'exigibilité est fixée au dernier jour du mois qui suit la mise en recouvrement.
+
+La date limite de paiement est fixée au 15 du deuxième mois qui suit la mise en recouvrement. A défaut de paiement à cette
+date, le montant de la redevance est majoré de 10 %.
+
+Les redevances ou suppléments de redevances inférieurs à 100 euros ne sont pas mis en recouvrement.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
+  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code de l'environnement - art. R213-76-4 (V)
+  - Code de l'environnement - art. R213-76-6 (V)
+
+
+#### Chapitre IV : Activités, installations et usage<a id=42></a>
+
+##### Section 1 : Régimes d'autorisation ou de déclaration<a id=43></a>
 
 ###### Article L214-1
 
@@ -5647,7 +6018,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L135 P (V)
 
 
-##### Section 2 : Circulation des engins et embarcations<a id=42></a>
+##### Section 2 : Circulation des engins et embarcations<a id=44></a>
 
 ###### Article L214-12
 
@@ -5723,7 +6094,7 @@ _Cité par_:
   - Code du tourisme. - art. L343-6 (T)
 
 
-##### Section 3 : Assainissement<a id=43></a>
+##### Section 3 : Assainissement<a id=45></a>
 
 ###### Article L214-14
 
@@ -5747,7 +6118,7 @@ _Cité par_:
   - Code de l'environnement - art. L652-1 (V)
 
 
-##### Section 4 : Prix de l'eau<a id=44></a>
+##### Section 4 : Prix de l'eau<a id=46></a>
 
 ###### Article L214-15
 
@@ -5829,9 +6200,9 @@ _Cite_:
   - Code de l'environnement - art. L214-15 (M)
 
 
-#### Chapitre V : Dispositions propres aux cours d'eau non domaniaux<a id=45></a>
+#### Chapitre V : Dispositions propres aux cours d'eau non domaniaux<a id=47></a>
 
-##### Section 1 : Droits des riverains<a id=46></a>
+##### Section 1 : Droits des riverains<a id=48></a>
 
 ###### Article L215-1
 
@@ -6002,7 +6373,7 @@ _Anciens textes_:
   - Code rural ancien - art. 102 (Ab)
 
 
-##### Section 2 : Police et conservation des eaux<a id=47></a>
+##### Section 2 : Police et conservation des eaux<a id=49></a>
 
 ###### Article L215-7
 
@@ -6188,9 +6559,9 @@ _Anciens textes_:
   - Code rural ancien - art. 113 (Ab)
 
 
-##### Section 3 : Curage, entretien, élargissement et redressement<a id=48></a>
+##### Section 3 : Curage, entretien, élargissement et redressement<a id=50></a>
 
-##### Sous-section 1 : Curage et entretien<a id=49></a>
+##### Sous-section 1 : Curage et entretien<a id=51></a>
 
 ###### Article L215-14
 
@@ -6381,7 +6752,7 @@ _Anciens textes_:
   - Code rural ancien - art. 119 (Ab)
 
 
-##### Sous-section 2 : Elargissement, régularisation et redressement<a id=50></a>
+##### Sous-section 2 : Elargissement, régularisation et redressement<a id=52></a>
 
 ###### Article L215-20
 
@@ -6409,7 +6780,7 @@ _Cite_:
   - Code de l'environnement L214-1 à L214-9, L215-16 à L215-18
 
 
-##### Sous-section 3 : Dispositions communes<a id=51></a>
+##### Sous-section 3 : Dispositions communes<a id=53></a>
 
 ###### Article L215-21
 
@@ -6527,9 +6898,9 @@ _Anciens textes_:
   - Code rural ancien - art. 122-2 (Ab)
 
 
-#### Chapitre VI : Sanctions<a id=52></a>
+#### Chapitre VI : Sanctions<a id=54></a>
 
-##### Section 1 : Sanctions administratives<a id=53></a>
+##### Section 1 : Sanctions administratives<a id=55></a>
 
 ###### Article L216-1
 
@@ -6622,9 +6993,9 @@ _Cité par_:
   - Code de l'environnement - art. R514-3-1 (V)
 
 
-##### Section 2 : Dispositions pénales<a id=54></a>
+##### Section 2 : Dispositions pénales<a id=56></a>
 
-##### Sous-section 1 : Constatation des infractions<a id=55></a>
+##### Sous-section 1 : Constatation des infractions<a id=57></a>
 
 ###### Article L216-3
 
@@ -6793,7 +7164,7 @@ _Cité par_:
   - Code de l'environnement - art. L216-9 (VT)
 
 
-##### Sous-section 2 : Sanctions pénales<a id=56></a>
+##### Sous-section 2 : Sanctions pénales<a id=58></a>
 
 ###### Article L216-6
 
@@ -7158,7 +7529,7 @@ _Cité par_:
   - Code de l'environnement - art. L555-2 (VD)
 
 
-#### Chapitre VII : Défense nationale<a id=57></a>
+#### Chapitre VII : Défense nationale<a id=59></a>
 
 ###### Article L217-1
 
@@ -7194,11 +7565,11 @@ _Cite_:
   - Code de l'environnement - art. L216-3 (VT)
 
 
-#### Chapitre VIII : Dispositions spéciales aux eaux marines et aux voies ouvertes à la navigation maritime<a id=58></a>
+#### Chapitre VIII : Dispositions spéciales aux eaux marines et aux voies ouvertes à la navigation maritime<a id=60></a>
 
-##### Section 1 : Pollution par les rejets des navires<a id=59></a>
+##### Section 1 : Pollution par les rejets des navires<a id=61></a>
 
-##### Sous-section 1 : Responsabilité civile et obligation d'assurance des propriétaires de navires pour les dommages résultant de la pollution par les hydrocarbures<a id=60></a>
+##### Sous-section 1 : Responsabilité civile et obligation d'assurance des propriétaires de navires pour les dommages résultant de la pollution par les hydrocarbures<a id=62></a>
 
 ###### Article L218-1
 
@@ -7496,7 +7867,7 @@ _Abrogé par_:
   - Loi n°2013-431 du 28 mai 2013 - art. 30
 
 
-##### Sous-section 2 : Dispositions répressives relatives aux rejets polluants des navires<a id=61></a>
+##### Sous-section 2 : Dispositions répressives relatives aux rejets polluants des navires<a id=63></a>
 
 ###### Article L218-10
 
@@ -8436,7 +8807,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2132-29 (V)
 
 
-##### Section 2 : Pollution due aux opérations d'exploration ou d'exploitation du fond de la mer ou de son sous-sol<a id=62></a>
+##### Section 2 : Pollution due aux opérations d'exploration ou d'exploitation du fond de la mer ou de son sous-sol<a id=64></a>
 
 ###### Article L218-32
 
@@ -8799,9 +9170,9 @@ _Cite_:
   - Code de l'environnement - art. L218-39 (V)
 
 
-##### Section 3 : Pollution par les opérations d'immersion<a id=63></a>
+##### Section 3 : Pollution par les opérations d'immersion<a id=65></a>
 
-##### Sous-section 1 : Autorisations<a id=64></a>
+##### Sous-section 1 : Autorisations<a id=66></a>
 
 ###### Article L218-42
 
@@ -9012,7 +9383,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2132-29 (V)
 
 
-##### Sous-section 2 : Dispositions pénales<a id=65></a>
+##### Sous-section 2 : Dispositions pénales<a id=67></a>
 
 ###### Article L218-48
 
@@ -9403,7 +9774,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
 
 
-##### Sous-section 3 : Défense nationale<a id=66></a>
+##### Sous-section 3 : Défense nationale<a id=68></a>
 
 ###### Article L218-58
 
@@ -9434,7 +9805,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
 
 
-##### Section 4 : Pollution par les opérations d'incinération<a id=67></a>
+##### Section 4 : Pollution par les opérations d'incinération<a id=69></a>
 
 ###### Article L218-59
 
@@ -9817,7 +10188,7 @@ _Cite_:
   - Code de justice militaire - art. 171 (Ab)
 
 
-##### Section 5 : Mesures de police maritime d'urgence<a id=68></a>
+##### Section 5 : Mesures de police maritime d'urgence<a id=70></a>
 
 ###### Article L218-72
 
@@ -9872,7 +10243,7 @@ _Cité par_:
   - Code de l'environnement - art. R218-6 (V)
 
 
-##### Section 6 : Autres dispositions applicables aux rejets nuisibles en mer ou dans les eaux salées<a id=69></a>
+##### Section 6 : Autres dispositions applicables aux rejets nuisibles en mer ou dans les eaux salées<a id=71></a>
 
 ###### Article L218-73
 
@@ -10137,7 +10508,7 @@ _Cite_:
   - Code de l'environnement - art. L218-73 (M)
 
 
-##### Section 7 : Zone de protection écologique<a id=70></a>
+##### Section 7 : Zone de protection écologique<a id=72></a>
 
 ###### Article L218-81
 
@@ -10169,7 +10540,7 @@ _Créé par_:
   - Loi n°2003-346 du 15 avril 2003 - art. 7 () JORF 16 avril 2003
 
 
-### Titre II : Air et atmosphère<a id=71></a>
+### Titre II : Air et atmosphère<a id=73></a>
 
 ###### Article L220-1
 
@@ -10229,9 +10600,9 @@ _Cité par_:
   - Code minier - art. 141-1 (VT)
 
 
-#### Chapitre Ier : Surveillance de la qualité de l'air et information du public<a id=72></a>
+#### Chapitre Ier : Surveillance de la qualité de l'air et information du public<a id=74></a>
 
-##### Section 1 : Surveillance de la qualité de l'air<a id=73></a>
+##### Section 1 : Surveillance de la qualité de l'air<a id=75></a>
 
 ###### Article L221-1
 
@@ -10443,7 +10814,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Information du public<a id=74></a>
+##### Section 2 : Information du public<a id=76></a>
 
 ###### Article L221-6
 
@@ -10496,9 +10867,9 @@ _Cité par_:
   - Arrêté du 19 avril 2017 - art. 25 (V)
 
 
-#### Chapitre II : Planification<a id=75></a>
+#### Chapitre II : Planification<a id=77></a>
 
-##### Section 1 : Plans régionaux pour la qualité de l'air<a id=76></a>
+##### Section 1 : Plans régionaux pour la qualité de l'air<a id=78></a>
 
 ###### Article L222-1
 
@@ -10660,7 +11031,7 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2004-195 du 24 février 2004 - art. 1 ()
 
 
-##### Section 2 : Plans de protection de l'atmosphère<a id=77></a>
+##### Section 2 : Plans de protection de l'atmosphère<a id=79></a>
 
 ###### Article L222-4
 
@@ -10823,7 +11194,7 @@ _Cité par_:
   - Code de l'environnement - art. L222-5 (V)
 
 
-##### Section 3 : Plans de déplacements urbains<a id=78></a>
+##### Section 3 : Plans de déplacements urbains<a id=80></a>
 
 ###### Article L222-8
 
@@ -10846,7 +11217,7 @@ _Modifié par_:
   - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
-#### Chapitre III : Mesures d'urgence<a id=79></a>
+#### Chapitre III : Mesures d'urgence<a id=81></a>
 
 ###### Article L223-1
 
@@ -10906,9 +11277,9 @@ _Cité par_:
   - Code de l'environnement - art. L652-1 (M)
 
 
-#### Chapitre IV : Mesures techniques nationales de prévention de la pollution atmosphérique et d'utilisation rationnelle de l'énergie<a id=80></a>
+#### Chapitre IV : Mesures techniques nationales de prévention de la pollution atmosphérique et d'utilisation rationnelle de l'énergie<a id=82></a>
 
-##### Section 1 : Dispositions générales<a id=81></a>
+##### Section 1 : Dispositions générales<a id=83></a>
 
 ###### Article L224-1
 
@@ -11016,7 +11387,7 @@ _Cite_:
   - Code de l'environnement - art. L224-1 (M)
 
 
-##### Section 2 : Véhicules automobiles<a id=82></a>
+##### Section 2 : Véhicules automobiles<a id=84></a>
 
 ###### Article L224-3
 
@@ -11133,7 +11504,7 @@ _Cité par_:
   - Code de l'environnement - art. L224-1 (M)
 
 
-#### Chapitre V : Dispositions financières et fiscales<a id=83></a>
+#### Chapitre V : Dispositions financières et fiscales<a id=85></a>
 
 ###### Article L225-1
 
@@ -11184,7 +11555,7 @@ _Modifié par_:
   - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-#### Chapitre VI : Contrôles et sanctions<a id=84></a>
+#### Chapitre VI : Contrôles et sanctions<a id=86></a>
 
 ###### Article L226-1
 
@@ -11207,7 +11578,7 @@ _Abrogé par_:
   - Ordonnance n°2012-34 du 11 janvier 2012 - art. 5
 
 
-##### Section 1 : Recherche et constatation des infractions<a id=85></a>
+##### Section 1 : Recherche et constatation des infractions<a id=87></a>
 
 ###### Article L226-2
 
@@ -11397,7 +11768,7 @@ _Abrogé par_:
   - Ordonnance n°2012-34 du 11 janvier 2012 - art. 5
 
 
-##### Section 2 : Sanctions<a id=86></a>
+##### Section 2 : Sanctions<a id=88></a>
 
 ###### Article L226-6
 
@@ -11610,7 +11981,7 @@ _Cite_:
   - Code de l'environnement - art. L226-9 (VD)
 
 
-#### Chapitre VII : Dispositions particulières aux pollutions causées par des substances radioactives<a id=87></a>
+#### Chapitre VII : Dispositions particulières aux pollutions causées par des substances radioactives<a id=89></a>
 
 ###### Article L227-1
 
@@ -11637,9 +12008,9 @@ _Cité par_:
   - Décret n°2007-1557 du 2 novembre 2007 - art. 18 (V)
 
 
-#### Chapitre VIII : Dispositions diverses<a id=88></a>
+#### Chapitre VIII : Dispositions diverses<a id=90></a>
 
-##### Section 1 : Défense nationale<a id=89></a>
+##### Section 1 : Défense nationale<a id=91></a>
 
 ###### Article L228-1
 
@@ -11659,7 +12030,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Itinéraires cyclables<a id=90></a>
+##### Section 2 : Itinéraires cyclables<a id=92></a>
 
 ###### Article L228-2
 
@@ -11682,7 +12053,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre IX : Effet de serre<a id=91></a>
+#### Chapitre IX : Effet de serre<a id=93></a>
 
 ###### Article L229-1
 
@@ -11773,7 +12144,7 @@ _Créé par_:
   - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
-## Livre III : Espaces naturels<a id=92></a>
+## Livre III : Espaces naturels<a id=94></a>
 
 ###### Article L300-1
 
@@ -11801,7 +12172,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-### Titre Ier : Inventaire et mise en valeur du patrimoine naturel<a id=93></a>
+### Titre Ier : Inventaire et mise en valeur du patrimoine naturel<a id=95></a>
 
 ###### Article L310-1
 
@@ -11900,11 +12271,11 @@ _Cité par_:
   - Code de l'environnement - art. L653-1 (M)
 
 
-### Titre II : Littoral<a id=94></a>
+### Titre II : Littoral<a id=96></a>
 
-#### Chapitre Ier : Protection et aménagement du littoral<a id=95></a>
+#### Chapitre Ier : Protection et aménagement du littoral<a id=97></a>
 
-##### Section 1 : Dispositions générales<a id=96></a>
+##### Section 1 : Dispositions générales<a id=98></a>
 
 ###### Article L321-1
 
@@ -12010,7 +12381,7 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004 - art. 2 (V)
 
 
-##### Section 2 : Aménagement et urbanisme<a id=97></a>
+##### Section 2 : Aménagement et urbanisme<a id=99></a>
 
 ###### Article L321-3
 
@@ -12140,7 +12511,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 3 : Extraction de matériaux<a id=98></a>
+##### Section 3 : Extraction de matériaux<a id=100></a>
 
 ###### Article L321-8
 
@@ -12171,7 +12542,7 @@ _Cité par_:
   - Code de l'environnement - art. L653-1 (M)
 
 
-##### Section 4 : Accès au rivage<a id=99></a>
+##### Section 4 : Accès au rivage<a id=101></a>
 
 ###### Article L321-9
 
@@ -12298,7 +12669,7 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de l'urbanisme - art. L160-8 (V)
 
 
-##### Section 5 : Ouvrages d'art reliant les îles au continent<a id=100></a>
+##### Section 5 : Ouvrages d'art reliant les îles au continent<a id=102></a>
 
 ###### Article L321-11
 
@@ -12361,7 +12732,7 @@ _Cité par_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Section 6 : Transport maritime de passagers vers des espaces protégés<a id=101></a>
+##### Section 6 : Transport maritime de passagers vers des espaces protégés<a id=103></a>
 
 ###### Article L321-12
 
@@ -12425,9 +12796,9 @@ _Cité par_:
   - Code de l'environnement - art. R321-11 (V)
 
 
-#### Chapitre II : Conservatoire de l'espace littoral et des rivages lacustres<a id=102></a>
+#### Chapitre II : Conservatoire de l'espace littoral et des rivages lacustres<a id=104></a>
 
-##### Section 1 : Dispositions générales<a id=103></a>
+##### Section 1 : Dispositions générales<a id=105></a>
 
 ###### Article L322-1
 
@@ -12529,9 +12900,9 @@ _Anciens textes_:
   - Code rural L243-2
 
 
-##### Section 2 : Patrimoine du Conservatoire<a id=104></a>
+##### Section 2 : Patrimoine du Conservatoire<a id=106></a>
 
-##### Sous-section 1 : Constitution et aliénations<a id=105></a>
+##### Sous-section 1 : Constitution et aliénations<a id=107></a>
 
 ###### Article L322-3
 
@@ -12705,7 +13076,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 2 : Gestion<a id=106></a>
+##### Sous-section 2 : Gestion<a id=108></a>
 
 ###### Article L322-9
 
@@ -12934,9 +13305,9 @@ _Cite_:
   - Code de procédure pénale - art. 529 (V)
 
 
-##### Section 3 : Administration<a id=107></a>
+##### Section 3 : Administration<a id=109></a>
 
-##### Sous-section 1 : Conseil d'administration<a id=108></a>
+##### Sous-section 1 : Conseil d'administration<a id=110></a>
 
 ###### Article L322-11
 
@@ -12975,7 +13346,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 2 : Conseils de rivage<a id=109></a>
+##### Sous-section 2 : Conseils de rivage<a id=111></a>
 
 ###### Article L322-13
 
@@ -13016,7 +13387,7 @@ _Cite_:
   - Code de l'environnement - art. L322-1 (V)
 
 
-##### Section 4 : Dispositions financières<a id=110></a>
+##### Section 4 : Dispositions financières<a id=112></a>
 
 ###### Article L322-14
 
@@ -13036,11 +13407,11 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-### Titre III : Parcs et réserves<a id=111></a>
+### Titre III : Parcs et réserves<a id=113></a>
 
-#### Chapitre Ier : Parcs nationaux<a id=112></a>
+#### Chapitre Ier : Parcs nationaux<a id=114></a>
 
-##### Section 1 : Création et dispositions générales<a id=113></a>
+##### Section 1 : Création et dispositions générales<a id=115></a>
 
 ###### Article L331-1
 
@@ -13359,7 +13730,7 @@ _Anciens textes_:
   - Code rural L241-2
 
 
-##### Section 2 : Aménagement et gestion<a id=114></a>
+##### Section 2 : Aménagement et gestion<a id=116></a>
 
 ###### Article L331-8
 
@@ -13595,7 +13966,7 @@ _Anciens textes_:
   - Code rural L241-13
 
 
-##### Section 3 : Mise en valeur des zones périphériques<a id=115></a>
+##### Section 3 : Mise en valeur des zones périphériques<a id=117></a>
 
 ###### Article L331-15
 
@@ -13636,7 +14007,7 @@ _Anciens textes_:
   - Code rural L241-10
 
 
-##### Section 4 : Réserves intégrales<a id=116></a>
+##### Section 4 : Réserves intégrales<a id=118></a>
 
 ###### Article L331-16
 
@@ -13677,7 +14048,7 @@ _Anciens textes_:
   - Code rural L241-11
 
 
-##### Section 5 : Indemnités<a id=117></a>
+##### Section 5 : Indemnités<a id=119></a>
 
 ###### Article L331-17
 
@@ -13702,9 +14073,9 @@ _Anciens textes_:
   - Code rural L241-12
 
 
-##### Section 7 : Dispositions pénales<a id=118></a>
+##### Section 7 : Dispositions pénales<a id=120></a>
 
-##### Sous-section 1 : Constatation des infractions et poursuites<a id=119></a>
+##### Sous-section 1 : Constatation des infractions et poursuites<a id=121></a>
 
 ###### Article L331-18
 
@@ -13956,11 +14327,11 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre II : Réserves naturelles<a id=120></a>
+#### Chapitre II : Réserves naturelles<a id=122></a>
 
-##### Section 1 : Réserves naturelles classées<a id=121></a>
+##### Section 1 : Réserves naturelles classées<a id=123></a>
 
-##### Sous-section 1 : Création<a id=122></a>
+##### Sous-section 1 : Création<a id=124></a>
 
 ###### Article L332-1
 
@@ -14401,7 +14772,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle<a id=123></a>
+##### Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle<a id=125></a>
 
 ###### Article L332-9
 
@@ -14497,7 +14868,7 @@ _Modifié par_:
   - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 
-##### Sous-section 3 : Déclassement<a id=124></a>
+##### Sous-section 3 : Déclassement<a id=126></a>
 
 ###### Article L332-10
 
@@ -14541,7 +14912,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*424-7 (V)
 
 
-##### Section 2 : Réserves naturelles volontaires<a id=125></a>
+##### Section 2 : Réserves naturelles volontaires<a id=127></a>
 
 ###### Article L332-11
 
@@ -14582,9 +14953,9 @@ _Anciens textes_:
   - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
-##### Section 3 : Dispositions communes<a id=126></a>
+##### Section 3 : Dispositions communes<a id=128></a>
 
-##### Sous-section 1 : Protection des réserves naturelles<a id=127></a>
+##### Sous-section 1 : Protection des réserves naturelles<a id=129></a>
 
 ###### Article L332-13
 
@@ -14661,7 +15032,7 @@ _Cité par_:
   - Décret n°2014-1273 du 30 octobre 2014 - art. (V)
 
 
-##### Sous-section 2 : Périmètre de protection<a id=128></a>
+##### Sous-section 2 : Périmètre de protection<a id=130></a>
 
 ###### Article L332-16
 
@@ -14767,7 +15138,7 @@ _Anciens textes_:
   - Code rural L242-17
 
 
-##### Sous-section 3 : Dispositions diverses<a id=129></a>
+##### Sous-section 3 : Dispositions diverses<a id=131></a>
 
 ###### Article L332-19
 
@@ -14823,9 +15194,9 @@ _Cite_:
   - Code de l'environnement - art. L332-6 (V)
 
 
-##### Section 4 : Dispositions pénales<a id=130></a>
+##### Section 4 : Dispositions pénales<a id=132></a>
 
-##### Sous-section 1 : Constatation des infractions et poursuites<a id=131></a>
+##### Sous-section 1 : Constatation des infractions et poursuites<a id=133></a>
 
 ###### Article L332-20
 
@@ -15069,7 +15440,7 @@ _Anciens textes_:
   - Code rural - art. L242-28 (Ab)
 
 
-##### Sous-section 2 : Sanctions<a id=132></a>
+##### Sous-section 2 : Sanctions<a id=134></a>
 
 ###### Article L332-25
 
@@ -15197,7 +15568,7 @@ _Anciens textes_:
   - Code rural L242-23
 
 
-#### Chapitre III : Parcs naturels régionaux<a id=133></a>
+#### Chapitre III : Parcs naturels régionaux<a id=135></a>
 
 ###### Article L333-1
 
@@ -15370,11 +15741,11 @@ _Cité par_:
   - Code du tourisme. - art. L363-1 (M)
 
 
-### Titre IV : Sites<a id=134></a>
+### Titre IV : Sites<a id=136></a>
 
-#### Chapitre Ier : Sites inscrits et classés<a id=135></a>
+#### Chapitre Ier : Sites inscrits et classés<a id=137></a>
 
-##### Section 1 : Inventaire et classement<a id=136></a>
+##### Section 1 : Inventaire et classement<a id=138></a>
 
 ###### Article L341-1
 
@@ -16008,7 +16379,7 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code du patrimoine. - art. L630-1 (VD)
 
 
-##### Section 2 : Organismes<a id=137></a>
+##### Section 2 : Organismes<a id=139></a>
 
 ###### Article L341-16
 
@@ -16108,7 +16479,7 @@ _Anciens textes_:
   - Loi n°1930-05-02 du 2 mai 1930 - art. 3-1 (Ab)
 
 
-##### Section 3 : Dispositions pénales<a id=138></a>
+##### Section 3 : Dispositions pénales<a id=140></a>
 
 ###### Article L341-19
 
@@ -16330,7 +16701,7 @@ _Anciens textes_:
   - Loi n°1930-05-02 du 2 mai 1930 - art. 26 (Ab)
 
 
-#### Chapitre II : Autres sites protégés<a id=139></a>
+#### Chapitre II : Autres sites protégés<a id=141></a>
 
 ###### Article L342-1
 
@@ -16363,7 +16734,7 @@ _Cité par_:
   - Code général de la propriété des personnes publiqu - art. L5141-2 (V)
 
 
-### Titre V : Paysages<a id=140></a>
+### Titre V : Paysages<a id=142></a>
 
 ###### Article L350-1
 
@@ -16455,9 +16826,9 @@ _Créé par_:
   - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
-### Titre VI : Accès à la nature<a id=141></a>
+### Titre VI : Accès à la nature<a id=143></a>
 
-#### Chapitre Ier : Itinéraires de randonnées<a id=142></a>
+#### Chapitre Ier : Itinéraires de randonnées<a id=144></a>
 
 ###### Article L361-1
 
@@ -16550,7 +16921,7 @@ _Nouveaux textes_:
   - Code du sport. - art. L311-4 (V)
 
 
-#### Chapitre II : Circulation motorisée<a id=143></a>
+#### Chapitre II : Circulation motorisée<a id=145></a>
 
 ###### Article L362-1
 
@@ -16827,7 +17198,7 @@ _Cité par_:
   - Code de l'environnement - art. R362-5 (V)
 
 
-#### Chapitre III : Autres modes d'accès<a id=144></a>
+#### Chapitre III : Autres modes d'accès<a id=146></a>
 
 ###### Article L363-1
 
@@ -16851,7 +17222,7 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L342-30 (V)
 
 
-#### Chapitre IV : Espaces, sites et itinéraires relatifs aux sports de nature<a id=145></a>
+#### Chapitre IV : Espaces, sites et itinéraires relatifs aux sports de nature<a id=147></a>
 
 ###### Article L364-1
 
@@ -16879,13 +17250,13 @@ _Cité par_:
   - Code de l'environnement - art. L653-1 (M)
 
 
-## Livre IV : Faune et flore<a id=146></a>
+## Livre IV : Faune et flore<a id=148></a>
 
-### Titre Ier : Protection de la faune et de la flore<a id=147></a>
+### Titre Ier : Protection de la faune et de la flore<a id=149></a>
 
-#### Chapitre Ier : Préservation et surveillance du patrimoine biologique<a id=148></a>
+#### Chapitre Ier : Préservation et surveillance du patrimoine biologique<a id=150></a>
 
-##### Section 1 : Préservation du patrimoine biologique<a id=149></a>
+##### Section 1 : Préservation du patrimoine biologique<a id=151></a>
 
 ###### Article L411-1
 
@@ -17390,7 +17761,7 @@ _Cite_:
   - Directive 79-409 CEE 1979-04-02 art. 9
 
 
-##### Section 2 : Surveillance biologique du territoire<a id=150></a>
+##### Section 2 : Surveillance biologique du territoire<a id=152></a>
 
 ###### Article L411-7
 
@@ -17415,7 +17786,7 @@ _Cité par_:
   - Code de l'environnement - art. R411-45 (V)
 
 
-#### Chapitre II : Activités soumises à autorisation<a id=151></a>
+#### Chapitre II : Activités soumises à autorisation<a id=153></a>
 
 ###### Article L412-1
 
@@ -17492,7 +17863,7 @@ _Anciens textes_:
   - Code rural L212-1
 
 
-#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=152></a>
+#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=154></a>
 
 ###### Article L413-1
 
@@ -17700,9 +18071,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages<a id=153></a>
+#### Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages<a id=155></a>
 
-##### Section 1 : Sites Natura 2000<a id=154></a>
+##### Section 1 : Sites Natura 2000<a id=156></a>
 
 ###### Article L414-1
 
@@ -18096,9 +18467,9 @@ _Créé par_:
   - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
-#### Chapitre V : Dispositions pénales<a id=155></a>
+#### Chapitre V : Dispositions pénales<a id=157></a>
 
-##### Section 1 : Constatation des infractions<a id=156></a>
+##### Section 1 : Constatation des infractions<a id=158></a>
 
 ###### Article L415-1
 
@@ -18238,7 +18609,7 @@ _Anciens textes_:
   - Code rural L215-6
 
 
-##### Section 2 : Sanctions<a id=157></a>
+##### Section 2 : Sanctions<a id=159></a>
 
 ###### Article L415-3
 
@@ -18377,7 +18748,7 @@ _Cite_:
   - Code de l'environnement - art. L415-3
 
 
-### Titre II : Chasse<a id=158></a>
+### Titre II : Chasse<a id=160></a>
 
 ###### Article L420-1
 
@@ -18486,11 +18857,11 @@ _Anciens textes_:
   - Code rural L261-1
 
 
-#### Chapitre Ier : Organisation de la chasse<a id=159></a>
+#### Chapitre Ier : Organisation de la chasse<a id=161></a>
 
-##### Section 2 : Office national de la chasse et de la faune sauvage<a id=160></a>
+##### Section 2 : Office national de la chasse et de la faune sauvage<a id=162></a>
 
-##### Sous-section 1 : Dispositions générales<a id=161></a>
+##### Sous-section 1 : Dispositions générales<a id=163></a>
 
 ###### Article L421-1
 
@@ -18553,7 +18924,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 2 : Administration générale<a id=162></a>
+##### Sous-section 2 : Administration générale<a id=164></a>
 
 ###### Article L421-2
 
@@ -18629,7 +19000,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 4 : Fédérations départementales des chasseurs<a id=163></a>
+##### Section 4 : Fédérations départementales des chasseurs<a id=165></a>
 
 ###### Article L421-5
 
@@ -18865,7 +19236,7 @@ _Anciens textes_:
   - Code rural L221-7
 
 
-##### Section 5 : Fédérations interdépartementales des chasseurs<a id=164></a>
+##### Section 5 : Fédérations interdépartementales des chasseurs<a id=166></a>
 
 ###### Article L421-12
 
@@ -18895,7 +19266,7 @@ _Anciens textes_:
   - Code rural L221-10
 
 
-##### Section 6 : Fédérations régionales des chasseurs<a id=165></a>
+##### Section 6 : Fédérations régionales des chasseurs<a id=167></a>
 
 ###### Article L421-13
 
@@ -18935,7 +19306,7 @@ _Anciens textes_:
   - Code rural L221-8
 
 
-##### Section 7 : Fédération nationale des chasseurs<a id=166></a>
+##### Section 7 : Fédération nationale des chasseurs<a id=168></a>
 
 ###### Article L421-14
 
@@ -19027,7 +19398,7 @@ _Anciens textes_:
   - Code rural L221-9
 
 
-#### Chapitre II : Territoire de chasse<a id=167></a>
+#### Chapitre II : Territoire de chasse<a id=169></a>
 
 ###### Article L422-1
 
@@ -19046,9 +19417,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 1 : Associations communales et intercommunales de chasse agréées<a id=168></a>
+##### Section 1 : Associations communales et intercommunales de chasse agréées<a id=170></a>
 
-##### Sous-section 1 : Dispositions générales<a id=169></a>
+##### Sous-section 1 : Dispositions générales<a id=171></a>
 
 ###### Article L422-2
 
@@ -19160,9 +19531,9 @@ _Anciens textes_:
   - Code rural L222-5
 
 
-##### Sous-section 2 : Institution des associations communales de chasse agréées<a id=170></a>
+##### Sous-section 2 : Institution des associations communales de chasse agréées<a id=172></a>
 
-##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées<a id=171></a>
+##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées<a id=173></a>
 
 ###### Article L422-6
 
@@ -19201,7 +19572,7 @@ _Anciens textes_:
   - Code rural L222-6
 
 
-##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées<a id=172></a>
+##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées<a id=174></a>
 
 ###### Article L422-7
 
@@ -19243,7 +19614,7 @@ _Anciens textes_:
   - Code rural L222-7
 
 
-##### Sous-section 3 : Modalités de constitution<a id=173></a>
+##### Sous-section 3 : Modalités de constitution<a id=175></a>
 
 ###### Article L422-8
 
@@ -19303,9 +19674,9 @@ _Anciens textes_:
   - Code rural L222-9
 
 
-##### Sous-section 4 : Territoire<a id=174></a>
+##### Sous-section 4 : Territoire<a id=176></a>
 
-##### Paragraphe 1 : Terrains soumis à l'action de l'association<a id=175></a>
+##### Paragraphe 1 : Terrains soumis à l'action de l'association<a id=177></a>
 
 ###### Article L422-10
 
@@ -19457,7 +19828,7 @@ _Anciens textes_:
   - Code rural L222-12
 
 
-##### Paragraphe 2 : Terrains faisant l'objet d'une opposition<a id=176></a>
+##### Paragraphe 2 : Terrains faisant l'objet d'une opposition<a id=178></a>
 
 ###### Article L422-13
 
@@ -19597,7 +19968,7 @@ _Anciens textes_:
   - Code rural L222-14
 
 
-##### Paragraphe 3 : Apports<a id=177></a>
+##### Paragraphe 3 : Apports<a id=179></a>
 
 ###### Article L422-16
 
@@ -19646,7 +20017,7 @@ _Anciens textes_:
   - Code rural L222-16
 
 
-##### Paragraphe 4 : Modification du territoire de l'association<a id=178></a>
+##### Paragraphe 4 : Modification du territoire de l'association<a id=180></a>
 
 ###### Article L422-18
 
@@ -19710,7 +20081,7 @@ _Cité par_:
   - Code rural - art. R222-56-1 (Ab)
 
 
-##### Paragraphe 5 : Enclaves<a id=179></a>
+##### Paragraphe 5 : Enclaves<a id=181></a>
 
 ###### Article L422-20
 
@@ -19747,7 +20118,7 @@ _Anciens textes_:
   - Code rural L222-18
 
 
-##### Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées<a id=180></a>
+##### Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées<a id=182></a>
 
 ###### Article L422-21
 
@@ -19841,7 +20212,7 @@ _Anciens textes_:
   - Code rural L222-20
 
 
-##### Sous-section 6 : Réserves et garderie<a id=181></a>
+##### Sous-section 6 : Réserves et garderie<a id=183></a>
 
 ###### Article L422-23
 
@@ -19863,7 +20234,7 @@ _Anciens textes_:
   - Code rural L222-21
 
 
-##### Sous-section 7 : Associations intercommunales de chasse agréées<a id=182></a>
+##### Sous-section 7 : Associations intercommunales de chasse agréées<a id=184></a>
 
 ###### Article L422-24
 
@@ -19889,7 +20260,7 @@ _Anciens textes_:
   - Code rural L222-22
 
 
-##### Sous-section 8 : Dispositions diverses<a id=183></a>
+##### Sous-section 8 : Dispositions diverses<a id=185></a>
 
 ###### Article L422-25
 
@@ -19926,7 +20297,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Réserves de chasse<a id=184></a>
+##### Section 2 : Réserves de chasse<a id=186></a>
 
 ###### Article L422-27
 
@@ -19981,7 +20352,7 @@ _Anciens textes_:
   - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
-##### Section 3 : Chasse maritime<a id=185></a>
+##### Section 3 : Chasse maritime<a id=187></a>
 
 ###### Article L422-28
 
@@ -20021,9 +20392,9 @@ _Cité par_:
   - Code rural - art. R*223-24 (Ab)
 
 
-##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=186></a>
+##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=188></a>
 
-##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat<a id=187></a>
+##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat<a id=189></a>
 
 ###### Article L422-29
 
@@ -20049,7 +20420,7 @@ _Cité par_:
   - Code de l'environnement - art. L654-1 (M)
 
 
-#### Chapitre III : Permis de chasser<a id=188></a>
+#### Chapitre III : Permis de chasser<a id=190></a>
 
 ###### Article L423-1
 
@@ -20198,7 +20569,7 @@ _Cite_:
   - Code de l'environnement - art. L428-15 (M)
 
 
-##### Section 1 : Examen pour la délivrance du permis de chasser<a id=189></a>
+##### Section 1 : Examen pour la délivrance du permis de chasser<a id=191></a>
 
 ###### Article L423-5
 
@@ -20326,9 +20697,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Délivrance et validation du permis de chasser<a id=190></a>
+##### Section 2 : Délivrance et validation du permis de chasser<a id=192></a>
 
-##### Sous-section 1 : Délivrance<a id=191></a>
+##### Sous-section 1 : Délivrance<a id=193></a>
 
 ###### Article L423-9
 
@@ -20443,7 +20814,7 @@ _Anciens textes_:
   - Code rural L223-8
 
 
-##### Sous-section 2 : Validation du permis de chasser<a id=192></a>
+##### Sous-section 2 : Validation du permis de chasser<a id=194></a>
 
 ###### Article L423-12
 
@@ -20669,7 +21040,7 @@ _Anciens textes_:
   - Code rural L223-15
 
 
-##### Sous-section 3 : Modalités de validation du permis de chasser<a id=193></a>
+##### Sous-section 3 : Modalités de validation du permis de chasser<a id=195></a>
 
 ###### Article L423-19
 
@@ -20783,7 +21154,7 @@ _Cité par_:
   - Code rural - art. R*223-13 (Ab)
 
 
-##### Sous-section 5 : Licences<a id=194></a>
+##### Sous-section 5 : Licences<a id=196></a>
 
 ###### Article L423-22
 
@@ -20823,7 +21194,7 @@ _Abrogé par_:
   - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 
-##### Sous-section 6 : Refus et exclusions<a id=195></a>
+##### Sous-section 6 : Refus et exclusions<a id=197></a>
 
 ###### Article L423-23
 
@@ -20976,7 +21347,7 @@ _Anciens textes_:
   - Code rural L223-21
 
 
-##### Sous-section 7 : Dispositions propres à certains agents<a id=196></a>
+##### Sous-section 7 : Dispositions propres à certains agents<a id=198></a>
 
 ###### Article L423-26
 
@@ -21000,7 +21371,7 @@ _Cite_:
   - Code de l'environnement - art. L428-20 (VT)
 
 
-##### Section 3 : Affectation des redevances cynégétiques<a id=197></a>
+##### Section 3 : Affectation des redevances cynégétiques<a id=199></a>
 
 ###### Article L423-27
 
@@ -21026,9 +21397,9 @@ _Anciens textes_:
   - Code rural L223-23
 
 
-#### Chapitre IV : Exercice de la chasse<a id=198></a>
+#### Chapitre IV : Exercice de la chasse<a id=200></a>
 
-##### Section 1 : Protection du gibier<a id=199></a>
+##### Section 1 : Protection du gibier<a id=201></a>
 
 ###### Article L424-1
 
@@ -21068,7 +21439,7 @@ _Anciens textes_:
   - Code rural L224-1
 
 
-##### Section 2 : Temps de chasse<a id=200></a>
+##### Section 2 : Temps de chasse<a id=202></a>
 
 ###### Article L424-2
 
@@ -21181,7 +21552,7 @@ _Anciens textes_:
   - Code rural L224-3
 
 
-##### Section 3 : Modes et moyens de chasse<a id=201></a>
+##### Section 3 : Modes et moyens de chasse<a id=203></a>
 
 ###### Article L424-4
 
@@ -21343,9 +21714,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 4 : Commercialisation et transport du gibier<a id=202></a>
+##### Section 4 : Commercialisation et transport du gibier<a id=204></a>
 
-##### Sous-section 1 : Interdiction permanente<a id=203></a>
+##### Sous-section 1 : Interdiction permanente<a id=205></a>
 
 ###### Article L424-8
 
@@ -21470,7 +21841,7 @@ _Anciens textes_:
   - Code rural L224-9
 
 
-##### Sous-section 2 : Interdiction temporaire<a id=204></a>
+##### Sous-section 2 : Interdiction temporaire<a id=206></a>
 
 ###### Article L424-12
 
@@ -21529,7 +21900,7 @@ _Anciens textes_:
   - Code rural L224-11
 
 
-##### Section 5 : Dispositions spéciales à la chasse maritime<a id=205></a>
+##### Section 5 : Dispositions spéciales à la chasse maritime<a id=207></a>
 
 ###### Article L424-14
 
@@ -21553,7 +21924,7 @@ _Anciens textes_:
   - Code rural - art. L224-12 (Ab)
 
 
-##### Section 6 : Règles de sécurité<a id=206></a>
+##### Section 6 : Règles de sécurité<a id=208></a>
 
 ###### Article L424-15
 
@@ -21599,9 +21970,9 @@ _Abrogé par_:
   - Loi n°2008-1545 du 31 décembre 2008 - art. 2
 
 
-#### Chapitre V : Gestion<a id=207></a>
+#### Chapitre V : Gestion<a id=209></a>
 
-##### Section 1 : Schémas départementaux de gestion cynégétique<a id=208></a>
+##### Section 1 : Schémas départementaux de gestion cynégétique<a id=210></a>
 
 ###### Article L425-3-1
 
@@ -21635,7 +22006,7 @@ _Cite_:
   - Code de l'environnement L427-4 à L427-7
 
 
-##### Section 1 : Plan de chasse<a id=209></a>
+##### Section 1 : Plan de chasse<a id=211></a>
 
 ###### Article L425-1
 
@@ -21824,7 +22195,7 @@ _Anciens textes_:
   - Code rural L225-4
 
 
-##### Section 2 : Prélèvement maximal autorisé<a id=210></a>
+##### Section 2 : Prélèvement maximal autorisé<a id=212></a>
 
 ###### Article L425-5
 
@@ -21857,9 +22228,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L425-14 (V)
 
 
-#### Chapitre VI : Indemnisation des dégâts de gibiers<a id=211></a>
+#### Chapitre VI : Indemnisation des dégâts de gibiers<a id=213></a>
 
-##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers<a id=212></a>
+##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers<a id=214></a>
 
 ###### Article L426-1
 
@@ -22082,7 +22453,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes<a id=213></a>
+##### Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes<a id=215></a>
 
 ###### Article L426-7
 
@@ -22128,11 +22499,11 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=214></a>
+#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=216></a>
 
-##### Section 1 : Mesures administratives<a id=215></a>
+##### Section 1 : Mesures administratives<a id=217></a>
 
-##### Sous-section 1 : Louveterie<a id=216></a>
+##### Sous-section 1 : Louveterie<a id=218></a>
 
 ###### Article L427-1
 
@@ -22207,7 +22578,7 @@ _Anciens textes_:
   - Code rural L227-3
 
 
-##### Sous-section 2 : Battues administratives<a id=217></a>
+##### Sous-section 2 : Battues administratives<a id=219></a>
 
 ###### Article L427-4
 
@@ -22335,7 +22706,7 @@ _Anciens textes_:
   - Code rural L227-7
 
 
-##### Section 2 : Droits des particuliers<a id=218></a>
+##### Section 2 : Droits des particuliers<a id=220></a>
 
 ###### Article L427-8
 
@@ -22423,7 +22794,7 @@ _Anciens textes_:
   - Code rural L227-9
 
 
-##### Section 3 : Commercialisation et transport<a id=219></a>
+##### Section 3 : Commercialisation et transport<a id=221></a>
 
 ###### Article L427-10
 
@@ -22443,11 +22814,11 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre VIII : Dispositions pénales<a id=220></a>
+#### Chapitre VIII : Dispositions pénales<a id=222></a>
 
-##### Section 1 : Peines<a id=221></a>
+##### Section 1 : Peines<a id=223></a>
 
-##### Sous-section 1 : Territoire<a id=222></a>
+##### Sous-section 1 : Territoire<a id=224></a>
 
 ###### Article L428-1
 
@@ -22497,7 +22868,7 @@ _Anciens textes_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Sous-section 2 : Permis de chasser<a id=223></a>
+##### Sous-section 2 : Permis de chasser<a id=225></a>
 
 ###### Article L428-2
 
@@ -22589,7 +22960,7 @@ _Anciens textes_:
   - Code rural L228-4, L228-5, L228-6, L228-7, L228-8
 
 
-##### Section 2 : Circonstances aggravantes<a id=224></a>
+##### Section 2 : Circonstances aggravantes<a id=226></a>
 
 ###### Article L428-4
 
@@ -22830,9 +23201,9 @@ _Cite_:
   - Code de l'environnement - art. L428-7 (M)
 
 
-##### Section 3 : Peines accessoires et complémentaires<a id=225></a>
+##### Section 3 : Peines accessoires et complémentaires<a id=227></a>
 
-##### Sous-section 1 : Confiscation<a id=226></a>
+##### Sous-section 1 : Confiscation<a id=228></a>
 
 ###### Article L428-9
 
@@ -22919,7 +23290,7 @@ _Cite_:
   - Code de l'environnement - art. L428-10 (VT)
 
 
-##### Sous-section 2 : Frais de validation du permis de chasser<a id=227></a>
+##### Sous-section 2 : Frais de validation du permis de chasser<a id=229></a>
 
 ###### Article L428-12
 
@@ -22984,9 +23355,9 @@ _Anciens textes_:
   - Code rural L228-20
 
 
-##### Sous-section 3 : Retrait et suspension du permis de chasser<a id=228></a>
+##### Sous-section 3 : Retrait et suspension du permis de chasser<a id=230></a>
 
-##### Paragraphe 1 : Retrait<a id=229></a>
+##### Paragraphe 1 : Retrait<a id=231></a>
 
 ###### Article L428-14
 
@@ -23036,7 +23407,7 @@ _Anciens textes_:
   - Code rural L228-21
 
 
-##### Paragraphe 2 : Suspension<a id=230></a>
+##### Paragraphe 2 : Suspension<a id=232></a>
 
 ###### Article L428-15
 
@@ -23141,7 +23512,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 4 : Suspension du permis de conduire<a id=231></a>
+##### Sous-section 4 : Suspension du permis de conduire<a id=233></a>
 
 ###### Article L428-18
 
@@ -23179,9 +23550,9 @@ _Cité par_:
   - Code de l'environnement - art. R*228-19 (Ab)
 
 
-##### Section 4 : Constatation des infractions et poursuites<a id=232></a>
+##### Section 4 : Constatation des infractions et poursuites<a id=234></a>
 
-##### Sous-section 1 : Constatation des infractions<a id=233></a>
+##### Sous-section 1 : Constatation des infractions<a id=235></a>
 
 ###### Article L428-19
 
@@ -23431,7 +23802,7 @@ _Cité par_:
   - Code de l'environnement - art. R*228-20 (Ab)
 
 
-##### Sous-section 2 : Recherche des infractions<a id=234></a>
+##### Sous-section 2 : Recherche des infractions<a id=236></a>
 
 ###### Article L428-27
 
@@ -23594,7 +23965,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 3 : Poursuites<a id=235></a>
+##### Sous-section 3 : Poursuites<a id=237></a>
 
 ###### Article L428-33
 
@@ -23624,7 +23995,7 @@ _Anciens textes_:
   - Code rural L228-41
 
 
-##### Sous-section 4 : Dispositions diverses<a id=236></a>
+##### Sous-section 4 : Dispositions diverses<a id=238></a>
 
 ###### Article L428-34
 
@@ -23648,7 +24019,7 @@ _Abrogé par_:
   - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=237></a>
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=239></a>
 
 ###### Article L429-1
 
@@ -23677,9 +24048,9 @@ _Anciens textes_:
   - Code rural L229-1
 
 
-##### Section 1 : Administration de la chasse sur le ban communal<a id=238></a>
+##### Section 1 : Administration de la chasse sur le ban communal<a id=240></a>
 
-##### Sous-section 1 : Ban communal<a id=239></a>
+##### Sous-section 1 : Ban communal<a id=241></a>
 
 ###### Article L429-2
 
@@ -23827,7 +24198,7 @@ _Anciens textes_:
   - Code rural L229-12
 
 
-##### Sous-section 2 : Exploitation du droit de chasse<a id=240></a>
+##### Sous-section 2 : Exploitation du droit de chasse<a id=242></a>
 
 ###### Article L429-7
 
@@ -24112,7 +24483,7 @@ _Anciens textes_:
   - Code rural - art. L229-11 (Ab)
 
 
-##### Sous-section 3 : Enclaves<a id=241></a>
+##### Sous-section 3 : Enclaves<a id=243></a>
 
 ###### Article L429-17
 
@@ -24147,7 +24518,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 4 : Dispositions diverses<a id=242></a>
+##### Sous-section 4 : Dispositions diverses<a id=244></a>
 
 ###### Article L429-18
 
@@ -24166,9 +24537,9 @@ _Anciens textes_:
   - Code rural L229-15
 
 
-##### Section 2 : Exercice de la chasse<a id=243></a>
+##### Section 2 : Exercice de la chasse<a id=245></a>
 
-##### Sous-section 1 : Temps de chasse<a id=244></a>
+##### Sous-section 1 : Temps de chasse<a id=246></a>
 
 ###### Article L429-19
 
@@ -24192,7 +24563,7 @@ _Cité par_:
   - Code de l'environnement - art. R429-3 (V)
 
 
-##### Sous-section 3 : Modes et moyens de chasse<a id=245></a>
+##### Sous-section 3 : Modes et moyens de chasse<a id=247></a>
 
 ###### Article L429-20
 
@@ -24219,7 +24590,7 @@ _Anciens textes_:
   - Code rural L229-17
 
 
-##### Sous-section 4 : Commercialisation et transport du gibier<a id=246></a>
+##### Sous-section 4 : Commercialisation et transport du gibier<a id=248></a>
 
 ###### Article L429-21
 
@@ -24277,9 +24648,9 @@ _Cite_:
   - Code de l'environnement - art. L429-21
 
 
-##### Section 3 : Indemnisation des dégâts de gibier<a id=247></a>
+##### Section 3 : Indemnisation des dégâts de gibier<a id=249></a>
 
-##### Sous-section 1 : Régime général<a id=248></a>
+##### Sous-section 1 : Régime général<a id=250></a>
 
 ###### Article L429-23
 
@@ -24366,7 +24737,7 @@ _Anciens textes_:
   - Code rural L229-23
 
 
-##### Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers<a id=249></a>
+##### Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers<a id=251></a>
 
 ###### Article L429-27
 
@@ -24561,11 +24932,11 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 4 : Pénalités<a id=250></a>
+##### Section 4 : Pénalités<a id=252></a>
 
-##### Sous-section 1 : Peines<a id=251></a>
+##### Sous-section 1 : Peines<a id=253></a>
 
-##### Paragraphe 1 : Territoire<a id=252></a>
+##### Paragraphe 1 : Territoire<a id=254></a>
 
 ###### Article L429-33
 
@@ -24666,7 +25037,7 @@ _Cite_:
   - Code de l'environnement - art. L429-34 (V)
 
 
-##### Paragraphe 2 : Exercice de la chasse<a id=253></a>
+##### Paragraphe 2 : Exercice de la chasse<a id=255></a>
 
 ###### Article L429-37
 
@@ -24695,7 +25066,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 2 : Récidive<a id=254></a>
+##### Sous-section 2 : Récidive<a id=256></a>
 
 ###### Article L429-38
 
@@ -24719,7 +25090,7 @@ _Cité par_:
   - Code de l'environnement - art. R*229-21 (Ab)
 
 
-##### Sous-section 3 : Peines accessoires et complémentaires<a id=255></a>
+##### Sous-section 3 : Peines accessoires et complémentaires<a id=257></a>
 
 ###### Article L429-39
 
@@ -24765,7 +25136,7 @@ _Anciens textes_:
   - Code rural L229-37
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=256></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=258></a>
 
 ###### Article L430-1
 
@@ -24798,9 +25169,9 @@ _Anciens textes_:
   - Code rural L230-1
 
 
-#### Chapitre Ier : Champ d'application<a id=257></a>
+#### Chapitre Ier : Champ d'application<a id=259></a>
 
-##### Section 1 : Dispositions générales<a id=258></a>
+##### Section 1 : Dispositions générales<a id=260></a>
 
 ###### Article L431-1
 
@@ -25008,7 +25379,7 @@ _Anciens textes_:
   - Code rural L231-4
 
 
-##### Section 2 : Piscicultures<a id=259></a>
+##### Section 2 : Piscicultures<a id=261></a>
 
 ###### Article L431-6
 
@@ -25209,7 +25580,7 @@ _Cité par_:
   - Code de l'environnement - art. R431-35 (V)
 
 
-##### Section 2 : Eaux closes<a id=260></a>
+##### Section 2 : Eaux closes<a id=262></a>
 
 ###### Article L431-5
 
@@ -25248,9 +25619,9 @@ _Anciens textes_:
   - Code rural L231-5
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=261></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=263></a>
 
-##### Section 1 : Obligations générales<a id=262></a>
+##### Section 1 : Obligations générales<a id=264></a>
 
 ###### Article L432-1
 
@@ -25293,7 +25664,7 @@ _Anciens textes_:
   - Code rural L232-1
 
 
-##### Section 2 : Protection de la faune piscicole et de son habitat<a id=263></a>
+##### Section 2 : Protection de la faune piscicole et de son habitat<a id=265></a>
 
 ###### Article L432-2
 
@@ -25440,7 +25811,7 @@ _Cité par_:
   - Code de l'environnement - art. L437-20 (VT)
 
 
-##### Section 3 : Obligations relatives aux ouvrages<a id=264></a>
+##### Section 3 : Obligations relatives aux ouvrages<a id=266></a>
 
 ###### Article L432-5
 
@@ -25681,7 +26052,7 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Section 4 : Contrôle des peuplements<a id=265></a>
+##### Section 4 : Contrôle des peuplements<a id=267></a>
 
 ###### Article L432-10
 
@@ -25822,7 +26193,7 @@ _Anciens textes_:
   - Code rural L232-12
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=266></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=268></a>
 
 ###### Article L433-3
 
@@ -25857,7 +26228,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 
-##### Section 1 : Orientations de bassin.<a id=267></a>
+##### Section 1 : Orientations de bassin.<a id=269></a>
 
 ###### Article L433-1
 
@@ -25894,7 +26265,7 @@ _Abrogé par_:
   - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
 
 
-##### Section 2 : Schéma départemental de vocation piscicole<a id=268></a>
+##### Section 2 : Schéma départemental de vocation piscicole<a id=270></a>
 
 ###### Article L433-2
 
@@ -25931,9 +26302,9 @@ _Anciens textes_:
   - Code rural L233-2
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=269></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=271></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=270></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=272></a>
 
 ###### Article L434-1
 
@@ -25997,7 +26368,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-##### Section 2 : Organisation de la pêche de loisir<a id=271></a>
+##### Section 2 : Organisation de la pêche de loisir<a id=273></a>
 
 ###### Article L434-3
 
@@ -26110,7 +26481,7 @@ _Anciens textes_:
   - Code rural L234-5
 
 
-##### Section 3 : Organisation de la pêche professionnelle<a id=272></a>
+##### Section 3 : Organisation de la pêche professionnelle<a id=274></a>
 
 ###### Article L434-6
 
@@ -26145,9 +26516,9 @@ _Anciens textes_:
   - Code rural L234-6
 
 
-#### Chapitre V : Droit de pêche<a id=273></a>
+#### Chapitre V : Droit de pêche<a id=275></a>
 
-##### Section 1 : Droit de pêche de l'Etat<a id=274></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=276></a>
 
 ###### Article L435-1
 
@@ -26266,7 +26637,7 @@ _Anciens textes_:
   - Code rural L235-3
 
 
-##### Section 2 : Droit de pêche des riverains<a id=275></a>
+##### Section 2 : Droit de pêche des riverains<a id=277></a>
 
 ###### Article L435-4
 
@@ -26364,7 +26735,7 @@ _Anciens textes_:
   - Code rural L235-5
 
 
-##### Section 3 : Droit de passage<a id=276></a>
+##### Section 3 : Droit de passage<a id=278></a>
 
 ###### Article L435-6
 
@@ -26498,9 +26869,9 @@ _Anciens textes_:
   - Code rural L235-9
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=277></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=279></a>
 
-##### Section 1 : Dispositions générales<a id=278></a>
+##### Section 1 : Dispositions générales<a id=280></a>
 
 ###### Article L436-1
 
@@ -26851,7 +27222,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Autorisations exceptionnelles<a id=279></a>
+##### Section 2 : Autorisations exceptionnelles<a id=281></a>
 
 ###### Article L436-9
 
@@ -26893,7 +27264,7 @@ _Anciens textes_:
   - Code rural L236-9
 
 
-##### Section 3 : Estuaires<a id=280></a>
+##### Section 3 : Estuaires<a id=282></a>
 
 ###### Article L436-10
 
@@ -26974,7 +27345,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-44 (V)
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=281></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=283></a>
 
 ###### Article L436-12
 
@@ -27013,7 +27384,7 @@ _Anciens textes_:
   - Code rural L236-12
 
 
-##### Section 5 : Commercialisation<a id=282></a>
+##### Section 5 : Commercialisation<a id=284></a>
 
 ###### Article L436-13
 
@@ -27164,11 +27535,11 @@ _Anciens textes_:
   - Code rural L236-16
 
 
-#### Chapitre VII : Dispositions pénales complémentaires<a id=283></a>
+#### Chapitre VII : Dispositions pénales complémentaires<a id=285></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=284></a>
+##### Section 1 : Recherche et constatation des infractions<a id=286></a>
 
-##### Sous-section 1 : Agents compétents<a id=285></a>
+##### Sous-section 1 : Agents compétents<a id=287></a>
 
 ###### Article L437-1
 
@@ -27304,7 +27675,7 @@ _Cité par_:
   - Décret n°2009-950 du 29 juillet 2009 (V)
 
 
-##### Sous-section 2 : Procès-verbaux<a id=286></a>
+##### Sous-section 2 : Procès-verbaux<a id=288></a>
 
 ###### Article L437-4
 
@@ -27357,7 +27728,7 @@ _Anciens textes_:
   - Code rural L237-5
 
 
-##### Sous-section 3 : Recherche des infractions<a id=287></a>
+##### Sous-section 3 : Recherche des infractions<a id=289></a>
 
 ###### Article L437-6
 
@@ -27592,7 +27963,7 @@ _Anciens textes_:
   - Code rural L237-12
 
 
-##### Sous-section 4 : Gardes-pêche particuliers<a id=288></a>
+##### Sous-section 4 : Gardes-pêche particuliers<a id=290></a>
 
 ###### Article L437-13
 
@@ -27633,7 +28004,7 @@ _Anciens textes_:
   - Code rural L237-13
 
 
-##### Section 2 : Transaction<a id=289></a>
+##### Section 2 : Transaction<a id=291></a>
 
 ###### Article L437-14
 
@@ -27670,7 +28041,7 @@ _Cité par_:
   - Loi n°2004-1343 du 9 décembre 2004 - art. 50 (V)
 
 
-##### Section 3 : Poursuites<a id=290></a>
+##### Section 3 : Poursuites<a id=292></a>
 
 ###### Article L437-15
 
@@ -27773,7 +28144,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 4 : Action civile<a id=291></a>
+##### Section 4 : Action civile<a id=293></a>
 
 ###### Article L437-18
 
@@ -27804,9 +28175,9 @@ _Anciens textes_:
   - Code rural L238-9
 
 
-##### Section 5 : Sanctions<a id=292></a>
+##### Section 5 : Sanctions<a id=294></a>
 
-##### Sous-section 1 : Circonstances aggravantes<a id=293></a>
+##### Sous-section 1 : Circonstances aggravantes<a id=295></a>
 
 ###### Article L437-19
 
@@ -27829,7 +28200,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 
-##### Sous-section 2 : Astreinte<a id=294></a>
+##### Sous-section 2 : Astreinte<a id=296></a>
 
 ###### Article L437-20
 
@@ -27875,7 +28246,7 @@ _Cité par_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Sous-section 3 : Confiscation<a id=295></a>
+##### Sous-section 3 : Confiscation<a id=297></a>
 
 ###### Article L437-21
 
@@ -27910,7 +28281,7 @@ _Anciens textes_:
   - Code rural L238-5
 
 
-##### Sous-section 4 : Exclusion des associations agréées<a id=296></a>
+##### Sous-section 4 : Exclusion des associations agréées<a id=298></a>
 
 ###### Article L437-22
 
@@ -27948,7 +28319,7 @@ _Modifié par_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Sous-section 5 : Responsabilité des personnes morales<a id=297></a>
+##### Sous-section 5 : Responsabilité des personnes morales<a id=299></a>
 
 ###### Article L437-23
 
@@ -27986,7 +28357,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 
-#### Chapitre VIII : Dispositions diverses<a id=298></a>
+#### Chapitre VIII : Dispositions diverses<a id=300></a>
 
 ###### Article L438-1
 
@@ -28039,11 +28410,11 @@ _Cité par_:
   - Code de l'environnement - art. L654-1 (M)
 
 
-## Livre V : Prévention des pollutions, des risques et des nuisances<a id=299></a>
+## Livre V : Prévention des pollutions, des risques et des nuisances<a id=301></a>
 
-### Titre Ier : Installations classées pour la protection de l'environnement<a id=300></a>
+### Titre Ier : Installations classées pour la protection de l'environnement<a id=302></a>
 
-#### Chapitre Ier : Dispositions générales<a id=301></a>
+#### Chapitre Ier : Dispositions générales<a id=303></a>
 
 ###### Article L511-1
 
@@ -28454,9 +28825,9 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
-#### Chapitre II : Installations soumises à autorisation ou à déclaration.<a id=302></a>
+#### Chapitre II : Installations soumises à autorisation ou à déclaration.<a id=304></a>
 
-##### Section 1 : Installations soumises à autorisation<a id=303></a>
+##### Section 1 : Installations soumises à autorisation<a id=305></a>
 
 ###### Article L512-1
 
@@ -28962,7 +29333,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L512-20 (V)
 
 
-##### Section 2 : Installations soumises à déclaration.<a id=304></a>
+##### Section 2 : Installations soumises à déclaration.<a id=306></a>
 
 ###### Article L512-8
 
@@ -29341,7 +29712,7 @@ _Cité par_:
   - Code de l'environnement - art. L514-6 (V)
 
 
-##### Section 3 : Dispositions communes à l'autorisation et à la déclaration.<a id=305></a>
+##### Section 3 : Dispositions communes à l'autorisation et à la déclaration.<a id=307></a>
 
 ###### Article L512-14
 
@@ -29446,7 +29817,7 @@ _Cite_:
   - Code de l'environnement - art. L511-1 (V)
 
 
-#### Chapitre III : Installations fonctionnant au bénéfice des droits acquis<a id=306></a>
+#### Chapitre III : Installations fonctionnant au bénéfice des droits acquis<a id=308></a>
 
 ###### Article L513-1
 
@@ -29498,9 +29869,9 @@ _Cite_:
   - Code de l'environnement - art. L511-1 (M)
 
 
-#### Chapitre IV : Contrôle et contentieux des installations classées<a id=307></a>
+#### Chapitre IV : Contrôle et contentieux des installations classées<a id=309></a>
 
-##### Section 1 : Contrôle et sanctions administratifs<a id=308></a>
+##### Section 1 : Contrôle et sanctions administratifs<a id=310></a>
 
 ###### Article L514-1
 
@@ -29888,7 +30259,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
-##### Section 2 : Dispositions pénales<a id=309></a>
+##### Section 2 : Dispositions pénales<a id=311></a>
 
 ###### Article L514-9
 
@@ -30284,7 +30655,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
-##### Section 3 : Protection des tiers<a id=310></a>
+##### Section 3 : Protection des tiers<a id=312></a>
 
 ###### Article L514-19
 
@@ -30338,9 +30709,9 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
-#### Chapitre V : Dispositions particulières à certaines installations<a id=311></a>
+#### Chapitre V : Dispositions particulières à certaines installations<a id=313></a>
 
-##### Section 1 : Carrières<a id=312></a>
+##### Section 1 : Carrières<a id=314></a>
 
 ###### Article L515-1
 
@@ -30618,7 +30989,7 @@ _Cité par_:
   - Code de l'environnement - art. L515-19 (V)
 
 
-##### Section 2 : Stockage souterrain de produits dangereux<a id=313></a>
+##### Section 2 : Stockage souterrain de produits dangereux<a id=315></a>
 
 ###### Article L515-7
 
@@ -30668,7 +31039,7 @@ _Cite_:
   - Code de l'environnement - art. L552-1 (V)
 
 
-##### Section 3 : Installations susceptibles de donner lieu à des servitudes d'utilité publique<a id=314></a>
+##### Section 3 : Installations susceptibles de donner lieu à des servitudes d'utilité publique<a id=316></a>
 
 ###### Article L515-8
 
@@ -31010,7 +31381,7 @@ _Cite_:
   - Code de l'environnement L511-1, L515-8 à L515-11
 
 
-##### Section 4 : Installations où s'effectuent des opérations soumises à agrément<a id=315></a>
+##### Section 4 : Installations où s'effectuent des opérations soumises à agrément<a id=317></a>
 
 ###### Article L515-13
 
@@ -31064,7 +31435,7 @@ _Modifié par_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Section 5 : Installations d'élimination de déchets<a id=316></a>
+##### Section 5 : Installations d'élimination de déchets<a id=318></a>
 
 ###### Article L515-14
 
@@ -31093,7 +31464,7 @@ _Cite_:
   - Code de l'environnement - art. L541-26 (M)
 
 
-#### Chapitre VI : Dispositions financières<a id=317></a>
+#### Chapitre VI : Dispositions financières<a id=319></a>
 
 ###### Article L516-1
 
@@ -31163,7 +31534,7 @@ _Cite_:
   - Code de l'environnement - art. L514-1 (VT)
 
 
-#### Chapitre VII : Dispositions diverses<a id=318></a>
+#### Chapitre VII : Dispositions diverses<a id=320></a>
 
 ###### Article L517-1
 
@@ -31243,9 +31614,9 @@ _Cité par_:
   - Code de la santé publique - art. R1333-120 (VD)
 
 
-### Titre II : Produits chimiques et biocides<a id=319></a>
+### Titre II : Produits chimiques et biocides<a id=321></a>
 
-#### Chapitre Ier : Contrôle des produits chimiques<a id=320></a>
+#### Chapitre Ier : Contrôle des produits chimiques<a id=322></a>
 
 ###### Article L521-1
 
@@ -31389,7 +31760,7 @@ _Cite_:
   - TXT_SOURCE: Règlement 2455-92 CEE 1992-07-23
 
 
-##### Section 1 : Déclaration des substances nouvelles<a id=321></a>
+##### Section 1 : Déclaration des substances nouvelles<a id=323></a>
 
 ###### Article L521-3
 
@@ -31551,7 +31922,7 @@ _Cite_:
   - Code de l'environnement - art. L521-6 (M)
 
 
-##### Section 3 : Contrôle et constatation des infractions<a id=322></a>
+##### Section 3 : Contrôle et constatation des infractions<a id=324></a>
 
 ###### Article L521-12
 
@@ -31818,7 +32189,7 @@ _Cité par_:
   - Code de l'environnement - art. L521-2 (M)
 
 
-##### Section 2 : Dispositions communes aux substances et préparations<a id=323></a>
+##### Section 2 : Dispositions communes aux substances et préparations<a id=325></a>
 
 ###### Article L521-6
 
@@ -32135,7 +32506,7 @@ _Cité par_:
   - Code de l'environnement - art. L521-15 (M)
 
 
-##### Section 4 : Sanctions administratives<a id=324></a>
+##### Section 4 : Sanctions administratives<a id=326></a>
 
 ###### Article L521-17
 
@@ -32278,7 +32649,7 @@ _Créé par_:
   - TXT_SOURCE: Règlement 2455-92 CEE 1992-07-23
 
 
-##### Section 5 : Sanctions pénales<a id=325></a>
+##### Section 5 : Sanctions pénales<a id=327></a>
 
 ###### Article L521-21
 
@@ -32459,7 +32830,7 @@ _Cite_:
   - Règlement 793-93 CEE 1993-03-23
 
 
-#### Chapitre II : Contrôle de la mise sur le marché des substances actives biocides et autorisation de mise sur le marché des produits biocides<a id=326></a>
+#### Chapitre II : Contrôle de la mise sur le marché des substances actives biocides et autorisation de mise sur le marché des produits biocides<a id=328></a>
 
 ###### Article L522-1
 
@@ -32548,7 +32919,7 @@ _Cite_:
   - TXT_SOURCE: Directive 98-8 CE 1998-02-16
 
 
-##### Section 1 : Contrôle des substances actives<a id=327></a>
+##### Section 1 : Contrôle des substances actives<a id=329></a>
 
 ###### Article L522-2
 
@@ -32657,7 +33028,7 @@ _Cite_:
   - TXT_SOURCE: Directive 98-8 CE 1998-02-16
 
 
-##### Section 2 : Contrôle de la mise sur le marché des produits biocides<a id=328></a>
+##### Section 2 : Contrôle de la mise sur le marché des produits biocides<a id=330></a>
 
 ###### Article L522-4
 
@@ -32869,7 +33240,7 @@ _Cite_:
   - TXT_SOURCE: Directive 98-8 CE 1998-02-16
 
 
-##### Section 3 : Dispositions diverses<a id=329></a>
+##### Section 3 : Dispositions diverses<a id=331></a>
 
 ###### Article L522-8
 
@@ -33146,7 +33517,7 @@ _Abrogé par_:
   - Loi n°2013-619 du 16 juillet 2013 - art. 12
 
 
-##### Section 4 : Contrôles et sanctions<a id=330></a>
+##### Section 4 : Contrôles et sanctions<a id=332></a>
 
 ###### Article L522-15
 
@@ -33329,9 +33700,9 @@ _Cite_:
   - Code de l'environnement - art. L522-3
 
 
-### Titre III : Organismes génétiquement modifiés<a id=331></a>
+### Titre III : Organismes génétiquement modifiés<a id=333></a>
 
-#### Chapitre Ier : Dispositions générales<a id=332></a>
+#### Chapitre Ier : Dispositions générales<a id=334></a>
 
 ###### Article L531-1
 
@@ -33565,7 +33936,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
 
 
-#### Chapitre II : Utilisation confinée des organismes génétiquement modifiés<a id=333></a>
+#### Chapitre II : Utilisation confinée des organismes génétiquement modifiés<a id=335></a>
 
 ###### Article L532-1
 
@@ -33822,7 +34193,7 @@ _Cité par_:
   - Code de l'environnement - art. R532-6 (V)
 
 
-#### Chapitre III : Dissémination volontaire et mise sur le marché d'organismes génétiquement modifiés.<a id=334></a>
+#### Chapitre III : Dissémination volontaire et mise sur le marché d'organismes génétiquement modifiés.<a id=336></a>
 
 ###### Article L533-1
 
@@ -34094,7 +34465,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
 
 
-#### Chapitre IV : Surveillance biologique du territoire<a id=335></a>
+#### Chapitre IV : Surveillance biologique du territoire<a id=337></a>
 
 ###### Article L534-1
 
@@ -34115,7 +34486,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
 
 
-#### Chapitre V : Contrôle et sanctions administratifs<a id=336></a>
+#### Chapitre V : Contrôle et sanctions administratifs<a id=338></a>
 
 ###### Article L535-1
 
@@ -34471,9 +34842,9 @@ _Abrogé par_:
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
 
 
-#### Chapitre VI : Dispositions pénales<a id=337></a>
+#### Chapitre VI : Dispositions pénales<a id=339></a>
 
-##### Section 1 : Constatation des infractions<a id=338></a>
+##### Section 1 : Constatation des infractions<a id=340></a>
 
 ###### Article L536-1
 
@@ -34555,7 +34926,7 @@ _Cité par_:
   - Code de l'environnement - art. L536-6 (M)
 
 
-##### Section 2 : Sanctions<a id=339></a>
+##### Section 2 : Sanctions<a id=341></a>
 
 ###### Article L536-3
 
@@ -34735,7 +35106,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
 
 
-#### Chapitre VII : Dispositions diverses<a id=340></a>
+#### Chapitre VII : Dispositions diverses<a id=342></a>
 
 ###### Article L537-1
 
@@ -34763,11 +35134,11 @@ _Cité par_:
   - Code de la santé publique - art. L5150-1 (VD)
 
 
-### Titre IV : Déchets<a id=341></a>
+### Titre IV : Déchets<a id=343></a>
 
-#### Chapitre Ier : Elimination des déchets et récupération des matériaux<a id=342></a>
+#### Chapitre Ier : Elimination des déchets et récupération des matériaux<a id=344></a>
 
-##### Section 1 : Dispositions générales<a id=343></a>
+##### Section 1 : Dispositions générales<a id=345></a>
 
 ###### Article L541-1
 
@@ -35220,7 +35591,7 @@ _Cité par_:
   - Code de l'environnement - art. L541-46 (V)
 
 
-##### Section 2 : Production et distribution de produits générateurs de déchets<a id=344></a>
+##### Section 2 : Production et distribution de produits générateurs de déchets<a id=346></a>
 
 ###### Article L541-9
 
@@ -35314,9 +35685,9 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Section 3 : Elimination des déchets<a id=345></a>
+##### Section 3 : Elimination des déchets<a id=347></a>
 
-##### Sous-section 1 : Plans d'élimination des déchets<a id=346></a>
+##### Sous-section 1 : Plans d'élimination des déchets<a id=348></a>
 
 ###### Article L541-11
 
@@ -35648,7 +36019,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Sous-section 2 : Stockages souterrains des déchets<a id=347></a>
+##### Sous-section 2 : Stockages souterrains des déchets<a id=349></a>
 
 ###### Article L541-16
 
@@ -35796,7 +36167,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Sous-section 3 : Collecte des déchets ménagers et assimilés<a id=348></a>
+##### Sous-section 3 : Collecte des déchets ménagers et assimilés<a id=350></a>
 
 ###### Article L541-21
 
@@ -35821,7 +36192,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Sous-section 4 : Installations ayant pour objet l'élimination des déchets<a id=349></a>
+##### Sous-section 4 : Installations ayant pour objet l'élimination des déchets<a id=351></a>
 
 ###### Article L541-22
 
@@ -36154,7 +36525,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Sous-section 5 : Récupération des déchets<a id=350></a>
+##### Sous-section 5 : Récupération des déchets<a id=352></a>
 
 ###### Article L541-31
 
@@ -36441,7 +36812,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Section 4 : Dispositions particulières aux mouvements transfrontaliers de déchets<a id=351></a>
+##### Section 4 : Dispositions particulières aux mouvements transfrontaliers de déchets<a id=353></a>
 
 ###### Article L541-40
 
@@ -36565,7 +36936,7 @@ _Cité par_:
   - Code de l'environnement - art. L541-46 (V)
 
 
-##### Section 5 : Dispositions financières<a id=352></a>
+##### Section 5 : Dispositions financières<a id=354></a>
 
 ###### Article L541-43
 
@@ -36613,9 +36984,9 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Section 6 : Dispositions pénales<a id=353></a>
+##### Section 6 : Dispositions pénales<a id=355></a>
 
-##### Sous-section 1 : Constatation des infractions<a id=354></a>
+##### Sous-section 1 : Constatation des infractions<a id=356></a>
 
 ###### Article L541-44
 
@@ -36722,7 +37093,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-##### Sous-section 2 : Sanctions<a id=355></a>
+##### Sous-section 2 : Sanctions<a id=357></a>
 
 ###### Article L541-46
 
@@ -36899,7 +37270,7 @@ _Cité par_:
   - Code des transports - art. L1252-11 (VD)
 
 
-##### Section 7 : Dispositions diverses<a id=356></a>
+##### Section 7 : Dispositions diverses<a id=358></a>
 
 ###### Article L541-49
 
@@ -36954,7 +37325,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-#### Chapitre II : Dispositions particulières aux déchets radioactifs<a id=357></a>
+#### Chapitre II : Dispositions particulières aux déchets radioactifs<a id=359></a>
 
 ###### Article L542-1
 
@@ -37433,9 +37804,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-### Titre V : Dispositions particulières à certains ouvrages ou installations<a id=358></a>
+### Titre V : Dispositions particulières à certains ouvrages ou installations<a id=360></a>
 
-#### Chapitre Ier : Etude de dangers<a id=359></a>
+#### Chapitre Ier : Etude de dangers<a id=361></a>
 
 ###### Article L551-1
 
@@ -37476,7 +37847,7 @@ _Cité par_:
   - Code de la défense. - art. R*1333-63 (V)
 
 
-#### Chapitre II : Garanties financières<a id=360></a>
+#### Chapitre II : Garanties financières<a id=362></a>
 
 ###### Article L552-1
 
@@ -37502,7 +37873,7 @@ _Cité par_:
   - Code de l'environnement - art. L515-7 (V)
 
 
-#### Chapitre III : Eoliennes<a id=361></a>
+#### Chapitre III : Eoliennes<a id=363></a>
 
 ###### Article L553-2
 
@@ -37599,9 +37970,9 @@ _Créé par_:
   - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
 
 
-### Titre VI : Prévention des risques naturels<a id=362></a>
+### Titre VI : Prévention des risques naturels<a id=364></a>
 
-#### Chapitre Ier : Mesures de sauvegarde des populations menacées par certains risques naturels majeurs<a id=363></a>
+#### Chapitre Ier : Mesures de sauvegarde des populations menacées par certains risques naturels majeurs<a id=365></a>
 
 ###### Article L561-1
 
@@ -37822,7 +38193,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre II : Plans de prévention des risques naturels prévisibles<a id=364></a>
+#### Chapitre II : Plans de prévention des risques naturels prévisibles<a id=366></a>
 
 ###### Article L562-1
 
@@ -38170,7 +38541,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre III : Autres mesures de prévention<a id=365></a>
+#### Chapitre III : Autres mesures de prévention<a id=367></a>
 
 ###### Article L563-1
 
@@ -38240,9 +38611,9 @@ _Cite_:
   - Code de l'urbanisme - art. L445-1 (M)
 
 
-### Titre VII : Prévention des nuisances acoustiques et visuelles<a id=366></a>
+### Titre VII : Prévention des nuisances acoustiques et visuelles<a id=368></a>
 
-#### Chapitre Ier : Lutte contre le bruit<a id=367></a>
+#### Chapitre Ier : Lutte contre le bruit<a id=369></a>
 
 ###### Article L571-1
 
@@ -38268,7 +38639,7 @@ _Cité par_:
   - Code de l'environnement - art. L571-6 (V)
 
 
-##### Section 1 : Emissions sonores des objets<a id=368></a>
+##### Section 1 : Emissions sonores des objets<a id=370></a>
 
 ###### Article L571-2
 
@@ -38395,7 +38766,7 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L571-4 (V)
 
 
-##### Section 2 : Activités bruyantes<a id=369></a>
+##### Section 2 : Activités bruyantes<a id=371></a>
 
 ###### Article L571-6
 
@@ -38528,7 +38899,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L571-6 (V)
 
 
-##### Section 3 : Aménagements et infrastructures de transports terrestres<a id=370></a>
+##### Section 3 : Aménagements et infrastructures de transports terrestres<a id=372></a>
 
 ###### Article L571-9
 
@@ -38606,9 +38977,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2223-81 (VD)
 
 
-##### Section 4 : Bruit des transports aériens<a id=371></a>
+##### Section 4 : Bruit des transports aériens<a id=373></a>
 
-##### Sous-section 1 : Plan d'exposition au bruit<a id=372></a>
+##### Sous-section 1 : Plan d'exposition au bruit<a id=374></a>
 
 ###### Article L571-11
 
@@ -38628,7 +38999,7 @@ _Cité par_:
   - Code des transports - art. L6783-11 (V)
 
 
-##### Sous-section 2 : Environnement des aérodromes<a id=373></a>
+##### Sous-section 2 : Environnement des aérodromes<a id=375></a>
 
 ###### Article L571-12
 
@@ -38643,7 +39014,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 3 : Commission consultative de l'environnement<a id=374></a>
+##### Sous-section 3 : Commission consultative de l'environnement<a id=376></a>
 
 ###### Article L571-13
 
@@ -38738,7 +39109,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 4 : Aide aux riverains<a id=375></a>
+##### Sous-section 4 : Aide aux riverains<a id=377></a>
 
 ###### Article L571-14
 
@@ -38840,7 +39211,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 5 : Contrôles et sanctions administratifs<a id=376></a>
+##### Section 5 : Contrôles et sanctions administratifs<a id=378></a>
 
 ###### Article L571-17
 
@@ -38892,9 +39263,9 @@ _Cité par_:
   - Code de la santé publique - art. R1334-37 (T)
 
 
-##### Section 6 : Dispositions pénales<a id=377></a>
+##### Section 6 : Dispositions pénales<a id=379></a>
 
-##### Sous-section 1 : Constatation des infractions.<a id=378></a>
+##### Sous-section 1 : Constatation des infractions.<a id=380></a>
 
 ###### Article L571-18
 
@@ -39053,7 +39424,7 @@ _Cite_:
   - Code de l'environnement - art. L571-18 (M)
 
 
-##### Sous-section 2 : Sanctions.<a id=379></a>
+##### Sous-section 2 : Sanctions.<a id=381></a>
 
 ###### Article L571-22
 
@@ -39206,7 +39577,7 @@ _Cite_:
   - Code pénal - art. 434-39 (M)
 
 
-#### Chapitre II : Prévention des nuisances visuelles<a id=380></a>
+#### Chapitre II : Prévention des nuisances visuelles<a id=382></a>
 
 ###### Article L572-1
 
@@ -39239,11 +39610,11 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L582-1 (V)
 
 
-### Titre VIII : Protection du cadre de vie<a id=381></a>
+### Titre VIII : Protection du cadre de vie<a id=383></a>
 
-#### Chapitre unique : Publicité, enseignes et préenseignes<a id=382></a>
+#### Chapitre unique : Publicité, enseignes et préenseignes<a id=384></a>
 
-##### Section 1 : Principes généraux<a id=383></a>
+##### Section 1 : Principes généraux<a id=385></a>
 
 ###### Article L581-1
 
@@ -39324,9 +39695,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2333-7 (V)
 
 
-##### Section 2 : Publicité<a id=384></a>
+##### Section 2 : Publicité<a id=386></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=385></a>
+##### Sous-section 1 : Dispositions générales.<a id=387></a>
 
 ###### Article L581-4
 
@@ -39437,7 +39808,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-73 (V)
 
 
-##### Sous-section 2 : Publicité en dehors des agglomérations.<a id=386></a>
+##### Sous-section 2 : Publicité en dehors des agglomérations.<a id=388></a>
 
 ###### Article L581-7
 
@@ -39483,7 +39854,7 @@ _Cite_:
   - Code de l'environnement - art. L581-4 (M)
 
 
-##### Sous-section 3 : Publicité à l'intérieur des agglomérations.<a id=387></a>
+##### Sous-section 3 : Publicité à l'intérieur des agglomérations.<a id=389></a>
 
 ###### Article L581-8
 
@@ -39747,7 +40118,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-2 (V)
 
 
-##### Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie.<a id=388></a>
+##### Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie.<a id=390></a>
 
 ###### Article L581-14
 
@@ -39834,7 +40205,7 @@ _Cite_:
   - Code de l'urbanisme - art. L121-8 (V)
 
 
-##### Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité.<a id=389></a>
+##### Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité.<a id=391></a>
 
 ###### Article L581-15
 
@@ -39908,7 +40279,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-54 (VD)
 
 
-##### Section 3 : Enseignes et préenseignes<a id=390></a>
+##### Section 3 : Enseignes et préenseignes<a id=392></a>
 
 ###### Article L581-18
 
@@ -40037,7 +40408,7 @@ _Cite_:
   - Code de l'environnement - art. L581-18 (M)
 
 
-##### Section 4 : Dispositions communes<a id=391></a>
+##### Section 4 : Dispositions communes<a id=393></a>
 
 ###### Article L581-21
 
@@ -40122,7 +40493,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-86 (VD)
 
 
-##### Section 5 : Contrats de louage d'emplacement<a id=392></a>
+##### Section 5 : Contrats de louage d'emplacement<a id=394></a>
 
 ###### Article L581-25
 
@@ -40160,9 +40531,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1649 B (V)
 
 
-##### Section 6 : Sanctions<a id=393></a>
+##### Section 6 : Sanctions<a id=395></a>
 
-##### Sous-section 1 : Procédure administrative<a id=394></a>
+##### Sous-section 1 : Procédure administrative<a id=396></a>
 
 ###### Article L581-26
 
@@ -40480,7 +40851,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
 
 
-##### Sous-section 2 : Sanctions pénales<a id=395></a>
+##### Sous-section 2 : Sanctions pénales<a id=397></a>
 
 ###### Article L581-34
 
@@ -40953,11 +41324,11 @@ _Codifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
 
 
-## Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte<a id=396></a>
+## Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte<a id=398></a>
 
-### Titre Ier : Dispositions applicables en Nouvelle-Calédonie<a id=397></a>
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie<a id=399></a>
 
-#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement.<a id=398></a>
+#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement.<a id=400></a>
 
 ###### Article L611-1
 
@@ -41093,7 +41464,7 @@ _Anciens textes_:
   - Code rural L252-5
 
 
-#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=399></a>
+#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=401></a>
 
 ###### Article L612-1
 
@@ -41142,7 +41513,7 @@ _Cite_:
   - Code de l'environnement - art. L612-1 (M)
 
 
-#### Chapitre III : Antarctique<a id=400></a>
+#### Chapitre III : Antarctique<a id=402></a>
 
 ###### Article L613-1
 
@@ -41164,7 +41535,7 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-#### Chapitre IV : Autres dispositions<a id=401></a>
+#### Chapitre IV : Autres dispositions<a id=403></a>
 
 ###### Article L614-1
 
@@ -41186,9 +41557,9 @@ _Cite_:
   - Code de l'environnement - art. L229-1 (V)
 
 
-### Titre II : Dispositions applicables en Polynésie Française<a id=402></a>
+### Titre II : Dispositions applicables en Polynésie Française<a id=404></a>
 
-#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=403></a>
+#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=405></a>
 
 ###### Article L621-1
 
@@ -41331,7 +41702,7 @@ _Anciens textes_:
   - Code rural L252-5
 
 
-#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=404></a>
+#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=406></a>
 
 ###### Article L622-1
 
@@ -41380,7 +41751,7 @@ _Cite_:
   - Code de l'environnement - art. L622-1 (M)
 
 
-#### Chapitre III : Antarctique<a id=405></a>
+#### Chapitre III : Antarctique<a id=407></a>
 
 ###### Article L623-1
 
@@ -41402,7 +41773,7 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-#### Chapitre IV : Autres dispositions<a id=406></a>
+#### Chapitre IV : Autres dispositions<a id=408></a>
 
 ###### Article L624-1
 
@@ -41424,9 +41795,9 @@ _Cite_:
   - Code de l'environnement - art. L229-1 (V)
 
 
-### Titre III : Dispositions applicables à Wallis et Futuna<a id=407></a>
+### Titre III : Dispositions applicables à Wallis et Futuna<a id=409></a>
 
-#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=408></a>
+#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=410></a>
 
 ###### Article L631-1
 
@@ -41561,7 +41932,7 @@ _Cite_:
   - Code de l'environnement - art. L631-3 (V)
 
 
-#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=409></a>
+#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=411></a>
 
 ###### Article L632-1
 
@@ -41609,7 +41980,7 @@ _Cite_:
   - Code de l'environnement - art. L632-1 (M)
 
 
-#### Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique<a id=410></a>
+#### Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique<a id=412></a>
 
 ###### Article L633-1
 
@@ -41629,7 +42000,7 @@ _Cite_:
   - Code de la santé publique - art. L1523-2 (V)
 
 
-#### Chapitre IV : Antarctique<a id=411></a>
+#### Chapitre IV : Antarctique<a id=413></a>
 
 ###### Article L634-1
 
@@ -41651,7 +42022,7 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-#### Chapitre V : Autres dispositions<a id=412></a>
+#### Chapitre V : Autres dispositions<a id=414></a>
 
 ###### Article L635-1
 
@@ -41673,7 +42044,7 @@ _Cite_:
   - Code de l'environnement L229-1 à L229-4
 
 
-### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises<a id=413></a>
+### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises<a id=415></a>
 
 ###### Article L640-1
 
@@ -41758,9 +42129,9 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-### Titre V : Dispositions applicables à Mayotte<a id=414></a>
+### Titre V : Dispositions applicables à Mayotte<a id=416></a>
 
-#### Chapitre Ier : Dispositions communes<a id=415></a>
+#### Chapitre Ier : Dispositions communes<a id=417></a>
 
 ###### Article L651-1
 
@@ -42012,7 +42383,7 @@ _Abrogé par_:
   - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 
-#### Chapitre II : Milieux physiques<a id=416></a>
+#### Chapitre II : Milieux physiques<a id=418></a>
 
 ###### Article L652-1
 
@@ -42187,7 +42558,7 @@ _Cité par_:
   - Code de l'environnement - art. R652-2 (Ab)
 
 
-#### Chapitre III : Espaces naturels<a id=417></a>
+#### Chapitre III : Espaces naturels<a id=419></a>
 
 ###### Article L653-1
 
@@ -42324,7 +42695,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
 
-#### Chapitre IV : Faune et flore<a id=418></a>
+#### Chapitre IV : Faune et flore<a id=420></a>
 
 ###### Article L654-1
 
@@ -42650,7 +43021,7 @@ _Cite_:
   - Code de l'environnement - art. L428-26 (Ab)
 
 
-#### Chapitre V : Prévention des pollutions, des risques et des nuisances<a id=419></a>
+#### Chapitre V : Prévention des pollutions, des risques et des nuisances<a id=421></a>
 
 ###### Article L655-1
 
@@ -42915,7 +43286,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L655-8 (V)
 
 
-#### Chapitre VI : Antarctique<a id=420></a>
+#### Chapitre VI : Antarctique<a id=422></a>
 
 ###### Article L656-1
 
@@ -42937,11 +43308,11 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=421></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=423></a>
 
-### Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=422></a>
+### Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=424></a>
 
-#### Chapitre Ier : Dispositions communes<a id=423></a>
+#### Chapitre Ier : Dispositions communes<a id=425></a>
 
 ###### Article L711-1
 
@@ -43056,7 +43427,7 @@ _Créé par_:
   - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
 
 
-#### Chapitre II : Déclaration et autorisation<a id=424></a>
+#### Chapitre II : Déclaration et autorisation<a id=426></a>
 
 ###### Article L712-1
 
@@ -43177,9 +43548,9 @@ _Cite_:
   - Code de l'environnement - art. L712-1 (V)
 
 
-#### Chapitre III : Contrôles et sanctions<a id=425></a>
+#### Chapitre III : Contrôles et sanctions<a id=427></a>
 
-##### Section 1 : Contrôles et sanctions administratifs<a id=426></a>
+##### Section 1 : Contrôles et sanctions administratifs<a id=428></a>
 
 ###### Article L713-1
 
@@ -43269,7 +43640,7 @@ _Cité par_:
   - Code de l'environnement - art. L712-2 (V)
 
 
-##### Section 2 : Sanctions pénales<a id=427></a>
+##### Section 2 : Sanctions pénales<a id=429></a>
 
 ###### Article L713-5
 
