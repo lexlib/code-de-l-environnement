@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-03-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -14710,10 +14710,19 @@ l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office national de la chasse et de la faune sauvage
 et du Conseil supérieur de la pêche ;
 
+4° bis Les gardes champêtres ;
+
 5° Lorsque les mesures de protection portent sur le domaine public maritime ou les eaux territoriales, les agents habilités
 par le décret du 9 janvier 1852 sur l'exercice de la pêche maritime à constater les infractions à la réglementation sur
 l'exercice de la pêche maritime, ainsi que les fonctionnaires chargés de la police du domaine public maritime et des eaux
 territoriales.
+
+**Nota:**
+
+Loi 2003-329 article 131 : Les articles... 77,... 86 à 89,91... sont applicables à Mayotte. Loi n° 2006-1772 2006-12-30 art.
+102 
+
+II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
 **Liens relatifs à cet article**
 
@@ -14721,6 +14730,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 91 () JORF 19 mars 2003
 
 _Cité par_:
 
@@ -14761,6 +14774,10 @@ _Anciens textes_:
 
   - Code rural - art. L242-24 (Ab)
   - Code rural L242-24
+
+**Liens**:
+
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L332-21
@@ -17943,10 +17960,19 @@ l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office national de la chasse et de la faune sauvage
 et du Conseil supérieur de la pêche ;
 
+4° bis Les gardes champêtres ;
+
 5° Lorsque les mesures de protection portent sur le domaine public maritime ou les eaux territoriales, les agents habilités
 par le décret du 9 janvier 1852 sur l'exercice de la pêche maritime à constater les infractions à la réglementation sur
 l'exercice de la pêche maritime, ainsi que les fonctionnaires chargés de la police du domaine public maritime et des eaux
 territoriales.
+
+**Nota:**
+
+Loi 2003-329 article 131 : Les articles... 77,... 86 à 89,91... sont applicables à Mayotte. Loi n° 2006-1772 2006-12-30 art.
+102  
+
+II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
 **Liens relatifs à cet article**
 
@@ -17992,6 +18018,10 @@ _Cité par_:
   - Code rural - art. R*213-41 (Ab)
   - Code rural - art. R*213-47 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 91 () JORF 19 mars 2003
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 16 (M)
@@ -18008,6 +18038,10 @@ _Anciens textes_:
 
   - Code rural - art. L215-5 (Ab)
   - Code rural L215-5
+
+**Liens**:
+
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L415-2
