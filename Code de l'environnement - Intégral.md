@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2001-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -821,8 +821,8 @@ _Codifié par_:
 ###### Article L122-2
 
 Si une requête déposée devant la juridiction administrative contre une autorisation ou une décision d'approbation d'un projet
-visé au second alinéa de l'article L. 122-1 est fondée sur l'absence d'étude d'impact, la juridiction saisie fait droit à la
-demande de sursis à exécution de la décision attaquée dès que cette absence est constatée selon une procédure d'urgence.
+visé au second alinéa de l'article L. 122-1 est fondée sur l'absence d'étude d'impact, le juge des référés, saisi d'une
+demande de suspension de la décision attaquée, y fait droit dès que cette absence est constatée.
 
 **Liens relatifs à cet article**
 
@@ -835,6 +835,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 art. 12 1° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
 
 _Cité par_:
 
@@ -1328,9 +1332,9 @@ _Codifié par_:
 
 ###### Article L123-12
 
-Les juridictions administratives, saisies d'une demande de sursis à exécution d'une décision prise après des conclusions
-défavorables du commissaire enquêteur ou de la commission d'enquête, font droit à cette demande si l'un des moyens invoqués
-dans la requête paraît, en l'état de l'instruction, sérieux et de nature à justifier l'annulation.
+Le juge administratif des référés, saisi d'une demande de suspension d'une décision prise après des conclusions défavorables
+du commissaire enquêteur ou de la commission d'enquête, fait droit à cette demande si elle comporte un moyen propre à créer,
+en l'état de l'instruction, un doute sérieux quant à la légalité de celle-ci.
 
 Les dispositions de l'alinéa précédent s'appliquent également lorsqu'une décision a été prise sans que l'enquête publique
 requise par le présent chapitre ait eu lieu.
@@ -1350,6 +1354,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 art. 12 2° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
 
 **Liens**:
 
@@ -2439,9 +2447,14 @@ achat, importation ou fabrication dans un autre Etat membre de la Communauté eu
 préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
 pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
 
-6. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
-grains minéraux naturels d'un diamètre maximal de 125 millimètres relevant des rubriques 2505 et 25171010 du tarif douanier ;
+matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches
+concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
+caractéristiques et usages sont fixés par décret ;
+
+b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Etat membre de la Communauté européenne, des
+matériaux mentionnés au a), pour les besoins de sa propre utilisation ;
 
 7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -2470,7 +2483,7 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 produit sec d'au moins 97 % d'oxyde de silicium ;
 
 4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
-assouplissants pour le linge, aux grains minéraux naturels, aux produits antiparasitaires à usage agricole ou aux produits
+assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole ou aux produits
 assimilés mentionnés aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication nationale consiste
 en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
@@ -2480,8 +2493,13 @@ en une expédition directe à destination d'un Etat membre de la Communauté eur
 
 _Codifié par_:
 
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 37 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+  - Loi n°2000-1353 2000-12-30 art. 37 IV, VII JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 _Cite_:
 
@@ -36516,8 +36534,7 @@ conforme à cette déclaration. Le manquement est constaté par un procès-verba
 une amende prononcée par le préfet. L'amende est recouvrée, dans les conditions prévues par les dispositions relatives aux
 produits communaux, au bénéfice de la commune sur le territoire de laquelle le manquement a été constaté. La personne visée a
 accès au dossier et est mise à même de présenter ses observations écrites, dans un délai d'un mois, sur le projet de sanction
-de l'administration. La décision du préfet, qui doit être motivée, est susceptible d'un recours de pleine juridiction. Le
-référé prévu à l'article L. 581-30 pour les astreintes s'applique aussi pour les amendes.
+de l'administration. La décision du préfet, qui doit être motivée, est susceptible d'un recours de pleine juridiction.
 
 Les dispositions du présent article sont applicables en cas d'infraction aux dispositions des articles L. 581-4, L. 581-5 et
 L. 581-24.
@@ -36533,6 +36550,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 art. 12 3° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
 
 _Cite_:
 
@@ -36666,15 +36687,6 @@ mentionnés à l'article L. 581-13, sauf lorsque cet affichage ou cette publicit
 prohibé en exécution d'un contrat conclu entre l'exploitant de cet emplacement et la personne pour le compte de qui ils ont
 été réalisés.
 
-Lorsque la mise en demeure a été déférée au tribunal administratif pour excès de pouvoir, le président du tribunal
-administratif ou le magistrat qu'il délègue, statuant en référé, peut, si la demande lui en est présentée dans les huit jours
-francs de la notification de l'arrêté et si les moyens énoncés dans la requête paraissent sérieux et de nature à justifier
-l'annulation de l'arrêté, ordonner la suspension de l'astreinte jusqu'à la décision à intervenir au principal.
-
-Le président statue dans les quinze jours de la saisine, selon des modalités définies par décret en Conseil d'Etat.
-L'ordonnance est exécutoire, nonobstant appel devant le Conseil d'Etat ; copie en est adressée sans délai au procureur de la
-République.
-
 L'astreinte est recouvrée, dans les conditions prévues par les dispositions relatives aux produits communaux, au bénéfice de
 la commune sur le territoire de laquelle ont été commis les faits constatés ; à défaut par le maire de liquider le produit de
 l'astreinte, de dresser l'état nécessaire à son recouvrement et de le faire parvenir au préfet dans le mois qui suit
@@ -36695,6 +36707,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 art. 12 4° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
 
 _Cite_:
 
@@ -38136,8 +38152,8 @@ _Cité par_:
 ###### Article L651-8
 
 Si une requête est déposée devant la juridiction administrative contre une autorisation ou une décision d'approbation d'un
-projet visé à l'alinéa 2 de l'article L. 651-5 est fondée sur l'absence d'étude d'impact, la juridiction saisie fait droit à
-la demande de sursis à exécution de la décision attaquée dès que cette absence est constatée selon une procédure d'urgence.
+projet visé à l'alinéa 2 de l'article L. 651-5 est fondée sur l'absence d'étude d'impact, le juge des référés, saisi d'une
+demande de suspension de la décision attaquée, y fait droit dès que cette absence est constatée.
 
 **Liens relatifs à cet article**
 
@@ -38151,9 +38167,17 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'environnement - art. L651-5 (M)
+  - Ordonnance 2000-914 2000-09-18 art. 12 1° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2005-869 2005-07-28 art. 12 : spécificité d'application
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 
 #### Chapitre II : Milieux physiques<a id=389></a>
