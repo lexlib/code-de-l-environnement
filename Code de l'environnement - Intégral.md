@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-02-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -6035,6 +6035,11 @@ nature à réduire les charges financières de l'agence.
 L'agence attribue des subventions en capital aux collectivités territoriales et à leurs groupements pour l'exécution de
 travaux d'alimentation en eau potable et d'assainissement dans les communes rurales.
 
+Dans le respect des engagements internationaux de la France et dans le cadre de conventions soumises à l'avis du comité de
+bassin, l'agence peut mener des actions de coopération internationale dans les domaines de l'eau et de l'assainissement, dans
+la limite de 1 % de ses ressources, le cas échéant et suivant les règles statutaires en vigueur pour chaque catégorie de
+personnels, avec le concours de ses agents.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -6056,7 +6061,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 121 (V) JORF 31 décembre 2004
+  - Loi n°2005-95 du 9 février 2005 - art. 2 () JORF 10 février 2005
 
 
 ###### Article L213-7
