@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-05-27
+Version Consolidée au 2001-06-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -10367,44 +10367,45 @@ _Cite_:
 ###### Article L224-5
 
 Les règles relatives à la consommation énergétique et aux émissions polluantes des véhicules automobiles sont fixées par les
-articles L. 311-1 et L. 318-1 à L. 318-3 du code de la route ci-après reproduits :
+articles L. 311-1 et L. 318-1 à L. 318-3 du code de la route ci-après reproduits : 
 
-"Art. L. 311-1. Les véhicules doivent être construits, commercialisés, exploités, utilisés, entretenus et, le cas échéant,
-réparés de façon à assurer la sécurité de tous les usagers de la route.
+" Art. L. 311-1 Les véhicules doivent être construits, commercialisés, exploités, utilisés, entretenus et, le cas échéant,
+réparés de façon à assurer la sécurité de tous les usagers de la route. 
 
-Des décrets en Conseil d'Etat déterminent les conditions d'application du présent article."
+Des décrets en Conseil d'Etat déterminent les conditions d'application du présent article. " 
 
-"Art. L. 318-1. Les véhicules doivent être construits, commercialisés, exploités, utilisés, entretenus et, le cas échéant,
+" Art. L. 318-1 Les véhicules doivent être construits, commercialisés, exploités, utilisés, entretenus et, le cas échéant,
 réparés de façon à minimiser la consommation d'énergie, la création de déchets non valorisables, les émissions de substances
 polluantes, notamment de dioxyde de carbone, visées à l'article L. 220-2 du code de l'environnement ainsi que les autres
-nuisances susceptibles de compromettre la santé publique.
+nuisances susceptibles de compromettre la santé publique. 
 
 La consommation énergétique des véhicules et ses méthodes de mesure doivent être affichées sur le lieu de leur vente ou de
-leur location.
+leur location. 
 
 Les véhicules à moteur font l'objet d'une identification fondée sur leur contribution à la limitation de la pollution
 atmosphérique. Les véhicules ainsi identifiés peuvent notamment bénéficier de conditions de circulation et de stationnement
-privilégiées.
+privilégiées. 
 
-Des décrets en Conseil d'Etat déterminent les conditions d'application du présent article."
+Des décrets en Conseil d'Etat déterminent les conditions d'application du présent article. " 
 
-"Art. L. 318-2. Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les
+" Art. L. 318-2 Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les
 entreprises nationales, pour leurs activités n'appartenant pas au secteur concurrentiel, ainsi que les collectivités
 territoriales et leurs groupements, lorsqu'ils gèrent directement ou indirectement une flotte de plus de vingt véhicules,
 acquièrent ou utilisent, lors du renouvellement de leur parc automobile, dans la proportion minimale de 20 %, des véhicules
 fonctionnant à l'énergie électrique, au gaz de pétrole liquéfié ou au gaz naturel. Cette mesure s'applique à l'ensemble des
-véhicules desdits parcs automobiles, à l'exception de ceux dont le poids total autorisé en charge excède 3,5 tonnes.
+véhicules desdits parcs automobiles, à l'exception de ceux dont le poids total autorisé en charge excède 3,5 tonnes. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article."
+Un décret en Conseil d'Etat précise les conditions d'application du présent article. " 
 
-"Art. L. 318-3. Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les
+" Art. L. 318-3 Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les
 entreprises nationales, pour leurs activités n'appartenant pas au secteur concurrentiel, ainsi que les collectivités
 territoriales et leurs groupements, lorsqu'ils gèrent directement ou indirectement une flotte de plus de vingt véhicules à
 usage de transport public en commun de voyageurs, utilisent des véhicules fonctionnant à l'aide de carburants dont le taux
 minimal d'oxygène a été relevé. Cette mesure s'applique dans les périmètres de transports urbains des agglomérations de plus
-de 100 000 habitants définies au deuxième alinéa de l'article L. 221-2 du code de l'environnement.
+de 100 000 habitants définies au deuxième alinéa de l'article L. 221-2 du code de l'environnement sur l'air et l'utilisation
+rationnelle de l'énergie. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article."
+Un décret en Conseil d'Etat précise les conditions d'application du présent article. "
 
 **Liens relatifs à cet article**
 
@@ -10413,12 +10414,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 2 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
+  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 5 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
+
 _Cite_:
 
   - Code de l'environnement - art. L220-2 (V)
   - Code de l'environnement - art. L221-2 (V)
-  - Code de la route L311-1, L318-1 à L318-3
-  - Code de la route. - art. L311-1 (V)
 
 _Cité par_:
 
@@ -10702,6 +10706,35 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+
+###### Article L226-7
+
+Les mesures prévues aux articles L. 121-4, L. 234-1, L. 325-1 à L. 325-3, L. 325-6 à L. 325-11 et L. 417-1 du code de la
+route sont applicables aux véhicules en infraction aux dispositions du présent titre ou aux textes pris pour son application.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°96-1236 du 30 décembre 1996 - art. 37 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 2 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
+
+_Cite_:
+
+  - Code de la route. - art. L121-4 (V)
+  - Code de la route. - art. L234-1 (V)
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L325-6 (V)
+  - Code de la route. - art. L417-1 (V)
 
 
 ###### Article L226-8
@@ -15504,12 +15537,12 @@ _Cite_:
 
 ###### Article L362-7
 
-Les dispositions des articles L. 25 à L. 26 du code de la route sont applicables aux véhicules circulant en infraction aux
-dispositions du présent chapitre et des arrêtés pris pour son application, selon des modalités déterminées par décret en
-Conseil d'Etat.
+Les dispositions des articles L. 121-4, L. 234-1, L. 325-2, L. 325-3, L. 325-6 à L. 325-8, L. 325-10 et L. 417-1 du code de
+la route sont applicables aux véhicules circulant en infraction aux dispositions du présent chapitre et des arrêtés pris pour
+son application, selon des modalités déterminées par décret en Conseil d'Etat.
 
-Les agents mentionnés à l'article L. 362-5 sont habilités à mettre en oeuvre les dispositions de l'article L. 25-1 du code de
-la route.
+Les agents mentionnés à l'article L. 362-5 sont habilités à mettre en oeuvre les dispositions de l'article L. 325-2 du code
+de la route.
 
 **Liens relatifs à cet article**
 
@@ -15523,10 +15556,21 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 2 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
+  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 5 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
+
 _Cite_:
 
   - Code de l'environnement - art. L362-5 (V)
-  - Code de la route L25 à L26, L25-1
+  - Code de la route L121-4, L234-1, L325-2, L325-3, L325-6 à L325-8, L325-10, L417-1
+  - Code de la route. - art. L121-4 (V)
+  - Code de la route. - art. L234-1 (M)
+  - Code de la route. - art. L325-10 (Ab)
+  - Code de la route. - art. L325-2 (M)
+  - Code de la route. - art. L325-3 (M)
+  - Code de la route. - art. L417-1 (V)
 
 
 ###### Article L362-8
