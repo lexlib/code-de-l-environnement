@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-07-31
+Version Consolidée au 2003-08-03
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -19334,18 +19334,23 @@ _Abrogé par_:
 
 ###### Article L421-5
 
-Les fédérations départementales des chasseurs participent à la mise en valeur du patrimoine cynégétique départemental et à la
-protection de la faune sauvage et de ses habitats.
+Les associations dénommées fédérations départementales des chasseurs participent à la mise en valeur du patrimoine
+cynégétique départemental, à la protection et à la gestion de la faune sauvage ainsi que de ses habitats. Elles assurent la
+promotion et la défense de la chasse ainsi que des intérêts de leurs adhérents.
 
-Elles apportent leur concours à la prévention du braconnage et à la gestion des habitats de la faune sauvage. Elles
-conduisent des actions d'information, d'éducation et d'appui technique à l'intention des gestionnaires des territoires et des
-chasseurs. Elles coordonnent les actions des associations communales ou intercommunales de chasse agréées.
+Elles apportent leur concours à la prévention du braconnage. Elles conduisent des actions d'information, d'éducation et
+d'appui technique à l'intention des gestionnaires des territoires et des chasseurs. Elles coordonnent les actions des
+associations communales et intercommunales de chasse agréées.
 
-Elles conduisent des actions de prévention des dégâts de gibier et assurent l'indemnisation de ceux-ci conformément aux
-articles L. 426-1 et L. 426-5.
+Elles conduisent des actions de prévention des dégâts de gibier et assurent l'indemnisation des dégâts de grand gibier dans
+les conditions prévues par les articles L. 426-1 et L. 426-5.
 
 Elles élaborent, en association avec les propriétaires, les gestionnaires et les usagers des territoires concernés, un schéma
 départemental de gestion cynégétique, conformément aux dispositions de l'article L. 421-7.
+
+Les associations de chasse spécialisée sont associées aux travaux des fédérations.
+
+Elles peuvent apporter leur concours à la validation du permis de chasser.
 
 Les fédérations peuvent recruter, pour l'exercice de leurs missions, des agents de développement mandatés à cet effet. Ceux-
 ci veillent notamment au respect du schéma départemental de gestion cynégétique. Dans des conditions fixées par décret en
@@ -19353,10 +19358,20 @@ Conseil d'Etat, leurs constats font foi jusqu'à preuve contraire.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Code rural L221-2
+  - Code rural - art. L221-2 (Ab)
+
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-698 du 30 juillet 2003 - art. 6 () JORF 31 juillet 2003
+  - Ordonnance n°2003-719 du 1 août 2003 - art. 1 () JORF 3 août 2003
 
 _Cite_:
 
@@ -19369,11 +19384,6 @@ _Cité par_:
   - Code de l'environnement - art. L425-11 (V)
   - Code de l'environnement - art. L425-5-1 (V)
   - Code de l'environnement - art. L654-1 (M)
-
-_Anciens textes_:
-
-  - Code rural - art. L221-2 (Ab)
-  - Code rural L221-2
 
 
 ###### Article L421-6
@@ -21456,50 +21466,6 @@ _Anciens textes_:
 
   - Code rural - art. L223-10 (Ab)
   - Code rural L223-10
-
-
-###### Article L423-14
-
-Il est perçu :
-
-1° Pour la validation du permis de chasser :
-
-a) Un droit de timbre annuel au profit de l'Etat, conformément à l'article 964 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 964
-
-_Codifié par_:
-
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 96 () JORF 29 décembre 2001
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 304 (M)
-  - Code de l'environnement - art. L428-12 (M)
-  - Code de l'environnement - art. L654-1 (M)
-  - Code de l'environnement - art. R*223-13 (M)
-  - Code de l'environnement - art. R*223-14 (M)
-  - Code rural - art. R*223-13 (Ab)
-  - Code rural - art. R*223-14 (Ab)
-
-_Anciens textes_:
-
-  - Code rural - art. L223-11 (Ab)
-  - Code rural L223-11
-
-_Abrogé par_:
-
-  - Ordonnance 2003-719 2003-07-21 art. 5 JORF 3 août 2003
 
 
 ###### Article L423-15
