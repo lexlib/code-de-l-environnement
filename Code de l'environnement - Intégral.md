@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-08-03
+Version Consolidée au 2003-08-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -21376,14 +21376,27 @@ _Anciens textes_:
 
 ###### Article L423-12
 
-Le permis de chasser est validé par l'autorité administrative.
+Le paiement de l'une des redevances cynégétiques prévues par la sous-section 3 et du droit de timbre mentionné à l'article
+964 du code général des impôts vaut validation du permis de chasser sous réserve que le titulaire de celui-ci satisfasse aux
+conditions définies par les articles L. 423-13, L. 423-16, L. 423-23 et L. 423-24.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 964
+  - Code de l'environnement - art. L423-13 (V)
+  - Code de l'environnement - art. L423-16 (M)
+  - Code de l'environnement - art. L423-24 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2003-719 du 1 août 2003 - art. 2 () JORF 5 août 2003
 
 _Cité par_:
 
@@ -21464,11 +21477,11 @@ _Anciens textes_:
 
 ###### Article L423-16
 
-La demande de validation doit être accompagnée par une attestation délivrée par une entreprise admise à pratiquer en France
-l'assurance de ce risque et permettant de constater que la responsabilité civile du demandeur est garantie pour une somme
-illimitée et sans qu'aucune déchéance soit opposable aux victimes ou à leurs ayants droit, en raison des accidents corporels
-occasionnés par tout acte de chasse ou tout acte de destruction d'animaux nuisibles. L'assurance doit aussi couvrir, dans les
-mêmes conditions, la responsabilité civile encourue par le chasseur du fait de ses chiens.
+Le chasseur doit avoir souscrit auprès d'une entreprise admise à pratiquer en France l'assurance des risques liés à
+l'exercice de la chasse une assurance qui garantisse sa responsabilité civile pour une somme illimitée et sans qu'aucune
+déchéance soit opposable aux victimes ou à leurs ayants droit, en raison des accidents corporels occasionnés par tout acte de
+chasse ou tout acte de destruction d'animaux nuisibles. L'assurance doit aussi couvrir, dans les mêmes conditions, la
+responsabilité civile encourue par le chasseur du fait de ses chiens.
 
 **Liens relatifs à cet article**
 
@@ -21476,6 +21489,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2003-719 du 1 août 2003 - art. 3 () JORF 5 août 2003
 
 _Cité par_:
 
@@ -21645,8 +21662,15 @@ Redevance cynégétique départementale temporaire : 23 euros
 
 Redevance cynégétique gibier d'eau : 15 euros
 
-La perception des redevances cynégétiques donne lieu à l'apposition de timbres, sur le permis de chasser, par le comptable du
-Trésor territorialement compétent ou, dans des conditions fixées par décret en Conseil d'Etat, par un autre comptable public.
+Les redevances cynégétiques sont encaissées par un comptable du Trésor ou un régisseur de recettes de l'Etat placé auprès
+d'une fédération départementale ou interdépartementale des chasseurs et habilité, selon les règles et avec les garanties
+applicables en matière de droits de timbre.
+
+**Nota:**
+
+NOTA : L'article 13 de la loi n° 2002-1050 du 6 août 2002, de Finances rectificative pour 2002 énonce :"La redevance
+cynégétique "gibier d'eau", instituée par l'article R. 223-26 du code rural, n'est plus perçue à compter du 1er juillet
+2003."
 
 **Liens relatifs à cet article**
 
@@ -21657,7 +21681,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 47 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2003-719 du 1 août 2003 - art. 4 () JORF 5 août 2003
 
 _Cité par_:
 
