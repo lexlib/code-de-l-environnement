@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-05-04
+Version Consolidée au 2001-05-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L655-7)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -9485,10 +9485,10 @@ _Cité par_:
 I. - L'Etat assure, avec le concours des collectivités territoriales dans le respect de leur libre administration et des
 principes de décentralisation, la surveillance de la qualité de l'air et de ses effets sur la santé et sur l'environnement.
 Il confie à l'Agence de l'environnement et de la maîtrise de l'énergie la coordination technique de la surveillance de la
-qualité de l'air. Des objectifs de qualité de l'air, des seuils d'alerte et des valeurs limites sont fixés, après avis du
-Conseil supérieur d'hygiène publique de France, en conformité avec ceux définis par l'Union européenne ou, à défaut, par
-l'Organisation mondiale de la santé. Ces objectifs, seuils d'alerte et valeurs limites sont régulièrement réévalués pour
-prendre en compte les résultats des études médicales et épidémiologiques.
+qualité de l'air. Des objectifs de qualité de l'air, des seuils d'alerte et des valeurs limites sont fixés, après avis de
+l'Agence française de sécurité sanitaire environnementale, en conformité avec ceux définis par l'Union européenne ou, à
+défaut, par l'Organisation mondiale de la santé. Ces objectifs, seuils d'alerte et valeurs limites sont régulièrement
+réévalués pour prendre en compte les résultats des études médicales et épidémiologiques.
 
 II. - Au sens du présent titre, on entend par :
 
@@ -9520,6 +9520,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-398 du 9 mai 2001 - art. 6 () JORF 10 mai 2001
 
 _Cité par_:
 
@@ -9700,8 +9704,8 @@ de compétence, aux organismes agréés mentionnés à l'article L. 221-3.
 L'Etat publie chaque année un inventaire des émissions des substances polluantes et un inventaire des consommations
 d'énergie. Il publie également un rapport sur la qualité de l'air, son évolution possible et ses effets sur la santé et
 l'environnement. L'inventaire des émissions des substances polluantes et le rapport sur la qualité de l'air, son évolution
-possible et ses effets sur la santé et l'environnement sont soumis à l'avis du Conseil supérieur d'hygiène publique de
-France.
+possible et ses effets sur la santé et l'environnement sont soumis à l'avis de l'Agence française de sécurité sanitaire
+environnementale.
 
 Lorsque les objectifs de qualité de l'air ne sont pas atteints ou lorsque les seuils d'alerte et valeurs limites mentionnés à
 l'article L. 221-1 sont dépassés ou risquent de l'être, le public en est immédiatement informé par l'autorité administrative
@@ -9726,6 +9730,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-398 du 9 mai 2001 - art. 6 () JORF 10 mai 2001
 
 _Cité par_:
 
@@ -10012,7 +10020,7 @@ _Cité par_:
 ###### Article L222-7
 
 Les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat pris après avis du Conseil
-supérieur des installations classées et du Conseil supérieur d'hygiène publique de France.
+supérieur des installations classées et de l'Agence française de sécurité sanitaire environnementale.
 
 **Liens relatifs à cet article**
 
@@ -10024,6 +10032,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-398 du 9 mai 2001 - art. 6 () JORF 10 mai 2001
 
 _Cité par_:
 
