@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-09-07
+Version Consolidée au 2003-09-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -481,7 +481,7 @@ Version Consolidée au 2003-09-07
             - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#478)
       - [Titre II : Chasse (art. R*221-1 à R*229-21)](#479)
         - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-56)](#480)
-          - [Section 1 : Conseil national de la chasse et de la faune sauvage (art. R*221-1 à R*221-7)](#481)
+          - [Section 1 : Conseil national de la chasse et de la faune sauvage (art. R*221-1 à R*221-6)](#481)
           - [Section 2 : Office national de la chasse et de la faune sauvage (art. R*221-8 à R*221-23)](#482)
             - [Sous-section 1 : Dispositions générales (art. R*221-8)](#483)
             - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17-8)](#484)
@@ -52058,37 +52058,6 @@ _Cite_:
   - Code de l'environnement - art. R*221-5 (Ab)
 
 
-###### Article R*221-7
-
-La part du produit des redevances cynégétiques affectée au fonctionnement du Conseil national de la chasse et de la faune
-sauvage est fixée par arrêté conjoint du ministre de l'économie, des finances et du budget et du ministre chargé de la
-chasse.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural R221-7
-  - Décret n°98-360 1998-05-06 art. 7 (alinéa 7)
-  - Code rural - art. R*221-7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-_Créé par_:
-
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-_Abrogé par_:
-
-  - Décret n°2003-867 du 5 septembre 2003 - art. 6 () JORF 12 septembre 2003
-
-_Cité par_:
-
-  - Arrêté du 19 avril 2017 - art. 17 (V)
-
-
 ##### Section 2 : Office national de la chasse et de la faune sauvage<a id=482></a>
 
 ##### Sous-section 1 : Dispositions générales<a id=483></a>
@@ -58154,10 +58123,19 @@ _Abrogé par_:
 
 Tout acte de chasse est interdit dans une réserve de chasse et de faune sauvage.
 
-Toutefois, l'arrêté d'institution peut prévoir la possibilité d'exécuter un plan de chasse lorsqu'il est nécessaire au
-maintien des équilibres biologiques et agro-sylvocynégétiques. Les conditions de son exécution doivent être compatibles avec
-la préservation du gibier et de sa tranquillité. Cette exécution doit être autorisée chaque année par l'arrêté attributif du
-plan de chasse.
+Toutefois, l'arrêté d'institution peut prévoir la possibilité d'exécuter un plan de chasse ou un plan de gestion, lorsque
+celui-ci est nécessaire au maintien des équilibres biologiques et agro-sylvocynégétiques. Les conditions d'exécution de ce
+plan doivent être compatibles avec la préservation du gibier et de sa tranquillité. Cette exécution doit être autorisée par
+l'arrêté attributif de plan de chasse ou par l'arrêté approuvant le plan de gestion.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -58169,9 +58147,13 @@ _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2003-867 du 5 septembre 2003 - art. 4 () JORF 12 septembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*222-87
@@ -61157,7 +61139,7 @@ _Créé par_:
 
 La commission compétente est :
 
-1° Pour le grand gibier, la commission mentionnée à l'article R. 226-8.
+1° Pour le grand gibier, la commission mentionnée à l'article R. 226-6.
 
 2° Pour le petit gibier, une commission comprenant :
 
@@ -61181,7 +61163,7 @@ chasseurs ;
 
 - un représentant des intérêts sylvicoles si des terrains forestiers sont concernés ;
 
-- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 141-1.
+- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 252-1.
 
 **Liens relatifs à cet article**
 
@@ -61193,15 +61175,14 @@ _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2003-867 du 5 septembre 2003 - art. 5 () JORF 12 septembre 2003
 
 _Cite_:
 
-  - Code de l'environnement - art. L141-1 (M)
-  - Code de l'environnement - art. R*226-8 (Ab)
+  - Code de l'environnement - art. R*226-6 (Ab)
+  - Code de l'environnement R226-6, L252-1
 
 
 ###### Article R*225-8
@@ -63316,7 +63297,16 @@ _Abrogé par_:
 
 Le renard peut être enfumé à l'aide de produits non toxiques ou déterré avec ou sans chien, toute l'année.
 
-Le ragondin peut être déterré, avec ou sans chien, toute l'année.
+Le ragondin et le rat musqué peuvent être déterrés, avec ou sans chien, toute l'année.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -63328,9 +63318,13 @@ _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2003-867 du 5 septembre 2003 - art. 1 () JORF 12 septembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*227-11
@@ -63672,10 +63666,12 @@ _Abrogé par_:
 ###### Article R*227-20
 
 Le préfet peut, par arrêté motivé, prévoir qu'il sera, compte tenu des particularités de la situation locale au regard des
-intérêts mentionnés à l'article R. 227-6, dérogé aux dispositions de l'article R. 227-19 dans les conditions définies au
-tableau suivant (type de formalité, espèce concernée, date limite de la période autorisée) :
+intérêts mentionnés à l'article R. 227-6, dérogé aux dispositions des articles R. 227-18 et R. 227-19 dans les conditions
+définies au tableau suivant (type de formalité, espèce concernée, date limite de la période autorisée) :
 
 Sans formalité : pigeon ramier, 31 mars.
+
+Sans formalité : Ragondin et rat musqué, ouverture générale.
 
 Déclaration au préfet : étourneau sansonnet, 31 mars.
 
@@ -63687,7 +63683,20 @@ Autorisation individuelle du préfet : pigeon ramier, 31 juillet.
 
 Autorisation individuelle du préfet : étourneau sansonnet, ouverture générale.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'environnement R227-6, R227-18, R227-19
 
 _Anciens textes_:
 
@@ -63697,14 +63706,13 @@ _Codifié par_:
 
   - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+  - Décret n°2003-867 du 5 septembre 2003 - art. 2 () JORF 12 septembre 2003
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'environnement R227-6, R227-19
+  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*227-21
