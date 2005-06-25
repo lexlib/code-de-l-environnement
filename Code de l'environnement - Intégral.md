@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-06-23
+Version Consolidée au 2005-06-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -26929,9 +26929,9 @@ dispositions du présent titre et aux textes pris pour son application, dans l'�
 ils sont assermentés, outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de
 procédure pénale :
 
-1° Les agents de l'Etat, de l'Office national de la chasse et de la faune sauvage, du Conseil supérieur de la pêche, de
-l'Office national des forêts et des parcs nationaux commissionnés pour constater les infractions en matière forestière, de
-chasse ou de pêche ;
+1° Les agents de l'Etat, de l'Office national de la chasse et de la faune sauvage, du Conseil supérieur de la pêche, du
+domaine national de Chambord, de l'Office national des forêts et des parcs nationaux commissionnés pour constater les
+infractions en matière forestière, de chasse ou de pêche ;
 
 2° Les gardes champêtres ;
 
@@ -26939,12 +26939,30 @@ chasse ou de pêche ;
 
 II. - Les procès-verbaux établis par ces fonctionnaires ou agents font foi jusqu'à preuve contraire.
 
+**Nota:**
+
+Loi n° 2005-157 art. 230 VIII : " Un décret détermine les conditions d'application du présent article (art. 230), notamment
+les modalités d'organisation et de fonctionnement de l'établissement, de conservation du château et de gestion de la forêt.
+" 
+
+Ces dispositions prennent effet à la date d'entrée en vigueur du décret prévu à l'article 230 (VIII) et au plus tard le 1er
+juillet 2005. 
+
+Il s'agit du décret n° 2005-703 du 24 juin 2005 publié au Journal officiel du 25 juin 2005.  Loi n° 2006-1772 2006-12-30 art.
+102 II : 
+
+II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2005-157 du 23 février 2005 - art. 230 (V) JORF 24 février 2005 en vigueur le 26 juin 2005
 
 _Cité par_:
 
@@ -26969,6 +26987,10 @@ _Anciens textes_:
 
   - Code rural - art. L228-27 (Ab)
   - Code rural L228-27
+
+**Liens**:
+
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L428-21
@@ -30918,7 +30940,8 @@ I. - Sont habilités à rechercher et à constater les infractions aux dispositi
 application, en quelque lieu qu'elles soient commises, outre les officiers et agents de police judiciaire énumérés aux
 articles 16, 20 et 21 du code de procédure pénale et les agents habilités par des lois spéciales :
 
-1° Les agents du Conseil supérieur de la pêche commissionnés à cet effet par décision ministérielle et assermentés ;
+1° Les agents du Conseil supérieur de la pêche et du domaine national de Chambord commissionnés à cet effet par décision
+ministérielle et assermentés ;
 
 2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux et les agents qualifiés chargés de la
 police de la pêche dans les directions départementales de l'agriculture et de la forêt et à l'Office national des forêts, les
@@ -30941,12 +30964,25 @@ III. - Peuvent également rechercher et constater les infractions aux dispositio
 son application les agents des douanes ainsi que les agents autorisés par le décret du 9 janvier 1852 sur l'exercice de la
 pêche maritime.
 
+**Nota:**
+
+NOTA : Loi n° 2005-157 art. 230 VIII : "Un décret détermine les conditions d'application du présent article (art. 230),
+notamment les modalités d'organisation et de fonctionnement de l'établissement, de conservation du château et de gestion de
+la forêt."
+
+Ces dispositions prennent effet à la date d'entrée en vigueur du décret prévu à l'article 230 (VIII) et au plus tard le 1er
+juillet 2005. Il s'agit du décret n° 2005-703 du 24 juin 2005 publié au Journal officiel du 25 juin 2005.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2005-157 du 23 février 2005 - art. 230 (V) JORF 24 février 2005 en vigueur le 26 juin 2005
 
 _Cité par_:
 
