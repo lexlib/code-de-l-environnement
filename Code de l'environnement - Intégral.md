@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-06-26
+Version Consolidée au 2005-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -387,430 +387,433 @@ Version Consolidée au 2005-06-26
           - [Section 4 : Bruit des transports aériens (art. L571-11 à L571-16)](#384)
             - [Sous-section 1 : Plan d'exposition au bruit (art. L571-11)](#385)
             - [Sous-section 2 : Environnement des aérodromes (art. L571-12)](#386)
-            - [Sous-section 3 : Commission consultative de l'environnement (art. L571-13)](#387)
-            - [Sous-section 4 : Aide aux riverains (art. L571-14 à L571-16)](#388)
-          - [Section 5 : Contrôles et sanctions administratifs (art. L571-17)](#389)
-          - [Section 6 : Dispositions pénales (art. L571-18 à L571-26)](#390)
-            - [Sous-section 1 : Constatation des infractions (art. L571-18 à L571-21)](#391)
-            - [Sous-section 2 : Sanctions (art. L571-22 à L571-26)](#392)
-        - [Chapitre II : Evaluation, prévention et réduction du bruit dans l'environnement (art. L572-1 à L572-11)](#393)
-      - [Titre VIII : Protection du cadre de vie (art. L581-1 à L582-1)](#394)
-        - [Chapitre Ier : Publicité, enseignes et préenseignes (art. L581-1 à L581-45)](#395)
-          - [Section 1 : Principes généraux (art. L581-1 à L581-3)](#396)
-          - [Section 2 : Publicité (art. L581-4 à L581-17)](#397)
-            - [Sous-section 1 : Dispositions générales (art. L581-4 à L581-6)](#398)
-            - [Sous-section 2 : Publicité en dehors des agglomérations (art. L581-7)](#399)
-            - [Sous-section 3 : Publicité à l'intérieur des agglomérations (art. L581-8 à L581-13)](#400)
-            - [Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie (art. L581-14)](#401)
-            - [Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité (art. L581-15 à L581-17)](#402)
-          - [Section 3 : Enseignes et préenseignes (art. L581-18 à L581-20)](#403)
-          - [Section 4 : Dispositions communes (art. L581-21 à L581-24)](#404)
-          - [Section 5 : Contrats de louage d'emplacement (art. L581-25)](#405)
-          - [Section 6 : Sanctions (art. L581-26 à L581-45)](#406)
-            - [Sous-section 1 : Procédure administrative (art. L581-26 à L581-33)](#407)
-            - [Sous-section 2 : Sanctions pénales (art. L581-34 à L581-45)](#408)
-        - [Chapitre II : Prévention des nuisances visuelles (art. L582-1)](#409)
-    - [Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte (art. L611-1 à L656-1)](#410)
-      - [Titre Ier : Dispositions applicables en Nouvelle-Calédonie (art. L611-1 à L614-1)](#411)
-        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement. (art. L611-1 à L611-4)](#412)
-        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L612-1 à L612-2)](#413)
-        - [Chapitre III : Antarctique (art. L613-1)](#414)
-        - [Chapitre IV : Autres dispositions (art. L614-1)](#415)
-      - [Titre II : Dispositions applicables en Polynésie Française (art. L621-1 à L624-1)](#416)
-        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L621-1 à L621-4)](#417)
-        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L622-1 à L622-2)](#418)
-        - [Chapitre III : Antarctique (art. L623-1)](#419)
-        - [Chapitre IV : Autres dispositions (art. L624-1)](#420)
-      - [Titre III : Dispositions applicables à Wallis et Futuna (art. L631-1 à L635-1)](#421)
-        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L631-1 à L631-4)](#422)
-        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L632-1 à L632-2)](#423)
-        - [Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique (art. L633-1)](#424)
-        - [Chapitre IV : Antarctique (art. L634-1)](#425)
-        - [Chapitre V : Autres dispositions (art. L635-1)](#426)
-      - [Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises (art. L640-1 à L640-3)](#427)
-      - [Titre V : Dispositions applicables à Mayotte (art. L651-1 à L656-1)](#428)
-        - [Chapitre Ier : Dispositions communes (art. L651-1 à L651-8)](#429)
-        - [Chapitre II : Milieux physiques (art. L652-1 à L652-3)](#430)
-        - [Chapitre III : Espaces naturels (art. L653-1 à L653-2)](#431)
-        - [Chapitre IV : Faune et flore (art. L654-1 à L654-9)](#432)
-        - [Chapitre V : Prévention des pollutions, des risques et des nuisances (art. L655-1 à L655-7)](#433)
-        - [Chapitre VI : Antarctique (art. L656-1)](#434)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. L711-1 à L713-9)](#435)
-      - [Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. L711-1 à L713-9)](#436)
-        - [Chapitre Ier : Dispositions communes (art. L711-1 à L711-4)](#437)
-        - [Chapitre II : Déclaration et autorisation (art. L712-1 à L712-5)](#438)
-        - [Chapitre III : Contrôles et sanctions (art. L713-1 à L713-9)](#439)
-          - [Section 1 : Contrôles et sanctions administratifs (art. L713-1 à L713-4)](#440)
-          - [Section 2 : Sanctions pénales (art. L713-5 à L713-9)](#441)
-  - [Partie réglementaire (art. R*211-1 à R714-2)](#442)
-    - [Livre II : Protection de la nature (art. R*211-1 à R*264-18)](#443)
-      - [Titre Ier : Protection de la faune et de la flore (art. R*211-1 à R*215-3)](#444)
-        - [Chapitre Ier : Préservation du patrimoine biologique (art. R*211-1 à R*211-27)](#445)
-          - [Section 1 : Mesures de protection (art. R*211-1 à R*211-5)](#446)
-          - [Section 2 : Autorisation de capture d'espèces protégées (art. R*211-6 à R*211-11)](#447)
-          - [Section 3 : Protection des biotopes (art. R*211-12 à R*211-14)](#448)
-          - [Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés (art. R*211-15)](#449)
-          - [Section 5 : Prises de vues ou de son (art. R*211-16 à R*211-18)](#450)
-          - [Section 6 : Conseil scientifique régional du patrimoine naturel (art. R*211-19 à R*211-27)](#451)
-        - [Chapitre II : Activités soumises à autorisation (art. R*212-1 à R*212-10)](#452)
-          - [Section 1 : Régime général d'autorisation (art. R*212-1 à R*212-7)](#453)
-            - [Sous-section 1 : Autorisation (art. R*212-2 à R*212-6)](#454)
-            - [Sous-section 2 : Contrôle (art. R*212-7)](#455)
-          - [Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces (art. R*212-8 à R*212-10)](#456)
-        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. R*213-1 à R*213-50)](#457)
-          - [Section 1 : Etablissements soumis à autorisation d'ouverture, autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée (art. R*213-2 à R*213-22)](#458)
-            - [Sous-section 1 : Certificat de capacité (art. R*213-2 à R*213-4)](#459)
-            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R*213-5 à R*213-19)](#460)
-              - [Paragraphe 1 : Demande d'autorisation (art. R*213-7 à R*213-11)](#461)
-              - [Paragraphe 2 : Instruction par le préfet du département (art. R*213-12 à R*213-19)](#462)
-            - [Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant (art. R*213-20 à R*213-21)](#463)
-            - [Sous-section 4 : Dispositions transitoires (art. R*213-22)](#464)
-          - [Section 2 : Etablissements soumis à autorisation d'ouverture, d'élevage, de vente ou de transit des espèces de gibier dont la chasse est autorisée (art. R*213-23 à R*213-38)](#465)
-            - [Sous-section 1 : Certificat de capacité (art. R*213-24 à R*213-26)](#466)
-            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R*213-27 à R*213-36)](#467)
-              - [Paragraphe 1 : Demande d'autorisation (art. R*213-30 à R*213-33)](#468)
-              - [Paragraphe 2 : Instruction de la demande (art. R*213-34 à R*213-36)](#469)
-            - [Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant (art. R*213-37 à R*213-38)](#470)
-          - [Section 3 : Etablissements soumis au contrôle de l'autorité administrative (art. R*213-39 à R*213-43)](#471)
-          - [Section 4 : Sanctions administratives (art. R*213-44 à R*213-50)](#472)
-            - [Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration (art. R*213-44 à R*213-46)](#473)
-            - [Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées (art. R*213-47 à R*213-48)](#474)
-            - [Sous-section 3 : Dispositions communes. (art. R*213-49 à R*213-50)](#475)
-        - [Chapitre IV : Conservation des habitats naturels, de la faune et de flore sauvages (art. R*214-2 à R*214-39)](#476)
-          - [Section 1 : Conservatoires botaniques nationaux (art. R*214-2 à R*214-5)](#477)
-            - [Sous-section 1 : Missions et agrément des conservatoires botaniques nationaux (art. R*214-1 à R*214-3)](#478)
-            - [Sous-section 2 : Commission des conservatoires botaniques nationaux (art. R*214-4 à R*214-5)](#479)
-          - [Section 2 : Sites Natura 2000 (art. R*214-15 à R*214-39)](#480)
-            - [Sous-section 1 : Dispositions communes (art. R*214-15 à R*214-17)](#481)
-            - [Sous-section 2 : Procédure de désignation des sites Natura 2000 (art. R*214-18 à R*214-22)](#482)
-            - [Sous-section 3 : Dispositions relatives au document d'objectifs (art. R*214-23 à R*214-27)](#483)
-            - [Sous-section 4 : Dispositions relatives aux contrats Natura 2000 (art. R*214-28 à R*214-33)](#484)
-            - [Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation (art. R*214-34 à R*214-39)](#485)
-        - [Chapitre V : Dispositions pénales (art. R*215-1 à R*215-3)](#486)
-          - [Section 1 : Peines (art. R*215-1 à R*215-3)](#487)
-            - [Sous-section 1 : Préservation du patrimoine biologique. (art. R*215-1 à R*215-2)](#488)
-            - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#489)
-      - [Titre II : Chasse (art. R*221-1 à R*229-21)](#490)
-        - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-56)](#491)
-          - [Section 1 : Conseil national de la chasse et de la faune sauvage (art. R*221-1 à R*221-6)](#492)
-          - [Section 2 : Office national de la chasse et de la faune sauvage (art. R*221-8 à R*221-23)](#493)
-            - [Sous-section 1 : Dispositions générales (art. R*221-8)](#494)
-            - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17-8)](#495)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*221-10 à R*221-15)](#496)
-              - [Paragraphe 2 : Directeur. (art. R*221-16)](#497)
-              - [Paragraphe 3 : Conseil scientifique. (art. R*221-16-1 à R*221-16-2)](#498)
-              - [Paragraphe 4 : Personnels. (art. R*221-17 à R*221-17-8)](#499)
-            - [Sous-section 3 : Dispositions financières (art. R*221-20 à R*221-21)](#500)
-            - [Sous-section 4 : Contrôle (art. R*221-22 à R*221-23)](#501)
-          - [Section 3 : Conseil départemental de la chasse et de la faune sauvage (art. R*221-24 à R*221-27)](#502)
-          - [Section 4 : Fédérations départementales des chasseurs (art. R*221-28 à R*221-34)](#503)
-            - [Sous-section 1 : Adhésion et participations exigibles des adhérents (art. R*221-28 à R*221-29)](#504)
-            - [Sous-section 2 : Régime budgétaire et comptable (art. R*221-30 à R*221-33)](#505)
-            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles participe la fédération (art. R*221-34)](#506)
-          - [Section 5 : Fédérations interdépartementales des chasseurs (art. R*221-38 à R*221-40)](#507)
-          - [Section 6 : Fédérations régionales des chasseurs (art. R*221-42 à R*221-43)](#508)
-          - [Section 7 : Fédération nationale des chasseurs (art. R*221-45 à R*221-50)](#509)
-            - [Sous-section 1 : Cotisations et contributions des fédérations départementales (art. R*221-45 à R*221-47)](#510)
-            - [Sous-section 2 : Régime budgétaire et comptable. (art. R*221-48 à R*221-49)](#511)
-            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs (art. R*221-50)](#512)
-          - [Section 9 : Observatoire national de la faune sauvage et de ses habitats (art. R*221-52 à R*221-56)](#513)
-        - [Chapitre II : Territoire de chasse (art. R*222-1 à R*222-97)](#514)
-          - [Section 1 : Associations communales et intercommunales de chasse agréées (art. R*222-1 à R*222-81)](#515)
-            - [Sous-section 1 : Institution des associations communales de chasse agréées (art. R*222-5 à R*222-16)](#516)
-              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées. (art. R*222-5 à R*222-11)](#517)
-              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes. (art. R*222-12 à R*222-16)](#518)
-            - [Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée (art. R*222-17 à R*222-41)](#519)
-              - [Paragraphe 1 : Enquête. (art. R*222-17 à R*222-32)](#520)
-              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée. (art. R*222-33 à R*222-41)](#521)
-            - [Sous-section 3 : Territoire (art. R*222-42 à R*222-61)](#522)
-              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition. (art. R*222-42 à R*222-46)](#523)
-              - [Paragraphe 3 : Apports. (art. R*222-47 à R*222-50)](#524)
-              - [Paragraphe 4 : Indemnisation des apports. (art. R*222-51 à R*222-53)](#525)
-              - [Paragraphe 5 : Modification du territoire de l'association. (art. R*222-53-1 à R*222-58)](#526)
-              - [Paragraphe 6 : Enclaves. (art. R*222-59 à R*222-61)](#527)
-            - [Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées (art. R*222-62 à R*222-64)](#528)
-            - [Sous-section 5 : Réserves et garderie (art. R*222-65 à R*222-68)](#529)
-            - [Sous-section 6 : Association intercommunale de chasse agréée (art. R*222-70 à R*222-79)](#530)
-              - [Paragraphe 1 : Constitution des associations intercommunales de chasse agréées (art. R*222-71 à R*222-74)](#531)
-              - [Paragraphe 2 : Dispositions obligatoires (art. R*222-75 à R*222-78)](#532)
-              - [Paragraphe 3 : Réserves et garderie (art. R*222-79)](#533)
-            - [Sous-section 7 : Dispositions diverses (art. R*222-80 à R*222-81)](#534)
-          - [Section 2 : Réserves de chasse et de faune sauvage (art. R*222-82 à R*222-92-1)](#535)
-            - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage (art. R*222-82 à R*222-85)](#536)
-            - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage (art. R*222-86 à R*222-91)](#537)
-            - [Sous-section 3 : Réserves nationales (art. R*222-92)](#538)
-            - [Sous-section 4 : Dispositions particulières à la Corse (art. R*222-92-1)](#539)
-          - [Section 3 : Chasse maritime (art. R*222-93)](#540)
-          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. R*222-94 à R*222-97)](#541)
-            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. R*222-94)](#542)
-            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial (art. R*222-95 à R*222-96)](#543)
-            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime (art. R*222-97)](#544)
-        - [Chapitre III : Permis de chasser. (art. R*223-1 à R*223-37)](#545)
-          - [Section 1 : Examen pour la délivrance du permis de chasser et autorisation de chasser accompagné (art. R*223-2 à R*223-8)](#546)
-            - [Sous-section 1 : Examen pour la délivrance du permis de chasser. (art. R*223-2 à R*223-7)](#547)
-            - [Sous-section 2 : Autorisation de chasser accompagné. (art. R*223-8)](#548)
-          - [Section 2 : Délivrance et validation du permis de chasser (art. R*223-9 à R*223-32)](#549)
-            - [Sous-section 1 : Délivrance. (art. R*223-9 à R*223-11)](#550)
-            - [Sous-section 2 : Validation du permis de chasser. (art. R*223-12 à R*223-22-1)](#551)
-            - [Sous-section 3 : Modalités de validation du permis de chasser. (art. R*223-23 à R*223-25)](#552)
-            - [Sous-section 4 : Dispositions propres à l'Ile-de-France. (art. R*223-27 à R*223-28)](#553)
-            - [Sous-section 5 : Licences. (art. R*223-30 à R*223-31)](#554)
-            - [Sous-section 6 : Refus et exclusions. (art. R*223-31-1 à R*223-32)](#555)
-          - [Section 3 : Affectation des redevances cynégétiques. (art. R*223-33 à R*223-35)](#556)
-          - [Section 4 : Dispositions diverses. (art. R*223-36 à R*223-37)](#557)
-        - [Chapitre IV : Exercice de la chasse (art. R*224-1 à R*224-17)](#558)
-          - [Section 2 : Temps de chasse (art. R*224-1 à R*224-9)](#559)
-          - [Section 3 : Modes et moyens de chasse. (art. R*224-10 à R*224-12-4)](#560)
-          - [Section 4 : Commercialisation et transport du gibier (art. R*224-13 à R*224-16)](#561)
-            - [Sous-section 1 : Interdiction permanente. (art. R*224-13 à R*224-16)](#562)
-          - [Section 5 : Dispositions spéciales à la chasse maritime. (art. R*224-17)](#563)
-        - [Chapitre V : Gestion (art. R*225-1 à R*225-17)](#564)
-          - [Section 1 : Plan de chasse. (art. R*225-1 à R*225-14-4)](#565)
-            - [Sous-section 1 : Dispositions générales. (art. R*225-1 à R*225-14)](#566)
-            - [Sous-section 2 : Dispositions particulières à la Corse. (art. R*225-14-1 à R*225-14-4)](#567)
-          - [Section 2 : Prélèvement maximal autorisé. (art. R*225-15 à R*225-17)](#568)
-        - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#569)
-          - [Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#570)
-            - [Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier. (art. R*226-1 à R*226-2)](#571)
-            - [Sous-section 2 : Commissions nationale et départementale d'indemnisation (art. R*226-3 à R*226-9)](#572)
-              - [Paragraphe 1 : Commission nationale. (art. R*226-3 à R*226-5)](#573)
-              - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-6 à R*226-9)](#574)
-            - [Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier. (art. R*226-10 à R*226-11)](#575)
-            - [Sous-section 4 : Procédure d'indemnisation. (art. R*226-12 à R*226-18)](#576)
-            - [Sous-section 5 : Dispositions diverses. (art. R*226-19)](#577)
-          - [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes. (art. R*226-20 à R*226-29)](#578)
-        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R*227-1 à R*227-27)](#579)
-          - [Section 1 : Mesures administratives (art. R*227-1 à R*227-4)](#580)
-            - [Sous-section 1 : Louveterie. (art. R*227-1 à R*227-3-1)](#581)
-            - [Sous-section 3 : Sécurité aérienne. (art. R*227-4)](#582)
-          - [Section 2 : Droits des particuliers (art. R*227-5 à R*227-27)](#583)
-            - [Sous-section 1 : Classement des animaux nuisibles. (art. R*227-5 à R*227-6)](#584)
-            - [Sous-section 2 : Exercice du droit de destruction. (art. R*227-7)](#585)
-            - [Sous-section 3 : Modalités de destruction. (art. R*227-8 à R*227-23)](#586)
-              - [Paragraphe 1 : Toxiques. (art. R*227-9)](#587)
-              - [Paragraphe 2 : Déterrage. (art. R*227-10 à R*227-11)](#588)
-              - [Paragraphe 3 : Piégeage. (art. R*227-12 à R*227-15)](#589)
-              - [Paragraphe 4 : Tir. (art. R*227-16 à R*227-22)](#590)
-              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol. (art. R*227-23)](#591)
-            - [Sous-section 4 : Transport, lâcher. (art. R*227-24 à R*227-26)](#592)
-            - [Sous-section 5 : Mesures diverses. (art. R*227-27)](#593)
-        - [Chapitre VIII : Dispositions pénales (art. R*228-1 à R*228-20)](#594)
-          - [Section 1 : Peines (art. R*228-1 à R*228-17)](#595)
-            - [Sous-section 1 : Territoire. (art. R*228-1 à R*228-2)](#596)
-            - [Sous-section 2 : Permis de chasser. (art. R*228-3 à R*228-4)](#597)
-            - [Sous-section 3 : Exercice de la chasse (art. R*228-5 à R*228-14)](#598)
-              - [Paragraphe 1 : Protection du gibier. (art. R*228-5 à R*228-6)](#599)
-              - [Paragraphe 2 : Temps de chasse. (art. R*228-7)](#600)
-              - [Paragraphe 3 : Modes et moyens. (art. R*228-8)](#601)
-              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. R*228-9 à R*228-14)](#602)
-            - [Sous-section 4 : Plan de chasse. (art. R*228-15 à R*228-16)](#603)
-            - [Sous-section 5 : Destruction des animaux nuisibles et louveterie. (art. R*228-17)](#604)
-          - [Section 2 : Circonstances aggravantes et récidive. (art. R*228-18 à R*228-19)](#605)
-          - [Section 4 : Constatation et poursuites (art. R*228-20)](#606)
-            - [Sous-section 1 : Constatation des infractions. (art. R*228-20)](#607)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R*229-1 à R*229-21)](#608)
-          - [Section 2 : Exercice de la chasse (art. R*229-2 à R*229-6)](#609)
-            - [Sous-section 1 : Temps de chasse. (art. R*229-2 à R*229-5)](#610)
-            - [Sous-section 2 : Modes et moyens de chasse. (art. R*229-6)](#611)
-          - [Section 3 : Plan de chasse. (art. R*229-7)](#612)
-          - [Section 4 : Indemnisation des dégâts de gibier (art. R*229-8 à R*229-17)](#613)
-            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. R*229-8 à R*229-14)](#614)
-            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. R*229-15 à R*229-16)](#615)
-            - [Sous-section 3 : Dispositions diverses. (art. R*229-17)](#616)
-          - [Section 5 : Pénalités (art. R*229-18 à R*229-21)](#617)
-            - [Sous-section 1 : Peines (art. R*229-18 à R*229-20)](#618)
-              - [Paragraphe 1 : Territoire. (art. R*229-18 à R*229-19)](#619)
-              - [Paragraphe 2 : Exercice de la chasse. (art. R*229-20)](#620)
-            - [Sous-section 2 : Récidive. (art. R*229-21)](#621)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R*231-1 à R*238-6)](#622)
-        - [Chapitre Ier : Champ d'application (art. R*231-1 à R*231-44)](#623)
-          - [Section 1 : Dispositions générales. (art. R*231-1 à R*231-6)](#624)
-          - [Section 2 : Piscicultures (art. R*231-7 à R*231-44)](#625)
-            - [Sous-section 1 : Dispositions générales. (art. R*231-7 à R*231-10)](#626)
-            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture. (art. R*231-11 à R*231-26)](#627)
-            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#628)
-            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#629)
-            - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-44)](#630)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R*232-17)](#631)
-          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R*232-1)](#632)
-          - [Section 3 : Obligations relatives aux ouvrages. (art. R*232-2)](#633)
-          - [Section 4 : Contrôle des peuplements. (art. R*232-3 à R*232-17)](#634)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R*233-1 à R*233-9)](#635)
-          - [Section 1 : Orientations de bassin. (art. R*233-1 à R*233-9)](#636)
-        - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#637)
-          - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R*234-21)](#638)
-            - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#639)
-            - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15-3)](#640)
-              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-6 à R*234-11)](#641)
-              - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#642)
-              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche. (art. R*234-14 à R*234-15)](#643)
-              - [Paragraphe 3 : Les techniciens et les gardes-pêche. (art. R*234-15-1 à R*234-15-3)](#644)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R*234-21)](#645)
-              - [Paragraphe 1 : Organisation financière et comptable. (art. R*234-16 à R*234-20)](#646)
-              - [Paragraphe 2 : Contrôles. (art. R*234-21)](#647)
-          - [Section 2 : Pêche de loisir. (art. R*234-22 à R*234-34)](#648)
-          - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#649)
-        - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-35)](#650)
-          - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#651)
-            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13-1)](#652)
-            - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#653)
-            - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#654)
-          - [Section 3 : Droit de passage (art. R*235-29 à R*235-35)](#655)
-            - [Sous-section 1 : Subvention directe à un propriétaire riverain. (art. R*235-29 à R*235-31)](#656)
-            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales. (art. R*235-32 à R*235-33)](#657)
-            - [Sous-section 3 : Dispositions diverses. (art. R*235-34 à R*235-35)](#658)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-1 à R*236-105)](#659)
-          - [Section 1 : Dispositions générales (art. R*236-1 à R*236-62)](#660)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R*236-22)](#661)
-              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-16)](#662)
-              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R*236-22)](#663)
-            - [Sous-section 2 : Taille minimale des poissons et des écrevisses. (art. R*236-23 à R*236-26)](#664)
-            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-28 à R*236-29)](#665)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#666)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-49)](#667)
-            - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#668)
-            - [Sous-section 7 : Dispositions pénales. (art. R*236-54 à R*236-61)](#669)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories. (art. R*236-62)](#670)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#671)
-            - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#672)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#673)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-91 à R*236-92-1)](#674)
-            - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#675)
-          - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#676)
-          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-105)](#677)
-            - [Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne. (art. R*236-98 à R*236-99)](#678)
-            - [Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R*236-100 à R*236-102)](#679)
-            - [Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse. (art. R*236-103 à R*236-105)](#680)
-        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#681)
-          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#682)
-          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#683)
-          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#684)
-        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#685)
-          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#686)
-          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#687)
-      - [Titre IV : Espaces naturels (art. R*241-1 à R*244-16)](#688)
-        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#689)
-          - [Section 1 : Comité interministériel des parcs nationaux (art. R*241-1 à R*241-2)](#690)
-          - [Section 2 : Création d'un parc national (art. R*241-3 à R*241-14)](#691)
-          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#692)
-            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27-4)](#693)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#694)
-              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#695)
-              - [Paragraphe 3 : Personnels. (art. R*241-27 à R*241-27-4)](#696)
-            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#697)
-            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#698)
-            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#699)
-            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#700)
-            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#701)
-            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#702)
-            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#703)
-          - [Section 4 : Mise en valeur des zones périphériques (art. R*241-49 à R*241-51)](#704)
-          - [Section 5 : Réserves intégrales (art. R*241-52 à R*241-55)](#705)
-          - [Section 6 : Indemnités (art. R*241-56 à R*241-60)](#706)
-          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#707)
-            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#708)
-            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#709)
-        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-80)](#710)
-          - [Section I : Réserves naturelles nationales (art. R*242-1 à R*242-28)](#711)
-            - [Sous-section 1 : Classement, modification et déclassement (art. R*242-1 à R*242-14)](#712)
-              - [Paragraphe 1 : Dispositions générales. (art. R*242-1)](#713)
-              - [Paragraphe 2 : Procédure de consultation et d'enquête publique (art. R*242-2 à R*242-8)](#714)
-              - [Paragraphe 3 : Classement (art. R*242-9 à R*242-10)](#715)
-              - [Paragraphe 4 : Publicité (art. R*242-11 à R*242-13)](#716)
-              - [Paragraphe 5 : Modifications des limites ou de la réglementation (art. R*242-14)](#717)
-                - [Déclassement (art. R*242-14)](#718)
-            - [Sous-section 2 : Gestion (art. R*242-15 à R*242-22)](#719)
-              - [Paragraphe 1 : Comité consultatif. (art. R*242-15 à R*242-17)](#720)
-              - [Paragraphe 2 : Conseil scientifique. (art. R*242-18)](#721)
-              - [Paragraphe 3 : Gestionnaire. (art. R*242-19 à R*242-20)](#722)
-              - [Paragraphe 4 : Plan de gestion. (art. R*242-21 à R*242-22)](#723)
-            - [Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-23 à R*242-26)](#724)
-            - [Sous-section 4 : Périmètres de protection (art. R*242-27 à R*242-28)](#725)
-          - [Section II : Réserves naturelles régionales (art. R*242-29 à R*242-47)](#726)
-            - [Sous-section 1 : Classement, modifications et déclassement (art. R*242-29 à R*242-39)](#727)
-              - [Paragraphe 1 : Dispositions générales (art. R*242-29)](#728)
-              - [Paragraphe 2 : Procédure de consultation et d'enquête publique (art. R*242-30 à R*242-32)](#729)
-              - [Paragraphe 3 : Classement par délibération (art. R*242-33 à R*242-34)](#730)
-              - [Paragraphe 4 : Classement par décret en Conseil d'Etat (art. R*242-35 à R*242-36)](#731)
-              - [Paragraphe 5 : Publicité (art. R*242-37 à R*242-38)](#732)
-              - [Paragraphe 6 : Modification des limites ou de la réglementation (art. R*242-39)](#733)
-                - [Déclassement. (art. R*242-39)](#734)
-            - [Sous-section 2 : Gestion (art. R*242-40 à R*242-42)](#735)
-            - [Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-43 à R*242-45)](#736)
-            - [Sous-section 4 : Périmètres de protection (art. R*242-46 à R*242-47)](#737)
-          - [Section III : Réserves naturelles en Corse (art. R*242-48 à R*242-66)](#738)
-            - [Sous-section 1 : Classement (art. R*242-48 à R*242-55)](#739)
-              - [Paragraphe 1 : Classement à l'initiative de la collectivité territoriale de Corse (art. R*242-48 à R*242-52)](#740)
-              - [Paragraphe 2 : Classement à la demande de l'Etat ou en vertu de son pouvoir de substitution (art. R*242-53)](#741)
-              - [Paragraphe 3 : Publicité (art. R*242-54 à R*242-55)](#742)
-            - [Sous-section 2 : Modification des limites ou de la réglementation (art. R*242-56)](#743)
-              - [Déclassement (art. R*242-56)](#744)
-            - [Sous-section 3 : Gestion (art. R*242-57 à R*242-60)](#745)
-            - [Sous-section 4 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-61 à R*242-64)](#746)
-              - [Paragraphe 1 : Réserves naturelles classées par la collectivité territoriale de Corse (art. R*242-61 à R*242-63)](#747)
-              - [Paragraphe 2 : Réserves naturelles classées en Corse par l'Etat (art. R*242-64)](#748)
-            - [Sous-section 5 : Périmètres de protection (art. R*242-65 à R*242-66)](#749)
-          - [Section IV : Dispositions pénales (art. R*242-67 à R*242-80)](#750)
-            - [Sous-section 1 : Constatation des infractions (art. R*242-67)](#751)
-            - [Sous-section 2 : Sanctions (art. R*242-68 à R*242-80)](#752)
-        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-34)](#753)
-          - [Section 1 : Dispositions générales (art. R*243-1 à R*243-2)](#754)
-          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#755)
-            - [Sous-section 1 : Constitution, aliénation (art. R*243-3 à R*243-7-1)](#756)
-            - [Sous-section 2 : Gestion (art. R*243-8 à R*243-9)](#757)
-          - [Section 3 : Administration (art. R*243-10 à R*243-29)](#758)
-            - [Sous-section 1 : Conseil d'administration (art. R*243-10 à R*243-21-1)](#759)
-            - [Sous-section 2 : Conseils de rivage (art. R*243-22 à R*243-28)](#760)
-            - [Sous-section 3 : Directeur (art. R*243-29)](#761)
-          - [Section 4 : Dispositions financières (art. R*243-31 à R*243-34)](#762)
-        - [Chapitre IV : Parcs naturels régionaux (art. R*244-1 à R*244-16)](#763)
-          - [Section 1 : Principes généraux (art. R*244-1 à R*244-3)](#764)
-          - [Section 2 : Classement (art. R*244-4 à R*244-11)](#765)
-          - [Section 3 : Effets du classement (art. R*244-12 à R*244-16)](#766)
-      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-29)](#767)
-        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#768)
-          - [Section 1 : Composition (art. R*251-2 à R*251-6)](#769)
-          - [Section 2 : Fonctionnement (art. R*251-7 à R*251-10-1)](#770)
-          - [Section 3 : Comité permanent (art. R*251-11 à R*251-18)](#771)
-          - [Section 4 : Experts (art. R*251-19 à R*251-20)](#772)
-          - [Section 5 : Secrétariat administratif (art. R*251-21)](#773)
-        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-29)](#774)
-          - [Section 1 : Conditions d'obtention de l'agrément (art. R*252-2 à R*252-3)](#775)
-          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#776)
-            - [Sous-section 1 : Demande (art. R*252-5 à R*252-9)](#777)
-            - [Sous-section 2 : Instruction de la demande (art. R*252-10 à R*252-12)](#778)
-            - [Sous-section 3 : Décision (art. R*252-13 à R*252-18)](#779)
-          - [Section 3 : Obligations de l'association agréée (art. R*252-19 à R*252-20)](#780)
-          - [Section 4 : Action en représentation conjointe (art. R*252-21 à R*252-29)](#781)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française (art. R*261-1 à R*264-18)](#782)
-        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*261-1 à R*261-11)](#783)
-          - [Section 1 : Territoire de chasse (art. R*261-2)](#784)
-          - [Section 2 : Temps de chasse (art. R*261-3 à R*261-6)](#785)
-          - [Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion (art. R*261-7 à R*261-11)](#786)
-        - [Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises (art. R*262-1)](#787)
-        - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1 à R*263-33)](#788)
-          - [Section 1 : Protection de la faune et de la flore (art. R*263-2 à R*263-3)](#789)
-          - [Section 2 : Chasse (art. R*263-4 à R*263-11)](#790)
-          - [Section 3 : Pêche en eau douce (art. R*263-12 à R*263-19)](#791)
-          - [Section 4 : Espaces naturels (art. R*263-20 à R*263-24)](#792)
-          - [Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*263-25 à R*263-31)](#793)
-          - [Section 6 : Dispositions particulières (art. R*263-32 à R*263-33)](#794)
-        - [Chapitre IV : Dispositions particulières à la Polynésie française (art. R*264-1 à R*264-18)](#795)
-          - [Section 1 : Conditions d'obtention de l'agrément (art. R*264-2 à R*264-3)](#796)
-          - [Section 2 : Procédure d'agrément (art. R*264-4 à R*264-15)](#797)
-            - [Sous-section 1 : Demande. (art. R*264-4 à R*264-7)](#798)
-            - [Sous-section 2 : Instruction de la demande. (art. R*264-8 à R*264-10)](#799)
-            - [Sous-section 3 : Décision. (art. R*264-11 à R*264-15)](#800)
-          - [Section 3 : Obligations de l'association agréée (art. R*264-16 à R*264-17)](#801)
-          - [Section 4 : Action en représentation conjointe (art. R*264-18)](#802)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#803)
-      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#804)
-        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#805)
-          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#806)
-          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#807)
-          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#808)
-          - [Section 4 : Cas d'urgence (art. R712-15)](#809)
-        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#810)
+            - [Sous-section 4 : Aide aux riverains (art. L571-14 à L571-16)](#387)
+          - [Section 5 : Contrôles et sanctions administratifs (art. L571-17)](#388)
+          - [Section 6 : Dispositions pénales (art. L571-18 à L571-26)](#389)
+            - [Sous-section 1 : Constatation des infractions (art. L571-18 à L571-21)](#390)
+            - [Sous-section 2 : Sanctions (art. L571-22 à L571-26)](#391)
+        - [Chapitre II : Evaluation, prévention et réduction du bruit dans l'environnement (art. L572-1 à L572-11)](#392)
+      - [Titre VII : Prévention des nuisances acoustiques et visuelles (art. L571-13)](#393)
+        - [Chapitre Ier : Lutte contre le bruit (art. L571-13)](#394)
+          - [Section 4 : Bruit des transports aériens (art. L571-13)](#395)
+            - [Sous-section 3 : Commission consultative des nuisances sonores aéroportuaires (art. L571-13)](#396)
+      - [Titre VIII : Protection du cadre de vie (art. L581-1 à L582-1)](#397)
+        - [Chapitre Ier : Publicité, enseignes et préenseignes (art. L581-1 à L581-45)](#398)
+          - [Section 1 : Principes généraux (art. L581-1 à L581-3)](#399)
+          - [Section 2 : Publicité (art. L581-4 à L581-17)](#400)
+            - [Sous-section 1 : Dispositions générales (art. L581-4 à L581-6)](#401)
+            - [Sous-section 2 : Publicité en dehors des agglomérations (art. L581-7)](#402)
+            - [Sous-section 3 : Publicité à l'intérieur des agglomérations (art. L581-8 à L581-13)](#403)
+            - [Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie (art. L581-14)](#404)
+            - [Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité (art. L581-15 à L581-17)](#405)
+          - [Section 3 : Enseignes et préenseignes (art. L581-18 à L581-20)](#406)
+          - [Section 4 : Dispositions communes (art. L581-21 à L581-24)](#407)
+          - [Section 5 : Contrats de louage d'emplacement (art. L581-25)](#408)
+          - [Section 6 : Sanctions (art. L581-26 à L581-45)](#409)
+            - [Sous-section 1 : Procédure administrative (art. L581-26 à L581-33)](#410)
+            - [Sous-section 2 : Sanctions pénales (art. L581-34 à L581-45)](#411)
+        - [Chapitre II : Prévention des nuisances visuelles (art. L582-1)](#412)
+    - [Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte (art. L611-1 à L656-1)](#413)
+      - [Titre Ier : Dispositions applicables en Nouvelle-Calédonie (art. L611-1 à L614-1)](#414)
+        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement. (art. L611-1 à L611-4)](#415)
+        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L612-1 à L612-2)](#416)
+        - [Chapitre III : Antarctique (art. L613-1)](#417)
+        - [Chapitre IV : Autres dispositions (art. L614-1)](#418)
+      - [Titre II : Dispositions applicables en Polynésie Française (art. L621-1 à L624-1)](#419)
+        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L621-1 à L621-4)](#420)
+        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L622-1 à L622-2)](#421)
+        - [Chapitre III : Antarctique (art. L623-1)](#422)
+        - [Chapitre IV : Autres dispositions (art. L624-1)](#423)
+      - [Titre III : Dispositions applicables à Wallis et Futuna (art. L631-1 à L635-1)](#424)
+        - [Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement (art. L631-1 à L631-4)](#425)
+        - [Chapitre II : Eaux marines et voies ouvertes à la navigation maritime (art. L632-1 à L632-2)](#426)
+        - [Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique (art. L633-1)](#427)
+        - [Chapitre IV : Antarctique (art. L634-1)](#428)
+        - [Chapitre V : Autres dispositions (art. L635-1)](#429)
+      - [Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises (art. L640-1 à L640-3)](#430)
+      - [Titre V : Dispositions applicables à Mayotte (art. L651-1 à L656-1)](#431)
+        - [Chapitre Ier : Dispositions communes (art. L651-1 à L651-8)](#432)
+        - [Chapitre II : Milieux physiques (art. L652-1 à L652-3)](#433)
+        - [Chapitre III : Espaces naturels (art. L653-1 à L653-2)](#434)
+        - [Chapitre IV : Faune et flore (art. L654-1 à L654-9)](#435)
+        - [Chapitre V : Prévention des pollutions, des risques et des nuisances (art. L655-1 à L655-7)](#436)
+        - [Chapitre VI : Antarctique (art. L656-1)](#437)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. L711-1 à L713-9)](#438)
+      - [Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. L711-1 à L713-9)](#439)
+        - [Chapitre Ier : Dispositions communes (art. L711-1 à L711-4)](#440)
+        - [Chapitre II : Déclaration et autorisation (art. L712-1 à L712-5)](#441)
+        - [Chapitre III : Contrôles et sanctions (art. L713-1 à L713-9)](#442)
+          - [Section 1 : Contrôles et sanctions administratifs (art. L713-1 à L713-4)](#443)
+          - [Section 2 : Sanctions pénales (art. L713-5 à L713-9)](#444)
+  - [Partie réglementaire (art. R*211-1 à R714-2)](#445)
+    - [Livre II : Protection de la nature (art. R*211-1 à R*264-18)](#446)
+      - [Titre Ier : Protection de la faune et de la flore (art. R*211-1 à R*215-3)](#447)
+        - [Chapitre Ier : Préservation du patrimoine biologique (art. R*211-1 à R*211-27)](#448)
+          - [Section 1 : Mesures de protection (art. R*211-1 à R*211-5)](#449)
+          - [Section 2 : Autorisation de capture d'espèces protégées (art. R*211-6 à R*211-11)](#450)
+          - [Section 3 : Protection des biotopes (art. R*211-12 à R*211-14)](#451)
+          - [Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés (art. R*211-15)](#452)
+          - [Section 5 : Prises de vues ou de son (art. R*211-16 à R*211-18)](#453)
+          - [Section 6 : Conseil scientifique régional du patrimoine naturel (art. R*211-19 à R*211-27)](#454)
+        - [Chapitre II : Activités soumises à autorisation (art. R*212-1 à R*212-10)](#455)
+          - [Section 1 : Régime général d'autorisation (art. R*212-1 à R*212-7)](#456)
+            - [Sous-section 1 : Autorisation (art. R*212-2 à R*212-6)](#457)
+            - [Sous-section 2 : Contrôle (art. R*212-7)](#458)
+          - [Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces (art. R*212-8 à R*212-10)](#459)
+        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. R*213-1 à R*213-50)](#460)
+          - [Section 1 : Etablissements soumis à autorisation d'ouverture, autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée (art. R*213-2 à R*213-22)](#461)
+            - [Sous-section 1 : Certificat de capacité (art. R*213-2 à R*213-4)](#462)
+            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R*213-5 à R*213-19)](#463)
+              - [Paragraphe 1 : Demande d'autorisation (art. R*213-7 à R*213-11)](#464)
+              - [Paragraphe 2 : Instruction par le préfet du département (art. R*213-12 à R*213-19)](#465)
+            - [Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant (art. R*213-20 à R*213-21)](#466)
+            - [Sous-section 4 : Dispositions transitoires (art. R*213-22)](#467)
+          - [Section 2 : Etablissements soumis à autorisation d'ouverture, d'élevage, de vente ou de transit des espèces de gibier dont la chasse est autorisée (art. R*213-23 à R*213-38)](#468)
+            - [Sous-section 1 : Certificat de capacité (art. R*213-24 à R*213-26)](#469)
+            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R*213-27 à R*213-36)](#470)
+              - [Paragraphe 1 : Demande d'autorisation (art. R*213-30 à R*213-33)](#471)
+              - [Paragraphe 2 : Instruction de la demande (art. R*213-34 à R*213-36)](#472)
+            - [Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant (art. R*213-37 à R*213-38)](#473)
+          - [Section 3 : Etablissements soumis au contrôle de l'autorité administrative (art. R*213-39 à R*213-43)](#474)
+          - [Section 4 : Sanctions administratives (art. R*213-44 à R*213-50)](#475)
+            - [Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration (art. R*213-44 à R*213-46)](#476)
+            - [Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées (art. R*213-47 à R*213-48)](#477)
+            - [Sous-section 3 : Dispositions communes. (art. R*213-49 à R*213-50)](#478)
+        - [Chapitre IV : Conservation des habitats naturels, de la faune et de flore sauvages (art. R*214-2 à R*214-39)](#479)
+          - [Section 1 : Conservatoires botaniques nationaux (art. R*214-2 à R*214-5)](#480)
+            - [Sous-section 1 : Missions et agrément des conservatoires botaniques nationaux (art. R*214-1 à R*214-3)](#481)
+            - [Sous-section 2 : Commission des conservatoires botaniques nationaux (art. R*214-4 à R*214-5)](#482)
+          - [Section 2 : Sites Natura 2000 (art. R*214-15 à R*214-39)](#483)
+            - [Sous-section 1 : Dispositions communes (art. R*214-15 à R*214-17)](#484)
+            - [Sous-section 2 : Procédure de désignation des sites Natura 2000 (art. R*214-18 à R*214-22)](#485)
+            - [Sous-section 3 : Dispositions relatives au document d'objectifs (art. R*214-23 à R*214-27)](#486)
+            - [Sous-section 4 : Dispositions relatives aux contrats Natura 2000 (art. R*214-28 à R*214-33)](#487)
+            - [Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation (art. R*214-34 à R*214-39)](#488)
+        - [Chapitre V : Dispositions pénales (art. R*215-1 à R*215-3)](#489)
+          - [Section 1 : Peines (art. R*215-1 à R*215-3)](#490)
+            - [Sous-section 1 : Préservation du patrimoine biologique. (art. R*215-1 à R*215-2)](#491)
+            - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#492)
+      - [Titre II : Chasse (art. R*221-1 à R*229-21)](#493)
+        - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-56)](#494)
+          - [Section 1 : Conseil national de la chasse et de la faune sauvage (art. R*221-1 à R*221-6)](#495)
+          - [Section 2 : Office national de la chasse et de la faune sauvage (art. R*221-8 à R*221-23)](#496)
+            - [Sous-section 1 : Dispositions générales (art. R*221-8)](#497)
+            - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17-8)](#498)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*221-10 à R*221-15)](#499)
+              - [Paragraphe 2 : Directeur. (art. R*221-16)](#500)
+              - [Paragraphe 3 : Conseil scientifique. (art. R*221-16-1 à R*221-16-2)](#501)
+              - [Paragraphe 4 : Personnels. (art. R*221-17 à R*221-17-8)](#502)
+            - [Sous-section 3 : Dispositions financières (art. R*221-20 à R*221-21)](#503)
+            - [Sous-section 4 : Contrôle (art. R*221-22 à R*221-23)](#504)
+          - [Section 3 : Conseil départemental de la chasse et de la faune sauvage (art. R*221-24 à R*221-27)](#505)
+          - [Section 4 : Fédérations départementales des chasseurs (art. R*221-28 à R*221-34)](#506)
+            - [Sous-section 1 : Adhésion et participations exigibles des adhérents (art. R*221-28 à R*221-29)](#507)
+            - [Sous-section 2 : Régime budgétaire et comptable (art. R*221-30 à R*221-33)](#508)
+            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles participe la fédération (art. R*221-34)](#509)
+          - [Section 5 : Fédérations interdépartementales des chasseurs (art. R*221-38 à R*221-40)](#510)
+          - [Section 6 : Fédérations régionales des chasseurs (art. R*221-42 à R*221-43)](#511)
+          - [Section 7 : Fédération nationale des chasseurs (art. R*221-45 à R*221-50)](#512)
+            - [Sous-section 1 : Cotisations et contributions des fédérations départementales (art. R*221-45 à R*221-47)](#513)
+            - [Sous-section 2 : Régime budgétaire et comptable. (art. R*221-48 à R*221-49)](#514)
+            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs (art. R*221-50)](#515)
+          - [Section 9 : Observatoire national de la faune sauvage et de ses habitats (art. R*221-52 à R*221-56)](#516)
+        - [Chapitre II : Territoire de chasse (art. R*222-1 à R*222-97)](#517)
+          - [Section 1 : Associations communales et intercommunales de chasse agréées (art. R*222-1 à R*222-81)](#518)
+            - [Sous-section 1 : Institution des associations communales de chasse agréées (art. R*222-5 à R*222-16)](#519)
+              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées. (art. R*222-5 à R*222-11)](#520)
+              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes. (art. R*222-12 à R*222-16)](#521)
+            - [Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée (art. R*222-17 à R*222-41)](#522)
+              - [Paragraphe 1 : Enquête. (art. R*222-17 à R*222-32)](#523)
+              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée. (art. R*222-33 à R*222-41)](#524)
+            - [Sous-section 3 : Territoire (art. R*222-42 à R*222-61)](#525)
+              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition. (art. R*222-42 à R*222-46)](#526)
+              - [Paragraphe 3 : Apports. (art. R*222-47 à R*222-50)](#527)
+              - [Paragraphe 4 : Indemnisation des apports. (art. R*222-51 à R*222-53)](#528)
+              - [Paragraphe 5 : Modification du territoire de l'association. (art. R*222-53-1 à R*222-58)](#529)
+              - [Paragraphe 6 : Enclaves. (art. R*222-59 à R*222-61)](#530)
+            - [Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées (art. R*222-62 à R*222-64)](#531)
+            - [Sous-section 5 : Réserves et garderie (art. R*222-65 à R*222-68)](#532)
+            - [Sous-section 6 : Association intercommunale de chasse agréée (art. R*222-70 à R*222-79)](#533)
+              - [Paragraphe 1 : Constitution des associations intercommunales de chasse agréées (art. R*222-71 à R*222-74)](#534)
+              - [Paragraphe 2 : Dispositions obligatoires (art. R*222-75 à R*222-78)](#535)
+              - [Paragraphe 3 : Réserves et garderie (art. R*222-79)](#536)
+            - [Sous-section 7 : Dispositions diverses (art. R*222-80 à R*222-81)](#537)
+          - [Section 2 : Réserves de chasse et de faune sauvage (art. R*222-82 à R*222-92-1)](#538)
+            - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage (art. R*222-82 à R*222-85)](#539)
+            - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage (art. R*222-86 à R*222-91)](#540)
+            - [Sous-section 3 : Réserves nationales (art. R*222-92)](#541)
+            - [Sous-section 4 : Dispositions particulières à la Corse (art. R*222-92-1)](#542)
+          - [Section 3 : Chasse maritime (art. R*222-93)](#543)
+          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. R*222-94 à R*222-97)](#544)
+            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. R*222-94)](#545)
+            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial (art. R*222-95 à R*222-96)](#546)
+            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime (art. R*222-97)](#547)
+        - [Chapitre III : Permis de chasser. (art. R*223-1 à R*223-37)](#548)
+          - [Section 1 : Examen pour la délivrance du permis de chasser et autorisation de chasser accompagné (art. R*223-2 à R*223-8)](#549)
+            - [Sous-section 1 : Examen pour la délivrance du permis de chasser. (art. R*223-2 à R*223-7)](#550)
+            - [Sous-section 2 : Autorisation de chasser accompagné. (art. R*223-8)](#551)
+          - [Section 2 : Délivrance et validation du permis de chasser (art. R*223-9 à R*223-32)](#552)
+            - [Sous-section 1 : Délivrance. (art. R*223-9 à R*223-11)](#553)
+            - [Sous-section 2 : Validation du permis de chasser. (art. R*223-12 à R*223-22-1)](#554)
+            - [Sous-section 3 : Modalités de validation du permis de chasser. (art. R*223-23 à R*223-25)](#555)
+            - [Sous-section 4 : Dispositions propres à l'Ile-de-France. (art. R*223-27 à R*223-28)](#556)
+            - [Sous-section 5 : Licences. (art. R*223-30 à R*223-31)](#557)
+            - [Sous-section 6 : Refus et exclusions. (art. R*223-31-1 à R*223-32)](#558)
+          - [Section 3 : Affectation des redevances cynégétiques. (art. R*223-33 à R*223-35)](#559)
+          - [Section 4 : Dispositions diverses. (art. R*223-36 à R*223-37)](#560)
+        - [Chapitre IV : Exercice de la chasse (art. R*224-1 à R*224-17)](#561)
+          - [Section 2 : Temps de chasse (art. R*224-1 à R*224-9)](#562)
+          - [Section 3 : Modes et moyens de chasse. (art. R*224-10 à R*224-12-4)](#563)
+          - [Section 4 : Commercialisation et transport du gibier (art. R*224-13 à R*224-16)](#564)
+            - [Sous-section 1 : Interdiction permanente. (art. R*224-13 à R*224-16)](#565)
+          - [Section 5 : Dispositions spéciales à la chasse maritime. (art. R*224-17)](#566)
+        - [Chapitre V : Gestion (art. R*225-1 à R*225-17)](#567)
+          - [Section 1 : Plan de chasse. (art. R*225-1 à R*225-14-4)](#568)
+            - [Sous-section 1 : Dispositions générales. (art. R*225-1 à R*225-14)](#569)
+            - [Sous-section 2 : Dispositions particulières à la Corse. (art. R*225-14-1 à R*225-14-4)](#570)
+          - [Section 2 : Prélèvement maximal autorisé. (art. R*225-15 à R*225-17)](#571)
+        - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#572)
+          - [Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#573)
+            - [Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier. (art. R*226-1 à R*226-2)](#574)
+            - [Sous-section 2 : Commissions nationale et départementale d'indemnisation (art. R*226-3 à R*226-9)](#575)
+              - [Paragraphe 1 : Commission nationale. (art. R*226-3 à R*226-5)](#576)
+              - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-6 à R*226-9)](#577)
+            - [Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier. (art. R*226-10 à R*226-11)](#578)
+            - [Sous-section 4 : Procédure d'indemnisation. (art. R*226-12 à R*226-18)](#579)
+            - [Sous-section 5 : Dispositions diverses. (art. R*226-19)](#580)
+          - [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes. (art. R*226-20 à R*226-29)](#581)
+        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R*227-1 à R*227-27)](#582)
+          - [Section 1 : Mesures administratives (art. R*227-1 à R*227-4)](#583)
+            - [Sous-section 1 : Louveterie. (art. R*227-1 à R*227-3-1)](#584)
+            - [Sous-section 3 : Sécurité aérienne. (art. R*227-4)](#585)
+          - [Section 2 : Droits des particuliers (art. R*227-5 à R*227-27)](#586)
+            - [Sous-section 1 : Classement des animaux nuisibles. (art. R*227-5 à R*227-6)](#587)
+            - [Sous-section 2 : Exercice du droit de destruction. (art. R*227-7)](#588)
+            - [Sous-section 3 : Modalités de destruction. (art. R*227-8 à R*227-23)](#589)
+              - [Paragraphe 1 : Toxiques. (art. R*227-9)](#590)
+              - [Paragraphe 2 : Déterrage. (art. R*227-10 à R*227-11)](#591)
+              - [Paragraphe 3 : Piégeage. (art. R*227-12 à R*227-15)](#592)
+              - [Paragraphe 4 : Tir. (art. R*227-16 à R*227-22)](#593)
+              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol. (art. R*227-23)](#594)
+            - [Sous-section 4 : Transport, lâcher. (art. R*227-24 à R*227-26)](#595)
+            - [Sous-section 5 : Mesures diverses. (art. R*227-27)](#596)
+        - [Chapitre VIII : Dispositions pénales (art. R*228-1 à R*228-20)](#597)
+          - [Section 1 : Peines (art. R*228-1 à R*228-17)](#598)
+            - [Sous-section 1 : Territoire. (art. R*228-1 à R*228-2)](#599)
+            - [Sous-section 2 : Permis de chasser. (art. R*228-3 à R*228-4)](#600)
+            - [Sous-section 3 : Exercice de la chasse (art. R*228-5 à R*228-14)](#601)
+              - [Paragraphe 1 : Protection du gibier. (art. R*228-5 à R*228-6)](#602)
+              - [Paragraphe 2 : Temps de chasse. (art. R*228-7)](#603)
+              - [Paragraphe 3 : Modes et moyens. (art. R*228-8)](#604)
+              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. R*228-9 à R*228-14)](#605)
+            - [Sous-section 4 : Plan de chasse. (art. R*228-15 à R*228-16)](#606)
+            - [Sous-section 5 : Destruction des animaux nuisibles et louveterie. (art. R*228-17)](#607)
+          - [Section 2 : Circonstances aggravantes et récidive. (art. R*228-18 à R*228-19)](#608)
+          - [Section 4 : Constatation et poursuites (art. R*228-20)](#609)
+            - [Sous-section 1 : Constatation des infractions. (art. R*228-20)](#610)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R*229-1 à R*229-21)](#611)
+          - [Section 2 : Exercice de la chasse (art. R*229-2 à R*229-6)](#612)
+            - [Sous-section 1 : Temps de chasse. (art. R*229-2 à R*229-5)](#613)
+            - [Sous-section 2 : Modes et moyens de chasse. (art. R*229-6)](#614)
+          - [Section 3 : Plan de chasse. (art. R*229-7)](#615)
+          - [Section 4 : Indemnisation des dégâts de gibier (art. R*229-8 à R*229-17)](#616)
+            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. R*229-8 à R*229-14)](#617)
+            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. R*229-15 à R*229-16)](#618)
+            - [Sous-section 3 : Dispositions diverses. (art. R*229-17)](#619)
+          - [Section 5 : Pénalités (art. R*229-18 à R*229-21)](#620)
+            - [Sous-section 1 : Peines (art. R*229-18 à R*229-20)](#621)
+              - [Paragraphe 1 : Territoire. (art. R*229-18 à R*229-19)](#622)
+              - [Paragraphe 2 : Exercice de la chasse. (art. R*229-20)](#623)
+            - [Sous-section 2 : Récidive. (art. R*229-21)](#624)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R*231-1 à R*238-6)](#625)
+        - [Chapitre Ier : Champ d'application (art. R*231-1 à R*231-44)](#626)
+          - [Section 1 : Dispositions générales. (art. R*231-1 à R*231-6)](#627)
+          - [Section 2 : Piscicultures (art. R*231-7 à R*231-44)](#628)
+            - [Sous-section 1 : Dispositions générales. (art. R*231-7 à R*231-10)](#629)
+            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture. (art. R*231-11 à R*231-26)](#630)
+            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#631)
+            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#632)
+            - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-44)](#633)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R*232-17)](#634)
+          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R*232-1)](#635)
+          - [Section 3 : Obligations relatives aux ouvrages. (art. R*232-2)](#636)
+          - [Section 4 : Contrôle des peuplements. (art. R*232-3 à R*232-17)](#637)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R*233-1 à R*233-9)](#638)
+          - [Section 1 : Orientations de bassin. (art. R*233-1 à R*233-9)](#639)
+        - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#640)
+          - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R*234-21)](#641)
+            - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#642)
+            - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15-3)](#643)
+              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-6 à R*234-11)](#644)
+              - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#645)
+              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche. (art. R*234-14 à R*234-15)](#646)
+              - [Paragraphe 3 : Les techniciens et les gardes-pêche. (art. R*234-15-1 à R*234-15-3)](#647)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R*234-21)](#648)
+              - [Paragraphe 1 : Organisation financière et comptable. (art. R*234-16 à R*234-20)](#649)
+              - [Paragraphe 2 : Contrôles. (art. R*234-21)](#650)
+          - [Section 2 : Pêche de loisir. (art. R*234-22 à R*234-34)](#651)
+          - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#652)
+        - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-35)](#653)
+          - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#654)
+            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13-1)](#655)
+            - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#656)
+            - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#657)
+          - [Section 3 : Droit de passage (art. R*235-29 à R*235-35)](#658)
+            - [Sous-section 1 : Subvention directe à un propriétaire riverain. (art. R*235-29 à R*235-31)](#659)
+            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales. (art. R*235-32 à R*235-33)](#660)
+            - [Sous-section 3 : Dispositions diverses. (art. R*235-34 à R*235-35)](#661)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-1 à R*236-105)](#662)
+          - [Section 1 : Dispositions générales (art. R*236-1 à R*236-62)](#663)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R*236-22)](#664)
+              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-16)](#665)
+              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R*236-22)](#666)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses. (art. R*236-23 à R*236-26)](#667)
+            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-28 à R*236-29)](#668)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#669)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-49)](#670)
+            - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#671)
+            - [Sous-section 7 : Dispositions pénales. (art. R*236-54 à R*236-61)](#672)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories. (art. R*236-62)](#673)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#674)
+            - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#675)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#676)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-91 à R*236-92-1)](#677)
+            - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#678)
+          - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#679)
+          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-105)](#680)
+            - [Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne. (art. R*236-98 à R*236-99)](#681)
+            - [Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R*236-100 à R*236-102)](#682)
+            - [Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse. (art. R*236-103 à R*236-105)](#683)
+        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#684)
+          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#685)
+          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#686)
+          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#687)
+        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#688)
+          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#689)
+          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#690)
+      - [Titre IV : Espaces naturels (art. R*241-1 à R*244-16)](#691)
+        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#692)
+          - [Section 1 : Comité interministériel des parcs nationaux (art. R*241-1 à R*241-2)](#693)
+          - [Section 2 : Création d'un parc national (art. R*241-3 à R*241-14)](#694)
+          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#695)
+            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27-4)](#696)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#697)
+              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#698)
+              - [Paragraphe 3 : Personnels. (art. R*241-27 à R*241-27-4)](#699)
+            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#700)
+            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#701)
+            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#702)
+            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#703)
+            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#704)
+            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#705)
+            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#706)
+          - [Section 4 : Mise en valeur des zones périphériques (art. R*241-49 à R*241-51)](#707)
+          - [Section 5 : Réserves intégrales (art. R*241-52 à R*241-55)](#708)
+          - [Section 6 : Indemnités (art. R*241-56 à R*241-60)](#709)
+          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#710)
+            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#711)
+            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#712)
+        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-80)](#713)
+          - [Section I : Réserves naturelles nationales (art. R*242-1 à R*242-28)](#714)
+            - [Sous-section 1 : Classement, modification et déclassement (art. R*242-1 à R*242-14)](#715)
+              - [Paragraphe 1 : Dispositions générales. (art. R*242-1)](#716)
+              - [Paragraphe 2 : Procédure de consultation et d'enquête publique (art. R*242-2 à R*242-8)](#717)
+              - [Paragraphe 3 : Classement (art. R*242-9 à R*242-10)](#718)
+              - [Paragraphe 4 : Publicité (art. R*242-11 à R*242-13)](#719)
+              - [Paragraphe 5 : Modifications des limites ou de la réglementation (art. R*242-14)](#720)
+                - [Déclassement (art. R*242-14)](#721)
+            - [Sous-section 2 : Gestion (art. R*242-15 à R*242-22)](#722)
+              - [Paragraphe 1 : Comité consultatif. (art. R*242-15 à R*242-17)](#723)
+              - [Paragraphe 2 : Conseil scientifique. (art. R*242-18)](#724)
+              - [Paragraphe 3 : Gestionnaire. (art. R*242-19 à R*242-20)](#725)
+              - [Paragraphe 4 : Plan de gestion. (art. R*242-21 à R*242-22)](#726)
+            - [Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-23 à R*242-26)](#727)
+            - [Sous-section 4 : Périmètres de protection (art. R*242-27 à R*242-28)](#728)
+          - [Section II : Réserves naturelles régionales (art. R*242-29 à R*242-47)](#729)
+            - [Sous-section 1 : Classement, modifications et déclassement (art. R*242-29 à R*242-39)](#730)
+              - [Paragraphe 1 : Dispositions générales (art. R*242-29)](#731)
+              - [Paragraphe 2 : Procédure de consultation et d'enquête publique (art. R*242-30 à R*242-32)](#732)
+              - [Paragraphe 3 : Classement par délibération (art. R*242-33 à R*242-34)](#733)
+              - [Paragraphe 4 : Classement par décret en Conseil d'Etat (art. R*242-35 à R*242-36)](#734)
+              - [Paragraphe 5 : Publicité (art. R*242-37 à R*242-38)](#735)
+              - [Paragraphe 6 : Modification des limites ou de la réglementation (art. R*242-39)](#736)
+                - [Déclassement. (art. R*242-39)](#737)
+            - [Sous-section 2 : Gestion (art. R*242-40 à R*242-42)](#738)
+            - [Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-43 à R*242-45)](#739)
+            - [Sous-section 4 : Périmètres de protection (art. R*242-46 à R*242-47)](#740)
+          - [Section III : Réserves naturelles en Corse (art. R*242-48 à R*242-66)](#741)
+            - [Sous-section 1 : Classement (art. R*242-48 à R*242-55)](#742)
+              - [Paragraphe 1 : Classement à l'initiative de la collectivité territoriale de Corse (art. R*242-48 à R*242-52)](#743)
+              - [Paragraphe 2 : Classement à la demande de l'Etat ou en vertu de son pouvoir de substitution (art. R*242-53)](#744)
+              - [Paragraphe 3 : Publicité (art. R*242-54 à R*242-55)](#745)
+            - [Sous-section 2 : Modification des limites ou de la réglementation (art. R*242-56)](#746)
+              - [Déclassement (art. R*242-56)](#747)
+            - [Sous-section 3 : Gestion (art. R*242-57 à R*242-60)](#748)
+            - [Sous-section 4 : Modification de l'état ou de l'aspect d'une réserve naturelle (art. R*242-61 à R*242-64)](#749)
+              - [Paragraphe 1 : Réserves naturelles classées par la collectivité territoriale de Corse (art. R*242-61 à R*242-63)](#750)
+              - [Paragraphe 2 : Réserves naturelles classées en Corse par l'Etat (art. R*242-64)](#751)
+            - [Sous-section 5 : Périmètres de protection (art. R*242-65 à R*242-66)](#752)
+          - [Section IV : Dispositions pénales (art. R*242-67 à R*242-80)](#753)
+            - [Sous-section 1 : Constatation des infractions (art. R*242-67)](#754)
+            - [Sous-section 2 : Sanctions (art. R*242-68 à R*242-80)](#755)
+        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-34)](#756)
+          - [Section 1 : Dispositions générales (art. R*243-1 à R*243-2)](#757)
+          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#758)
+            - [Sous-section 1 : Constitution, aliénation (art. R*243-3 à R*243-7-1)](#759)
+            - [Sous-section 2 : Gestion (art. R*243-8 à R*243-9)](#760)
+          - [Section 3 : Administration (art. R*243-10 à R*243-29)](#761)
+            - [Sous-section 1 : Conseil d'administration (art. R*243-10 à R*243-21-1)](#762)
+            - [Sous-section 2 : Conseils de rivage (art. R*243-22 à R*243-28)](#763)
+            - [Sous-section 3 : Directeur (art. R*243-29)](#764)
+          - [Section 4 : Dispositions financières (art. R*243-31 à R*243-34)](#765)
+        - [Chapitre IV : Parcs naturels régionaux (art. R*244-1 à R*244-16)](#766)
+          - [Section 1 : Principes généraux (art. R*244-1 à R*244-3)](#767)
+          - [Section 2 : Classement (art. R*244-4 à R*244-11)](#768)
+          - [Section 3 : Effets du classement (art. R*244-12 à R*244-16)](#769)
+      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-29)](#770)
+        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#771)
+          - [Section 1 : Composition (art. R*251-2 à R*251-6)](#772)
+          - [Section 2 : Fonctionnement (art. R*251-7 à R*251-10-1)](#773)
+          - [Section 3 : Comité permanent (art. R*251-11 à R*251-18)](#774)
+          - [Section 4 : Experts (art. R*251-19 à R*251-20)](#775)
+          - [Section 5 : Secrétariat administratif (art. R*251-21)](#776)
+        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-29)](#777)
+          - [Section 1 : Conditions d'obtention de l'agrément (art. R*252-2 à R*252-3)](#778)
+          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#779)
+            - [Sous-section 1 : Demande (art. R*252-5 à R*252-9)](#780)
+            - [Sous-section 2 : Instruction de la demande (art. R*252-10 à R*252-12)](#781)
+            - [Sous-section 3 : Décision (art. R*252-13 à R*252-18)](#782)
+          - [Section 3 : Obligations de l'association agréée (art. R*252-19 à R*252-20)](#783)
+          - [Section 4 : Action en représentation conjointe (art. R*252-21 à R*252-29)](#784)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française (art. R*261-1 à R*264-18)](#785)
+        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*261-1 à R*261-11)](#786)
+          - [Section 1 : Territoire de chasse (art. R*261-2)](#787)
+          - [Section 2 : Temps de chasse (art. R*261-3 à R*261-6)](#788)
+          - [Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion (art. R*261-7 à R*261-11)](#789)
+        - [Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises (art. R*262-1)](#790)
+        - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1 à R*263-33)](#791)
+          - [Section 1 : Protection de la faune et de la flore (art. R*263-2 à R*263-3)](#792)
+          - [Section 2 : Chasse (art. R*263-4 à R*263-11)](#793)
+          - [Section 3 : Pêche en eau douce (art. R*263-12 à R*263-19)](#794)
+          - [Section 4 : Espaces naturels (art. R*263-20 à R*263-24)](#795)
+          - [Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*263-25 à R*263-31)](#796)
+          - [Section 6 : Dispositions particulières (art. R*263-32 à R*263-33)](#797)
+        - [Chapitre IV : Dispositions particulières à la Polynésie française (art. R*264-1 à R*264-18)](#798)
+          - [Section 1 : Conditions d'obtention de l'agrément (art. R*264-2 à R*264-3)](#799)
+          - [Section 2 : Procédure d'agrément (art. R*264-4 à R*264-15)](#800)
+            - [Sous-section 1 : Demande. (art. R*264-4 à R*264-7)](#801)
+            - [Sous-section 2 : Instruction de la demande. (art. R*264-8 à R*264-10)](#802)
+            - [Sous-section 3 : Décision. (art. R*264-11 à R*264-15)](#803)
+          - [Section 3 : Obligations de l'association agréée (art. R*264-16 à R*264-17)](#804)
+          - [Section 4 : Action en représentation conjointe (art. R*264-18)](#805)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#806)
+      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#807)
+        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#808)
+          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#809)
+          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#810)
+          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#811)
+          - [Section 4 : Cas d'urgence (art. R712-15)](#812)
+        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#813)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -33904,7 +33907,7 @@ L'autorisation administrative visée à l'alinéa précédent ne peut excéder t
 Cette autorisation ne peut excéder quinze ans pour les terrains dont le défrichement est autorisé en application des articles
 L. 311-1 ou L. 312-1 du code forestier. Toutefois, lorsque l'exploitation de ces terrains est associée à une industrie
 transformatrice nécessitant des investissements lourds, la durée de l'autorisation d'exploiter peut être portée à trente ans,
-après avis conforme de la commission départementale des carrières.
+après avis conforme de la commission départementale compétente en matière de nature, de paysages et de sites.
 
 L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 
@@ -33926,11 +33929,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
   - Loi n°2005-157 du 23 février 2005 - art. 42 () JORF 24 février 2005
 
 _Cite_:
@@ -33940,10 +33943,6 @@ _Cite_:
   - Code de l'environnement - art. L512-1 (M)
   - Code de l'environnement - art. L512-11 (V)
   - Code de l'environnement - art. L512-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 _Cité par_:
 
@@ -34018,8 +34017,8 @@ voisins, la protection des paysages, des sites et des milieux naturels sensibles
 l'espace, tout en favorisant une utilisation économe des matières premières. Il fixe les objectifs à atteindre en matière de
 remise en état et de réaménagement des sites.
 
-Le schéma départemental des carrières est élaboré par la commission départementale des carrières après consultation du
-document de gestion de l'espace agricole et forestier visé à l'article L. 112-1 du code rural.
+Le schéma départemental des carrières est élaboré après consultation du document de gestion de l'espace agricole et forestier
+visé à l'article L. 112-1 du code rural.
 
 Il est approuvé, après avis du conseil général, par le préfet. Il est rendu public dans des conditions fixées par décret.
 
@@ -34027,6 +34026,10 @@ Les autorisations d'exploitation de carrières délivrées en application du pr�
 schéma.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L112-1
 
 _Anciens textes_:
 
@@ -34036,6 +34039,11 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
 
 _Cité par_:
 
@@ -34059,10 +34067,6 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
-
-_Cite_:
-
-  - Code rural L112-1
 
 
 ###### Article L515-4
@@ -39649,7 +39653,8 @@ _Cite_:
 ###### Article L541-14
 
 I. - Chaque département est couvert par un plan départemental ou interdépartemental d'élimination des déchets ménagers et
-autres déchets mentionnés à l'article L. 2224-14 du code général des collectivités territoriales.
+autres déchets mentionnés à l'article L. 2224-14 du code général des collectivités territoriales. L'Ile-de-France est
+couverte par un plan régional.
 
 II. - Pour atteindre les objectifs visés aux articles L. 541-1 et L. 541-24, le plan :
 
@@ -39674,17 +39679,35 @@ propositions de coopération intercommunale.
 IV. - Il prévoit obligatoirement, parmi les priorités qu'il retient, des centres de stockage de déchets ultimes issus du
 traitement des déchets ménagers et assimilés.
 
-V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité de l'Etat. Toutefois, cette compétence est
-transférée, à sa demande, au conseil général.
+V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité du président du conseil général ou, dans la
+région d'Ile-de-France, du président du conseil régional. Les collectivités territoriales ou leurs groupements exerçant la
+compétence d'élimination ou de traitement des déchets et, dans la région d'Ile-de-France, les départements, sont associés à
+son élaboration.
 
 VI. - Il est établi en concertation avec une commission consultative composée de représentants des communes et de leurs
-groupements, du conseil général, de l'Etat, des organismes publics intéressés, des professionnels concernés et des
-associations agréées de protection de l'environnement.
+groupements, du conseil général, de l'Etat, des organismes publics intéressés, des professionnels concernés, des associations
+agréées de protection de l'environnement et des associations agréées de consommateurs ainsi que, dans la région d'Ile-de-
+France, du conseil régional et des conseils généraux et des associations agréées de protection de l'environnement.
 
-VII. - Le projet de plan est soumis pour avis au conseil général, au conseil départemental d'hygiène ainsi qu'aux conseils
-généraux des départements limitrophes. Il est éventuellement modifié pour tenir compte de ces avis.
+VII. - Le projet de plan est soumis pour avis au représentant de l'Etat dans le département, à la commission départementale
+compétente en matière d'environnement, de risques sanitaires et technologiques ainsi qu'aux conseils généraux des
+départements limitrophes. En Ile-de-France, il est soumis pour avis au représentant de l'Etat dans la région ainsi qu'aux
+conseils généraux et aux commissions départementales compétentes en matière d'environnement, de risques sanitaires et
+technologiques  des départements situés sur le territoire de la région. Il peut être modifié pour tenir compte de ces avis,
+qui sont réputés favorables s'ils n'ont pas été formulés dans un délai de trois mois à compter de la réception du projet. Si
+le plan est élaboré par l'Etat, dans les conditions prévues à l'article L. 541-15, l'avis du conseil général et, en Ile-de-
+France, du conseil régional est également sollicité.
 
-VIII. - Le projet de plan est alors soumis à enquête publique, puis approuvé par l'autorité compétente.
+VIII. - Le projet de plan est alors soumis à enquête publique, puis approuvé par délibération du conseil général ou, pour la
+région d'Ile-de-France, par délibération du conseil régional.
+
+**Nota:**
+
+L'article 34-5 de l'ordonnance n° 2004-637 du 1er juillet 2004 a été inséré par l'article 78 XXXII 4° de la loi n° 2004-1343
+du 9 décembre 2004.
+
+L'entrée en vigueur au 1er juillet 2005 est édictée par l'article 34-7 de la même ordonnance, inséré par l'article 78 XXXII
+4° de la loi n° 2004-1343.
 
 **Liens relatifs à cet article**
 
@@ -39735,15 +39758,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. L2224-14 (V)
-  - Code de l'environnement - art. L541-1 (M)
-  - Code de l'environnement - art. L541-24 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-5 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
 
 
 ###### Article L541-15
@@ -43350,115 +43368,7 @@ _Modifié par_:
   - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 
-##### Sous-section 3 : Commission consultative de l'environnement<a id=387></a>
-
-###### Article L571-13
-
-I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
-commission consultative de l'environnement. Cette création est de droit lorsque la demande en est faite par une commune dont
-une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de droit, également,
-pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts (1).
-
-II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
-qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
-des recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code
-général des impôts est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores
-aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits
-qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer
-la maîtrise des nuisances sonores liées à cette exploitation.
-
-III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
-peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
-et de toute demande d'étude ou d'expertise.
-
-IV. - Les avis de la commission sont motivés et détaillent la position de chacun de ses membres. Ils sont rendus publics.
-
-V. - Pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts, la commission établit un
-rapport annuel rendant compte de son activité. Ce rapport est rendu public.
-
-VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
-
-VII. - La commission se réunit au moins une fois par an. Sa réunion est de droit lorsque le tiers de ses membres en fait la
-demande ou le comité permanent.
-
-VIII. - La commission peut créer en son sein un comité permanent représentatif de sa propre composition et qui exerce les
-compétences prévues au II du présent article. La création de ce comité permanent est de droit pour les commissions
-consultatives de l'environnement des aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts.
-
-IX. - La commission ou son comité permanent entend à sa demande toute personne concernée par les nuisances sonores résultant
-des trajectoires de départ, d'attente et d'approche qui ne serait pas représentée au sein de la commission consultative de
-l'environnement.
-
-X. - Le comité permanent constitue la commission consultative mentionnée à l'article L. 571-16. Toutefois, lorsque le comité
-permanent siège en cette qualité, les représentants de l'Etat et du gestionnaire d'aérodrome assistent avec voix délibérative
-à ses réunions, conformément à l'article L. 571-16. Un arrêté conjoint des ministres chargés de l'économie, de l'aviation
-civile et de l'environnement détermine les modalités d'application et la date de mise en oeuvre de cet alinéa, qui entre en
-vigueur, pour chaque commission, à la fin de son mandat en cours à la date du 13 juillet 1999.
-
-XI. - Cette commission comprend :
-
-1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
-
-2° Pour un tiers, des représentants des collectivités locales intéressées ;
-
-3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
-l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
-
-XII. - Elle est présidée par le représentant de l'Etat. Les représentants des administrations intéressées assistent à ses
-réunions.
-
-XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
-
-**Nota:**
-
-NOTA : (1) Une erreur matérielle s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30
-décembre 2003. La référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme "code
-général des impôts".
-
-NOTA : La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1999-07-13
-  - CGI 1609 quatervicies A
-  - Code de l'urbanisme - art. L147-2 (V)
-  - Code de l'environnement - art. L571-16 (M)
-
-_Anciens textes_:
-
-  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
-  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-
-_Cité par_:
-
-  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
-  - Arrêté du 24 août 2001 - art. 1 (Ab)
-  - Code de l'aviation civile - art. L227-3 (VT)
-  - Code de l'aviation civile - art. L227-5 (VT)
-  - Code de l'environnement - art. L571-13 (V)
-  - Code de l'environnement - art. R571-70 (V)
-  - Code de l'environnement - art. R571-71 (V)
-  - Code de l'environnement - art. R571-73 (V)
-  - Code de l'environnement - art. R571-78 (V)
-  - Code de l'environnement - art. R571-81 (V)
-  - Code des transports - art. L6361-5 (V)
-  - Code des transports - art. L6361-7 (V)
-  - Code des transports - art. L6783-11 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi - art. 19 (V) JORF 31 décembre 2003
-  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
-
-
-##### Sous-section 4 : Aide aux riverains<a id=388></a>
+##### Sous-section 4 : Aide aux riverains<a id=387></a>
 
 ###### Article L571-14
 
@@ -43574,7 +43484,7 @@ _Modifié par_:
   - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 
-##### Section 5 : Contrôles et sanctions administratifs<a id=389></a>
+##### Section 5 : Contrôles et sanctions administratifs<a id=388></a>
 
 ###### Article L571-17
 
@@ -43635,9 +43545,9 @@ _Cité par_:
   - Code de la santé publique - art. R1334-37 (T)
 
 
-##### Section 6 : Dispositions pénales<a id=390></a>
+##### Section 6 : Dispositions pénales<a id=389></a>
 
-##### Sous-section 1 : Constatation des infractions<a id=391></a>
+##### Sous-section 1 : Constatation des infractions<a id=390></a>
 
 ###### Article L571-18
 
@@ -43819,7 +43729,7 @@ _Cite_:
   - Code de l'environnement - art. L571-18
 
 
-##### Sous-section 2 : Sanctions<a id=392></a>
+##### Sous-section 2 : Sanctions<a id=391></a>
 
 ###### Article L571-22
 
@@ -44004,7 +43914,7 @@ _Cite_:
   - Code pénal - art. 434-39
 
 
-#### Chapitre II : Evaluation, prévention et réduction du bruit dans l'environnement<a id=393></a>
+#### Chapitre II : Evaluation, prévention et réduction du bruit dans l'environnement<a id=392></a>
 
 ###### Article L572-1
 
@@ -44318,11 +44228,104 @@ _Créé par_:
   - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
 
 
-### Titre VIII : Protection du cadre de vie<a id=394></a>
+### Titre VII : Prévention des nuisances acoustiques et visuelles<a id=393></a>
 
-#### Chapitre Ier : Publicité, enseignes et préenseignes<a id=395></a>
+#### Chapitre Ier : Lutte contre le bruit<a id=394></a>
 
-##### Section 1 : Principes généraux<a id=396></a>
+##### Section 4 : Bruit des transports aériens<a id=395></a>
+
+##### Sous-section 3 : Commission consultative des nuisances sonores aéroportuaires<a id=396></a>
+
+###### Article L571-13
+
+I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
+commission consultative des nuisances sonores aéroportuaires. Cette création est de droit lorsque la demande en est faite par
+une commune dont une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de
+droit, également, pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts (1).
+
+II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
+qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
+des recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code
+général des impôts (1) est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores
+aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits
+qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer
+la maîtrise des nuisances sonores liées à cette exploitation.
+
+III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
+peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
+et de toute demande d'étude ou d'expertise.
+
+IV., V., -  Paragraphes abrogés.
+
+VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
+
+VII., VIII., IX., X. - Paragraphes abrogés.
+
+XI. - Cette commission comprend :
+
+1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
+
+2° Pour un tiers, des représentants des collectivités locales intéressées ;
+
+3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
+l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
+
+XII. - Elle est présidée par le représentant de l'Etat.
+
+XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Nota:**
+
+NOTA : (1) Une erreur matérielle s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30
+décembre 2003. La référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme "code
+général des impôts".
+
+NOTA : La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1609 quatervicies A
+  - Code de l'urbanisme - art. L147-2 (V)
+
+_Anciens textes_:
+
+  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
+  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+
+_Cité par_:
+
+  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
+  - Arrêté du 24 août 2001 - art. 1 (Ab)
+  - Code de l'aviation civile - art. L227-3 (VT)
+  - Code de l'aviation civile - art. L227-5 (VT)
+  - Code de l'environnement - art. L571-13 (V)
+  - Code de l'environnement - art. R571-70 (V)
+  - Code de l'environnement - art. R571-71 (V)
+  - Code de l'environnement - art. R571-73 (V)
+  - Code de l'environnement - art. R571-78 (V)
+  - Code de l'environnement - art. R571-81 (V)
+  - Code des transports - art. L6361-5 (V)
+  - Code des transports - art. L6361-7 (V)
+  - Code des transports - art. L6783-11 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance 2004-637 2004-07-01 art. 31 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 31 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+
+### Titre VIII : Protection du cadre de vie<a id=397></a>
+
+#### Chapitre Ier : Publicité, enseignes et préenseignes<a id=398></a>
+
+##### Section 1 : Principes généraux<a id=399></a>
 
 ###### Article L581-1
 
@@ -44415,9 +44418,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2333-7 (V)
 
 
-##### Section 2 : Publicité<a id=397></a>
+##### Section 2 : Publicité<a id=400></a>
 
-##### Sous-section 1 : Dispositions générales<a id=398></a>
+##### Sous-section 1 : Dispositions générales<a id=401></a>
 
 ###### Article L581-4
 
@@ -44540,7 +44543,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-73 (V)
 
 
-##### Sous-section 2 : Publicité en dehors des agglomérations<a id=399></a>
+##### Sous-section 2 : Publicité en dehors des agglomérations<a id=402></a>
 
 ###### Article L581-7
 
@@ -44590,7 +44593,7 @@ _Cite_:
   - Code de l'environnement - art. L581-4 (M)
 
 
-##### Sous-section 3 : Publicité à l'intérieur des agglomérations<a id=400></a>
+##### Sous-section 3 : Publicité à l'intérieur des agglomérations<a id=403></a>
 
 ###### Article L581-8
 
@@ -44842,7 +44845,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-2 (V)
 
 
-##### Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie<a id=401></a>
+##### Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie<a id=404></a>
 
 ###### Article L581-14
 
@@ -44933,7 +44936,7 @@ _Cite_:
   - Code de l'urbanisme - art. L121-8 (M)
 
 
-##### Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité<a id=402></a>
+##### Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité<a id=405></a>
 
 ###### Article L581-15
 
@@ -45019,7 +45022,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-54 (VD)
 
 
-##### Section 3 : Enseignes et préenseignes<a id=403></a>
+##### Section 3 : Enseignes et préenseignes<a id=406></a>
 
 ###### Article L581-18
 
@@ -45160,7 +45163,7 @@ _Cite_:
   - Code de l'environnement - art. L581-18 (V)
 
 
-##### Section 4 : Dispositions communes<a id=404></a>
+##### Section 4 : Dispositions communes<a id=407></a>
 
 ###### Article L581-21
 
@@ -45261,7 +45264,7 @@ _Cité par_:
   - Code de l'environnement - art. R581-86 (VD)
 
 
-##### Section 5 : Contrats de louage d'emplacement<a id=405></a>
+##### Section 5 : Contrats de louage d'emplacement<a id=408></a>
 
 ###### Article L581-25
 
@@ -45303,9 +45306,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1649 B (V)
 
 
-##### Section 6 : Sanctions<a id=406></a>
+##### Section 6 : Sanctions<a id=409></a>
 
-##### Sous-section 1 : Procédure administrative<a id=407></a>
+##### Sous-section 1 : Procédure administrative<a id=410></a>
 
 ###### Article L581-26
 
@@ -45653,7 +45656,7 @@ _Cite_:
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
 
 
-##### Sous-section 2 : Sanctions pénales<a id=408></a>
+##### Sous-section 2 : Sanctions pénales<a id=411></a>
 
 ###### Article L581-34
 
@@ -46158,7 +46161,7 @@ _Modifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
 
 
-#### Chapitre II : Prévention des nuisances visuelles<a id=409></a>
+#### Chapitre II : Prévention des nuisances visuelles<a id=412></a>
 
 ###### Article L582-1
 
@@ -46186,11 +46189,11 @@ _Anciens textes_:
   - Code de l'environnement - art. L572-1 (T)
 
 
-## Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte<a id=410></a>
+## Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte<a id=413></a>
 
-### Titre Ier : Dispositions applicables en Nouvelle-Calédonie<a id=411></a>
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie<a id=414></a>
 
-#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement.<a id=412></a>
+#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement.<a id=415></a>
 
 ###### Article L611-1
 
@@ -46326,7 +46329,7 @@ _Anciens textes_:
   - Code rural L252-5
 
 
-#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=413></a>
+#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=416></a>
 
 ###### Article L612-1
 
@@ -46375,7 +46378,7 @@ _Cite_:
   - Code de l'environnement - art. L612-1 (M)
 
 
-#### Chapitre III : Antarctique<a id=414></a>
+#### Chapitre III : Antarctique<a id=417></a>
 
 ###### Article L613-1
 
@@ -46397,7 +46400,7 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-#### Chapitre IV : Autres dispositions<a id=415></a>
+#### Chapitre IV : Autres dispositions<a id=418></a>
 
 ###### Article L614-1
 
@@ -46419,9 +46422,9 @@ _Cite_:
   - Code de l'environnement - art. L229-1 (V)
 
 
-### Titre II : Dispositions applicables en Polynésie Française<a id=416></a>
+### Titre II : Dispositions applicables en Polynésie Française<a id=419></a>
 
-#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=417></a>
+#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=420></a>
 
 ###### Article L621-1
 
@@ -46564,7 +46567,7 @@ _Anciens textes_:
   - Code rural L252-5
 
 
-#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=418></a>
+#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=421></a>
 
 ###### Article L622-1
 
@@ -46613,7 +46616,7 @@ _Cite_:
   - Code de l'environnement - art. L622-1 (M)
 
 
-#### Chapitre III : Antarctique<a id=419></a>
+#### Chapitre III : Antarctique<a id=422></a>
 
 ###### Article L623-1
 
@@ -46635,7 +46638,7 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-#### Chapitre IV : Autres dispositions<a id=420></a>
+#### Chapitre IV : Autres dispositions<a id=423></a>
 
 ###### Article L624-1
 
@@ -46657,9 +46660,9 @@ _Cite_:
   - Code de l'environnement - art. L229-1 (V)
 
 
-### Titre III : Dispositions applicables à Wallis et Futuna<a id=421></a>
+### Titre III : Dispositions applicables à Wallis et Futuna<a id=424></a>
 
-#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=422></a>
+#### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement<a id=425></a>
 
 ###### Article L631-1
 
@@ -46794,7 +46797,7 @@ _Cite_:
   - Code de l'environnement - art. L631-3 (V)
 
 
-#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=423></a>
+#### Chapitre II : Eaux marines et voies ouvertes à la navigation maritime<a id=426></a>
 
 ###### Article L632-1
 
@@ -46842,7 +46845,7 @@ _Cite_:
   - Code de l'environnement - art. L632-1 (M)
 
 
-#### Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique<a id=424></a>
+#### Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique<a id=427></a>
 
 ###### Article L633-1
 
@@ -46862,7 +46865,7 @@ _Cite_:
   - Code de la santé publique - art. L1523-2 (V)
 
 
-#### Chapitre IV : Antarctique<a id=425></a>
+#### Chapitre IV : Antarctique<a id=428></a>
 
 ###### Article L634-1
 
@@ -46884,7 +46887,7 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-#### Chapitre V : Autres dispositions<a id=426></a>
+#### Chapitre V : Autres dispositions<a id=429></a>
 
 ###### Article L635-1
 
@@ -46906,7 +46909,7 @@ _Cite_:
   - Code de l'environnement L229-1 à L229-4
 
 
-### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises<a id=427></a>
+### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises<a id=430></a>
 
 ###### Article L640-1
 
@@ -46991,9 +46994,9 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-### Titre V : Dispositions applicables à Mayotte<a id=428></a>
+### Titre V : Dispositions applicables à Mayotte<a id=431></a>
 
-#### Chapitre Ier : Dispositions communes<a id=429></a>
+#### Chapitre Ier : Dispositions communes<a id=432></a>
 
 ###### Article L651-1
 
@@ -47245,7 +47248,7 @@ _Abrogé par_:
   - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 
-#### Chapitre II : Milieux physiques<a id=430></a>
+#### Chapitre II : Milieux physiques<a id=433></a>
 
 ###### Article L652-1
 
@@ -47420,7 +47423,7 @@ _Cité par_:
   - Code de l'environnement - art. R652-2 (Ab)
 
 
-#### Chapitre III : Espaces naturels<a id=431></a>
+#### Chapitre III : Espaces naturels<a id=434></a>
 
 ###### Article L653-1
 
@@ -47555,7 +47558,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
 
-#### Chapitre IV : Faune et flore<a id=432></a>
+#### Chapitre IV : Faune et flore<a id=435></a>
 
 ###### Article L654-1
 
@@ -47881,7 +47884,7 @@ _Cite_:
   - Code de l'environnement - art. L428-26 (Ab)
 
 
-#### Chapitre V : Prévention des pollutions, des risques et des nuisances<a id=433></a>
+#### Chapitre V : Prévention des pollutions, des risques et des nuisances<a id=436></a>
 
 ###### Article L655-1
 
@@ -48146,7 +48149,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L655-8 (V)
 
 
-#### Chapitre VI : Antarctique<a id=434></a>
+#### Chapitre VI : Antarctique<a id=437></a>
 
 ###### Article L656-1
 
@@ -48168,11 +48171,11 @@ _Cite_:
   - Code de l'environnement - art. L711-1 (V)
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=435></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=438></a>
 
-### Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=436></a>
+### Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=439></a>
 
-#### Chapitre Ier : Dispositions communes<a id=437></a>
+#### Chapitre Ier : Dispositions communes<a id=440></a>
 
 ###### Article L711-1
 
@@ -48287,7 +48290,7 @@ _Créé par_:
   - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
 
 
-#### Chapitre II : Déclaration et autorisation<a id=438></a>
+#### Chapitre II : Déclaration et autorisation<a id=441></a>
 
 ###### Article L712-1
 
@@ -48408,9 +48411,9 @@ _Cite_:
   - Code de l'environnement - art. L712-1 (V)
 
 
-#### Chapitre III : Contrôles et sanctions<a id=439></a>
+#### Chapitre III : Contrôles et sanctions<a id=442></a>
 
-##### Section 1 : Contrôles et sanctions administratifs<a id=440></a>
+##### Section 1 : Contrôles et sanctions administratifs<a id=443></a>
 
 ###### Article L713-1
 
@@ -48500,7 +48503,7 @@ _Cité par_:
   - Code de l'environnement - art. L712-2 (V)
 
 
-##### Section 2 : Sanctions pénales<a id=441></a>
+##### Section 2 : Sanctions pénales<a id=444></a>
 
 ###### Article L713-5
 
@@ -48638,15 +48641,15 @@ _Créé par_:
   - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
 
 
-# Partie réglementaire<a id=442></a>
+# Partie réglementaire<a id=445></a>
 
-## Livre II : Protection de la nature<a id=443></a>
+## Livre II : Protection de la nature<a id=446></a>
 
-### Titre Ier : Protection de la faune et de la flore<a id=444></a>
+### Titre Ier : Protection de la faune et de la flore<a id=447></a>
 
-#### Chapitre Ier : Préservation du patrimoine biologique<a id=445></a>
+#### Chapitre Ier : Préservation du patrimoine biologique<a id=448></a>
 
-##### Section 1 : Mesures de protection<a id=446></a>
+##### Section 1 : Mesures de protection<a id=449></a>
 
 ###### Article R*211-1
 
@@ -48880,7 +48883,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Autorisation de capture d'espèces protégées<a id=447></a>
+##### Section 2 : Autorisation de capture d'espèces protégées<a id=450></a>
 
 ###### Article R*211-6
 
@@ -49132,7 +49135,7 @@ _Anciens textes_:
   - Code rural R211-11
 
 
-##### Section 3 : Protection des biotopes<a id=448></a>
+##### Section 3 : Protection des biotopes<a id=451></a>
 
 ###### Article R*211-12
 
@@ -49274,7 +49277,7 @@ _Cité par_:
   - Code de l'environnement - art. R*215-1 (Ab)
 
 
-##### Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés<a id=449></a>
+##### Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés<a id=452></a>
 
 ###### Article R*211-15
 
@@ -49325,7 +49328,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 5 : Prises de vues ou de son<a id=450></a>
+##### Section 5 : Prises de vues ou de son<a id=453></a>
 
 ###### Article R*211-16
 
@@ -49490,7 +49493,7 @@ _Cite_:
   - Code de l'environnement - art. R*211-17 (Ab)
 
 
-##### Section 6 : Conseil scientifique régional du patrimoine naturel<a id=451></a>
+##### Section 6 : Conseil scientifique régional du patrimoine naturel<a id=454></a>
 
 ###### Article R*211-19
 
@@ -49848,9 +49851,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre II : Activités soumises à autorisation<a id=452></a>
+#### Chapitre II : Activités soumises à autorisation<a id=455></a>
 
-##### Section 1 : Régime général d'autorisation<a id=453></a>
+##### Section 1 : Régime général d'autorisation<a id=456></a>
 
 ###### Article R*212-1
 
@@ -49907,7 +49910,7 @@ _Cité par_:
   - Code de l'environnement - art. R*212-8 (Ab)
 
 
-##### Sous-section 1 : Autorisation<a id=454></a>
+##### Sous-section 1 : Autorisation<a id=457></a>
 
 ###### Article R*212-2
 
@@ -50199,7 +50202,7 @@ _Cité par_:
   - Code de l'environnement - art. R652-12-1 (V)
 
 
-##### Sous-section 2 : Contrôle<a id=455></a>
+##### Sous-section 2 : Contrôle<a id=458></a>
 
 ###### Article R*212-7
 
@@ -50252,7 +50255,7 @@ _Cite_:
   - Code de l'environnement - art. R*212-1 (Ab)
 
 
-##### Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces<a id=456></a>
+##### Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces<a id=459></a>
 
 ###### Article R*212-8
 
@@ -50431,7 +50434,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=457></a>
+#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=460></a>
 
 ###### Article R*213-1
 
@@ -50530,9 +50533,9 @@ _Cite_:
   - Code de l'environnement L413-4, R213-4
 
 
-##### Section 1 : Etablissements soumis à autorisation d'ouverture, autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée<a id=458></a>
+##### Section 1 : Etablissements soumis à autorisation d'ouverture, autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée<a id=461></a>
 
-##### Sous-section 1 : Certificat de capacité<a id=459></a>
+##### Sous-section 1 : Certificat de capacité<a id=462></a>
 
 ###### Article R*213-2
 
@@ -50674,7 +50677,7 @@ _Cite_:
   - Code de l'environnement R213-1-1, R213-3
 
 
-##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=460></a>
+##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=463></a>
 
 ###### Article R*213-5
 
@@ -50752,7 +50755,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Demande d'autorisation<a id=461></a>
+##### Paragraphe 1 : Demande d'autorisation<a id=464></a>
 
 ###### Article R*213-7
 
@@ -50960,7 +50963,7 @@ _Cite_:
   - Code de l'environnement R213-6
 
 
-##### Paragraphe 2 : Instruction par le préfet du département<a id=462></a>
+##### Paragraphe 2 : Instruction par le préfet du département<a id=465></a>
 
 ###### Article R*213-12
 
@@ -51311,7 +51314,7 @@ _Cité par_:
   - Code de l'environnement - art. R213-29 (Ab)
 
 
-##### Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant<a id=463></a>
+##### Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant<a id=466></a>
 
 ###### Article R*213-20
 
@@ -51398,7 +51401,7 @@ _Cité par_:
   - Code de l'environnement - art. R213-29 (Ab)
 
 
-##### Sous-section 4 : Dispositions transitoires<a id=464></a>
+##### Sous-section 4 : Dispositions transitoires<a id=467></a>
 
 ###### Article R*213-22
 
@@ -51448,7 +51451,7 @@ _Cite_:
   - Code de l'environnement R213-5, R213-10, R213-6, R213-11, R213-12
 
 
-##### Section 2 : Etablissements soumis à autorisation d'ouverture, d'élevage, de vente ou de transit des espèces de gibier dont la chasse est autorisée<a id=465></a>
+##### Section 2 : Etablissements soumis à autorisation d'ouverture, d'élevage, de vente ou de transit des espèces de gibier dont la chasse est autorisée<a id=468></a>
 
 ###### Article R*213-23
 
@@ -51492,7 +51495,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 1 : Certificat de capacité<a id=466></a>
+##### Sous-section 1 : Certificat de capacité<a id=469></a>
 
 ###### Article R*213-24
 
@@ -51616,7 +51619,7 @@ _Cité par_:
   - Code de l'environnement - art. R213-29 (Ab)
 
 
-##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=467></a>
+##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=470></a>
 
 ###### Article R*213-27
 
@@ -51762,7 +51765,7 @@ _Cité par_:
   - Code de l'environnement - art. R*224-14 (Ab)
 
 
-##### Paragraphe 1 : Demande d'autorisation<a id=468></a>
+##### Paragraphe 1 : Demande d'autorisation<a id=471></a>
 
 ###### Article R*213-30
 
@@ -51948,7 +51951,7 @@ _Cité par_:
   - Code de l'environnement - art. R213-39 (M)
 
 
-##### Paragraphe 2 : Instruction de la demande<a id=469></a>
+##### Paragraphe 2 : Instruction de la demande<a id=472></a>
 
 ###### Article R*213-34
 
@@ -52098,7 +52101,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant<a id=470></a>
+##### Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant<a id=473></a>
 
 ###### Article R*213-37
 
@@ -52195,7 +52198,7 @@ _Cite_:
   - Code de l'environnement - art. R*213-34 (Ab)
 
 
-##### Section 3 : Etablissements soumis au contrôle de l'autorité administrative<a id=471></a>
+##### Section 3 : Etablissements soumis au contrôle de l'autorité administrative<a id=474></a>
 
 ###### Article R*213-39
 
@@ -52430,9 +52433,9 @@ _Cité par_:
   - Arrêté du 29 octobre 2008 (V)
 
 
-##### Section 4 : Sanctions administratives<a id=472></a>
+##### Section 4 : Sanctions administratives<a id=475></a>
 
-##### Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration<a id=473></a>
+##### Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration<a id=476></a>
 
 ###### Article R*213-44
 
@@ -52569,7 +52572,7 @@ _Cité par_:
   - Code de l'environnement - art. R*213-50 (Ab)
 
 
-##### Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées<a id=474></a>
+##### Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées<a id=477></a>
 
 ###### Article R*213-47
 
@@ -52666,7 +52669,7 @@ _Cité par_:
   - Code de l'environnement - art. R213-48 (VT)
 
 
-##### Sous-section 3 : Dispositions communes.<a id=475></a>
+##### Sous-section 3 : Dispositions communes.<a id=478></a>
 
 ###### Article R*213-49
 
@@ -52777,9 +52780,9 @@ _Cite_:
   - Code de l'environnement - art. R*213-49 (Ab)
 
 
-#### Chapitre IV : Conservation des habitats naturels, de la faune et de flore sauvages<a id=476></a>
+#### Chapitre IV : Conservation des habitats naturels, de la faune et de flore sauvages<a id=479></a>
 
-##### Section 1 : Conservatoires botaniques nationaux<a id=477></a>
+##### Section 1 : Conservatoires botaniques nationaux<a id=480></a>
 
 ###### Article R*214-2
 
@@ -52849,7 +52852,7 @@ _Cité par_:
   - Code de l'environnement - art. R*214-3 (Ab)
 
 
-##### Sous-section 1 : Missions et agrément des conservatoires botaniques nationaux<a id=478></a>
+##### Sous-section 1 : Missions et agrément des conservatoires botaniques nationaux<a id=481></a>
 
 ###### Article R*214-1
 
@@ -53025,7 +53028,7 @@ _Cite_:
   - Code de l'environnement - art. R*214-2 (Ab)
 
 
-##### Sous-section 2 : Commission des conservatoires botaniques nationaux<a id=479></a>
+##### Sous-section 2 : Commission des conservatoires botaniques nationaux<a id=482></a>
 
 ###### Article R*214-4
 
@@ -53139,9 +53142,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2224-22 (VD)
 
 
-##### Section 2 : Sites Natura 2000<a id=480></a>
+##### Section 2 : Sites Natura 2000<a id=483></a>
 
-##### Sous-section 1 : Dispositions communes<a id=481></a>
+##### Sous-section 1 : Dispositions communes<a id=484></a>
 
 ###### Article R*214-15
 
@@ -53281,7 +53284,7 @@ _Cité par_:
   - Code de l'environnement - art. R217-7 (VD)
 
 
-##### Sous-section 2 : Procédure de désignation des sites Natura 2000<a id=482></a>
+##### Sous-section 2 : Procédure de désignation des sites Natura 2000<a id=485></a>
 
 ###### Article R*214-18
 
@@ -53518,7 +53521,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions relatives au document d'objectifs<a id=483></a>
+##### Sous-section 3 : Dispositions relatives au document d'objectifs<a id=486></a>
 
 ###### Article R*214-23
 
@@ -53783,7 +53786,7 @@ _Cité par_:
   - Code de l'environnement - art. R217-7 (VD)
 
 
-##### Sous-section 4 : Dispositions relatives aux contrats Natura 2000<a id=484></a>
+##### Sous-section 4 : Dispositions relatives aux contrats Natura 2000<a id=487></a>
 
 ###### Article R*214-28
 
@@ -54096,7 +54099,7 @@ _Cite_:
   - Règlement CE 1999-1750 1999-07-23 Commission art. 29, art. 30
 
 
-##### Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation<a id=485></a>
+##### Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation<a id=488></a>
 
 ###### Article R*214-34
 
@@ -54447,11 +54450,11 @@ _Anciens textes_:
   - Code rural R214-39
 
 
-#### Chapitre V : Dispositions pénales<a id=486></a>
+#### Chapitre V : Dispositions pénales<a id=489></a>
 
-##### Section 1 : Peines<a id=487></a>
+##### Section 1 : Peines<a id=490></a>
 
-##### Sous-section 1 : Préservation du patrimoine biologique.<a id=488></a>
+##### Sous-section 1 : Préservation du patrimoine biologique.<a id=491></a>
 
 ###### Article R*215-1
 
@@ -54533,7 +54536,7 @@ _Cite_:
   - Code de l'environnement R211-16 à R211-18
 
 
-##### Sous-section 2 : Activités soumises à autorisation.<a id=489></a>
+##### Sous-section 2 : Activités soumises à autorisation.<a id=492></a>
 
 ###### Article R*215-3
 
@@ -54573,11 +54576,11 @@ _Anciens textes_:
   - Code rural R215-3
 
 
-### Titre II : Chasse<a id=490></a>
+### Titre II : Chasse<a id=493></a>
 
-#### Chapitre Ier : Organisation de la chasse<a id=491></a>
+#### Chapitre Ier : Organisation de la chasse<a id=494></a>
 
-##### Section 1 : Conseil national de la chasse et de la faune sauvage<a id=492></a>
+##### Section 1 : Conseil national de la chasse et de la faune sauvage<a id=495></a>
 
 ###### Article R*221-1
 
@@ -54922,9 +54925,9 @@ _Cite_:
   - Code de l'environnement - art. R*221-5 (Ab)
 
 
-##### Section 2 : Office national de la chasse et de la faune sauvage<a id=493></a>
+##### Section 2 : Office national de la chasse et de la faune sauvage<a id=496></a>
 
-##### Sous-section 1 : Dispositions générales<a id=494></a>
+##### Sous-section 1 : Dispositions générales<a id=497></a>
 
 ###### Article R*221-8
 
@@ -54966,9 +54969,9 @@ _Cité par_:
   - Code de l'environnement - art. R221-1 (V)
 
 
-##### Sous-section 2 : Administration générale<a id=495></a>
+##### Sous-section 2 : Administration générale<a id=498></a>
 
-##### Paragraphe 1 : Conseil d'administration.<a id=496></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=499></a>
 
 ###### Article R*221-10
 
@@ -55322,7 +55325,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Directeur.<a id=497></a>
+##### Paragraphe 2 : Directeur.<a id=500></a>
 
 ###### Article R*221-16
 
@@ -55377,7 +55380,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Conseil scientifique.<a id=498></a>
+##### Paragraphe 3 : Conseil scientifique.<a id=501></a>
 
 ###### Article R*221-16-1
 
@@ -55488,7 +55491,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 4 : Personnels.<a id=499></a>
+##### Paragraphe 4 : Personnels.<a id=502></a>
 
 ###### Article R*221-17
 
@@ -55828,7 +55831,7 @@ _Cite_:
   - Code de l'environnement R221-17-1
 
 
-##### Sous-section 3 : Dispositions financières<a id=500></a>
+##### Sous-section 3 : Dispositions financières<a id=503></a>
 
 ###### Article R*221-20
 
@@ -55903,7 +55906,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 4 : Contrôle<a id=501></a>
+##### Sous-section 4 : Contrôle<a id=504></a>
 
 ###### Article R*221-22
 
@@ -56010,7 +56013,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Conseil départemental de la chasse et de la faune sauvage<a id=502></a>
+##### Section 3 : Conseil départemental de la chasse et de la faune sauvage<a id=505></a>
 
 ###### Article R*221-24
 
@@ -56204,9 +56207,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 4 : Fédérations départementales des chasseurs<a id=503></a>
+##### Section 4 : Fédérations départementales des chasseurs<a id=506></a>
 
-##### Sous-section 1 : Adhésion et participations exigibles des adhérents<a id=504></a>
+##### Sous-section 1 : Adhésion et participations exigibles des adhérents<a id=507></a>
 
 ###### Article R*221-28
 
@@ -56284,7 +56287,7 @@ _Cite_:
   - Code de l'environnement - art. L426-5 (M)
 
 
-##### Sous-section 2 : Régime budgétaire et comptable<a id=505></a>
+##### Sous-section 2 : Régime budgétaire et comptable<a id=508></a>
 
 ###### Article R*221-30
 
@@ -56413,7 +56416,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles participe la fédération<a id=506></a>
+##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles participe la fédération<a id=509></a>
 
 ###### Article R*221-34
 
@@ -56468,7 +56471,7 @@ _Cite_:
   - Code de l'environnement - art. L421-10 (M)
 
 
-##### Section 5 : Fédérations interdépartementales des chasseurs<a id=507></a>
+##### Section 5 : Fédérations interdépartementales des chasseurs<a id=510></a>
 
 ###### Article R*221-38
 
@@ -56579,7 +56582,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 6 : Fédérations régionales des chasseurs<a id=508></a>
+##### Section 6 : Fédérations régionales des chasseurs<a id=511></a>
 
 ###### Article R*221-42
 
@@ -56651,9 +56654,9 @@ _Cite_:
   - Code de l'environnement L421-10, R221-30 à R221-34
 
 
-##### Section 7 : Fédération nationale des chasseurs<a id=509></a>
+##### Section 7 : Fédération nationale des chasseurs<a id=512></a>
 
-##### Sous-section 1 : Cotisations et contributions des fédérations départementales<a id=510></a>
+##### Sous-section 1 : Cotisations et contributions des fédérations départementales<a id=513></a>
 
 ###### Article R*221-45
 
@@ -56753,7 +56756,7 @@ _Cite_:
   - Code de l'environnement - art. L421-14 (M)
 
 
-##### Sous-section 2 : Régime budgétaire et comptable.<a id=511></a>
+##### Sous-section 2 : Régime budgétaire et comptable.<a id=514></a>
 
 ###### Article R*221-48
 
@@ -56828,7 +56831,7 @@ _Cite_:
   - Code de l'environnement L421-14, R221-47, R221-45
 
 
-##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs<a id=512></a>
+##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs<a id=515></a>
 
 ###### Article R*221-50
 
@@ -56865,7 +56868,7 @@ _Cite_:
   - Code de l'environnement - art. L421-16 (V)
 
 
-##### Section 9 : Observatoire national de la faune sauvage et de ses habitats<a id=513></a>
+##### Section 9 : Observatoire national de la faune sauvage et de ses habitats<a id=516></a>
 
 ###### Article R*221-52
 
@@ -57052,9 +57055,9 @@ _Cite_:
   - Code de l'environnement R221-52 à R221-55
 
 
-#### Chapitre II : Territoire de chasse<a id=514></a>
+#### Chapitre II : Territoire de chasse<a id=517></a>
 
-##### Section 1 : Associations communales et intercommunales de chasse agréées<a id=515></a>
+##### Section 1 : Associations communales et intercommunales de chasse agréées<a id=518></a>
 
 ###### Article R*222-1
 
@@ -57224,9 +57227,9 @@ _Cité par_:
   - Code de la défense. - art. R3222-5 (V)
 
 
-##### Sous-section 1 : Institution des associations communales de chasse agréées<a id=516></a>
+##### Sous-section 1 : Institution des associations communales de chasse agréées<a id=519></a>
 
-##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées.<a id=517></a>
+##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées.<a id=520></a>
 
 ###### Article R*222-5
 
@@ -57539,7 +57542,7 @@ _Cite_:
   - Code de l'environnement L422-13, R222-5 à R222-8, R222-41
 
 
-##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes.<a id=518></a>
+##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes.<a id=521></a>
 
 ###### Article R*222-12
 
@@ -57772,9 +57775,9 @@ _Cite_:
   - Code de l'environnement - art. L422-7 (V)
 
 
-##### Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée<a id=519></a>
+##### Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée<a id=522></a>
 
-##### Paragraphe 1 : Enquête.<a id=520></a>
+##### Paragraphe 1 : Enquête.<a id=523></a>
 
 ###### Article R*222-17
 
@@ -58511,7 +58514,7 @@ _Cité par_:
   - Code de l'environnement - art. R226-8 (V)
 
 
-##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée.<a id=521></a>
+##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée.<a id=524></a>
 
 ###### Article R*222-33
 
@@ -58917,9 +58920,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Territoire<a id=522></a>
+##### Sous-section 3 : Territoire<a id=525></a>
 
-##### Paragraphe 2 : Terrains faisant l'objet d'une opposition.<a id=523></a>
+##### Paragraphe 2 : Terrains faisant l'objet d'une opposition.<a id=526></a>
 
 ###### Article R*222-42
 
@@ -59044,7 +59047,7 @@ _Cite_:
   - Code de l'environnement - art. R*222-24 (Ab)
 
 
-##### Paragraphe 3 : Apports.<a id=524></a>
+##### Paragraphe 3 : Apports.<a id=527></a>
 
 ###### Article R*222-47
 
@@ -59214,7 +59217,7 @@ _Cite_:
   - Code de l'environnement R222-47, R222-48, R222-53-1
 
 
-##### Paragraphe 4 : Indemnisation des apports.<a id=525></a>
+##### Paragraphe 4 : Indemnisation des apports.<a id=528></a>
 
 ###### Article R*222-51
 
@@ -59327,7 +59330,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 5 : Modification du territoire de l'association.<a id=526></a>
+##### Paragraphe 5 : Modification du territoire de l'association.<a id=529></a>
 
 ###### Article R*222-53-1
 
@@ -59665,7 +59668,7 @@ _Cite_:
   - Code de l'environnement R222-54 à R222-57, R222-47 à R222-50
 
 
-##### Paragraphe 6 : Enclaves.<a id=527></a>
+##### Paragraphe 6 : Enclaves.<a id=530></a>
 
 ###### Article R*222-59
 
@@ -59795,7 +59798,7 @@ _Cite_:
   - Code de l'environnement R222-52, R222-53
 
 
-##### Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées<a id=528></a>
+##### Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées<a id=531></a>
 
 ###### Article R*222-62
 
@@ -60044,7 +60047,7 @@ _Cite_:
   - Code de l'environnement R222-80
 
 
-##### Sous-section 5 : Réserves et garderie<a id=529></a>
+##### Sous-section 5 : Réserves et garderie<a id=532></a>
 
 ###### Article R*222-65
 
@@ -60187,7 +60190,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 6 : Association intercommunale de chasse agréée<a id=530></a>
+##### Sous-section 6 : Association intercommunale de chasse agréée<a id=533></a>
 
 ###### Article R*222-70
 
@@ -60227,7 +60230,7 @@ _Cite_:
   - Code de l'environnement - art. L422-24 (V)
 
 
-##### Paragraphe 1 : Constitution des associations intercommunales de chasse agréées<a id=531></a>
+##### Paragraphe 1 : Constitution des associations intercommunales de chasse agréées<a id=534></a>
 
 ###### Article R*222-71
 
@@ -60396,7 +60399,7 @@ _Cite_:
   - Code de l'environnement R222-76 à R222-78
 
 
-##### Paragraphe 2 : Dispositions obligatoires<a id=532></a>
+##### Paragraphe 2 : Dispositions obligatoires<a id=535></a>
 
 ###### Article R*222-75
 
@@ -60591,7 +60594,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Réserves et garderie<a id=533></a>
+##### Paragraphe 3 : Réserves et garderie<a id=536></a>
 
 ###### Article R*222-79
 
@@ -60629,7 +60632,7 @@ _Cite_:
   - Code de l'environnement R222-65 à R222-69
 
 
-##### Sous-section 7 : Dispositions diverses<a id=534></a>
+##### Sous-section 7 : Dispositions diverses<a id=537></a>
 
 ###### Article R*222-80
 
@@ -60703,9 +60706,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Réserves de chasse et de faune sauvage<a id=535></a>
+##### Section 2 : Réserves de chasse et de faune sauvage<a id=538></a>
 
-##### Sous-section 1 : Institution des réserves de chasse et de faune sauvage<a id=536></a>
+##### Sous-section 1 : Institution des réserves de chasse et de faune sauvage<a id=539></a>
 
 ###### Article R*222-82
 
@@ -60887,7 +60890,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage<a id=537></a>
+##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage<a id=540></a>
 
 ###### Article R*222-86
 
@@ -61108,7 +61111,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Réserves nationales<a id=538></a>
+##### Sous-section 3 : Réserves nationales<a id=541></a>
 
 ###### Article R*222-92
 
@@ -61180,7 +61183,7 @@ _Cité par_:
   - Arrêté du 24 février 2014 - art. 8
 
 
-##### Sous-section 4 : Dispositions particulières à la Corse<a id=539></a>
+##### Sous-section 4 : Dispositions particulières à la Corse<a id=542></a>
 
 ###### Article R*222-92-1
 
@@ -61214,7 +61217,7 @@ _Cite_:
   - Code de l'environnement - art. L422-27 (M)
 
 
-##### Section 3 : Chasse maritime<a id=540></a>
+##### Section 3 : Chasse maritime<a id=543></a>
 
 ###### Article R*222-93
 
@@ -61253,9 +61256,9 @@ _Cite_:
   - Code des communes R112-2
 
 
-##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=541></a>
+##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=544></a>
 
-##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat<a id=542></a>
+##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat<a id=545></a>
 
 ###### Article R*222-94
 
@@ -61296,7 +61299,7 @@ _Cite_:
   - Code forestier L111-1, R137-6 à R137-29
 
 
-##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial<a id=543></a>
+##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial<a id=546></a>
 
 ###### Article R*222-95
 
@@ -61354,7 +61357,7 @@ _Abrogé par_:
   - Décret n°2005-935 du 2 août 2005 - art. 2 (V)
 
 
-##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime<a id=544></a>
+##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime<a id=547></a>
 
 ###### Article R*222-97
 
@@ -61383,7 +61386,7 @@ _Abrogé par_:
   - Décret n°2005-935 du 2 août 2005 - art. 2 (V)
 
 
-#### Chapitre III : Permis de chasser.<a id=545></a>
+#### Chapitre III : Permis de chasser.<a id=548></a>
 
 ###### Article R*223-1
 
@@ -61431,9 +61434,9 @@ _Cité par_:
   - Code de l'environnement - art. R222-19 (V)
 
 
-##### Section 1 : Examen pour la délivrance du permis de chasser et autorisation de chasser accompagné<a id=546></a>
+##### Section 1 : Examen pour la délivrance du permis de chasser et autorisation de chasser accompagné<a id=549></a>
 
-##### Sous-section 1 : Examen pour la délivrance du permis de chasser.<a id=547></a>
+##### Sous-section 1 : Examen pour la délivrance du permis de chasser.<a id=550></a>
 
 ###### Article R*223-2
 
@@ -61723,7 +61726,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Autorisation de chasser accompagné.<a id=548></a>
+##### Sous-section 2 : Autorisation de chasser accompagné.<a id=551></a>
 
 ###### Article R*223-8
 
@@ -61789,9 +61792,9 @@ _Anciens textes_:
   - Code rural R223-8
 
 
-##### Section 2 : Délivrance et validation du permis de chasser<a id=549></a>
+##### Section 2 : Délivrance et validation du permis de chasser<a id=552></a>
 
-##### Sous-section 1 : Délivrance.<a id=550></a>
+##### Sous-section 1 : Délivrance.<a id=553></a>
 
 ###### Article R*223-9
 
@@ -62013,7 +62016,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Validation du permis de chasser.<a id=551></a>
+##### Sous-section 2 : Validation du permis de chasser.<a id=554></a>
 
 ###### Article R*223-12
 
@@ -62281,7 +62284,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Modalités de validation du permis de chasser.<a id=552></a>
+##### Sous-section 3 : Modalités de validation du permis de chasser.<a id=555></a>
 
 ###### Article R*223-23
 
@@ -62397,7 +62400,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 4 : Dispositions propres à l'Ile-de-France.<a id=553></a>
+##### Sous-section 4 : Dispositions propres à l'Ile-de-France.<a id=556></a>
 
 ###### Article R*223-27
 
@@ -62474,7 +62477,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 5 : Licences.<a id=554></a>
+##### Sous-section 5 : Licences.<a id=557></a>
 
 ###### Article R*223-30
 
@@ -62559,7 +62562,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 6 : Refus et exclusions.<a id=555></a>
+##### Sous-section 6 : Refus et exclusions.<a id=558></a>
 
 ###### Article R*223-31-1
 
@@ -62664,7 +62667,7 @@ _Anciens textes_:
   - Code rural R223-32
 
 
-##### Section 3 : Affectation des redevances cynégétiques.<a id=556></a>
+##### Section 3 : Affectation des redevances cynégétiques.<a id=559></a>
 
 ###### Article R*223-33
 
@@ -62748,7 +62751,7 @@ _Cite_:
   - Code de l'environnement R223-33
 
 
-##### Section 4 : Dispositions diverses.<a id=557></a>
+##### Section 4 : Dispositions diverses.<a id=560></a>
 
 ###### Article R*223-36
 
@@ -62834,9 +62837,9 @@ _Cite_:
   - Code de l'environnement - art. L423-5 (M)
 
 
-#### Chapitre IV : Exercice de la chasse<a id=558></a>
+#### Chapitre IV : Exercice de la chasse<a id=561></a>
 
-##### Section 2 : Temps de chasse<a id=559></a>
+##### Section 2 : Temps de chasse<a id=562></a>
 
 ###### Article R*224-1
 
@@ -63308,7 +63311,7 @@ _Cité par_:
   - Code de l'environnement - art. R226-7 (V)
 
 
-##### Section 3 : Modes et moyens de chasse.<a id=560></a>
+##### Section 3 : Modes et moyens de chasse.<a id=563></a>
 
 ###### Article R*224-10
 
@@ -63568,9 +63571,9 @@ _Cite_:
   - Code de l'environnement R224-12-2
 
 
-##### Section 4 : Commercialisation et transport du gibier<a id=561></a>
+##### Section 4 : Commercialisation et transport du gibier<a id=564></a>
 
-##### Sous-section 1 : Interdiction permanente.<a id=562></a>
+##### Sous-section 1 : Interdiction permanente.<a id=565></a>
 
 ###### Article R*224-13
 
@@ -63758,7 +63761,7 @@ _Cité par_:
   - Code de l'environnement - art. R*224-15 (Ab)
 
 
-##### Section 5 : Dispositions spéciales à la chasse maritime.<a id=563></a>
+##### Section 5 : Dispositions spéciales à la chasse maritime.<a id=566></a>
 
 ###### Article R*224-17
 
@@ -63806,11 +63809,11 @@ _Cité par_:
   - Code de l'environnement - art. R226-6 (V)
 
 
-#### Chapitre V : Gestion<a id=564></a>
+#### Chapitre V : Gestion<a id=567></a>
 
-##### Section 1 : Plan de chasse.<a id=565></a>
+##### Section 1 : Plan de chasse.<a id=568></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=566></a>
+##### Sous-section 1 : Dispositions générales.<a id=569></a>
 
 ###### Article R*225-1
 
@@ -64354,7 +64357,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Dispositions particulières à la Corse.<a id=567></a>
+##### Sous-section 2 : Dispositions particulières à la Corse.<a id=570></a>
 
 ###### Article R*225-14-1
 
@@ -64550,7 +64553,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Prélèvement maximal autorisé.<a id=568></a>
+##### Section 2 : Prélèvement maximal autorisé.<a id=571></a>
 
 ###### Article R*225-15
 
@@ -64708,11 +64711,11 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre VI : Indemnisation des dégâts de gibier<a id=569></a>
+#### Chapitre VI : Indemnisation des dégâts de gibier<a id=572></a>
 
-##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers<a id=570></a>
+##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers<a id=573></a>
 
-##### Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier.<a id=571></a>
+##### Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier.<a id=574></a>
 
 ###### Article R*226-1
 
@@ -64865,9 +64868,9 @@ _Cité par_:
   - Code de l'environnement - art. R*229-17 (Ab)
 
 
-##### Sous-section 2 : Commissions nationale et départementale d'indemnisation<a id=572></a>
+##### Sous-section 2 : Commissions nationale et départementale d'indemnisation<a id=575></a>
 
-##### Paragraphe 1 : Commission nationale.<a id=573></a>
+##### Paragraphe 1 : Commission nationale.<a id=576></a>
 
 ###### Article R*226-3
 
@@ -65018,7 +65021,7 @@ _Cité par_:
   - Code de l'environnement - art. R*226-13 (Ab)
 
 
-##### Paragraphe 2 : Commission départementale d'indemnisation.<a id=574></a>
+##### Paragraphe 2 : Commission départementale d'indemnisation.<a id=577></a>
 
 ###### Article R*226-6
 
@@ -65225,7 +65228,7 @@ _Cite_:
   - Code de l'environnement - art. R*226-8 (Ab)
 
 
-##### Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier.<a id=575></a>
+##### Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier.<a id=578></a>
 
 ###### Article R*226-10
 
@@ -65326,7 +65329,7 @@ _Cite_:
   - Code de l'environnement - art. L426-3 (M)
 
 
-##### Sous-section 4 : Procédure d'indemnisation.<a id=576></a>
+##### Sous-section 4 : Procédure d'indemnisation.<a id=579></a>
 
 ###### Article R*226-12
 
@@ -65665,7 +65668,7 @@ _Cite_:
   - Code de l'environnement - art. L426-1 (M)
 
 
-##### Sous-section 5 : Dispositions diverses.<a id=577></a>
+##### Sous-section 5 : Dispositions diverses.<a id=580></a>
 
 ###### Article R*226-19
 
@@ -65701,7 +65704,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.<a id=578></a>
+##### Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.<a id=581></a>
 
 ###### Article R*226-20
 
@@ -66042,11 +66045,11 @@ _Cite_:
   - Nouveau code de procédure civile 517 à 522
 
 
-#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=579></a>
+#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=582></a>
 
-##### Section 1 : Mesures administratives<a id=580></a>
+##### Section 1 : Mesures administratives<a id=583></a>
 
-##### Sous-section 1 : Louveterie.<a id=581></a>
+##### Sous-section 1 : Louveterie.<a id=584></a>
 
 ###### Article R*227-1
 
@@ -66220,7 +66223,7 @@ _Cite_:
   - Code de l'environnement - art. L427-6 (M)
 
 
-##### Sous-section 3 : Sécurité aérienne.<a id=582></a>
+##### Sous-section 3 : Sécurité aérienne.<a id=585></a>
 
 ###### Article R*227-4
 
@@ -66255,9 +66258,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Droits des particuliers<a id=583></a>
+##### Section 2 : Droits des particuliers<a id=586></a>
 
-##### Sous-section 1 : Classement des animaux nuisibles.<a id=584></a>
+##### Sous-section 1 : Classement des animaux nuisibles.<a id=587></a>
 
 ###### Article R*227-5
 
@@ -66351,7 +66354,7 @@ _Cite_:
   - Code de l'environnement R227-5
 
 
-##### Sous-section 2 : Exercice du droit de destruction.<a id=585></a>
+##### Sous-section 2 : Exercice du droit de destruction.<a id=588></a>
 
 ###### Article R*227-7
 
@@ -66388,7 +66391,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Modalités de destruction.<a id=586></a>
+##### Sous-section 3 : Modalités de destruction.<a id=589></a>
 
 ###### Article R*227-8
 
@@ -66422,7 +66425,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Toxiques.<a id=587></a>
+##### Paragraphe 1 : Toxiques.<a id=590></a>
 
 ###### Article R*227-9
 
@@ -66458,7 +66461,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Déterrage.<a id=588></a>
+##### Paragraphe 2 : Déterrage.<a id=591></a>
 
 ###### Article R*227-10
 
@@ -66525,7 +66528,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Piégeage.<a id=589></a>
+##### Paragraphe 3 : Piégeage.<a id=592></a>
 
 ###### Article R*227-12
 
@@ -66681,7 +66684,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 4 : Tir.<a id=590></a>
+##### Paragraphe 4 : Tir.<a id=593></a>
 
 ###### Article R*227-16
 
@@ -66948,7 +66951,7 @@ _Cite_:
   - Code de l'environnement R227-20, R227-18
 
 
-##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol.<a id=591></a>
+##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol.<a id=594></a>
 
 ###### Article R*227-23
 
@@ -66986,7 +66989,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 4 : Transport, lâcher.<a id=592></a>
+##### Sous-section 4 : Transport, lâcher.<a id=595></a>
 
 ###### Article R*227-24
 
@@ -67096,7 +67099,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 5 : Mesures diverses.<a id=593></a>
+##### Sous-section 5 : Mesures diverses.<a id=596></a>
 
 ###### Article R*227-27
 
@@ -67137,11 +67140,11 @@ _Cite_:
   - Code de l'environnement - art. L427-9 (M)
 
 
-#### Chapitre VIII : Dispositions pénales<a id=594></a>
+#### Chapitre VIII : Dispositions pénales<a id=597></a>
 
-##### Section 1 : Peines<a id=595></a>
+##### Section 1 : Peines<a id=598></a>
 
-##### Sous-section 1 : Territoire.<a id=596></a>
+##### Sous-section 1 : Territoire.<a id=599></a>
 
 ###### Article R*228-1
 
@@ -67224,7 +67227,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Permis de chasser.<a id=597></a>
+##### Sous-section 2 : Permis de chasser.<a id=600></a>
 
 ###### Article R*228-3
 
@@ -67293,9 +67296,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Exercice de la chasse<a id=598></a>
+##### Sous-section 3 : Exercice de la chasse<a id=601></a>
 
-##### Paragraphe 1 : Protection du gibier.<a id=599></a>
+##### Paragraphe 1 : Protection du gibier.<a id=602></a>
 
 ###### Article R*228-5
 
@@ -67372,7 +67375,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Temps de chasse.<a id=600></a>
+##### Paragraphe 2 : Temps de chasse.<a id=603></a>
 
 ###### Article R*228-7
 
@@ -67407,7 +67410,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Modes et moyens.<a id=601></a>
+##### Paragraphe 3 : Modes et moyens.<a id=604></a>
 
 ###### Article R*228-8
 
@@ -67446,7 +67449,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=602></a>
+##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=605></a>
 
 ###### Article R*228-9
 
@@ -67663,7 +67666,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 4 : Plan de chasse.<a id=603></a>
+##### Sous-section 4 : Plan de chasse.<a id=606></a>
 
 ###### Article R*228-15
 
@@ -67736,7 +67739,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 5 : Destruction des animaux nuisibles et louveterie.<a id=604></a>
+##### Sous-section 5 : Destruction des animaux nuisibles et louveterie.<a id=607></a>
 
 ###### Article R*228-17
 
@@ -67771,7 +67774,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Circonstances aggravantes et récidive.<a id=605></a>
+##### Section 2 : Circonstances aggravantes et récidive.<a id=608></a>
 
 ###### Article R*228-18
 
@@ -67858,9 +67861,9 @@ _Cite_:
   - Code de l'environnement L428-18, R228-1, R228-3, R228-5, R228-9 à R228-11, R228-15 à R228-17
 
 
-##### Section 4 : Constatation et poursuites<a id=606></a>
+##### Section 4 : Constatation et poursuites<a id=609></a>
 
-##### Sous-section 1 : Constatation des infractions.<a id=607></a>
+##### Sous-section 1 : Constatation des infractions.<a id=610></a>
 
 ###### Article R*228-20
 
@@ -67899,7 +67902,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=608></a>
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=611></a>
 
 ###### Article R*229-1
 
@@ -67945,9 +67948,9 @@ _Anciens textes_:
   - Code rural R229-1
 
 
-##### Section 2 : Exercice de la chasse<a id=609></a>
+##### Section 2 : Exercice de la chasse<a id=612></a>
 
-##### Sous-section 1 : Temps de chasse.<a id=610></a>
+##### Sous-section 1 : Temps de chasse.<a id=613></a>
 
 ###### Article R*229-2
 
@@ -68131,7 +68134,7 @@ _Cité par_:
   - Code de l'environnement - art. R652-21 (V)
 
 
-##### Sous-section 2 : Modes et moyens de chasse.<a id=611></a>
+##### Sous-section 2 : Modes et moyens de chasse.<a id=614></a>
 
 ###### Article R*229-6
 
@@ -68179,7 +68182,7 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Section 3 : Plan de chasse.<a id=612></a>
+##### Section 3 : Plan de chasse.<a id=615></a>
 
 ###### Article R*229-7
 
@@ -68228,9 +68231,9 @@ _Cite_:
   - Code de l'environnement R225-7
 
 
-##### Section 4 : Indemnisation des dégâts de gibier<a id=613></a>
+##### Section 4 : Indemnisation des dégâts de gibier<a id=616></a>
 
-##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=614></a>
+##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=617></a>
 
 ###### Article R*229-8
 
@@ -68552,7 +68555,7 @@ _Cité par_:
   - Code de l'environnement - art. R229-19 (VT)
 
 
-##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=615></a>
+##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=618></a>
 
 ###### Article R*229-15
 
@@ -68644,7 +68647,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=616></a>
+##### Sous-section 3 : Dispositions diverses.<a id=619></a>
 
 ###### Article R*229-17
 
@@ -68687,11 +68690,11 @@ _Cite_:
   - Code de l'environnement - art. R*226-2 (Ab)
 
 
-##### Section 5 : Pénalités<a id=617></a>
+##### Section 5 : Pénalités<a id=620></a>
 
-##### Sous-section 1 : Peines<a id=618></a>
+##### Sous-section 1 : Peines<a id=621></a>
 
-##### Paragraphe 1 : Territoire.<a id=619></a>
+##### Paragraphe 1 : Territoire.<a id=622></a>
 
 ###### Article R*229-18
 
@@ -68770,7 +68773,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Exercice de la chasse.<a id=620></a>
+##### Paragraphe 2 : Exercice de la chasse.<a id=623></a>
 
 ###### Article R*229-20
 
@@ -68825,7 +68828,7 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Sous-section 2 : Récidive.<a id=621></a>
+##### Sous-section 2 : Récidive.<a id=624></a>
 
 ###### Article R*229-21
 
@@ -68868,11 +68871,11 @@ _Cite_:
   - Code de l'environnement L429-38, R229-18 à R229-20
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=622></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=625></a>
 
-#### Chapitre Ier : Champ d'application<a id=623></a>
+#### Chapitre Ier : Champ d'application<a id=626></a>
 
-##### Section 1 : Dispositions générales.<a id=624></a>
+##### Section 1 : Dispositions générales.<a id=627></a>
 
 ###### Article R*231-1
 
@@ -69106,9 +69109,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Piscicultures<a id=625></a>
+##### Section 2 : Piscicultures<a id=628></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=626></a>
+##### Sous-section 1 : Dispositions générales.<a id=629></a>
 
 ###### Article R*231-7
 
@@ -69262,7 +69265,7 @@ _Cite_:
   - Code de l'environnement - art. L432-12 (M)
 
 
-##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture.<a id=627></a>
+##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture.<a id=630></a>
 
 ###### Article R*231-11
 
@@ -69901,7 +69904,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture.<a id=628></a>
+##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture.<a id=631></a>
 
 ###### Article R*231-27
 
@@ -70221,7 +70224,7 @@ _Cite_:
   - Code de l'environnement R231-23 à R231-26
 
 
-##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984.<a id=629></a>
+##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984.<a id=632></a>
 
 ###### Article R*231-35
 
@@ -70348,7 +70351,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 5 : Dispositions diverses.<a id=630></a>
+##### Sous-section 5 : Dispositions diverses.<a id=633></a>
 
 ###### Article R*231-38
 
@@ -70617,9 +70620,9 @@ _Cite_:
   - Code de l'environnement R231-7 à R231-26, R231-16
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=631></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=634></a>
 
-##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=632></a>
+##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=635></a>
 
 ###### Article R*232-1
 
@@ -70663,7 +70666,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Obligations relatives aux ouvrages.<a id=633></a>
+##### Section 3 : Obligations relatives aux ouvrages.<a id=636></a>
 
 ###### Article R*232-2
 
@@ -70704,7 +70707,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 4 : Contrôle des peuplements.<a id=634></a>
+##### Section 4 : Contrôle des peuplements.<a id=637></a>
 
 ###### Article R*232-3
 
@@ -71342,9 +71345,9 @@ _Cite_:
   - Code de l'environnement R232-10 à R232-16
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=635></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=638></a>
 
-##### Section 1 : Orientations de bassin.<a id=636></a>
+##### Section 1 : Orientations de bassin.<a id=639></a>
 
 ###### Article R*233-1
 
@@ -71724,11 +71727,11 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=637></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=640></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=638></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=641></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=639></a>
+##### Sous-section 1 : Dispositions générales.<a id=642></a>
 
 ###### Article R*234-1
 
@@ -71909,7 +71912,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Administration du conseil supérieur de la pêche<a id=640></a>
+##### Sous-section 2 : Administration du conseil supérieur de la pêche<a id=643></a>
 
 ###### Article R*234-5
 
@@ -71943,7 +71946,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Le conseil d'administration.<a id=641></a>
+##### Paragraphe 1 : Le conseil d'administration.<a id=644></a>
 
 ###### Article R*234-6
 
@@ -72284,7 +72287,7 @@ _Cite_:
   - Code de l'environnement R234-10
 
 
-##### Paragraphe 2 : Le directeur général.<a id=642></a>
+##### Paragraphe 2 : Le directeur général.<a id=645></a>
 
 ###### Article R*234-12
 
@@ -72359,7 +72362,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche.<a id=643></a>
+##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche.<a id=646></a>
 
 ###### Article R*234-14
 
@@ -72450,7 +72453,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Les techniciens et les gardes-pêche.<a id=644></a>
+##### Paragraphe 3 : Les techniciens et les gardes-pêche.<a id=647></a>
 
 ###### Article R*234-15-1
 
@@ -72572,9 +72575,9 @@ _Cite_:
   - Code de l'environnement R234-15
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=645></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=648></a>
 
-##### Paragraphe 1 : Organisation financière et comptable.<a id=646></a>
+##### Paragraphe 1 : Organisation financière et comptable.<a id=649></a>
 
 ###### Article R*234-16
 
@@ -72782,7 +72785,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Contrôles.<a id=647></a>
+##### Paragraphe 2 : Contrôles.<a id=650></a>
 
 ###### Article R*234-21
 
@@ -72823,7 +72826,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Pêche de loisir.<a id=648></a>
+##### Section 2 : Pêche de loisir.<a id=651></a>
 
 ###### Article R*234-22
 
@@ -73334,7 +73337,7 @@ _Cite_:
   - Code de l'environnement - art. L434-4 (M)
 
 
-##### Section 3 : Pêche professionnelle.<a id=649></a>
+##### Section 3 : Pêche professionnelle.<a id=652></a>
 
 ###### Article R*234-35
 
@@ -73680,7 +73683,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-#### Chapitre V : Droit de pêche<a id=650></a>
+#### Chapitre V : Droit de pêche<a id=653></a>
 
 ###### Article R*235-1
 
@@ -73715,9 +73718,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=651></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=654></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation.<a id=652></a>
+##### Sous-section 1 : Conditions générales d'exploitation.<a id=655></a>
 
 ###### Article R*235-2
 
@@ -74327,7 +74330,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Modalités de location des lots.<a id=653></a>
+##### Sous-section 2 : Modalités de location des lots.<a id=656></a>
 
 ###### Article R*235-14
 
@@ -74726,7 +74729,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (M)
 
 
-##### Sous-section 3 : Procédure d'adjudication publique.<a id=654></a>
+##### Sous-section 3 : Procédure d'adjudication publique.<a id=657></a>
 
 ###### Article R*235-22
 
@@ -74990,9 +74993,9 @@ _Cite_:
   - Code de l'environnement R235-18, R235-19, R235-20
 
 
-##### Section 3 : Droit de passage<a id=655></a>
+##### Section 3 : Droit de passage<a id=658></a>
 
-##### Sous-section 1 : Subvention directe à un propriétaire riverain.<a id=656></a>
+##### Sous-section 1 : Subvention directe à un propriétaire riverain.<a id=659></a>
 
 ###### Article R*235-29
 
@@ -75128,7 +75131,7 @@ _Cite_:
   - Code de l'environnement - art. L435-5 (M)
 
 
-##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales.<a id=657></a>
+##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales.<a id=660></a>
 
 ###### Article R*235-32
 
@@ -75221,7 +75224,7 @@ _Cite_:
   - Code de l'environnement R235-34, L435-5
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=658></a>
+##### Sous-section 3 : Dispositions diverses.<a id=661></a>
 
 ###### Article R*235-34
 
@@ -75314,9 +75317,9 @@ _Cite_:
   - Code de l'environnement - art. L435-9 (M)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=659></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=662></a>
 
-##### Section 1 : Dispositions générales<a id=660></a>
+##### Section 1 : Dispositions générales<a id=663></a>
 
 ###### Article R*236-1
 
@@ -75556,9 +75559,9 @@ _Anciens textes_:
   - Code rural R236-5
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=661></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=664></a>
 
-##### Paragraphe 1 : Temps d'interdiction.<a id=662></a>
+##### Paragraphe 1 : Temps d'interdiction.<a id=665></a>
 
 ###### Article R*236-6
 
@@ -75841,7 +75844,7 @@ _Cite_:
   - Code de l'environnement - art. L432-9 (M)
 
 
-##### Paragraphe 2 : Heures d'interdiction.<a id=663></a>
+##### Paragraphe 2 : Heures d'interdiction.<a id=666></a>
 
 ###### Article R*236-18
 
@@ -76046,7 +76049,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Taille minimale des poissons et des écrevisses.<a id=664></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses.<a id=667></a>
 
 ###### Article R*236-23
 
@@ -76185,7 +76188,7 @@ _Cite_:
   - Code de l'environnement R236-23
 
 
-##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=665></a>
+##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=668></a>
 
 ###### Article R*236-28
 
@@ -76260,7 +76263,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés.<a id=666></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés.<a id=669></a>
 
 ###### Article R*236-30
 
@@ -76645,7 +76648,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés.<a id=667></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés.<a id=670></a>
 
 ###### Article R*236-40
 
@@ -76901,7 +76904,7 @@ _Anciens textes_:
   - Code rural R236-49
 
 
-##### Sous-section 6 : Dispositions diverses.<a id=668></a>
+##### Sous-section 6 : Dispositions diverses.<a id=671></a>
 
 ###### Article R*236-51
 
@@ -77010,7 +77013,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 7 : Dispositions pénales.<a id=669></a>
+##### Sous-section 7 : Dispositions pénales.<a id=672></a>
 
 ###### Article R*236-54
 
@@ -77190,7 +77193,7 @@ _Cite_:
   - Code de l'environnement - art. L436-8 (V)
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.<a id=670></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.<a id=673></a>
 
 ###### Article R*236-62
 
@@ -77239,9 +77242,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=671></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=674></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=672></a>
+##### Sous-section 1 : Dispositions générales.<a id=675></a>
 
 ###### Article R*236-84
 
@@ -77280,7 +77283,7 @@ _Cite_:
   - Code de l'environnement - art. L431-5 (M)
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.<a id=673></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.<a id=676></a>
 
 ###### Article R*236-85
 
@@ -77395,7 +77398,7 @@ _Cite_:
   - Code de l'environnement R236-86, R236-87, R236-88
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=674></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=677></a>
 
 ###### Article R*236-91
 
@@ -77500,7 +77503,7 @@ _Cite_:
   - Code de l'environnement - art. L436-12 (M)
 
 
-##### Sous-section 4 : Dispositions communes.<a id=675></a>
+##### Sous-section 4 : Dispositions communes.<a id=678></a>
 
 ###### Article R*236-93
 
@@ -77620,7 +77623,7 @@ _Cite_:
   - Code de l'environnement R236-85 à R236-88, R236-90 à R236-92
 
 
-##### Section 5 : Commercialisation.<a id=676></a>
+##### Section 5 : Commercialisation.<a id=679></a>
 
 ###### Article R*236-96
 
@@ -77704,9 +77707,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 6 : Dispositions particulières<a id=677></a>
+##### Section 6 : Dispositions particulières<a id=680></a>
 
-##### Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne.<a id=678></a>
+##### Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne.<a id=681></a>
 
 ###### Article R*236-98
 
@@ -77775,7 +77778,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=679></a>
+##### Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=682></a>
 
 ###### Article R*236-100
 
@@ -77877,7 +77880,7 @@ _Cite_:
   - Code de l'environnement R236-101
 
 
-##### Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse.<a id=680></a>
+##### Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse.<a id=683></a>
 
 ###### Article R*236-103
 
@@ -77981,9 +77984,9 @@ _Cite_:
   - Code de l'environnement R236-104
 
 
-#### Chapitre VII : Recherche et constatation des infractions<a id=681></a>
+#### Chapitre VII : Recherche et constatation des infractions<a id=684></a>
 
-##### Section 1 : Agents compétents.<a id=682></a>
+##### Section 1 : Agents compétents.<a id=685></a>
 
 ###### Article R*237-1
 
@@ -78094,7 +78097,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Recherche des infractions.<a id=683></a>
+##### Section 3 : Recherche des infractions.<a id=686></a>
 
 ###### Article R*237-4
 
@@ -78173,7 +78176,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (M)
 
 
-##### Section 4 : Saisies.<a id=684></a>
+##### Section 4 : Saisies.<a id=687></a>
 
 ###### Article R*237-6
 
@@ -78252,9 +78255,9 @@ _Cite_:
   - Code de l'environnement - art. L437-12 (V)
 
 
-#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=685></a>
+#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=688></a>
 
-##### Section 1 : Transaction.<a id=686></a>
+##### Section 1 : Transaction.<a id=689></a>
 
 ###### Article R*238-1
 
@@ -78407,7 +78410,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Poursuites pénales.<a id=687></a>
+##### Section 2 : Poursuites pénales.<a id=690></a>
 
 ###### Article R*238-5
 
@@ -78503,11 +78506,11 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-### Titre IV : Espaces naturels<a id=688></a>
+### Titre IV : Espaces naturels<a id=691></a>
 
-#### Chapitre Ier : Parcs nationaux<a id=689></a>
+#### Chapitre Ier : Parcs nationaux<a id=692></a>
 
-##### Section 1 : Comité interministériel des parcs nationaux<a id=690></a>
+##### Section 1 : Comité interministériel des parcs nationaux<a id=693></a>
 
 ###### Article R*241-1
 
@@ -78584,7 +78587,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Création d'un parc national<a id=691></a>
+##### Section 2 : Création d'un parc national<a id=694></a>
 
 ###### Article R*241-3
 
@@ -79052,7 +79055,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Aménagement et gestion des parcs nationaux<a id=692></a>
+##### Section 3 : Aménagement et gestion des parcs nationaux<a id=695></a>
 
 ###### Article R*241-15
 
@@ -79089,7 +79092,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Sous-section 1 : Administration générale.<a id=693></a>
+##### Sous-section 1 : Administration générale.<a id=696></a>
 
 ###### Article R*241-16
 
@@ -79123,7 +79126,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Conseil d'administration.<a id=694></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=697></a>
 
 ###### Article R*241-17
 
@@ -79415,7 +79418,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Directeur.<a id=695></a>
+##### Paragraphe 2 : Directeur.<a id=698></a>
 
 ###### Article R*241-25
 
@@ -79486,7 +79489,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Paragraphe 3 : Personnels.<a id=696></a>
+##### Paragraphe 3 : Personnels.<a id=699></a>
 
 ###### Article R*241-27
 
@@ -79661,7 +79664,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Ressources de l'établissement.<a id=697></a>
+##### Sous-section 2 : Ressources de l'établissement.<a id=700></a>
 
 ###### Article R*241-28
 
@@ -79723,7 +79726,7 @@ _Cite_:
   - Code des douanes - art. 285 quater (M)
 
 
-##### Sous-section 3 : Programme d'aménagement du parc.<a id=698></a>
+##### Sous-section 3 : Programme d'aménagement du parc.<a id=701></a>
 
 ###### Article R*241-29
 
@@ -79762,7 +79765,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=699></a>
+##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=702></a>
 
 ###### Article R*241-30
 
@@ -79964,7 +79967,7 @@ _Abrogé par_:
   - Décret n°2005-934 2005-08-02 art. 4 I JORF 5 août 2005
 
 
-##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=700></a>
+##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=703></a>
 
 ###### Article R*241-35
 
@@ -80233,7 +80236,7 @@ _Anciens textes_:
   - Code rural R241-41
 
 
-##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=701></a>
+##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=704></a>
 
 ###### Article R*241-42
 
@@ -80313,7 +80316,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 7 : Contrôle.<a id=702></a>
+##### Sous-section 7 : Contrôle.<a id=705></a>
 
 ###### Article R*241-44
 
@@ -80425,7 +80428,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=703></a>
+##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=706></a>
 
 ###### Article R*241-47
 
@@ -80502,7 +80505,7 @@ _Cite_:
   - Code de l'environnement R241-47
 
 
-##### Section 4 : Mise en valeur des zones périphériques<a id=704></a>
+##### Section 4 : Mise en valeur des zones périphériques<a id=707></a>
 
 ###### Article R*241-49
 
@@ -80617,7 +80620,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 5 : Réserves intégrales<a id=705></a>
+##### Section 5 : Réserves intégrales<a id=708></a>
 
 ###### Article R*241-52
 
@@ -80767,7 +80770,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 6 : Indemnités<a id=706></a>
+##### Section 6 : Indemnités<a id=709></a>
 
 ###### Article R*241-56
 
@@ -80978,9 +80981,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique L13-5 à L13-9, L13-12, L13-14 à L13-25, L14-3, L15-3, L16-3, R13-22 à R13-53, L13-17, R13-43 à R13-46
 
 
-##### Section 8 : Dispositions pénales<a id=707></a>
+##### Section 8 : Dispositions pénales<a id=710></a>
 
-##### Sous-section 1 : Peines.<a id=708></a>
+##### Sous-section 1 : Peines.<a id=711></a>
 
 ###### Article R*241-61
 
@@ -81409,7 +81412,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Constatation et poursuites.<a id=709></a>
+##### Sous-section 2 : Constatation et poursuites.<a id=712></a>
 
 ###### Article R*241-71
 
@@ -81449,13 +81452,13 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre II : Réserves naturelles<a id=710></a>
+#### Chapitre II : Réserves naturelles<a id=713></a>
 
-##### Section I : Réserves naturelles nationales<a id=711></a>
+##### Section I : Réserves naturelles nationales<a id=714></a>
 
-##### Sous-section 1 : Classement, modification et déclassement<a id=712></a>
+##### Sous-section 1 : Classement, modification et déclassement<a id=715></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=713></a>
+##### Paragraphe 1 : Dispositions générales.<a id=716></a>
 
 ###### Article R*242-1
 
@@ -81502,7 +81505,7 @@ _Cite_:
   - Code de l'environnement - art. L332-2 (M)
 
 
-##### Paragraphe 2 : Procédure de consultation et d'enquête publique<a id=714></a>
+##### Paragraphe 2 : Procédure de consultation et d'enquête publique<a id=717></a>
 
 ###### Article R*242-2
 
@@ -81794,7 +81797,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 3 : Classement<a id=715></a>
+##### Paragraphe 3 : Classement<a id=718></a>
 
 ###### Article R*242-9
 
@@ -81889,7 +81892,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 4 : Publicité<a id=716></a>
+##### Paragraphe 4 : Publicité<a id=719></a>
 
 ###### Article R*242-11
 
@@ -82023,9 +82026,9 @@ _Anciens textes_:
   - Code rural R242-13
 
 
-##### Paragraphe 5 : Modifications des limites ou de la réglementation<a id=717></a>
+##### Paragraphe 5 : Modifications des limites ou de la réglementation<a id=720></a>
 
-##### Déclassement<a id=718></a>
+##### Déclassement<a id=721></a>
 
 ###### Article R*242-14
 
@@ -82066,9 +82069,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Gestion<a id=719></a>
+##### Sous-section 2 : Gestion<a id=722></a>
 
-##### Paragraphe 1 : Comité consultatif.<a id=720></a>
+##### Paragraphe 1 : Comité consultatif.<a id=723></a>
 
 ###### Article R*242-15
 
@@ -82189,7 +82192,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Conseil scientifique.<a id=721></a>
+##### Paragraphe 2 : Conseil scientifique.<a id=724></a>
 
 ###### Article R*242-18
 
@@ -82233,7 +82236,7 @@ _Cite_:
   - Code de l'environnement R242-15, R242-21
 
 
-##### Paragraphe 3 : Gestionnaire.<a id=722></a>
+##### Paragraphe 3 : Gestionnaire.<a id=725></a>
 
 ###### Article R*242-19
 
@@ -82310,7 +82313,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 4 : Plan de gestion.<a id=723></a>
+##### Paragraphe 4 : Plan de gestion.<a id=726></a>
 
 ###### Article R*242-21
 
@@ -82389,7 +82392,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=724></a>
+##### Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=727></a>
 
 ###### Article R*242-23
 
@@ -82570,7 +82573,7 @@ _Cite_:
   - Code de l'environnement R242-23 à R242-25
 
 
-##### Sous-section 4 : Périmètres de protection<a id=725></a>
+##### Sous-section 4 : Périmètres de protection<a id=728></a>
 
 ###### Article R*242-27
 
@@ -82652,11 +82655,11 @@ _Cite_:
   - Code de l'environnement - art. L332-8 (M)
 
 
-##### Section II : Réserves naturelles régionales<a id=726></a>
+##### Section II : Réserves naturelles régionales<a id=729></a>
 
-##### Sous-section 1 : Classement, modifications et déclassement<a id=727></a>
+##### Sous-section 1 : Classement, modifications et déclassement<a id=730></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=728></a>
+##### Paragraphe 1 : Dispositions générales<a id=731></a>
 
 ###### Article R*242-29
 
@@ -82707,7 +82710,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 2 : Procédure de consultation et d'enquête publique<a id=729></a>
+##### Paragraphe 2 : Procédure de consultation et d'enquête publique<a id=732></a>
 
 ###### Article R*242-30
 
@@ -82844,7 +82847,7 @@ _Anciens textes_:
   - Code rural R242-32
 
 
-##### Paragraphe 3 : Classement par délibération<a id=730></a>
+##### Paragraphe 3 : Classement par délibération<a id=733></a>
 
 ###### Article R*242-33
 
@@ -82924,7 +82927,7 @@ _Cite_:
   - Code de l'environnement R242-33
 
 
-##### Paragraphe 4 : Classement par décret en Conseil d'Etat<a id=731></a>
+##### Paragraphe 4 : Classement par décret en Conseil d'Etat<a id=734></a>
 
 ###### Article R*242-35
 
@@ -83007,7 +83010,7 @@ _Cite_:
   - Code de l'environnement - art. L332-16 (M)
 
 
-##### Paragraphe 5 : Publicité<a id=732></a>
+##### Paragraphe 5 : Publicité<a id=735></a>
 
 ###### Article R*242-37
 
@@ -83084,9 +83087,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 6 : Modification des limites ou de la réglementation<a id=733></a>
+##### Paragraphe 6 : Modification des limites ou de la réglementation<a id=736></a>
 
-##### Déclassement.<a id=734></a>
+##### Déclassement.<a id=737></a>
 
 ###### Article R*242-39
 
@@ -83131,7 +83134,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Gestion<a id=735></a>
+##### Sous-section 2 : Gestion<a id=738></a>
 
 ###### Article R*242-40
 
@@ -83246,7 +83249,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=736></a>
+##### Sous-section 3 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=739></a>
 
 ###### Article R*242-43
 
@@ -83379,7 +83382,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 4 : Périmètres de protection<a id=737></a>
+##### Sous-section 4 : Périmètres de protection<a id=740></a>
 
 ###### Article R*242-46
 
@@ -83460,11 +83463,11 @@ _Cite_:
   - Code de l'environnement - art. L332-8 (M)
 
 
-##### Section III : Réserves naturelles en Corse<a id=738></a>
+##### Section III : Réserves naturelles en Corse<a id=741></a>
 
-##### Sous-section 1 : Classement<a id=739></a>
+##### Sous-section 1 : Classement<a id=742></a>
 
-##### Paragraphe 1 : Classement à l'initiative de la collectivité territoriale de Corse<a id=740></a>
+##### Paragraphe 1 : Classement à l'initiative de la collectivité territoriale de Corse<a id=743></a>
 
 ###### Article R*242-48
 
@@ -83688,7 +83691,7 @@ _Cite_:
   - Code de l'environnement - art. L332-3 (M)
 
 
-##### Paragraphe 2 : Classement à la demande de l'Etat ou en vertu de son pouvoir de substitution<a id=741></a>
+##### Paragraphe 2 : Classement à la demande de l'Etat ou en vertu de son pouvoir de substitution<a id=744></a>
 
 ###### Article R*242-53
 
@@ -83738,7 +83741,7 @@ _Cite_:
   - Code de l'environnement L332-2, R242-29, R242-1 à R242-9
 
 
-##### Paragraphe 3 : Publicité<a id=742></a>
+##### Paragraphe 3 : Publicité<a id=745></a>
 
 ###### Article R*242-54
 
@@ -83814,9 +83817,9 @@ _Cite_:
   - Code de l'environnement R242-13
 
 
-##### Sous-section 2 : Modification des limites ou de la réglementation<a id=743></a>
+##### Sous-section 2 : Modification des limites ou de la réglementation<a id=746></a>
 
-##### Déclassement<a id=744></a>
+##### Déclassement<a id=747></a>
 
 ###### Article R*242-56
 
@@ -83874,7 +83877,7 @@ _Cite_:
   - Code de l'environnement R242-14
 
 
-##### Sous-section 3 : Gestion<a id=745></a>
+##### Sous-section 3 : Gestion<a id=748></a>
 
 ###### Article R*242-57
 
@@ -84015,9 +84018,9 @@ _Cite_:
   - Code de l'environnement R242-57 à R242-59
 
 
-##### Sous-section 4 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=746></a>
+##### Sous-section 4 : Modification de l'état ou de l'aspect d'une réserve naturelle<a id=749></a>
 
-##### Paragraphe 1 : Réserves naturelles classées par la collectivité territoriale de Corse<a id=747></a>
+##### Paragraphe 1 : Réserves naturelles classées par la collectivité territoriale de Corse<a id=750></a>
 
 ###### Article R*242-61
 
@@ -84131,7 +84134,7 @@ _Cite_:
   - Code de l'environnement R242-61, R242-62
 
 
-##### Paragraphe 2 : Réserves naturelles classées en Corse par l'Etat<a id=748></a>
+##### Paragraphe 2 : Réserves naturelles classées en Corse par l'Etat<a id=751></a>
 
 ###### Article R*242-64
 
@@ -84170,7 +84173,7 @@ _Cite_:
   - Code de l'environnement L332-6, L332-9, R242-23 à R242-26
 
 
-##### Sous-section 5 : Périmètres de protection<a id=749></a>
+##### Sous-section 5 : Périmètres de protection<a id=752></a>
 
 ###### Article R*242-65
 
@@ -84251,9 +84254,9 @@ _Cite_:
   - Code de l'environnement - art. L332-8 (M)
 
 
-##### Section IV : Dispositions pénales<a id=750></a>
+##### Section IV : Dispositions pénales<a id=753></a>
 
-##### Sous-section 1 : Constatation des infractions<a id=751></a>
+##### Sous-section 1 : Constatation des infractions<a id=754></a>
 
 ###### Article R*242-67
 
@@ -84299,7 +84302,7 @@ _Cite_:
   - Code de l'environnement L332-20, L332-22, L322-20
 
 
-##### Sous-section 2 : Sanctions<a id=752></a>
+##### Sous-section 2 : Sanctions<a id=755></a>
 
 ###### Article R*242-68
 
@@ -84764,9 +84767,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=753></a>
+#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=756></a>
 
-##### Section 1 : Dispositions générales<a id=754></a>
+##### Section 1 : Dispositions générales<a id=757></a>
 
 ###### Article R*243-1
 
@@ -84846,9 +84849,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Patrimoine du conservatoire<a id=755></a>
+##### Section 2 : Patrimoine du conservatoire<a id=758></a>
 
-##### Sous-section 1 : Constitution, aliénation<a id=756></a>
+##### Sous-section 1 : Constitution, aliénation<a id=759></a>
 
 ###### Article R*243-3
 
@@ -85066,7 +85069,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Gestion<a id=757></a>
+##### Sous-section 2 : Gestion<a id=760></a>
 
 ###### Article R*243-8
 
@@ -85342,9 +85345,9 @@ _Cite_:
   - Code forestier - art. L141-1 (M)
 
 
-##### Section 3 : Administration<a id=758></a>
+##### Section 3 : Administration<a id=761></a>
 
-##### Sous-section 1 : Conseil d'administration<a id=759></a>
+##### Sous-section 1 : Conseil d'administration<a id=762></a>
 
 ###### Article R*243-10
 
@@ -85884,7 +85887,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Conseils de rivage<a id=760></a>
+##### Sous-section 2 : Conseils de rivage<a id=763></a>
 
 ###### Article R*243-22
 
@@ -86160,7 +86163,7 @@ _Cite_:
   - Code de l'environnement R243-1
 
 
-##### Sous-section 3 : Directeur<a id=761></a>
+##### Sous-section 3 : Directeur<a id=764></a>
 
 ###### Article R*243-29
 
@@ -86219,7 +86222,7 @@ _Cite_:
   - Code de l'environnement R243-21
 
 
-##### Section 4 : Dispositions financières<a id=762></a>
+##### Section 4 : Dispositions financières<a id=765></a>
 
 ###### Article R*243-31
 
@@ -86393,9 +86396,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre IV : Parcs naturels régionaux<a id=763></a>
+#### Chapitre IV : Parcs naturels régionaux<a id=766></a>
 
-##### Section 1 : Principes généraux<a id=764></a>
+##### Section 1 : Principes généraux<a id=767></a>
 
 ###### Article R*244-1
 
@@ -86545,7 +86548,7 @@ _Cite_:
   - Code de l'environnement R244-14
 
 
-##### Section 2 : Classement<a id=765></a>
+##### Section 2 : Classement<a id=768></a>
 
 ###### Article R*244-4
 
@@ -86846,7 +86849,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Effets du classement<a id=766></a>
+##### Section 3 : Effets du classement<a id=769></a>
 
 ###### Article R*244-12
 
@@ -87052,9 +87055,9 @@ _Anciens textes_:
   - Code rural R244-16
 
 
-### Titre V : Dispositions communes à la protection de la nature<a id=767></a>
+### Titre V : Dispositions communes à la protection de la nature<a id=770></a>
 
-#### Chapitre Ier : Conseil national de la protection de la nature<a id=768></a>
+#### Chapitre Ier : Conseil national de la protection de la nature<a id=771></a>
 
 ###### Article R*251-1
 
@@ -87099,7 +87102,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 1 : Composition<a id=769></a>
+##### Section 1 : Composition<a id=772></a>
 
 ###### Article R*251-2
 
@@ -87333,7 +87336,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 2 : Fonctionnement<a id=770></a>
+##### Section 2 : Fonctionnement<a id=773></a>
 
 ###### Article R*251-7
 
@@ -87502,7 +87505,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Comité permanent<a id=771></a>
+##### Section 3 : Comité permanent<a id=774></a>
 
 ###### Article R*251-11
 
@@ -87785,7 +87788,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 4 : Experts<a id=772></a>
+##### Section 4 : Experts<a id=775></a>
 
 ###### Article R*251-19
 
@@ -87856,7 +87859,7 @@ _Cite_:
   - Code de l'environnement R251-10-1, R251-15, R251-19
 
 
-##### Section 5 : Secrétariat administratif<a id=773></a>
+##### Section 5 : Secrétariat administratif<a id=776></a>
 
 ###### Article R*251-21
 
@@ -87891,7 +87894,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=774></a>
+#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=777></a>
 
 ###### Article R*252-1
 
@@ -87934,7 +87937,7 @@ _Cite_:
   - Code de l'environnement - art. L141-1 (M)
 
 
-##### Section 1 : Conditions d'obtention de l'agrément<a id=775></a>
+##### Section 1 : Conditions d'obtention de l'agrément<a id=778></a>
 
 ###### Article R*252-2
 
@@ -88025,9 +88028,9 @@ _Cite_:
   - Code de l'environnement R252-2, L141-1
 
 
-##### Section 2 : Procédure d'agrément<a id=776></a>
+##### Section 2 : Procédure d'agrément<a id=779></a>
 
-##### Sous-section 1 : Demande<a id=777></a>
+##### Sous-section 1 : Demande<a id=780></a>
 
 ###### Article R*252-5
 
@@ -88229,7 +88232,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 2 : Instruction de la demande<a id=778></a>
+##### Sous-section 2 : Instruction de la demande<a id=781></a>
 
 ###### Article R*252-10
 
@@ -88344,7 +88347,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Sous-section 3 : Décision<a id=779></a>
+##### Sous-section 3 : Décision<a id=782></a>
 
 ###### Article R*252-13
 
@@ -88539,7 +88542,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Obligations de l'association agréée<a id=780></a>
+##### Section 3 : Obligations de l'association agréée<a id=783></a>
 
 ###### Article R*252-19
 
@@ -88626,7 +88629,7 @@ _Cite_:
   - Code de l'environnement R252-19, R252-10, L141-1, R252-17
 
 
-##### Section 4 : Action en représentation conjointe<a id=781></a>
+##### Section 4 : Action en représentation conjointe<a id=784></a>
 
 ###### Article R*252-21
 
@@ -88977,9 +88980,9 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française<a id=782></a>
+### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française<a id=785></a>
 
-#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=783></a>
+#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=786></a>
 
 ###### Article R*261-1
 
@@ -89013,7 +89016,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 1 : Territoire de chasse<a id=784></a>
+##### Section 1 : Territoire de chasse<a id=787></a>
 
 ###### Article R*261-2
 
@@ -89053,7 +89056,7 @@ _Cite_:
   - Code de l'environnement R222-1 à R222-81
 
 
-##### Section 2 : Temps de chasse<a id=785></a>
+##### Section 2 : Temps de chasse<a id=788></a>
 
 ###### Article R*261-3
 
@@ -89300,7 +89303,7 @@ _Abrogé par_:
   - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion<a id=786></a>
+##### Section 3 : Dispositions particulières à l'exercice de la pêche en eau douce à la Réunion<a id=789></a>
 
 ###### Article R*261-7
 
@@ -89515,7 +89518,7 @@ _Cite_:
   - Code de l'environnement R236-54, R236-6, R261-8, R236-30, R236-32, R261-9, R261-10
 
 
-#### Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises<a id=787></a>
+#### Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises<a id=790></a>
 
 ###### Article R*262-1
 
@@ -89541,7 +89544,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-#### Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte<a id=788></a>
+#### Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte<a id=791></a>
 
 ###### Article R*263-1
 
@@ -89578,7 +89581,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 1 : Protection de la faune et de la flore<a id=789></a>
+##### Section 1 : Protection de la faune et de la flore<a id=792></a>
 
 ###### Article R*263-2
 
@@ -89655,7 +89658,7 @@ _Cite_:
   - Code de l'environnement R215-2, R263-2, R211-16 à R211-18, R215-3
 
 
-##### Section 2 : Chasse<a id=790></a>
+##### Section 2 : Chasse<a id=793></a>
 
 ###### Article R*263-4
 
@@ -89893,7 +89896,7 @@ _Cite_:
   - Code de l'environnement R227-22
 
 
-##### Section 3 : Pêche en eau douce<a id=791></a>
+##### Section 3 : Pêche en eau douce<a id=794></a>
 
 ###### Article R*263-12
 
@@ -90155,7 +90158,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 4 : Espaces naturels<a id=792></a>
+##### Section 4 : Espaces naturels<a id=795></a>
 
 ###### Article R*263-20
 
@@ -90307,7 +90310,7 @@ _Cite_:
   - Code de l'environnement R242-16
 
 
-##### Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement<a id=793></a>
+##### Section 5 : Associations ayant pour objet la protection de la nature et de l'environnement<a id=796></a>
 
 ###### Article R*263-25
 
@@ -90530,7 +90533,7 @@ _Cite_:
   - Code de l'environnement R252-13, R252-16
 
 
-##### Section 6 : Dispositions particulières<a id=794></a>
+##### Section 6 : Dispositions particulières<a id=797></a>
 
 ###### Article R*263-32
 
@@ -90626,7 +90629,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-#### Chapitre IV : Dispositions particulières à la Polynésie française<a id=795></a>
+#### Chapitre IV : Dispositions particulières à la Polynésie française<a id=798></a>
 
 ###### Article R*264-1
 
@@ -90656,7 +90659,7 @@ _Anciens textes_:
   - Code rural R264-1
 
 
-##### Section 1 : Conditions d'obtention de l'agrément<a id=796></a>
+##### Section 1 : Conditions d'obtention de l'agrément<a id=799></a>
 
 ###### Article R*264-2
 
@@ -90726,9 +90729,9 @@ _Cite_:
   - Code de l'environnement L621-1, R264-2
 
 
-##### Section 2 : Procédure d'agrément<a id=797></a>
+##### Section 2 : Procédure d'agrément<a id=800></a>
 
-##### Sous-section 1 : Demande.<a id=798></a>
+##### Sous-section 1 : Demande.<a id=801></a>
 
 ###### Article R*264-4
 
@@ -90842,7 +90845,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Sous-section 2 : Instruction de la demande.<a id=799></a>
+##### Sous-section 2 : Instruction de la demande.<a id=802></a>
 
 ###### Article R*264-8
 
@@ -90921,7 +90924,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Sous-section 3 : Décision.<a id=800></a>
+##### Sous-section 3 : Décision.<a id=803></a>
 
 ###### Article R*264-11
 
@@ -91067,7 +91070,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 3 : Obligations de l'association agréée<a id=801></a>
+##### Section 3 : Obligations de l'association agréée<a id=804></a>
 
 ###### Article R*264-16
 
@@ -91134,7 +91137,7 @@ _Abrogé par_:
   - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
-##### Section 4 : Action en représentation conjointe<a id=802></a>
+##### Section 4 : Action en représentation conjointe<a id=805></a>
 
 ###### Article R*264-18
 
@@ -91170,13 +91173,13 @@ _Cite_:
   - Code de l'environnement R252-21, R252-23, R252-28
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=803></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=806></a>
 
-### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=804></a>
+### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=807></a>
 
-#### Chapitre II : Déclaration et autorisation<a id=805></a>
+#### Chapitre II : Déclaration et autorisation<a id=808></a>
 
-##### Section 1 : Autorités compétentes<a id=806></a>
+##### Section 1 : Autorités compétentes<a id=809></a>
 
 ###### Article R712-1
 
@@ -91247,7 +91250,7 @@ _Cite_:
   - Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 2 : Activités soumises à déclaration<a id=807></a>
+##### Section 2 : Activités soumises à déclaration<a id=810></a>
 
 ###### Article R712-3
 
@@ -91433,7 +91436,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 3 : Activités soumises à autorisation<a id=808></a>
+##### Section 3 : Activités soumises à autorisation<a id=811></a>
 
 ###### Article R712-9
 
@@ -91632,7 +91635,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 4 : Cas d'urgence<a id=809></a>
+##### Section 4 : Cas d'urgence<a id=812></a>
 
 ###### Article R712-15
 
@@ -91660,7 +91663,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=810></a>
+#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=813></a>
 
 ###### Article R714-1
 
