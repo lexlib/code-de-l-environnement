@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -4106,7 +4106,8 @@ s'agisse des eaux superficielles, souterraines ou des eaux de la mer dans la lim
 
 4° Le développement et la protection de la ressource en eau ;
 
-5° La valorisation de l'eau comme ressource économique et la répartition de cette ressource.
+5° La valorisation de l'eau comme ressource économique et, en particulier, pour le développement de la production
+d'électricité d'origine renouvelable ainsi que la répartition de cette ressource.
 
 Un décret en Conseil d'Etat précise les critères retenus pour l'application du 1°.
 
@@ -4120,8 +4121,8 @@ exigences :
 3° De la conservation et du libre écoulement des eaux et de la protection contre les inondations ;
 
 4° De l'agriculture, des pêches et des cultures marines, de la pêche en eau douce, de l'industrie, de la production
-d'énergie, des transports, du tourisme, de la protection des sites, des loisirs et des sports nautiques ainsi que de toutes
-autres activités humaines légalement exercées.
+d'énergie, et en particulier pour assurer la sécurité du système électrique, des transports, du tourisme, de la protection
+des sites, des loisirs et des sports nautiques ainsi que de toutes autres activités humaines légalement exercées.
 
 **Liens relatifs à cet article**
 
@@ -4310,7 +4311,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 127 () JORF 24 février 2005
+  - Loi n°2005-781 du 13 juillet 2005 - art. 41 () JORF 14 juillet 2005
 
 
 ###### Article L211-1-1
@@ -5154,7 +5155,9 @@ habitats ou des espèces directement dépendants de l'eau ;
 
 III. - Chaque bassin ou groupement de bassins hydrographiques est doté d'un ou de plusieurs schémas directeurs d'aménagement
 et de gestion des eaux fixant les orientations fondamentales d'une gestion équilibrée de la ressource en eau telle que prévue
-à l'article L. 211-1 et des objectifs de qualité et de quantité des eaux.
+à l'article L. 211-1 et des objectifs de qualité et de quantité des eaux. Le schéma prend en compte l'évaluation, par zone
+géographique, du potentiel hydroélectrique établi en application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000
+relative à la modernisation et au développement du service public de l'électricité.
 
 IV. - Les objectifs de qualité et de quantité des eaux que fixent les schémas directeurs d'aménagement et de gestion des eaux
 correspondent :
@@ -5423,6 +5426,11 @@ _Anciens textes_:
   - Loi n°92-3 1992-01-03 art. 3 al. 1 à 3
   - Loi n°92-3 du 3 janvier 1992 - art. 3 (Ab)
 
+_Cite_:
+
+  - Loi n°2000-108 du 10 février 2000 - art. 6 (M)
+  - Code de l'environnement - art. L211-1 (M)
+
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
@@ -5430,11 +5438,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-338 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
-
-_Cite_:
-
-  - Code de l'environnement - art. L211-1 (M)
+  - Loi n°2005-781 du 13 juillet 2005 - art. 43 () JORF 14 juillet 2005
 
 
 ###### Article L212-2
@@ -5714,7 +5718,8 @@ Il prend en compte les documents d'orientation et les programmes de l'Etat, des 
 groupements, des syndicats mixtes, des établissements publics, des autres personnes morales de droit public, ainsi que des
 sociétés d'économie mixte et des associations syndicales libres de l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux
 associations syndicales de propriétaires ayant des incidences sur la qualité, la répartition ou l'usage de la ressource en
-eau.
+eau. Le schéma prend également en compte l'évaluation, par zone géographique, du potentiel hydroélectrique établi en
+application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000 précitée.
 
 Il énonce, ensuite, les priorités à retenir pour atteindre les objectifs définis à l'article L. 212-3, en tenant compte de la
 protection du milieu naturel aquatique, des nécessités de mise en valeur de la ressource en eau, de l'évolution prévisible de
@@ -5746,21 +5751,21 @@ _Cité par_:
   - Code de l'environnement - art. R212-36 (V)
   - Code de l'environnement - art. R212-42 (M)
 
+_Cite_:
+
+  - Loi n°2000-108 du 10 février 2000 - art. 6 (M)
+  - Ordonnance 2004-632 2004-07-01
+  - Code de l'environnement - art. L212-1 (M)
+  - Code de l'environnement - art. L212-3 (M)
+
 _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
-
-  - Ordonnance 2004-632 2004-07-01
-  - Code de l'environnement - art. L211-1 (M)
-  - Code de l'environnement - art. L212-1 (M)
-  - Code de l'environnement - art. L212-3 (M)
-
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+  - Loi n°2005-781 du 13 juillet 2005 - art. 43 () JORF 14 juillet 2005
 
 
 ###### Article L212-6
@@ -7077,6 +7082,13 @@ conditions hydrauliques critiques non compatibles avec leur préservation ;
 
 III. - Tout refus, retrait ou modification d'autorisation doit être motivé auprès du demandeur.
 
+IV. - Un décret détermine les conditions dans lesquelles les autorisations de travaux ou d'activités présentant un caractère
+temporaire, périodique et dépourvu d'effet important et durable sur le milieu naturel seront accordées, sans enquête publique
+préalable, aux entreprises hydroélectriques autorisées qui en feront la demande pour la durée du titre à couvrir. Les
+dispositions des décrets en vigueur à la date de la publication de la loi n° 2005-781 du 13 juillet 2005 de programme fixant
+les orientations de la politique énergétique seront abrogées si elles ne sont pas en conformité avec les dispositions du
+décret visé ci-dessus.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7105,6 +7117,14 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Cite_:
+
+  - Loi n°2005-781 2005-07-13
+
+_Modifié par_:
+
+  - Loi n°2005-781 du 13 juillet 2005 - art. 48 () JORF 14 juillet 2005
 
 
 ###### Article L214-5
@@ -12685,9 +12705,12 @@ II. - Les décrets mentionnés au I peuvent aussi :
 1° Imposer aux constructeurs et utilisateurs de contrôler les consommations d'énergie et les émissions de substances
 polluantes de leurs biens, à leur diligence et à leurs frais ;
 
-2° Prescrire les conditions de limitation de la publicité ou des campagnes d'information commerciale relatives à l'énergie ou
-à des biens consommateurs d'énergie lorsqu'elles sont de nature à favoriser la consommation d'énergie dans les cas autres que
-ceux prévus à l'article 1er de la loi n° 74-908 du 29 octobre 1974 relative aux économies d'énergie.
+2° Prévoir que les chaudières et les systèmes de climatisation dont la puissance excède un seuil fixé par décret font l'objet
+d'inspections régulières, dont ils fixent les conditions de mise en oeuvre. Dans le cadre de ces inspections, des conseils
+d'optimisation de l'installation sont, le cas échéant, dispensés aux propriétaires ou gestionnaires ;
+
+3° Prescrire aux entreprises qui vendent de l'énergie ou des services énergétiques l'obligation de promotion d'une
+utilisation rationnelle de l'énergie et d'incitation à des économies d'énergie dans le cadre de leurs messages publicitaires.
 
 III. - Un décret en Conseil d'Etat fixe les conditions dans lesquelles le fioul domestique, le gazole, l'essence et les
 supercarburants doivent comporter un taux minimal d'oxygène.
@@ -12700,14 +12723,6 @@ constructions nouvelles doivent comporter une quantité minimale de matériaux e
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°74-908 du 29 octobre 1974 - art. 1, v. init.
-  - Code de l'environnement - art. L224-5 (M)
-  - Code de la route L224-5, L331-1, L318-1
-  - Code de la route. - art. L224-5 (M)
-  - Code de la route. - art. L318-1 (V)
-
 _Anciens textes_:
 
   - Loi n°96-1236 du 30 décembre 1996 - art. 21 (Ab)
@@ -12716,6 +12731,11 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2005-781 2005-07-13 art. 27 IV, V JORF 14 juillet 2005
+  - Loi n°2005-781 du 13 juillet 2005 - art. 27 () JORF 14 juillet 2005
 
 _Cité par_:
 
@@ -12736,14 +12756,16 @@ _Cité par_:
 ###### Article L224-2
 
 Les décrets prévus à l'article L. 224-1 fixent les conditions dans lesquelles les autorités administratives compétentes sont
-habilitées à :
+habilitées à : 
 
-1° Délivrer et retirer l'agrément des experts ou organismes chargés des contrôles prévus au 1° du II de l'article L. 224-1 ;
+1° Délivrer et retirer l'agrément des experts ou organismes chargés des contrôles prévus au 1° du II de l'article L. 224-1 ; 
 
 2° Prescrire l'obligation d'afficher la consommation énergétique de certains biens sur le lieu de leur vente ou de leur
-location et préciser les méthodes de mesure ;
+location et préciser les méthodes de mesure pour les biens mis en vente, prescrire, le cas échéant, l'affichage de
+l'évaluation du coût complet, tenant compte de leur consommation en énergie et de leur coût à l'achat, et en préciser les
+méthodes de détermination ; 
 
-3° Abrogé
+3° Abrogé 
 
 4° Prescrire l'obligation d'équiper les immeubles d'habitation ou à usage tertiaire dont le permis de construire a été déposé
 après le 1er juillet 1997 de dispositifs permettant le choix et le remplacement, à tout moment de la vie du bâtiment, de tout
@@ -12763,7 +12785,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
+  - Loi n°2005-781 du 13 juillet 2005 - art. 28 () JORF 14 juillet 2005
 
 _Cité par_:
 
@@ -12771,7 +12793,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L224-1 (M)
+  - Code de l'environnement - art. L224-1 (V)
 
 
 ##### Section 2 : Véhicules automobiles<a id=87></a>
@@ -40913,10 +40935,10 @@ _Cité par_:
 
 Les sociétés de financement des économies d'énergie, visées à l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative
 aux économies d'énergie et à l'utilisation de la chaleur, sont autorisées à financer, par voie de crédit-bail immobilier et
-mobilier ou de location, les ouvrages et équipements destinés à la récupération, au transport, au traitement, au recyclage et
-à la valorisation des déchets et effluents de toute nature, quel que soit l'utilisateur de ces équipements. Les dispositions
-du paragraphe II du même article 30 ne sont pas applicables aux opérations financées dans les conditions prévues au présent
-article.
+mobilier, de crédit ou de location, les ouvrages et équipements destinés à la récupération, au transport, au traitement, au
+recyclage et à la valorisation des déchets et effluents de toute nature, quel que soit l'utilisateur de ces équipements. Les
+dispositions du paragraphe II du même article 30 ne sont pas applicables aux opérations financées dans les conditions prévues
+au présent article.
 
 **Liens relatifs à cet article**
 
@@ -40934,13 +40956,13 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2005-781 du 13 juillet 2005 - art. 32 () JORF 14 juillet 2005
+
 _Cité par_:
 
   - Arrêté du 26 avril 2017 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
 ##### Section 4 : Dispositions particulières aux mouvements transfrontaliers de déchets<a id=362></a>
@@ -42121,9 +42143,7 @@ _Cité par_:
 ###### Article L553-2
 
 I. - L'implantation d'une ou plusieurs installations produisant de l'électricité à partir de l'énergie mécanique du vent dont
-la puissance installée totale sur un même site de production, au sens du troisième alinéa (2°) de l'article 10 de la loi n°
-2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, excède 2,5
-mégawatts, est subordonnée à la réalisation préalable :
+la hauteur du mât dépasse 50 mètres est subordonnée à la réalisation préalable :
 
 a) De l'étude d'impact définie à la section 1 du chapitre II du titre II du livre Ier du présent code ;
 
@@ -42134,22 +42154,9 @@ l'objet d'une notice d'impact.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_SOURCE: Directive 2001-42 2001-06-27
-
-_Cite_:
-
-  - Loi n°2000-108 du 10 février 2000 - art. 10 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+  - Loi n°2010-788 du 12 juillet 2010 - art. 90 (V)
 
 _Nouveaux textes_:
 
@@ -42164,7 +42171,9 @@ _Cité par_:
 
 L'exploitant d'une installation produisant de l'électricité à partir de l'énergie mécanique du vent est responsable de son
 démantèlement et de la remise en état du site à la fin de l'exploitation. Au cours de celle-ci, il constitue les garanties
-financières nécessaires dans les conditions définies par décret en Conseil d'Etat.
+financières nécessaires. Pour les installations situées sur le domaine public maritime, ces garanties financières sont
+constituées dès le début de leur construction. Un décret en Conseil d'Etat détermine les conditions de constitution des
+garanties financières.
 
 **Liens relatifs à cet article**
 
@@ -42173,9 +42182,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
+  - Loi n°2005-781 du 13 juillet 2005 - art. 40 () JORF 14 juillet 2005
 
 _Nouveaux textes_:
 
@@ -42193,11 +42202,17 @@ _Cité par_:
 I. - Afin de promouvoir un développement harmonieux de l'énergie éolienne, les régions peuvent mettre en place un schéma
 régional éolien, après avis des départements et des établissements publics de coopération intercommunale à fiscalité propre
 concernés. Ce schéma indique les secteurs géographiques qui paraissent les mieux adaptés à l'implantation d'installations
-produisant de l'électricité en utilisant l'énergie mécanique du vent.
+produisant de l'électricité en utilisant l'énergie mécanique du vent. Le schéma prend en compte l'évaluation, par zone
+géographique, du potentiel éolien établi en application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000 relative
+à la modernisation et au développement du service public de l'électricité.
 
 II. - Les services de l'Etat peuvent concourir à l'élaboration de ce schéma à la demande du conseil régional.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2000-108 du 10 février 2000 - art. 6 (M)
 
 _Cité par_:
 
@@ -42212,9 +42227,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
+  - Loi n°2005-781 du 13 juillet 2005 - art. 43 () JORF 14 juillet 2005
 
 
 ### Titre VI : Prévention des risques naturels<a id=373></a>
