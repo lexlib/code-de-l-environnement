@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-07-14
+Version Consolidée au 2005-07-19
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -55,11 +55,11 @@ Version Consolidée au 2005-07-14
             - [Sous-section 1 : Curage et entretien (art. L215-14 à L215-19)](#52)
             - [Sous-section 2 : Elargissement, régularisation et redressement (art. L215-20)](#53)
             - [Sous-section 3 : Dispositions communes (art. L215-21 à L215-24)](#54)
-        - [Chapitre VI : Sanctions (art. L216-1 à L216-13)](#55)
+        - [Chapitre VI : Sanctions (art. L216-1 à L216-14)](#55)
           - [Section 1 : Sanctions administratives (art. L216-1 à L216-2)](#56)
-          - [Section 2 : Dispositions pénales (art. L216-3 à L216-13)](#57)
+          - [Section 2 : Dispositions pénales (art. L216-3 à L216-14)](#57)
             - [Sous-section 1 : Constatation des infractions (art. L216-3 à L216-5)](#58)
-            - [Sous-section 2 : Sanctions pénales (art. L216-6 à L216-13)](#59)
+            - [Sous-section 2 : Sanctions pénales (art. L216-6 à L216-14)](#59)
         - [Chapitre VII : Défense nationale (art. L217-1)](#60)
         - [Chapitre VIII : Dispositions spéciales aux eaux marines et aux voies ouvertes à la navigation maritime (art. L218-1 à L218-81)](#61)
           - [Section 1 : Pollution par les rejets des navires (art. L218-1 à L218-31)](#62)
@@ -69,7 +69,7 @@ Version Consolidée au 2005-07-14
               - [Paragraphe 2 : Procédure. (art. L218-26 à L218-31)](#66)
           - [Section 2 : Pollution due aux opérations d'exploration ou d'exploitation du fond de la mer ou de son sous-sol (art. L218-32 à L218-41)](#67)
           - [Section 3 : Pollution par les opérations d'immersion (art. L218-42 à L218-58)](#68)
-            - [Sous-section 1 : Autorisations (art. L218-42 à L218-47)](#69)
+            - [Sous-section 1 : Dispositions générales (art. L218-42 à L218-47)](#69)
             - [Sous-section 2 : Dispositions pénales (art. L218-48 à L218-57)](#70)
             - [Sous-section 3 : Défense nationale (art. L218-58)](#71)
           - [Section 4 : Pollution par les opérations d'incinération (art. L218-59 à L218-71)](#72)
@@ -6701,8 +6701,9 @@ _Cité par_:
 Sont soumis aux dispositions des articles L. 214-2 à L. 214-6 les installations ne figurant pas à la nomenclature des
 installations classées, les ouvrages, travaux et activités réalisés à des fins non domestiques par toute personne physique ou
 morale, publique ou privée, et entraînant des prélèvements sur les eaux superficielles ou souterraines, restitués ou non, une
-modification du niveau ou du mode d'écoulement des eaux ou des déversements, écoulements, rejets ou dépôts directs ou
-indirects, chroniques ou épisodiques, même non polluants.
+modification du niveau ou du mode d'écoulement des eaux, la destruction de frayères, de zones de croissance ou d'alimentation
+de la faune piscicole ou des déversements, écoulements, rejets ou dépôts directs ou indirects, chroniques ou épisodiques,
+même non polluants.
 
 **Liens relatifs à cet article**
 
@@ -6865,16 +6866,17 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'environnement L214-2 à L214-6
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 1 () JORF 19 juillet 2005
 
 
 ###### Article L214-2
 
 Les installations, ouvrages, travaux et activités visés à l'article L. 214-1 sont définis dans une nomenclature, établie par
 décret en Conseil d'Etat après avis du Comité national de l'eau, et soumis à autorisation ou à déclaration suivant les
-dangers qu'ils présentent et la gravité de leurs effets sur la ressource en eau et les écosystèmes aquatiques.
+dangers qu'ils présentent et la gravité de leurs effets sur la ressource en eau et les écosystèmes aquatiques compte tenu
+notamment de l'existence des zones et périmètres institués pour la protection de l'eau et des milieux aquatiques. 
 
 Ce décret définit en outre les critères de l'usage domestique, et notamment le volume d'eau en deçà duquel le prélèvement est
 assimilé à un tel usage, ainsi que les autres formes d'usage dont l'impact sur le milieu aquatique est trop faible pour
@@ -6926,26 +6928,39 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 2 () JORF 19 juillet 2005
+
 
 ###### Article L214-3
 
-Sont soumis à autorisation de l'autorité administrative les installations, ouvrages, travaux et activités susceptibles de
-présenter des dangers pour la santé et la sécurité publique, de nuire au libre écoulement des eaux, de réduire la ressource
-en eau, d'accroître notablement le risque d'inondation, de porter atteinte gravement à la qualité ou à la diversité du milieu
-aquatique.
+I. - Sont soumis à autorisation de l'autorité administrative les installations, ouvrages, travaux et activités susceptibles
+de présenter des dangers pour la santé et la sécurité publique, de nuire au libre écoulement des eaux, de réduire la
+ressource en eau, d'accroître notablement le risque d'inondation, de porter gravement atteinte à la qualité ou à la diversité
+du milieu aquatique, notamment aux peuplements piscicoles.
 
-Sont soumis à déclaration les installations, ouvrages, travaux et activités qui, n'étant pas susceptibles de présenter de
-tels dangers, doivent néanmoins respecter les prescriptions édictées en application des articles L. 211-2 et L. 211-3.
-
-Si les principes mentionnés à l'article L. 211-1 ne sont pas garantis par l'exécution de ces prescriptions, l'autorité
-administrative peut imposer, par arrêté, toutes prescriptions spécifiques nécessaires.
-
-Les prescriptions nécessaires à la protection des principes mentionnés à l'article L. 211-1, les moyens de surveillance, les
+Les prescriptions nécessaires à la protection des intérêts mentionnés à l'article L. 211-1, les moyens de surveillance, les
 modalités des contrôles techniques et les moyens d'intervention en cas d'incident ou d'accident sont fixés par l'arrêté
-d'autorisation et, éventuellement, par des actes complémentaires pris postérieurement à cette autorisation.
+d'autorisation et, éventuellement, par des actes complémentaires pris postérieurement.
 
-Un décret détermine les conditions dans lesquelles les prescriptions visées aux deux alinéas précédents sont établies,
-modifiées et portées à la connaissance des tiers.
+II. - Sont soumis à déclaration les installations, ouvrages, travaux et activités qui, n'étant pas susceptibles de présenter
+de tels dangers, doivent néanmoins respecter les prescriptions édictées en application des articles L. 211-2 et L. 211-3.
+
+Dans un délai fixé par décret en Conseil d'Etat, l'autorité administrative peut s'opposer à l'opération projetée s'il
+apparaît qu'elle est incompatible avec les dispositions du schéma directeur d'aménagement et de gestion des eaux ou du schéma
+d'aménagement et de gestion des eaux, ou porte aux intérêts mentionnés à l'article L. 211-1 une atteinte d'une gravité telle
+qu'aucune prescription ne permettrait d'y remédier. Les travaux ne peuvent commencer avant l'expiration de ce délai.
+
+Si le respect des intérêts mentionnés à l'article L. 211-1 n'est pas assuré par l'exécution des prescriptions édictées en
+application des articles L. 211-2 et L. 211-3, l'autorité administrative peut, à tout moment, imposer par arrêté toutes
+prescriptions particulières nécessaires.
+
+III. - Un décret détermine les conditions dans lesquelles les prescriptions prévues au I et au II sont établies, modifiées et
+portées à la connaissance des tiers.
+
+IV. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles plusieurs demandes d'autorisation et déclaration
+relatives à des opérations connexes ou relevant d'une même activité peuvent faire l'objet d'une procédure commune.
 
 **Liens relatifs à cet article**
 
@@ -7046,6 +7061,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 3 () JORF 19 juillet 2005
 
 _Cite_:
 
@@ -7156,10 +7175,36 @@ _Nouveaux textes_:
 
 ###### Article L214-6
 
-Dans tous les cas, les droits des tiers sont et demeurent réservés.
+I. - Dans tous les cas, les droits des tiers sont et demeurent réservés.
 
-Les installations et ouvrages existants à la date du 4 janvier 1992 doivent avoir été mis en conformité avec les dispositions
-prises en application de l'article L. 214-2 dans un délai de trois ans à compter de cette date.
+II. - Les installations, ouvrages et activités déclarés ou autorisés en application d'une législation ou réglementation
+relative à l'eau antérieure au 4 janvier 1992 sont réputés déclarés ou autorisés en application des dispositions de la
+présente section. Il en est de même des installations et ouvrages fondés en titre.
+
+III. - Les installations, ouvrages et activités qui, n'entrant pas dans le champ d'application du II, ont été soumis à
+compter du 4 janvier 1992, en vertu de la nomenclature prévue par l'article L. 214-2, à une obligation de déclaration ou
+d'autorisation à laquelle il n'a pas été satisfait, peuvent continuer à fonctionner ou se poursuivre si l'exploitant, ou, à
+défaut le propriétaire, a fourni à l'autorité administrative les informations prévues par l'article 41 du décret n° 93-742 du
+29 mars 1993, au plus tard le 31 décembre 2006.
+
+Toutefois, s'il apparaît que le fonctionnement de ces installations et ouvrages ou la poursuite de ces activités présente un
+risque d'atteinte grave aux intérêts mentionnés à l'article L. 211-1, l'autorité administrative peut exiger le dépôt d'une
+déclaration ou d'une demande d'autorisation.
+
+IV. - Les installations, ouvrages, travaux ou activités qui, après avoir été régulièrement mis en service ou entrepris,
+viennent à être soumis à déclaration ou à autorisation en vertu d'une modification de la nomenclature prévue à l'article L.
+214-2 peuvent continuer à fonctionner, si l'exploitant, ou à défaut le propriétaire, s'est fait connaître à l'autorité
+administrative, ou s'il se fait connaître dans le délai d'un an à compter de la date à laquelle l'obligation nouvelle a été
+instituée.
+
+Les renseignements qui doivent être fournis à l'autorité administrative ainsi que les mesures que celle-ci peut imposer afin
+de sauvegarder les intérêts mentionnés à l'article L. 211-1 sont précisés par décret en Conseil d'Etat.
+
+V. - Les dispositions des II et III sont applicables sous réserve des décisions de justice passées en force de chose jugée
+intervenues avant la date de publication de l'ordonnance n° 2005-805 du 18 juillet 2005.
+
+VI. - Les installations, ouvrages et activités visés par les II, III et IV sont soumis aux dispositions de la présente
+section.
 
 **Liens relatifs à cet article**
 
@@ -7167,6 +7212,13 @@ _Anciens textes_:
 
   - Loi n°92-3 1992-01-03 art. 10 VI et VII
   - Loi n°92-3 du 3 janvier 1992 - art. 10 (Ab)
+
+_Cite_:
+
+  - Décret n°93-742 1993-03-29 art. 41
+  - Ordonnance 2005-805 2005-07-18
+  - Code de l'environnement - art. L211-1 (M)
+  - Code de l'environnement - art. L214-2 (M)
 
 _Cité par_:
 
@@ -7187,9 +7239,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'environnement - art. L214-2 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 4 () JORF 19 juillet 2005
 
 
 ###### Article L214-7
@@ -8548,7 +8600,11 @@ Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 2
 des procès-verbaux qui font foi jusqu'à preuve contraire.
 
 Les procès-verbaux doivent, sous peine de nullité, être adressés dans les cinq jours qui suivent leur clôture au procureur de
-la République. Une copie en est également remise, dans le même délai, à l'intéressé.
+la République. Une copie en est également remise, dans le même délai, à l'intéressé et à l'autorité administrative. En outre,
+dans le même délai, une copie est adressée au président de la fédération départementale des associations agréées de pêche et
+de pisciculture et au président de l'association agréée de pêcheurs professionnels en eau douce lorsque l'infraction a pour
+conséquence de détruire les frayères, les zones de croissance ou d'alimentation de la faune piscicole, ou de porter atteinte
+à la continuité écologique ou au débit minimal du cours d'eau.
 
 **Liens relatifs à cet article**
 
@@ -8564,7 +8620,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 5 () JORF 19 juillet 2005
 
 _Cite_:
 
@@ -8946,6 +9002,49 @@ _Cité par_:
   - Code de l'environnement - art. L214-7-2 (VT)
   - Code de l'environnement - art. L512-16 (VD)
   - Code de l'environnement - art. L555-2 (VD)
+
+
+###### Article L216-14
+
+L'autorité administrative peut transiger sur la poursuite des contraventions et délits constitués par les infractions aux
+dispositions des chapitres Ier à VII du présent titre et des textes pris pour son application après avoir recueilli l'accord
+du procureur de la République.
+
+Cette faculté n'est pas applicable aux contraventions des quatre premières classes pour lesquelles l'action publique est
+éteinte par le paiement d'une amende forfaitaire en application de l'article 529 du code de procédure pénale.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans les délais impartis les obligations résultant
+pour lui de l'acceptation de la transaction.
+
+Les modalités d'application du présent article sont, en tant que de besoin, fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+La décision du Conseil d'Etat n° 283178, en date du 7 juillet 2006 a annulé l'article 6 de l'ordonnance n° 2005-805, lequel
+créait un article L. 216-14 dans le code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Annulé par_:
+
+  - Conseil d'Etat n°283178 2006-07-07
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 6 () JORF 19 juillet 2005
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 529 (M)
+
+_Cité par_:
+
+  - Code de l'environnement - art. R216-15 (Ab)
 
 
 #### Chapitre VII : Défense nationale<a id=60></a>
@@ -10559,28 +10658,19 @@ _Cite_:
 
 ##### Section 3 : Pollution par les opérations d'immersion<a id=68></a>
 
-##### Sous-section 1 : Autorisations<a id=69></a>
+##### Sous-section 1 : Dispositions générales<a id=69></a>
 
 ###### Article L218-42
 
-L'immersion des substances et matériaux non visés à l'annexe I de la convention pour la prévention de la pollution marine par
-les opérations d'immersion effectuées par les navires et aéronefs, signée à Oslo le 15 février 1972, est soumise,
-conformément aux dispositions des articles 6 et 7 de ladite convention, à autorisation délivrée par le ministre chargé de
-l'environnement.
+Les dispositions de la présente section sont applicables :
 
-Un décret en Conseil d'Etat fixe les conditions de délivrance, d'utilisation, de suspension et de suppression des
-autorisations visées à l'alinéa précédent en tenant compte des dispositions de l'annexe II et de l'annexe III de ladite
-convention.
+1° Aux navires, aéronefs, plates-formes ou autres ouvrages français dans toutes les eaux marines ainsi que dans les fonds
+marins et leurs sous-sols ;
 
-Les dispositions des articles 5 et 6 de la convention d'Oslo peuvent être rendues applicables, par décret en Conseil d'Etat,
-à des substances ou matériaux qui, bien que n'étant pas visés à l'annexe I ou à l'annexe II de ladite convention, présentent
-des caractères analogues à ceux des substances et matériaux mentionnés auxdites annexes.
+2° Aux navires, aéronefs, plates-formes ou autres ouvrages étrangers dans la zone économique, la zone de protection
+écologique, la mer territoriale et les eaux intérieures françaises, ainsi que dans leurs fonds et leurs sous-sols.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Convention d'Oslo 1972-02-15 art. 5, art. 6, art. 7 annexe I, annexe II
 
 _Anciens textes_:
 
@@ -10590,6 +10680,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 12 () JORF 19 juillet 2005
 
 _Cité par_:
 
@@ -10601,17 +10695,11 @@ _Cité par_:
   - Code de l'environnement - art. L622-1 (V)
   - Code de l'environnement - art. L632-1 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
-
 
 ###### Article L218-43
 
-Sans préjudice du respect de toutes les prescriptions législatives ou réglementaires applicables à l'embarquement ou au
-chargement des matériaux, substances et déchets en cause, l'embarquement ou le chargement de tous matériaux, substances ou
-déchets destinés à être immergés en mer est subordonné à l'obtention d'une autorisation délivrée par le ministre chargé de
-l'environnement dans des conditions fixées par décret en Conseil d'Etat.
+L'immersion de déchets ou d'autres matières, telle qu'elle est définie à l'article 1er du protocole du 7 novembre 1996 à la
+convention de Londres de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets, est interdite.
 
 **Liens relatifs à cet article**
 
@@ -10624,6 +10712,10 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 12 () JORF 19 juillet 2005
+
 _Cité par_:
 
   - Code de l'environnement - art. L218-44 (V)
@@ -10631,15 +10723,24 @@ _Cité par_:
   - Code de l'environnement - art. L218-48 (V)
   - Code de l'environnement - art. L218-52 (M)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Protocole 1996-11-07
 
 
 ###### Article L218-44
 
-Les autorisations d'immersion délivrées en vertu de l'article L. 218-42 valent autorisation d'embarquement ou de chargement,
-au sens de l'article L. 218-43. Elles tiennent lieu également des autorisations prévues aux articles L. 214-2 à L. 214-6.
+I.-Par dérogation à l'article L. 218-43, peut être autorisée : 
+
+1° L'immersion des déblais de dragage ; 
+
+2° L'immersion des navires, par le représentant de l'Etat en mer, dans le respect des traités et accords internationaux en
+vigueur. 
+
+II.-L'immersion des déblais de dragage est soumise aux dispositions des articles L. 214-1 à L. 214-4 et L. 214-10. 
+
+III.-Les permis d'immersion régulièrement délivrés avant la publication de l'ordonnance n° 2005-805 du 18 juillet 2005 sont
+maintenus jusqu'à leur expiration sans pouvoir excéder une durée de dix ans.
 
 **Liens relatifs à cet article**
 
@@ -10654,13 +10755,14 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L218-42 (M)
-  - Code de l'environnement - art. L218-43 (M)
-  - Code de l'environnement L218-42, L218-43, L214-2 à L214-6
+  - Ordonnance n°2005-805 du 18 juillet 2005 (V)
+  - Code de l'environnement - art. L214-1 (V)
+  - Code de l'environnement - art. L214-10 (V)
+  - Code de l'environnement - art. L218-43 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 12 () JORF 19 juillet 2005
 
 _Cité par_:
 
@@ -10673,14 +10775,10 @@ _Cité par_:
 
 ###### Article L218-45
 
-Les dispositions de la présente section sont également applicables aux opérations d'immersion effectuées en dehors de la zone
-d'application de la convention d'Oslo, soit en haute mer, soit dans la zone économique ou dans la zone de protection
-écologique, soit dans les eaux territoriales et intérieures maritimes françaises.
-
-Dans les eaux territoriales et intérieures maritimes françaises, les dispositions de la présente section s'appliquent aux
-navires, aéronefs, engins et plates-formes étrangers, même immatriculés dans un Etat non partie à ladite convention. Seules
-les peines d'amende mentionnées à la sous-section 2 de la présente section peuvent être prononcées à l'encontre des navires
-étrangers pour des infractions commises au-delà de la mer territoriale.
+Les dispositions des articles L. 218-43 et L. 218-44 ne sont pas applicables lorsque, en cas de danger grave, l'immersion
+apparaît comme le seul moyen de sauver des vies humaines ou d'assurer la sécurité des navires, aéronefs, plates-formes ou
+autres ouvrages. Dans la mesure du possible, elle est effectuée de façon à concilier ces impératifs de sécurité avec les
+exigences de la préservation de la faune et de la flore marines.
 
 **Liens relatifs à cet article**
 
@@ -10695,7 +10793,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-346 du 15 avril 2003 - art. 5 () JORF 16 avril 2003
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 12 () JORF 19 juillet 2005
 
 **Liens**:
 
@@ -10716,13 +10814,13 @@ _Modifié par_:
   - SPEC_APPLI: Code de l'environnement - art. L218-57 (V)
   - SPEC_APPLI: Code de l'environnement - art. L218-58 (M)
 
+_Cite_:
+
+  - Code de l'environnement - art. L218-43 (V)
+
 _Cité par_:
 
   - Code de l'environnement - art. L218-49 (V)
-
-_Cite_:
-
-  - Convention d'Oslo 1972-02-15
 
 
 ###### Article L218-46
@@ -10740,9 +10838,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 12 () JORF 19 juillet 2005
 
 
 ###### Article L218-47
@@ -10761,9 +10859,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 12 () JORF 19 juillet 2005
 
 _Cité par_:
 
@@ -10774,37 +10872,25 @@ _Cité par_:
 
 ###### Article L218-48
 
-Est puni de deux ans d'emprisonnement et de 18 000 euros d'amende le fait, pour tout capitaine d'un bâtiment français ou tout
-commandant de bord d'un aéronef français ou toute personne assumant la conduite des opérations d'immersion sur les engins
-français ou plates-formes fixes ou flottantes sous juridiction française, au sens de l'article 19 de la convention mentionnée
-à l'article L. 218-42, de se rendre coupable d'infraction aux dispositions des articles 5, 6 et 7 de ladite convention ou aux
-obligations imposées en vertu de l'article L. 218-42.
+Est puni de deux ans d'emprisonnement et de 18 000 Euros d'amende le fait, pour tout capitaine d'un navire, tout commandant
+de bord d'un aéronef ou toute personne assumant la conduite des opérations d'immersion sur les plates-formes ou autres
+ouvrages, de se rendre coupable d'infraction aux dispositions des articles L. 218-43 et L. 218-44. 
 
 Les personnes physiques coupables des infractions prévues par la présente section encourent également, à titre de peine
 complémentaire, la peine d'affichage de la décision prononcée ou de diffusion de celle-ci dans les conditions prévues à
-l'article 131-35 du code pénal.
+l'article 131-35 du code pénal. 
+
+Lorsque l'infraction a lieu dans la zone économique ou dans la zone de protection écologique au large des côtes du territoire
+de la République, seules les peines d'amendes peuvent, en application de la convention signée à Montego Bay le 10 décembre
+1982, être prononcées à l'encontre des ressortissants étrangers.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code pénal - art. 131-35 (M)
-  - Code de l'environnement - art. L218-42 (M)
-  - Convention d'Oslo 1972-02-15 art. 5, art. 6, art. 7, art. 19
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-_Cité par_:
-
-  - Code de l'environnement - art. L218-49 (V)
-  - Code de l'environnement - art. L218-50 (V)
-  - Code de l'environnement - art. L218-51 (V)
-  - Code de l'environnement - art. L218-52 (V)
-  - Code de l'environnement - art. L218-55 (V)
+  - Convention de Montego Bay 1982-12-10
+  - Code pénal - art. 131-35 (V)
+  - Code de l'environnement - art. L218-43 (V)
 
 _Anciens textes_:
 
@@ -10817,14 +10903,26 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 13 () JORF 19 juillet 2005
+
+_Cité par_:
+
+  - Code de l'environnement - art. L218-49 (V)
+  - Code de l'environnement - art. L218-50 (V)
+  - Code de l'environnement - art. L218-51 (V)
+  - Code de l'environnement - art. L218-52 (V)
+  - Code de l'environnement - art. L218-55 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-49
 
-Dans les cas prévus à l'article 8-1 de la convention internationale mentionnée à l'article L. 218-42, les immersions doivent
-être notifiées dans les plus brefs délais, par l'une des personnes visées à l'article L. 218-48, au préfet maritime ou son
-représentant sous peine d'une amende de 3 750 euros.
+Dans les cas prévus à l'article L. 218-45, les immersions doivent être notifiées dans les plus brefs délais, par l'une des
+personnes visées à l'article L. 218-48, au représentant de l'Etat en mer sous peine d'une amende de 3 750 euros. 
 
 Cette notification doit mentionner avec précision les circonstances dans lesquelles sont intervenues les immersions.
 
@@ -10841,17 +10939,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 16 () JORF 19 juillet 2005
 
 _Cite_:
 
-  - Code de l'environnement - art. L218-42 (M)
-  - Code de l'environnement - art. L218-48 (M)
-  - Convention d'Oslo 1972-02-15 art. 8-1
+  - Code de l'environnement - art. L218-45 (V)
+  - Code de l'environnement - art. L218-48 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
   - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
@@ -10859,13 +10955,13 @@ _Cite_:
 ###### Article L218-50
 
 Sans préjudice des peines prévues à l'article L. 218-48, si l'une des infractions a été commise sur ordre du propriétaire ou
-de l'exploitant du navire, de l'aéronef, de l'engin ou de la plate-forme, ce propriétaire ou cet exploitant est puni du
-double des peines prévues audit article.
+de l'exploitant du navire, aéronef, plate-forme ou autre ouvrage, ce propriétaire ou cet exploitant est puni du double des
+peines prévues audit article. 
 
-Tout propriétaire ou exploitant d'un navire, d'un aéronef, d'un engin ou d'une plate-forme qui n'a pas donné au capitaine, au
-commandant de bord ou à la personne assumant la conduite des opérations d'immersion sur l'engin ou la plate-forme l'ordre
-écrit de se conformer aux dispositions de la présente section peut être retenu comme complice des infractions qui y sont
-prévues.
+Tout propriétaire ou exploitant d'un navire, aéronef, plate-forme ou autre ouvrage qui n'a pas donné au capitaine, au
+commandant de bord ou à la personne assumant la conduite des opérations d'immersion sur la plate-forme ou autre ouvrage
+l'ordre écrit de se conformer aux dispositions de la présente section peut être retenu comme complice des infractions qui y
+sont prévues. 
 
 Lorsque le propriétaire ou l'exploitant est une personne morale, la responsabilité prévue aux deux alinéas ci-dessus incombe
 à celui ou ceux des représentants légaux ou dirigeants de fait qui en assument la direction ou l'administration ou à toute
@@ -10882,13 +10978,13 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 16 () JORF 19 juillet 2005
 
 _Cite_:
 
-  - Code de l'environnement - art. L218-48 (M)
+  - Code de l'environnement - art. L218-48 (V)
 
 _Cité par_:
 
@@ -10900,7 +10996,7 @@ _Cité par_:
 
 Les peines prévues à l'article L. 218-48 s'appliquent à l'encontre de tout capitaine de navire et de tout commandant de bord
 embarquant ou chargeant sur le territoire français, sans pouvoir justifier de l'une des autorisations prévues par la présente
-section, des substances, matériaux ou déchets destinés à l'immersion en mer.
+section, des déchets ou autre matière destinés à l'immersion en mer.
 
 **Liens relatifs à cet article**
 
@@ -10913,13 +11009,13 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 16 () JORF 19 juillet 2005
 
 _Cite_:
 
-  - Code de l'environnement - art. L218-48 (M)
+  - Code de l'environnement - art. L218-48 (V)
 
 _Cité par_:
 
@@ -10929,10 +11025,10 @@ _Cité par_:
 
 ###### Article L218-52
 
-En cas de violation d'une ou de plusieurs conditions fixées par les autorisations prévues aux articles L. 218-42 et L.
-218-43, les peines édictées par l'article L. 218-48 sont applicables, selon le cas, au titulaire de l'autorisation, au
-propriétaire des substances, matériaux et déchets destinés à l'immersion en mer, ou aux personnes visées respectivement aux
-articles L. 218-48, L. 218-50 et L. 218-51.
+En cas de méconnaissance d'une ou plusieurs des conditions fixées par les autorisations prévues à l'article L. 218-44, les
+peines édictées par l'article L. 218-48 sont applicables, selon le cas, au titulaire de l'autorisation, au propriétaire des
+déchets ou autres matières destinés à l'immersion en mer, ou aux personnes visées respectivement aux articles L. 218-48, L.
+218-50 et L. 218-51.
 
 **Liens relatifs à cet article**
 
@@ -10945,17 +11041,15 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 14 () JORF 19 juillet 2005
+
 _Cite_:
 
-  - Code de l'environnement - art. L218-42 (M)
-  - Code de l'environnement - art. L218-43 (M)
-  - Code de l'environnement - art. L218-48 (M)
-  - Code de l'environnement - art. L218-50 (M)
-  - Code de l'environnement - art. L218-51 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Code de l'environnement - art. L218-44 (V)
+  - Code de l'environnement - art. L218-48 (V)
+  - Code de l'environnement - art. L218-50 (V)
 
 _Cité par_:
 
@@ -11058,15 +11152,15 @@ _Cite_:
 
 ###### Article L218-55
 
-Lorsque les nécessités de l'enquête ou de l'information ainsi que la gravité de l'infraction l'exigent, le bâtiment, aéronef,
-engin ou plate-forme qui a servi à commettre l'une des infractions visées aux articles L. 218-48, L. 218-50, L. 218-51 et L.
-218-52 peut être immobilisé sur décision du procureur de la République ou du juge d'instruction saisi.
+Lorsque les nécessités de l'enquête ou de l'information ainsi que la gravité de l'infraction l'exigent, le navire, aéronef,
+plate-forme ou autre ouvrage qui a servi à commettre l'une des infractions visées aux articles L. 218-48, L. 218-50, L.
+218-51 et L. 218-52 peut être immobilisé sur décision du procureur de la République ou du juge d'instruction saisi. 
 
 A tout moment, l'autorité judiciaire compétente peut ordonner la levée de l'immobilisation s'il est fourni un cautionnement
-dont elle fixe le montant et les modalités de versement.
+dont elle fixe le montant et les modalités de versement. 
 
 Les conditions d'affectation, d'emploi et de restitution du cautionnement sont réglées conformément aux dispositions des
-articles 142, 142-2 et 142-3 du code de procédure pénale.
+articles 142,142-2 et 142-3 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -11079,19 +11173,16 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 16 () JORF 19 juillet 2005
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 142 (M)
-  - CODE DE PROCEDURE PENALE - art. 142-2 (M)
-  - CODE DE PROCEDURE PENALE - art. 142-3 (M)
-  - Code de l'environnement - art. L218-48 (M)
-  - Code de l'environnement - art. L218-50 (M)
-  - Code de l'environnement - art. L218-51 (M)
-  - Code de l'environnement - art. L218-52 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Code de procédure pénale - art. 142 (VT)
+  - Code de procédure pénale - art. 142-2 (V)
+  - Code de l'environnement - art. L218-48 (V)
+  - Code de l'environnement - art. L218-50 (V)
 
 
 ###### Article L218-56
@@ -11101,9 +11192,9 @@ l'infraction, soit par celui de la résidence de l'auteur de l'infraction.
 
 II. - Sont en outre compétents :
 
-1° S'il s'agit d'un bâtiment, engin ou plate-forme, soit le tribunal dans le ressort duquel il est immatriculé s'il est
-français, soit celui dans le ressort duquel il peut être trouvé s'il est étranger, ou s'il s'agit d'un engin ou plate-forme
-non immatriculé ;
+1° S'il s'agit d'un navire, plate-forme ou autre ouvrage, soit le tribunal dans le ressort duquel il est immatriculé s'il est
+français, soit celui dans le ressort duquel il peut être trouvé s'il est étranger, ou s'il s'agit d'une plate-forme ou autre
+ouvrage non immatriculé ;
 
 2° S'il s'agit d'un aéronef, le tribunal du lieu de l'atterrissage après le vol au cours duquel l'infraction a été commise.
 
@@ -11120,9 +11211,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 16 () JORF 19 juillet 2005
 
 
 ###### Article L218-57
@@ -11165,8 +11256,12 @@ _Cite_:
 
 ###### Article L218-58
 
+L'immersion des munitions ne pouvant être éliminées à terre sans présenter des risques graves pour l'homme ou son
+environnement peut être autorisée par le représentant de l'Etat en mer. L'immersion est effectuée de façon à concilier les
+impératifs de la sécurité des personnes et les exigences de la préservation de la faune et de la flore marines. 
+
 Le contrôle de l'application des dispositions de la présente section aux navires et aéronefs militaires français est exercé
-par les agents relevant du ministère de la défense.
+par les agents relevant du ministère de la défense. 
 
 Les pénalités prévues par la présente section sont applicables aux justiciables des juridictions militaires des forces armées
 conformément au code de justice militaire et notamment à ses articles 165 et 171.
@@ -11182,14 +11277,14 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 15 () JORF 19 juillet 2005
+
 _Cite_:
 
   - Code de justice militaire - art. 165 (Ab)
   - Code de justice militaire - art. 171 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L218-45 (M)
 
 
 ##### Section 4 : Pollution par les opérations d'incinération<a id=72></a>
@@ -28606,8 +28701,9 @@ _Anciens textes_:
 ###### Article L431-7
 
 A l'exception des articles L. 432-2, L. 432-10, L. 432-11 et L. 432-12, les dispositions du présent titre ne sont pas
-applicables aux plans d'eau existant au 30 juin 1984, établis en dérivation ou par barrage et équipés des dispositifs
-permanents empêchant la libre circulation du poisson entre ces plans d'eau et les eaux avec lesquelles ils communiquent :
+applicables aux piscicultures régulièrement autorisées ou déclarées ainsi qu'aux plans d'eau existant au 30 juin 1984,
+établis en dérivation ou par barrage et équipés des dispositifs permanents empêchant la libre circulation du poisson entre
+ces plans d'eau et les eaux avec lesquelles ils communiquent :
 
 1° Soit s'ils ont été créés en vertu d'un droit fondé sur titre comportant le droit d'intercepter la libre circulation du
 poisson ;
@@ -28618,7 +28714,7 @@ d'un cours d'eau non domanial n'ayant pas été classé au titre du régime des 
 
 3° Soit s'ils résultent d'une concession ou d'une autorisation administrative, jusqu'à la fin de la période pour laquelle la
 concession ou l'autorisation a été consentie. Les détenteurs de ces autorisations ou concessions peuvent en demander le
-renouvellement en se conformant aux dispositions de l'article L. 431-6.
+renouvellement en se conformant aux dispositions des articles L. 214-2 à L. 214-4.
 
 **Liens relatifs à cet article**
 
@@ -28646,13 +28742,9 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-  - SPEC_APPLI: Code de l'environnement - art. L432-10 (M)
-  - SPEC_APPLI: Code de l'environnement - art. L432-12 (V)
-  - SPEC_APPLI: Code de l'environnement - art. L432-2 (V)
-  - SPEC_APPLI: Code de l'environnement - art. L654-4 (V)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 8 () JORF 19 juillet 2005
 
 _Cite_:
 
@@ -28662,6 +28754,13 @@ _Cite_:
   - Code de l'environnement - art. L432-2 (M)
   - Code de l'environnement - art. L432-6 (M)
   - Code de l'environnement - art. L432-7 (Ab)
+  - Code de l'environnement L432-2, L432-10, L432-11, L432-12, L432-7, L432-6, L214-2 à L214-4
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'environnement - art. L432-10 (M)
+  - SPEC_APPLI: Code de l'environnement - art. L432-12 (V)
+  - SPEC_APPLI: Code de l'environnement - art. L432-2 (V)
 
 _Anciens textes_:
 
@@ -30678,21 +30777,21 @@ I. - Sont habilités à rechercher et à constater les infractions aux dispositi
 application, en quelque lieu qu'elles soient commises, outre les officiers et agents de police judiciaire énumérés aux
 articles 16, 20 et 21 du code de procédure pénale et les agents habilités par des lois spéciales :
 
-1° Les agents du Conseil supérieur de la pêche et du domaine national de Chambord commissionnés à cet effet par décision
-ministérielle et assermentés ;
+1° Les agents du Conseil supérieur de la pêche et du domaine national de Chambord commissionnés à cet effet par décision de
+l'autorité administrative et assermentés ;
 
 2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux et les agents qualifiés chargés de la
 police de la pêche dans les directions départementales de l'agriculture et de la forêt et à l'Office national des forêts, les
-ingénieurs et agents qualifiés des services chargés de la navigation, commissionnés à cet effet par décision ministérielle et
-assermentés ;
+ingénieurs et agents qualifiés des services chargés de la navigation, commissionnés à cet effet par décision de l'autorité
+administrative et assermentés ;
 
 3° Les ingénieurs en service à l'Office national des forêts et les agents assermentés de cet établissement visés à l'article
 L. 122-7 du code forestier ;
 
 4° Les gardes champêtres ;
 
-5° Les agents de l'Office national de la chasse et de la faune sauvage commissionnés à cet effet par le ministre chargé de
-l'environnement et assermentés dans la circonscription à laquelle ils sont affectés.
+5° Les agents de l'Office national de la chasse et de la faune sauvage commissionnés et assermentés dans la circonscription à
+laquelle ils sont affectés.
 
 II. - Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les conditions dans lesquelles, au-delà de
 la limite de salure des eaux, est pratiquée la pêche des espèces de poissons vivant alternativement dans les eaux douces et
@@ -30704,12 +30803,9 @@ pêche maritime.
 
 **Nota:**
 
-NOTA : Loi n° 2005-157 art. 230 VIII : "Un décret détermine les conditions d'application du présent article (art. 230),
-notamment les modalités d'organisation et de fonctionnement de l'établissement, de conservation du château et de gestion de
-la forêt."
+Loi n° 2006-1772 2006-12-30 art. 102 II : 
 
-Ces dispositions prennent effet à la date d'entrée en vigueur du décret prévu à l'article 230 (VIII) et au plus tard le 1er
-juillet 2005. Il s'agit du décret n° 2005-703 du 24 juin 2005 publié au Journal officiel du 25 juin 2005.
+II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
 **Liens relatifs à cet article**
 
@@ -30717,10 +30813,6 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2005-157 du 23 février 2005 - art. 230 (V) JORF 24 février 2005 en vigueur le 26 juin 2005
 
 _Cité par_:
 
@@ -30741,6 +30833,10 @@ _Cité par_:
   - Code de l'environnement - art. R437-1 (Ab)
   - Code de l'environnement - art. R437-13 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 9 () JORF 19 juillet 2005
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 16 (M)
@@ -30749,14 +30845,14 @@ _Cite_:
   - Code forestier - art. L122-7 (M)
   - Décret n°1852-01-09
 
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 _Anciens textes_:
 
   - Code rural - art. L237-1 (Ab)
   - Code rural L237-1
+
+**Liens**:
+
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L437-2
@@ -30847,21 +30943,14 @@ _Anciens textes_:
 
 ###### Article L437-5
 
-Les procès-verbaux sont adressés à peine de nullité, dans les trois jours qui suivent leur clôture, l'original au procureur
-de la République et une copie au chef de service de l'administration chargée de la police de la pêche. En outre, une copie
-est adressée au président de la fédération départementale des associations agréées de pêche et de pisciculture et au
-président de l'association agréée de pêcheurs professionnels en eau douce intéressées.
+Les procès-verbaux sont, sous peine de nullité, adressés dans les cinq jours qui suivent leur clôture, au procureur de la
+République.
+
+Une copie en est transmise dans le même délai à l'intéressé, à l'autorité administrative, au président de la fédération
+départementale des associations agréées de pêche et de pisciculture et au président de l'association agréée de pêcheurs
+professionnels en eau douce.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 _Cité par_:
 
@@ -30871,6 +30960,15 @@ _Anciens textes_:
 
   - Code rural - art. L237-5 (Ab)
   - Code rural L237-5
+
+_Codifié par_:
+
+  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 10 () JORF 19 juillet 2005 rectificatif JORF 23 juillet 2005
 
 
 ##### Sous-section 3 : Recherche des infractions<a id=297></a>
@@ -31157,18 +31255,21 @@ Pour les infractions aux dispositions du présent titre et des textes pris pour 
 chargée de la pêche en eau douce a le droit de transiger, après accord du procureur de la République, selon des modalités
 fixées par décret en Conseil d'Etat.
 
+Cette faculté n'est pas applicable aux contraventions des quatre premières classes pour lesquelles l'action publique est
+éteinte par le paiement d'une amende forfaitaire en application de l'article 529 du code de procédure pénale.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans les délais impartis les obligations résultant
+pour lui de l'acceptation de la transaction.
+
 Pour les infractions mentionnées à l'article L. 432-2 qui concernent les entreprises visées au titre Ier du livre V du
 présent code, l'avis de l'inspecteur des installations classées est obligatoirement demandé, avant toute transaction, sur les
 conditions dans lesquelles l'auteur de l'infraction a appliqué les dispositions du titre Ier du livre V.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 _Cite_:
 
+  - CODE DE PROCEDURE PENALE - art. 529 (M)
   - Code de l'environnement - art. L432-2 (M)
 
 _Anciens textes_:
@@ -31184,6 +31285,10 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°2004-1343 du 9 décembre 2004 - art. 50 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 11 () JORF 19 juillet 2005
 
 
 ##### Section 3 : Poursuites<a id=300></a>
@@ -46482,11 +46587,8 @@ _Anciens textes_:
 
 ###### Article L612-1
 
-I. - Sont applicables à la Nouvelle-Calédonie les articles L. 218-1 à L. 218-72, sous réserve des compétences dévolues à la
-Nouvelle-Calédonie et aux provinces dans les eaux territoriales.
-
-II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par le délégué du gouvernement de la
-République.
+Sont applicables à la Nouvelle-Calédonie les articles L. 218-1 à L. 218-72, à l'exception du II de l'article L. 218-44, sous
+réserve des compétences dévolues à la Nouvelle-Calédonie et aux provinces dans les eaux territoriales.
 
 **Liens relatifs à cet article**
 
@@ -46495,20 +46597,25 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cité par_:
+_Modifié par_:
 
-  - Code de l'environnement - art. L612-2 (V)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 18 (V) JORF 19 juillet 2005
 
 _Cite_:
 
-  - Code de l'environnement L218-1 à L218-72
+  - Code de l'environnement - art. L218-1 (V)
+  - Code de l'environnement - art. L218-44 (V)
+
+_Cité par_:
+
+  - Code de l'environnement - art. L612-2 (V)
 
 
 ###### Article L612-2
 
 Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port adjoints,
-les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I de l'article L. 612-1 sont exercés par le délégué du
-Gouvernement de la République ou par l'un de ses représentants.
+les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I de l'article L. 612-1 sont exercés par le
+représentant de l'Etat ou par l'un de ses représentants.
 
 **Liens relatifs à cet article**
 
@@ -46521,6 +46628,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 18 (V) JORF 19 juillet 2005
 
 _Cite_:
 
@@ -46720,11 +46831,8 @@ _Anciens textes_:
 
 ###### Article L622-1
 
-I. - Sont applicables à la Polynésie française les articles L. 218-1 à L. 218-72, sous réserve des compétences dévolues au
-territoire dans les eaux territoriales.
-
-II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par le délégué du gouvernement de la
-République.
+Sont applicables à la Polynésie française les articles L. 218-1 à L. 218-72, à l'exception du II de l'article L. 218-44, sous
+réserve des compétences dévolues au territoire dans les eaux territoriales.
 
 **Liens relatifs à cet article**
 
@@ -46733,20 +46841,25 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cité par_:
+_Modifié par_:
 
-  - Code de l'environnement - art. L622-2 (V)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 19 (V) JORF 19 juillet 2005
 
 _Cite_:
 
-  - Code de l'environnement L218-1 à L218-72
+  - Code de l'environnement - art. L218-1 (V)
+  - Code de l'environnement - art. L218-44 (V)
+
+_Cité par_:
+
+  - Code de l'environnement - art. L622-2 (V)
 
 
 ###### Article L622-2
 
 Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port adjoints,
-les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I de l'article L. 622-1 sont exercés par le délégué du
-Gouvernement de la République ou par l'un de ses représentants.
+les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I de l'article L. 622-1 sont exercés par le
+représentant de l'Etat ou par l'un de ses représentants.
 
 **Liens relatifs à cet article**
 
@@ -46760,9 +46873,13 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 19 (V) JORF 19 juillet 2005
+
 _Cite_:
 
-  - Code de l'environnement - art. L622-1 (M)
+  - Code de l'environnement - art. L622-1 (V)
 
 
 #### Chapitre III : Antarctique<a id=422></a>
@@ -46954,10 +47071,7 @@ _Cite_:
 
 ###### Article L632-1
 
-I. - Sont applicables à Wallis et Futuna les articles L. 218-1 à L. 218-72.
-
-II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par le délégué du gouvernement de la
-République.
+Sont applicables à Wallis et Futuna les articles L. 218-1 à L. 218-72, à l'exception du II de l'article L. 218-44.
 
 **Liens relatifs à cet article**
 
@@ -46966,20 +47080,25 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cité par_:
+_Modifié par_:
 
-  - Code de l'environnement - art. L632-2 (V)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 20 (V) JORF 19 juillet 2005
 
 _Cite_:
 
-  - Code de l'environnement L218-1 à L218-72
+  - Code de l'environnement - art. L218-1 (V)
+  - Code de l'environnement - art. L218-44 (V)
+
+_Cité par_:
+
+  - Code de l'environnement - art. L632-2 (V)
 
 
 ###### Article L632-2
 
 Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port adjoints,
-les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I de l'article L. 632-1 sont exercés par le délégué du
-Gouvernement de la République ou par l'un de ses représentants.
+les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I de l'article L. 632-1 sont exercés par le
+représentant de l'Etat ou par l'un de ses représentants.
 
 **Liens relatifs à cet article**
 
@@ -46993,13 +47112,17 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 20 (V) JORF 19 juillet 2005
+
 _Cité par_:
 
   - Décret n°2019-37 du 23 janvier 2019 - art. 5 (V)
 
 _Cite_:
 
-  - Code de l'environnement - art. L632-1 (M)
+  - Code de l'environnement - art. L632-1 (V)
 
 
 #### Chapitre III : Eau destinée à la consommation humaine, eaux usées et déchets, lutte contre les bruits de voisinage et la pollution atmosphérique<a id=427></a>
@@ -47074,38 +47197,32 @@ I. - Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-1 à L. 218
 L. 332-16 à L. 332-27, L. 411-1 à L. 411-4 et L. 412-1 à L. 415-5 sont applicables aux Terres australes et antarctiques
 françaises.
 
-II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par l'administrateur supérieur.
+II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par le représentant de l'Etat.
 
 III. - Les dispositions relatives à la protection des monuments naturels et des sites sont énoncées par la loi n° 56-1106 du
 3 novembre 1956 ayant pour objet, dans les territoires relevant du ministère de la France d'outre-mer, la protection des
 sites et monuments de caractère historique, scientifique, artistique ou pittoresque, le classement des objets historiques,
 scientifiques ou ethnographiques et la réglementation des fouilles.
 
-**Nota:**
-
-Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
-à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
-antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°56-1106 1956-11-03
+  - Code de l'environnement L122-1 à L122-3, L141-1 à L142-3, L218-1 à L218-72, L229-1 à L229-4, L332-1 à L332-14, L332-16 à L332-27, L411-1 à L411-4, L412-1 à L415-5
 
 _Codifié par_:
 
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 21 (V) JORF 19 juillet 2005
 
 _Cité par_:
 
   - Code de l'environnement - art. L640-2 (V)
-
-_Cite_:
-
-  - Code de l'environnement L122-1 à L122-3, L141-1 à L142-3, L218-1 à L218-72, L229-1 à L229-4, L332-1 à L332-14, L332-16 à L332-27, L411-1 à L411-4, L412-1 à L415-5
-  - Loi n°56-1106 1956-11-03
-
-_Modifié par_:
-
-  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
 ###### Article L640-2
