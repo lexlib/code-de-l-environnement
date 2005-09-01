@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-08-05 00:00:01 +0200
+Version Consolidée au 2005-09-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -12182,9 +12182,9 @@ I. - L'Etat assure, avec le concours des collectivités territoriales dans le re
 principes de décentralisation, la surveillance de la qualité de l'air et de ses effets sur la santé et sur l'environnement.
 Il confie à l'Agence de l'environnement et de la maîtrise de l'énergie la coordination technique de la surveillance de la
 qualité de l'air. Des objectifs de qualité de l'air, des seuils d'alerte et des valeurs limites sont fixés, après avis de
-l'Agence française de sécurité sanitaire environnementale, en conformité avec ceux définis par l'Union européenne ou, à
-défaut, par l'Organisation mondiale de la santé. Ces objectifs, seuils d'alerte et valeurs limites sont régulièrement
-réévalués pour prendre en compte les résultats des études médicales et épidémiologiques.
+l'Agence française de sécurité sanitaire de l'environnement et du travail, en conformité avec ceux définis par l'Union
+européenne ou, à défaut, par l'Organisation mondiale de la santé. Ces objectifs, seuils d'alerte et valeurs limites sont
+régulièrement réévalués pour prendre en compte les résultats des études médicales et épidémiologiques.
 
 II. - Au sens du présent titre, on entend par :
 
@@ -12217,10 +12217,6 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Modifié par_:
-
-  - Loi n°2001-398 du 9 mai 2001 - art. 6 () JORF 10 mai 2001
-
 _Cité par_:
 
   - Décret n°2001-449 du 25 mai 2001 - art. 15 (Ab)
@@ -12244,6 +12240,10 @@ _Cité par_:
   - Code de l'environnement - art. R222-2 (V)
   - Code de l'environnement - art. R222-32 (V)
   - Code de l'environnement - art. R229-51 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1087 du 1 septembre 2005 - art. 3 () JORF 2 septembre 2005
 
 
 ###### Article L221-2
@@ -12400,8 +12400,8 @@ de compétence, aux organismes agréés mentionnés à l'article L. 221-3.
 L'Etat publie chaque année un inventaire des émissions des substances polluantes et un inventaire des consommations
 d'énergie. Il publie également un rapport sur la qualité de l'air, son évolution possible et ses effets sur la santé et
 l'environnement. L'inventaire des émissions des substances polluantes et le rapport sur la qualité de l'air, son évolution
-possible et ses effets sur la santé et l'environnement sont soumis à l'avis de l'Agence française de sécurité sanitaire
-environnementale.
+possible et ses effets sur la santé et l'environnement sont soumis à l'avis de l'Agence française de sécurité sanitaire de
+l'environnement et du travail.
 
 Lorsque les objectifs de qualité de l'air ne sont pas atteints ou lorsque les seuils d'alerte et valeurs limites mentionnés à
 l'article L. 221-1 sont dépassés ou risquent de l'être, le public en est immédiatement informé par l'autorité administrative
@@ -12410,12 +12410,6 @@ dispositions réglementaires arrêtées. L'autorité administrative compétente 
 information aux organismes agréés prévus à l'article L. 221-3.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-753 1978-07-17
-  - Code de l'environnement - art. L221-1 (M)
-  - Code de l'environnement - art. L221-3 (V)
 
 _Anciens textes_:
 
@@ -12429,7 +12423,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-398 du 9 mai 2001 - art. 6 () JORF 10 mai 2001
+  - Ordonnance n°2005-1087 du 1 septembre 2005 - art. 3 () JORF 2 septembre 2005
 
 _Cité par_:
 
@@ -12748,7 +12742,7 @@ _Cité par_:
 ###### Article L222-7
 
 Les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat pris après avis du Conseil
-supérieur des installations classées et de l'Agence française de sécurité sanitaire environnementale.
+supérieur des installations classées et de l'Agence française de sécurité sanitaire de l'environnement et du travail.
 
 **Liens relatifs à cet article**
 
@@ -12763,7 +12757,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-398 du 9 mai 2001 - art. 6 () JORF 10 mai 2001
+  - Ordonnance n°2005-1087 du 1 septembre 2005 - art. 3 () JORF 2 septembre 2005 rectificatif JORF 10 septembre 2005
 
 _Cité par_:
 
