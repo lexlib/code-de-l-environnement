@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -20310,7 +20310,24 @@ circonstances où elles sont particulièrement vulnérables ;
 3° La partie du territoire national, y compris le domaine public maritime et les eaux territoriales, sur laquelle elles
 s'appliquent ;
 
-4° La délivrance d'autorisation de capture d'animaux ou de prélèvement d'espèces à des fins scientifiques ;
+4° La délivrance de dérogation aux interdictions mentionnées aux 1°, 2° et 3° de l'article L. 411-1, à condition qu'il
+n'existe pas d'autre solution satisfaisante et que la dérogation ne nuise pas au maintien, dans un état de conservation
+favorable, des populations des espèces concernées dans leur aire de répartition naturelle :
+
+a) Dans l'intérêt de la protection de la faune et de la flore sauvages et de la conservation des habitats naturels ;
+
+b) Pour prévenir des dommages importants notamment aux cultures, à l'élevage, aux forêts, aux pêcheries, aux eaux et à
+d'autres formes de propriété ;
+
+c) Dans l'intérêt de la santé et de la sécurité publiques ou pour d'autres raisons impératives d'intérêt public majeur, y
+compris de nature sociale ou économique, et pour des motifs qui comporteraient des conséquences bénéfiques primordiales pour
+l'environnement ;
+
+d) A des fins de recherche et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de
+reproduction nécessaires à ces fins, y compris la propagation artificielle des plantes ;
+
+e) Pour permettre, dans des conditions strictement contrôlées, d'une manière sélective et dans une mesure limitée, la prise
+ou la détention d'un nombre limité et spécifié de certains spécimens ;
 
 5° La réglementation de la recherche, de la poursuite et de l'approche, en vue de la prise de vues ou de son, et notamment de
 la chasse photographique des animaux de toutes espèces et les zones dans lesquelles s'applique cette réglementation, ainsi
@@ -20450,7 +20467,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 129 () JORF 24 février 2005
+  - Loi n°2006-11 du 5 janvier 2006 - art. 86 () JORF 6 janvier 2006
 
 _Cite_:
 
@@ -32464,8 +32481,9 @@ Le demandeur fournit une étude de dangers qui précise les risques auxquels l'i
 indirectement, les intérêts visés à l'article L. 511-1 en cas d'accident, que la cause soit interne ou externe à
 l'installation.
 
-Cette étude donne lieu à une analyse de risques qui prend en compte la probabilité d'occurrence, la cinétique et la gravité
-des accidents potentiels selon une méthodologie qu'elle explicite.
+Le contenu de l'étude de dangers doit être en relation avec l'importance des risques engendrés par l'installation. En tant
+que de besoin, cette étude donne lieu à une analyse de risques qui prend en compte la probabilité d'occurrence, la cinétique
+et la gravité des accidents potentiels selon une méthodologie qu'elle explicite.
 
 Elle définit et justifie les mesures propres à réduire la probabilité et les effets de ces accidents.
 
@@ -32608,8 +32626,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-699 du 30 juillet 2003 - art. 25 () JORF 31 juillet 2003
-  - Loi n°2003-699 du 30 juillet 2003 - art. 4 () JORF 31 juillet 2003
+  - Loi n°2006-11 du 5 janvier 2006 - art. 77 () JORF 6 janvier 2006
 
 _Cite_:
 
@@ -33820,9 +33837,23 @@ _Cite_:
 
 Les personnes chargées de l'inspection des installations classées ou d'expertises sont assermentées et astreintes au secret
 professionnel dans les conditions et sous les sanctions prévues aux articles 226-13 et 226-14 du code pénal et,
-éventuellement, aux articles 411-1 et suivants du même code.
+éventuellement, aux articles 411-1 et suivants du même code. 
 
-Elles peuvent visiter à tout moment les installations soumises à leur surveillance.
+Elles peuvent visiter à tout moment les installations soumises à leur surveillance. 
+
+Sauf contrôle inopiné, les inspecteurs des installations classées doivent informer l'exploitant quarante-huit heures avant la
+visite. Lors de la visite, l'exploitant peut se faire assister d'une tierce personne. 
+
+L'agent de contrôle ne peut emporter des documents qu'après établissement d'une liste contresignée par l'exploitant. La liste
+précise la nature des documents, leur nombre et s'il s'agit de copies ou d'originaux. Les documents originaux devront être
+restitués à l'éleveur dans un délai d'un mois après le contrôle. 
+
+L'exploitant est informé par l'inspecteur des installations classées des suites du contrôle. L'inspecteur des installations
+classées transmet son rapport de contrôle au préfet et en fait copie simultanément à l'exploitant. Celui-ci peut faire part
+au préfet de ses observations. 
+
+Les dispositions des trois précédents alinéas ne sont applicables qu'aux contrôles exercés en application de la présente
+section.
 
 **Liens relatifs à cet article**
 
@@ -33835,6 +33866,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2006-11 du 5 janvier 2006 - art. 96 () JORF 6 janvier 2006
 
 _Cité par_:
 
@@ -33855,13 +33890,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
+  - Code pénal - art. 226-13 (V)
   - Code pénal - art. 411-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
 ###### Article L514-6
@@ -33883,9 +33913,9 @@ carrières pour lesquelles le délai de recours est fixé à six mois à compter
 déclaration de début d'exploitation transmise par l'exploitant au préfet.
 
 Elles ne sont pas non plus applicables aux décisions concernant les autorisations d'exploitation d'installations classées
-concourant à l'exécution de services publics locaux ou de services d'intérêt général pour lesquelles le délai de recours est
-fixé à un an à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par
-l'exploitant au préfet.
+d'élevage, liées à l'élevage ou concourant à l'exécution de services publics locaux ou de services d'intérêt général pour
+lesquelles le délai de recours est fixé à un an à compter de l'achèvement des formalités de publicité de la déclaration de
+début d'exploitation transmise par l'exploitant au préfet.
 
 III. - Les tiers qui n'ont acquis ou pris à bail des immeubles ou n'ont élevé des constructions dans le voisinage d'une
 installation classée que postérieurement à l'affichage ou à la publication de l'arrêté autorisant l'ouverture de cette
@@ -33922,6 +33952,7 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+  - Loi n°2006-11 du 5 janvier 2006 - art. 15 () JORF 6 janvier 2006
 
 _Cite_:
 
@@ -33937,10 +33968,6 @@ _Cite_:
   - Code de l'environnement - art. L515-13 (M)
   - Code de l'environnement - art. L516-1 (V)
   - Code de l'environnement L512-1, L512-3, L512-7, L512-8, L512-12, L512-13, L513-1 à L514-2, L514-4, L515-13, L516-1, L511-1
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
 ###### Article L514-7
