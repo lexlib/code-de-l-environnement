@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-02-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -939,7 +939,7 @@ Version Consolidée au 2006-01-06
           - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#936)
           - [Section 4 : Cas d'urgence (art. R712-15)](#937)
         - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#938)
-  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe VII à l'article R432-3)](#939)
+  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#939)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -43304,9 +43304,9 @@ connus ou de ceux qui pourraient résulter des modifications de milieu envisagé
 
 Cette prise en compte s'apprécie en fonction des informations dont peut disposer l'autorité compétente.
 
-Sans préjudice des dispositions des deux alinéas ci-dessus, le représentant de l'Etat visé à l'article L. 145-11 du code de
-l'urbanisme pour les unités touristiques nouvelles et à l'article L. 445-1 du même code pour les remontées mécaniques tient
-compte des risques naturels pour la délivrance des autorisations correspondantes.
+Sans préjudice des dispositions des deux alinéas ci-dessus, les représentants de l'Etat visés à l'article L. 145-11 du code
+de l'urbanisme pour les unités touristiques nouvelles et à l'article L. 445-1 du même code pour les remontées mécaniques
+tiennent compte des risques naturels pour la délivrance des autorisations correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -43319,6 +43319,10 @@ _Codifié par_:
 
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 26 février 2006 au plus tard
 
 _Cite_:
 
@@ -92255,5 +92259,26 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2007-1760 du 14 décembre 2007 - art. 6
+
+
+###### Article Annexe à l'article R151-2
+
+Liste des activités soumises à la TGAP prévue au b du 8 du I de l'article 266 sexies du code des douanes 
+
+Annexe non reproduite, consulter le fac-similé.
+
+**Nota:**
+
+Consulter le fac-similé des décrets n° 2005-935 du 2 août 2005 et n° 2006-216 du 22 février 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-1467 2007-10-12 art. 9 II JORF 16 octobre 2007
 
 
