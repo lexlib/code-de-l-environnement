@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-02-24
+Version Consolidée au 2006-04-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -50600,8 +50600,8 @@ montant à retenir est celui du programme général de travaux.
 II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit le coût de leur réalisation, aux aménagements,
 ouvrages et travaux définis ci-après :
 
-1° Opérations d'aménagement foncier visées aux 2°, 5° et 6° de l'article L. 121-1 du code rural, y compris leurs travaux
-connexes ;
+1° Opérations d'aménagements fonciers agricoles et forestiers visées au 1° de l'article L. 121-1 du code rural, y compris
+leurs travaux connexes ;
 
 2° Travaux d'installation ou de modernisation des ouvrages de transport et de distribution d'électricité de tension
 supérieure ou égale à 63 kV ;
@@ -50690,6 +50690,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-394 du 30 mars 2006 - art. 26 () JORF 1er avril 2006
 
 _Cite_:
 
