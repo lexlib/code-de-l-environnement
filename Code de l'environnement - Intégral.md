@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -527,7 +527,7 @@ Version Consolidée au 2006-06-08
             - [Sous-section 1 : Muséum national d'histoire naturelle (art. R131-49)](#524)
             - [Sous-section 2 : Office national des forêts (art. R131-50)](#525)
             - [Sous-section 3 : Institut français de recherche pour l'exploitation de la mer (art. R131-51)](#526)
-            - [Sous-section 4 : Agence française de sécurité sanitaire environnementale (art. R131-52)](#527)
+            - [Sous-section 4 : Agence française de sécurité sanitaire et environnementale (art. R131-52)](#527)
             - [Sous-section 5 : Institut de radioprotection et sûreté nucléaire (art. R131-53)](#528)
         - [Chapitre III : Organes consultatifs (art. R133-1 à D133-51)](#529)
           - [Section 1 : Conseil national de la protection de la nature (art. R133-1 à R133-22)](#530)
@@ -57830,18 +57830,22 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Agence française de sécurité sanitaire environnementale<a id=527></a>
+##### Sous-section 4 : Agence française de sécurité sanitaire et environnementale<a id=527></a>
 
 ###### Article R131-52
 
-Les dispositions relatives à l'Agence française de sécurité sanitaire environnementale sont énoncées au chapitre 5-1 du titre
-III du livre III de la première partie du code de la santé publique (Partie réglementaire).
+Les dispositions relatives à l'Agence française de sécurité sanitaire de l'environnement et du travail sont énoncées au
+chapitre VI du titre III du livre III de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-676 du 8 juin 2006 - art. 7 () JORF 10 juin 2006
 
 
 ##### Sous-section 5 : Institut de radioprotection et sûreté nucléaire<a id=528></a>
