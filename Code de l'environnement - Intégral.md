@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -581,7 +581,7 @@ Version Consolidée au 2006-07-01
           - [Section 2 : Aménagement et urbanisme (art. R321-2 à R321-3)](#578)
           - [Section 4 : Accès au rivage (art. R321-4)](#579)
           - [Section 5 : Ouvrages d'art reliant les îles au continent (art. R321-5 à R321-10)](#580)
-          - [Section 6 : Transport maritime de passagers vers des espaces protégés (art. R321-11 à R321-14)](#581)
+          - [Section 6 : Transport maritime de passagers vers des espaces protégés (art. D321-15 à R321-14)](#581)
         - [Chapitre II : Conservatoire de l'espace littoral et des rivages lacustres (art. R322-1 à R322-42)](#582)
           - [Section 1 : Dispositions générales (art. R322-1 à R322-3)](#583)
           - [Section 2 : Patrimoine du conservatoire (art. R322-4 à R322-16)](#584)
@@ -63572,6 +63572,725 @@ _Cite_:
 
 
 ##### Section 6 : Transport maritime de passagers vers des espaces protégés<a id=581></a>
+
+###### Article D321-15
+
+La taxe prévue à l'article 285 quater du code des douanes et due par les entreprises de transport public maritime est perçue
+à l'occasion de l'embarquement des passagers à destination des espaces naturels protégés ou des ports les desservant
+exclusivement ou principalement qui figurent dans le tableau ci-après. 
+
+Pour chacun de ces espaces, le tableau précise la ou les personnes publiques dont le budget bénéficie du produit net de la
+taxe ainsi que, le cas échéant, la répartition de ce produit entre elles. 
+
+Liste des espaces protégés et des ports les desservant exclusivement ou principalement à destination desquels est perçue la
+taxe sur les passagers maritimes prévue par l'article 285 quater du code des douanes 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
+  <tbody>
+    <tr>
+      <td width="284">
+
+Liste des espaces protégés et des ports les desservant exclusivement ou principalement 
+
+</td>
+      <td width="182">
+
+Personnes publiques bénéficiaires du produit net de la taxe 
+
+</td>
+      <td width="139">
+
+Part du produit net de la taxe revenant à chaque personne publique 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+1. Parcs nationaux 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Parc national de Port-Cros : îles de Port-Cros, de Bagaud, et de la Gabinière (Var). Port de Port-Cros (Var). 
+
+</td>
+      <td width="182">
+
+Etablissement public chargé du parc national de Port-Cros. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+2. Réserves naturelles 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Réserve naturelle du Banc d'Arguin (Gironde). 
+
+</td>
+      <td width="182">
+
+Commune de La Teste-de-Buch. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Réserve naturelle des Bouches de Bonifacio (Corse-du-Sud). 
+
+</td>
+      <td width="182">
+
+Office régional corse de l'environnement. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Réserve naturelle de Saint-Martin (Guadeloupe). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+3.1. Sites naturels classés 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés de l'archipel des îles Chausey (Manche). 
+
+</td>
+      <td width="182">
+
+Commune de Granville. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés de l'île de Bréhat et port de Bréhat (Côtes-d'Armor). 
+
+</td>
+      <td width="182">
+
+Commune de l'île de Bréhat. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés de l'île d'Ouessant et port de Lampaul (Finistère). 
+
+</td>
+      <td width="182">
+
+Syndicat mixte du parc naturel régional d'Armorique. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés de l'île de Sein et port de l'île de Sein (Finistère). 
+
+</td>
+      <td width="182">
+
+Syndicat mixte du parc naturel régional d'Armorique. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés de l'île d'Yeu, port Joinville et port de La Meule (Vendée). 
+
+</td>
+      <td width="182">
+
+Commune de l'île d'Yeu. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés de l'île de Porquerolles et port de Porquerolles (Var). 
+
+</td>
+      <td width="182">
+
+Etablissement public chargé du parc national de Port-Cros. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés des îles de Lérins : îles Sainte-Marguerite et Saint-Honorat (Alpes-Maritimes). 
+
+</td>
+      <td width="182">
+
+Office national des forêts. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés des îles Sanguinaires (Corse-du-Sud). 
+
+</td>
+      <td width="182">
+
+Département de la Corse-du-Sud. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés du Pain de sucre et de la baie de Pompierre à Terre-de-Haut (archipel des Saintes à la Guadeloupe). 
+
+</td>
+      <td width="182">
+
+Commune de Terre-de-Haut. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Sites classés des falaises nord-est de Marie-Galante (Guadeloupe). 
+
+</td>
+      <td width="182">
+
+Communauté de communes du pays Marie-Galante. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Sites classés du massif des Calanques (Bouches-du-Rhône). 
+
+</td>
+      <td width="182">
+
+Commune de Marseille. 
+
+</td>
+      <td width="139">
+
+91 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Commune de Cassis. 
+
+</td>
+      <td width="139">
+
+9 % 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+3.2. Sites naturels inscrits 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Ile d'Arz (Morbihan). 
+
+</td>
+      <td width="182">
+
+Commune de l'île d'Arz. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+4. Terrains du Conservatoire de l'espace littoral et des rivages lacustres 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Ile Tatihou (Manche). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Ile-aux-Moines du golfe du Morbihan (Morbihan). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Désert des Agriates et plage du Loto (Haute-Corse). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Iles de Petite-Terre (Guadeloupe). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Iles du Salut (Guyane). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+5. Espaces naturels bénéficiant de plusieurs protections 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Espaces terrestres et marins classés en réserve naturelle dite des Sept-Iles et terrains du Conservatoire de l'espace
+littoral et des rivages lacustres de l'Ile-aux-Moines de cet archipel (Côtes-d'Armor). 
+
+</td>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle d'Iroise
+situés dans l'archipel de Molène et port de Molène (Finistère). 
+
+</td>
+      <td width="182">
+
+Syndicat mixte du parc naturel régional d'Armorique. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle de Saint-
+Nicolas-de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère). 
+
+</td>
+      <td width="182">
+
+Département du Finistère. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle François-
+le-Bail situés sur l'île de Groix, ainsi que port Tudy, port Lay et port Mélite (Morbihan). 
+
+</td>
+      <td width="182">
+
+Commune de Groix. 
+
+</td>
+      <td width="139">
+
+100 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des
+rivages lacustres situés sur Belle-Ile, ainsi que le port du Palais et le port de Sauzon (Morbihan). 
+
+</td>
+      <td width="182">
+
+District de Belle-Ile-en-Mer. 
+
+</td>
+      <td width="139">
+
+80 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+20 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des
+rivages lacustres situés sur l'île de Houat, ainsi que le port de Saint-Gildas (Morbihan). 
+
+</td>
+      <td width="182">
+
+Commune de Houat. 
+
+</td>
+      <td width="139">
+
+80 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+20 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des
+rivages lacustres situés sur l'île d'Hoëdic, ainsi que le port de l'île Hoëdic (Morbihan). 
+
+</td>
+      <td width="182">
+
+Commune de Hoëdic. 
+
+</td>
+      <td width="139">
+
+60 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+40 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des
+rivages lacustres situés sur l'île d'Aix, ainsi que le port de la Rade (Charente-Maritime). 
+
+</td>
+      <td width="182">
+
+Commune de l'île d'Aix. 
+
+</td>
+      <td width="139">
+
+80 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+20 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Site inscrit au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres sur
+l'île de Batz (Finistère). 
+
+</td>
+      <td width="182">
+
+Commune de Batz. 
+
+</td>
+      <td width="139">
+
+50 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Conservatoire de l'espace littoral et des rivages lacustres. 
+
+</td>
+      <td width="139">
+
+50 % 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="284">
+
+Réserve naturelle de la presqu'île de Scandola et sites classés de Porto et de Girolata (Corse-du-Sud). 
+
+</td>
+      <td width="182">
+
+Syndicat mixte du parc naturel régional de Corse. 
+
+</td>
+      <td width="139">
+
+67 % 
+
+</td>
+    </tr>
+    <tr>
+      <td width="182">
+
+Commune d'Osani. 
+
+</td>
+      <td width="139">
+
+33 %
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°96-555 du 21 juin 1996 - art. 1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-795 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+_Cite_:
+
+  - Code des douanes - art. 285 quater (V)
+
+_Cité par_:
+
+  - Code de l'environnement - art. R321-11 (V)
+
 
 ###### Article R321-11
 
