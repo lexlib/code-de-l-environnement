@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-07-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -284,7 +284,7 @@ Version Consolidée au 2006-07-16
         - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. L432-1 à L432-12)](#281)
           - [Section 1 : Obligations générales (art. L432-1)](#282)
           - [Section 2 : Protection de la faune piscicole et de son habitat (art. L432-2 à L432-4)](#283)
-          - [Section 3 : Obligations relatives aux ouvrages (art. L432-5 à L432-9)](#284)
+          - [Section 3 : Obligations relatives aux ouvrages (art. L432-5 à L432-8)](#284)
           - [Section 4 : Contrôle des peuplements (art. L432-10 à L432-12)](#285)
         - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. L433-3 à L433-2)](#286)
           - [Section 1 : Orientations de bassin. (art. L433-1)](#287)
@@ -30532,37 +30532,21 @@ _Anciens textes_:
 
 ###### Article L431-6
 
-A l'exception des articles L. 432-2, L. 432-10, L. 432-11 et L. 432-12, les dispositions du présent titre ne sont pas
-applicables aux piscicultures régulièrement installées et équipées de dispositifs permanents empêchant la libre circulation
-du poisson entre ces exploitations et les eaux avec lesquelles elles communiquent.
+Une pisciculture est, au sens du titre Ier du livre II et du titre III du livre IV, une exploitation ayant pour objet
+l'élevage de poissons destinés à la consommation, au repeuplement, à l'ornement, à des fins expérimentales ou scientifiques
+ainsi qu'à la valorisation touristique. Dans ce dernier cas, la capture du poisson à l'aide de lignes est permise dans les
+plans d'eau.
 
-On entend par pisciculture les exploitations d'élevage de poissons destinés à la consommation ou au repeuplement, ou à des
-fins scientifiques, ou expérimentales, ou de valorisation touristique. Dans ce dernier cas et lorsqu'elles concernent des
-plans d'eau, les autorisations et concessions stipulent que la capture du poisson à l'aide de lignes dans ces plans d'eau est
-permise.
+**Nota:**
 
-Toute personne qui capture le poisson à l'aide de lignes dans ces plans d'eau doit avoir acquitté la taxe visée à l'article
-L. 436-1, à moins d'en être exonérée dans les conditions fixées à l'article L. 436-2, d'être la personne physique
-propriétaire du plan d'eau ou de pratiquer ces captures dans des plans d'eau d'une surface inférieure à 10 000 mètres carrés.
+NOTA : Ordonnance 2005-805 2005-07-18 art. 22 :
 
-Peuvent seuls créer des piscicultures ceux qui disposent d'un plan d'eau établi en application des 1° et 2° de l'article L.
-431-7, ou qui ont obtenu, en application du présent article, soit une concession lorsque le droit de pêche appartient à
-l'Etat, soit une autorisation lorsqu'il appartient à un propriétaire riverain.
+I. - Un décret relatif à la nomenclature prévue à l'article L. 214-2 du code de l'environnement sera pris dans le délai d'un
+an à compter de la publication de la présente ordonnance.
 
-Ces concessions ou autorisations ne peuvent être accordées, après avis de la fédération départementale des associations
-agréées de pêche et de pisciculture, que si aucun inconvénient ne paraît devoir en résulter pour le peuplement piscicole des
-eaux avec lesquelles ces piscicultures communiquent. Les concessions et les autorisations sont délivrées pour une durée
-maximale de trente ans ; elles peuvent être renouvelées.
+II. - L'article 7 de la présente ordonnance entrera en vigueur à la même date.
 
-Les formes et conditions des concessions et autorisations sont fixées par décret en Conseil d'Etat.
-
-Les enclos piscicoles créés sans autorisation avant le 1er janvier 1986 font l'objet, à la demande de leur propriétaire,
-d'une procédure de régularisation par l'administration, dans des conditions fixées par décret. Les propriétaires doivent
-avoir déposé leur demande avant le 1er janvier 1999.
-
-Ceux qui ont créé des piscicultures sans concession ou sans autorisation sont punis de 3 750 euros d'amende et condamnés à
-remettre les lieux en état, sous astreinte définie à l'article L. 437-20, sans préjudice de l'application des dispositions du
-présent titre.
+Il s'agit du décret n° 2006-881 publié au Journal officiel du 18 juillet 2006.
 
 **Liens relatifs à cet article**
 
@@ -30577,6 +30561,7 @@ _Cité par_:
   - Code civil - art. 564 (V)
   - Code de l'environnement - art. D436-1 (M)
   - Code de l'environnement - art. L431-3 (V)
+  - Code de l'environnement - art. L431-7 (M)
   - Code de l'environnement - art. L432-3 (Ab)
   - Code de l'environnement - art. L436-15 (M)
   - Code de l'environnement - art. L437-20 (VT)
@@ -30606,17 +30591,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Cite_:
-
-  - Code de l'environnement - art. L431-7 (M)
-  - Code de l'environnement - art. L432-10 (M)
-  - Code de l'environnement - art. L432-11 (Ab)
-  - Code de l'environnement - art. L432-12 (M)
-  - Code de l'environnement - art. L432-2 (M)
-  - Code de l'environnement - art. L436-1 (AbD)
-  - Code de l'environnement - art. L436-2 (AbD)
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 7 () JORF 19 juillet 2005 en vigueur le 18 juillet 2006
 
 **Liens**:
 
@@ -30864,72 +30839,6 @@ _Anciens textes_:
   - Code rural - art. L232-2 (Ab)
 
 
-###### Article L432-3
-
-Lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation ou de réserves de
-nourriture de la faune piscicole, l'installation ou l'aménagement d'ouvrages, ainsi que l'exécution de travaux dans le lit
-d'un cours d'eau sont soumis à autorisation. Le défaut d'autorisation est puni de 18 000 euros d'amende.
-
-L'autorisation délivrée en application du présent article fixe des mesures compensatoires visant à remettre en état le milieu
-naturel aquatique.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-805 du 18 juillet 2005 art. 22 II :
-
-"L'article L. 432-3 est abrogé à la date de publication du décret prévu au I du présent article". Il s'agit du décret n°
-2006-881 publié au Journal officiel du 18 juillet 2006.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°93-743 du 29 mars 1993 - art. 2 (M)
-  - Arrêté du 13 février 2002 - art. 5 (M)
-  - Arrêté du 24 décembre 2002 - art. 8 (AbD)
-  - Arrêté du 12 février 2003 - art. 21 (V)
-  - Arrêté du 12 février 2003 - art. 23 (V)
-  - Arrêté du 30 avril 2004 - art. 22 (V)
-  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V)
-  - Arrêté du 17 juillet 2009 - art. 21 (Ab)
-  - Arrêté du 26 novembre 2010 - art. 15 (V)
-  - Code de l'environnement - art. L432-3 (Ab)
-  - Code de l'environnement - art. L432-4 (VT)
-  - Code de l'environnement - art. R*232-1 (Ab)
-  - Code de l'environnement - art. R432-1 (V)
-  - Code de l'environnement - art. R432-1-5 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Anciens textes_:
-
-  - Code rural L232-3
-  - Code rural - art. L232-3 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V) JORF 19 juillet 2005
-
-_Cite_:
-
-  - Code de l'environnement - art. L431-6 (M)
-  - Code de l'environnement - art. L432-9 (M)
-  - Code de l'environnement - art. L437-20 (M)
-  - Code de l'environnement L432-3, L432-9, L437-20, 22, L431-6
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
 ###### Article L432-4
 
 En cas de condamnation pour infraction aux dispositions des articles L. 432-2 et L. 432-3, le tribunal fixe, s'il y a lieu,
@@ -31140,60 +31049,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code rural - art. L232-8 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L432-9
-
-Les vidanges de plans d'eau mentionnés ou non à l'article L. 431-3 sont soumises à autorisation en application du présent
-article. Ces autorisations déterminent le programme de l'opération et la destination du poisson.
-
-Le fait d'effectuer une vidange sans l'autorisation prévue à l'alinéa précédent est puni de 12 000 euros d'amende.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-805 du 18 juillet 2005 art. 22 II :
-
-"L'article L. 432-9 est abrogé à la date de publication du décret prévu au I du présent article." Il s'agit du décret n°
-2006-881 publié au Journal officiel du 18 juillet 2006.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V) JORF 19 juillet 2005
-
-_Cité par_:
-
-  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V)
-  - Code de l'environnement - art. L432-3 (Ab)
-  - Code de l'environnement - art. R*232-2 (Ab)
-  - Code de l'environnement - art. R*236-16 (Ab)
-  - Code de l'environnement - art. R*236-34 (Ab)
-  - Code de l'environnement - art. R432-2 (Ab)
-  - Code de l'environnement - art. R436-12 (M)
-  - Code de l'environnement - art. R436-25 (M)
-
-_Cite_:
-
-  - Code de l'environnement - art. L431-3 (M)
-
-_Anciens textes_:
-
-  - Code rural - art. L232-9 (Ab)
 
 **Liens**:
 
@@ -33383,7 +33238,13 @@ de 15 euros à 300 euros par jour de retard dans l'exécution des mesures et obl
 L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à
 la demande de l'intéressé et recouvrée par le comptable du Trésor comme une amende pénale.
 
-Elle ne donne pas lieu à la contrainte par corps.
+Elle ne donne pas lieu à la contrainte judiciaire.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-805 du 18 juillet 2005 art. 22 II : "La référence faite à l'article L. 431-6 par l'article L. 437-20
+est abrogée à la date de publication du décret prévu au I du présent article." Il s'agit du décret n° 2006-881 publié au
+Journal officiel du 18 juillet 2006.
 
 **Liens relatifs à cet article**
 
@@ -33394,7 +33255,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V) JORF 19 juillet 2005
 
 _Cité par_:
 
@@ -33407,15 +33269,14 @@ _Cité par_:
   - Code de l'environnement - art. L436-6 (VT)
   - Code général de la propriété des personnes publ... - art. L2132-5 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 _Anciens textes_:
 
   - Code rural - art. L238-7 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Sous-section 3 : Confiscation<a id=315></a>
