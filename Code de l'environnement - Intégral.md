@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-07-29
+Version Consolidée au 2006-08-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -817,7 +817,7 @@ Version Consolidée au 2006-07-29
             - [Sous-section 2 : Dispositions particulières à la Corse (art. R425-14 à R425-17)](#814)
           - [Section 4 : Prélèvement maximal autorisé (art. R425-18 à R425-20)](#815)
         - [Chapitre VI : Indemnisation des dégâts de gibiers (art. R426-1 à R426-29)](#816)
-          - [Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers (art. R426-1 à R426-19)](#817)
+          - [Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles (art. R426-1 à R426-19)](#817)
             - [Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier (art. R426-1 à R426-2)](#818)
             - [Sous-section 2 : Instances consultatives pour l'indemnisation des dégâts de gibier (art. R426-3 à R426-9)](#819)
               - [Paragraphe 1 : Commission nationale d'indemnisation des dégâts de gibier (art. R426-3 à R426-5)](#820)
@@ -860,108 +860,107 @@ Version Consolidée au 2006-07-29
             - [Sous-section 1 : Temps de chasse (art. R429-2 à R429-5)](#857)
             - [Sous-section 2 : Plan de chasse (art. R429-6)](#858)
             - [Sous-section 3 : Modes et moyens de chasse (art. R429-7)](#859)
-          - [Section 3 : Indemnisation des dégâts de gibier (art. R429-8 à R429-17)](#860)
-            - [Sous-section 1 : Régime général (art. R429-8 à R429-15)](#861)
-            - [Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers (art. R429-16 à R429-17)](#862)
-          - [Section 4 : Pénalités (art. R429-18 à R429-21)](#863)
-            - [Sous-section 1 : Peines (art. R429-18 à R429-20)](#864)
-              - [Paragraphe 1 : Territoire (art. R429-18 à R429-19)](#865)
-              - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#866)
-            - [Sous-section 2 : Récidive (art. R429-21)](#867)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#868)
-        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-43)](#869)
-          - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#870)
-          - [Section 2 : Piscicultures (art. R431-7 à R431-43)](#871)
-            - [Sous-section 1 : Dispositions générales (art. R431-7 à R431-10)](#872)
-            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture (art. R431-11 à R431-26)](#873)
-            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture (art. R431-27 à R431-34)](#874)
-            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#875)
-            - [Sous-section 5 : Dispositions diverses (art. R431-38 à R431-41)](#876)
-            - [Sous-section 6 : Dispositions pénales (art. R431-42 à R431-43)](#877)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R432-1 à R432-18)](#878)
-          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R432-1)](#879)
-            - [Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation (art. R432-1)](#880)
-          - [Section 3 : Obligations relatives aux ouvrages (art. R432-2 à R432-3)](#881)
-            - [Sous-section 1 : Autorisation de vidange (art. R432-2)](#882)
-            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#883)
-          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#884)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#885)
-          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#886)
-        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#887)
-          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#888)
-            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#889)
-            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#890)
-              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#891)
-              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#892)
-              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#893)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#894)
-              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#895)
-              - [Paragraphe 2 : Contrôles (art. R434-24)](#896)
-          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#897)
-          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#898)
-        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#899)
-          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#900)
-            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#901)
-            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#902)
-            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#903)
-            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#904)
-          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#905)
-            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#906)
-            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#907)
-            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#908)
-          - [Section 3 : Droit de passage (art. R435-40)](#909)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#910)
-          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#911)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#912)
-              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#913)
-              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#914)
-            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#915)
-            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#916)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#917)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#918)
-            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#919)
-            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#920)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#921)
-          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#922)
-            - [Sous-section 1 : Dispositions générales (art. R436-44)](#923)
-            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#924)
-            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#925)
-            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#926)
-              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#927)
-              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#928)
-            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#929)
-            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#930)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#931)
-            - [Sous-section 1 : Dispositions générales (art. R436-69)](#932)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#933)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#934)
-            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#935)
-          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#936)
-          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#937)
-            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#938)
-              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#939)
-              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#940)
-              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#941)
-            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#942)
-              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#943)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#944)
-          - [Section 1 : Dispositions générales (art. D436-1)](#945)
-        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#946)
-          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#947)
-            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#948)
-            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#949)
-          - [Section 2 : Transaction (art. R437-6 à R437-9)](#950)
-          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#951)
-          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#952)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#953)
-      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#954)
-        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#955)
-          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#956)
-          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#957)
-          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#958)
-          - [Section 4 : Cas d'urgence (art. R712-15)](#959)
-        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#960)
-  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#961)
+          - [Section 3 : Indemnisation des dégâts de gibier (art. R429-8 à R429-14)](#860)
+            - [Sous-section 1 : Régime général (art. R429-8 à R429-14)](#861)
+          - [Section 4 : Pénalités (art. R429-18 à R429-21)](#862)
+            - [Sous-section 1 : Peines (art. R429-18 à R429-20)](#863)
+              - [Paragraphe 1 : Territoire (art. R429-18 à R429-19)](#864)
+              - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#865)
+            - [Sous-section 2 : Récidive (art. R429-21)](#866)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#867)
+        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-43)](#868)
+          - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#869)
+          - [Section 2 : Piscicultures (art. R431-7 à R431-43)](#870)
+            - [Sous-section 1 : Dispositions générales (art. R431-7 à R431-10)](#871)
+            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture (art. R431-11 à R431-26)](#872)
+            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture (art. R431-27 à R431-34)](#873)
+            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#874)
+            - [Sous-section 5 : Dispositions diverses (art. R431-38 à R431-41)](#875)
+            - [Sous-section 6 : Dispositions pénales (art. R431-42 à R431-43)](#876)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R432-1 à R432-18)](#877)
+          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R432-1)](#878)
+            - [Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation (art. R432-1)](#879)
+          - [Section 3 : Obligations relatives aux ouvrages (art. R432-2 à R432-3)](#880)
+            - [Sous-section 1 : Autorisation de vidange (art. R432-2)](#881)
+            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#882)
+          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#883)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#884)
+          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#885)
+        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#886)
+          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#887)
+            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#888)
+            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#889)
+              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#890)
+              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#891)
+              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#892)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#893)
+              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#894)
+              - [Paragraphe 2 : Contrôles (art. R434-24)](#895)
+          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#896)
+          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#897)
+        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#898)
+          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#899)
+            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#900)
+            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#901)
+            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#902)
+            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#903)
+          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#904)
+            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#905)
+            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#906)
+            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#907)
+          - [Section 3 : Droit de passage (art. R435-40)](#908)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#909)
+          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#910)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#911)
+              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#912)
+              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#913)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#914)
+            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#915)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#916)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#917)
+            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#918)
+            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#919)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#920)
+          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#921)
+            - [Sous-section 1 : Dispositions générales (art. R436-44)](#922)
+            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#923)
+            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#924)
+            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#925)
+              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#926)
+              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#927)
+            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#928)
+            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#929)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#930)
+            - [Sous-section 1 : Dispositions générales (art. R436-69)](#931)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#932)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#933)
+            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#934)
+          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#935)
+          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#936)
+            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#937)
+              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#938)
+              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#939)
+              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#940)
+            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#941)
+              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#942)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#943)
+          - [Section 1 : Dispositions générales (art. D436-1)](#944)
+        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#945)
+          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#946)
+            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#947)
+            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#948)
+          - [Section 2 : Transaction (art. R437-6 à R437-9)](#949)
+          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#950)
+          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#951)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#952)
+      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#953)
+        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#954)
+          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#955)
+          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#956)
+          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#957)
+          - [Section 4 : Cas d'urgence (art. R712-15)](#958)
+        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#959)
+  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#960)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -77371,18 +77370,23 @@ _Cite_:
 ###### Article R421-35
 
 Les comptes de la fédération départementale sont établis suivant le plan comptable applicable aux associations de droit privé
-régies par la loi du 1er juillet 1901 relative au contrat d'association.
+régies par la loi du 1er juillet 1901 relative au contrat d'association. 
 
-L'exercice comptable commence le 1er juillet et se termine le 30 juin.
+L'exercice comptable commence le 1er juillet et se termine le 30 juin. 
 
 L'ensemble des opérations directement rattachées à la prévention et à l'indemnisation des dégâts causés aux récoltes par le
-grand gibier fait l'objet d'une comptabilité distincte, dans les conditions prévues à l'article R. 426-1.
+grand gibier fait l'objet d'une comptabilité distincte qui retrace les flux financiers dans un compte bancaire autonome, dans
+les conditions prévues à l'article R. 426-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 16 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -77392,8 +77396,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. R426-1 (M)
-  - Loi n°1901-07-01
+  - Code de l'environnement - art. R426-1 (V)
 
 
 ###### Article R421-36
@@ -83042,60 +83045,64 @@ _Cite_:
 
 #### Chapitre VI : Indemnisation des dégâts de gibiers<a id=816></a>
 
-##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers<a id=817></a>
+##### Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles<a id=817></a>
 
 ##### Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier<a id=818></a>
 
 ###### Article R426-1
 
-Les opérations relatives à la prévention et à l'indemnisation des dégâts causés aux récoltes par les sangliers ou les grands
-gibiers, menées par les fédérations départementales des chasseurs, font l'objet, dans leurs comptes, d'une comptabilité
-distincte, qui retrace notamment :
+Les opérations relatives à la prévention et à l'indemnisation des dégâts causés aux cultures et aux récoltes agricoles par le
+grand gibier, menées par les fédérations départementales ou interdépartementales des chasseurs, font l'objet d'une
+comptabilité distincte qui retrace notamment : 
 
-1° En produits :
+1° En produits : 
 
-a) Le produit des contributions mentionnées à l'article L. 426-5 ;
+a) Le produit des contributions mentionnées à l'article L. 426-5 ; 
 
-b) Le produit des participations mentionnées à l'article L. 426-5 ;
+b) Le produit des participations mentionnées à l'article L. 426-5 ; 
 
 c) Le montant des aides accordées par la Fédération nationale des chasseurs pour la prévention et l'indemnisation des dégâts
-de grand gibier ;
+de grand gibier ; 
 
-d) Les produits des placements financiers des ressources mentionnées aux b et c.
+d) Le montant des sommes que la fédération a obtenues en application des articles L. 426-4 et L. 425-11 ; 
 
-2° En charges :
+e) Les produits des placements financiers des ressources mentionnées aux a, b, c et d. 
 
-a) Le montant des indemnités versées aux victimes des dégâts mentionnés à l'article L. 426-1 ;
+2° En charges : 
+
+a) Le montant des indemnités versées aux victimes des dégâts mentionnés à l'article L. 426-1 ; 
 
 b) Le coût des actions techniques d'intérêt général afférentes à la prévention des dégâts de gibier, définies par les
 fédérations départementales des chasseurs en concertation avec les organisations professionnelles représentatives des
-exploitants agricoles et des propriétaires forestiers ;
+exploitants agricoles et des propriétaires forestiers ; 
 
-c) Le financement des charges d'estimation ;
+c) Le financement des charges d'estimation ; 
 
-d) Le financement des charges de gestion des dégâts de sangliers et de grands gibiers ;
+d) Le financement des charges de gestion des dégâts de grand gibier ; 
 
-e) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de sangliers et de
-grands gibiers ;
+e) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ; 
 
-f) Les charges financières ;
+f) Les charges financières ; 
 
 g) Les frais de contentieux.
 
-Les sommes mentionnées au a du 1° sont déposées dans les conditions prévues à l'article 12 du décret n° 80-854 du 30 octobre
-1980 relatif aux taxes parafiscales.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°80-854 du 30 octobre 1980 - art. 12 (M)
-  - Code de l'environnement - art. L426-1 (M)
-  - Code de l'environnement - art. L426-5 (M)
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 3 () JORF 31 août 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L425-11 (V)
+  - Code de l'environnement - art. L426-1 (V)
+  - Code de l'environnement - art. L426-4 (V)
+  - Code de l'environnement - art. L426-5 (V)
 
 _Cité par_:
 
@@ -83106,31 +83113,32 @@ _Cité par_:
 
 ###### Article R426-2
 
-Au sein du fonds géré par la Fédération nationale des chasseurs en application de l'article L. 421-14, les opérations de la
-section de prévention et d'indemnisation des dégâts de grand gibier mentionnée à l'article R. 421-49 font l'objet d'une
-comptabilité distincte, qui retrace notamment :
+Au sein du fonds cynégétique national géré par la Fédération nationale des chasseurs en application de l'article L. 421-14,
+les opérations de la section de prévention et d'indemnisation des dégâts de grand gibier mentionnée à l'article R. 421-49
+font l'objet d'une comptabilité distincte, qui retrace notamment : 
 
-1° En produits :
+1° En produits : 
 
 a) Le produit des cotisations nationales versées par chaque chasseur de grand gibier ayant validé un permis de chasser
-national ;
+national ; 
 
-b) Le produit des placements financiers des ressources susmentionnées.
+b) Le produit des placements financiers des ressources susmentionnées. 
 
-2° En charges :
+2° En charges : 
 
-a) Les versements effectués au profit des fédérations départementales des chasseurs pour la prévention et l'indemnisation des
-dégâts de grand gibier ;
+a) Les versements effectués au profit des fédérations départementales des chasseurs et des fonds départementaux
+d'indemnisation des dégâts de sangliers dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle pour la prévention
+et l'indemnisation des dégâts de grand gibier ; 
 
-b) Le financement des actions de prévention des dégâts de grand gibier menées par la fédération nationale ;
+b) Le financement des actions de prévention des dégâts de grand gibier menées par la fédération nationale ; 
 
-c) Le financement des charges d'expertise et de formation des experts et des estimateurs ;
+c) Le financement des charges d'expertise et de formation des experts et des estimateurs ; 
 
-d) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ;
+d) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ; 
 
-e) Le financement des charges de gestion des dégâts de grand gibier ;
+e) Le financement des charges de gestion des dégâts de grand gibier ; 
 
-f) Les charges financières ;
+f) Les charges financières ; 
 
 g) Les frais de contentieux.
 
@@ -83140,9 +83148,14 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 4 () JORF 31 août 2006
+
 _Cite_:
 
-  - Code de l'environnement - art. L421-14 (M)
+  - Code de l'environnement - art. L421-14 (V)
   - Code de l'environnement - art. R421-49 (V)
 
 _Cité par_:
@@ -83156,7 +83169,7 @@ _Cité par_:
 
 ###### Article R426-3
 
-I. - La Commission nationale d'indemnisation se compose de onze membres :
+I. - La Commission nationale d'indemnisation des dégâts de gibier se compose de onze membres :
 
 1° Un représentant du ministre chargé de la chasse, président ;
 
@@ -83186,9 +83199,8 @@ conditions.
 IV. - Le président peut appeler à participer aux séances, à titre consultatif, toute personne dont il estime opportun de
 recueillir l'avis.
 
-V. - Un membre de la Commission nationale d'indemnisation ne prend pas part au délibéré et au vote lorsque la commission
-examine une décision de commission départementale dont il l'a saisie, ou à laquelle il a, directement ou indirectement, un
-intérêt personnel.
+V. - Un membre de la commission nationale ne prend pas part au délibéré et au vote lorsque celle-ci examine une décision
+d'une commission départementale dont il l'a saisie, ou à laquelle il a, directement ou indirectement, un intérêt personnel.
 
 **Liens relatifs à cet article**
 
@@ -83198,15 +83210,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 20 () JORF 31 août 2006
 
 
 ###### Article R426-4
 
 La commission se réunit sur convocation de son président, au moins quatre fois par an.
 
-Les décisions de la Commission nationale sont prises à la majorité des voix, celle du président étant prépondérante en cas de
-partage égal des voix.
+Les décisions de la Commission nationale d'indemnisation des dégâts de gibier sont prises à la majorité des voix, celle du
+président étant prépondérante en cas de partage égal des voix.
 
 **Liens relatifs à cet article**
 
@@ -83216,21 +83229,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
 
 
 ###### Article R426-5
 
-La Commission nationale d'indemnisation fixe chaque année, à titre indicatif, au fur et à mesure de sa connaissance des cours
-réels des marchés, les valeurs minimale et maximale des prix des denrées à prendre en compte pour l'établissement des barèmes
-départementaux en fonction desquels est calculé le montant des indemnités. Elle fixe également, chaque année, aux mêmes fins,
-les valeurs minimale et maximale indicatives des frais de remise en état.
+La Commission nationale d'indemnisation des dégâts de gibier établit, chaque année, pour chacune des principales denrées
+agricoles, au fur et à mesure de sa connaissance des cours réels des marchés, les limites supérieures et inférieures des
+fourchettes de prix à l'intérieur desquelles devront être compris les barèmes départementaux d'indemnisation.
+
+Les prix ainsi établis correspondent à la valeur des récoltes, déduction faite des frais de séchage et de transport. Elle
+fixe également, chaque année, les valeurs minimale et maximale des frais de remise en état et le taux horaire du travail de
+remise en état lorsque celle-ci doit être effectuée manuellement, applicables par les fédérations départementales.
 
 Sur proposition de la Fédération nationale des chasseurs, elle établit la liste des experts nationaux auxquels il peut être
 fait appel pour la constatation des dégâts de gibier ; ceux-ci sont choisis parmi les experts nationaux agricoles et fonciers
-inscrits sur la liste des cours d'appel, compte tenu de leurs compétences pour certains types de cultures et en matière de
-dégâts de gibier. Elle détermine les cas dans lesquels il doit être fait appel à des experts nationaux, ainsi que les
-modalités de leur intervention.
+inscrits sur la liste des cours d'appel ainsi que parmi les experts fonciers et agricoles nommés par le ministre de
+l'agriculture en application de l'article L. 171 du code rural, compte tenu de leurs compétences pour certains types de
+cultures et en matière de dégâts de gibier. Elle détermine les cas dans lesquels il doit être fait appel à des experts
+nationaux, ainsi que les modalités de leur intervention.
+
+Le secrétariat de la commission est assuré par l'Office national de la chasse et de la faune sauvage.
 
 **Liens relatifs à cet article**
 
@@ -83240,19 +83260,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 5 () JORF 31 août 2006
 
 _Cité par_:
 
   - Code de l'environnement - art. R426-13 (VD)
+
+_Cite_:
+
+  - Code rural L171
 
 
 ##### Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage<a id=821></a>
 
 ###### Article R426-6
 
-La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée "indemnisation des dégâts de
-gibier aux cultures et aux récoltes agricoles" constitue la commission départementale prévue par l'article L. 426-5.
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée " indemnisation des dégâts de
+gibier aux cultures et aux récoltes agricoles " constitue la commission départementale prévue par l'article L. 426-5.
 
 **Liens relatifs à cet article**
 
@@ -83262,11 +83287,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
-  - Code de l'environnement - art. L426-5 (M)
+  - Code de l'environnement - art. L426-5 (V)
 
 _Cité par_:
 
@@ -83287,30 +83312,32 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
 ###### Article R426-8
 
-La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
-dégâts de gibier aux cultures et aux récoltes agricoles dresse et met à jour la liste des estimateurs chargés des missions
-prévues à l'article R. 426-13, qu'elle choisit parmi ceux qui ont satisfait à la formation dispensée par la fédération
-nationale des chasseurs.
+Dès qu'elle a connaissance des fourchettes de prix retenues par la Commission nationale d'indemnisation des dégâts de gibier,
+la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles fixe le barème annuel en fonction duquel sont calculées les
+indemnités versées par la fédération départementale des chasseurs. 
 
-Dès qu'elle a connaissance des indications fournies par la commission nationale d'indemnisation pour une denrée ou pour des
-frais de remise en état, la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
-l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles procède à la fixation du barème départemental
-annuel d'indemnisation correspondant. Ce barème est établi en fonction des prix unitaires des denrées endommagées ainsi que
-des frais de remise en état, évalués par la commission départementale de la chasse et de la faune sauvage dans sa formation
-spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles au vu des indications données
-par la commission nationale.
+Si aucune fourchette de prix n'a été retenue par la commission nationale pour des denrées dont la culture est limitée à
+certaines zones de production, la commission départementale fixe un prix correspondant à la valeur de la récolte de ces
+denrées, en fonction des conditions locales du marché. 
+
+Elle peut autoriser une indemnisation des dégâts occasionnés à des cultures sous contrat ou à des cultures biologiques à des
+prix plus élevés que ceux du barème départemental, sous réserve que l'exploitant produise, avec sa réclamation, les
+justificatifs nécessaires. Elle peut également majorer, dans la limite de 20 %, le barème d'indemnisation lorsque
+l'exploitant justifie avoir dû racheter une denrée autoconsommée. 
+
+Elle transmet ses barèmes à la commission nationale dans les vingt jours suivant leur adoption. 
 
 Elle définit les dates extrêmes habituelles d'enlèvement des différentes récoltes, mentionnées au quatrième alinéa de
-l'article R. 426-13.
+l'article R. 426-13. 
 
-Les décisions prises par la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
-l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles en application du présent article sont publiées
-au Recueil des actes administratifs du département.
+Elle dresse et met à jour la liste des estimateurs chargés des missions prévues à l'article R. 426-13, qu'elle désigne parmi
+ceux qui ont suivi la formation dispensée par la Fédération nationale des chasseurs.
 
 **Liens relatifs à cet article**
 
@@ -83320,7 +83347,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 6 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -83330,12 +83358,58 @@ _Cité par_:
   - Code de l'environnement - art. R426-9 (VD)
 
 
+###### Article R426-8-1
+
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles statue sur le montant de l'indemnité lorsque la proposition de la
+fédération départementale chargée de l'indemnisation a été refusée par l'exploitant.
+
+Elle statue également sur les demandes d'indemnisation lorsqu'il est constaté que les dégâts ont été causés à des récoltes
+effectuées au-delà des dates extrêmes habituelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 6 () JORF 31 août 2006
+
+
+###### Article R426-8-2
+
+Le secrétariat de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles est assuré par la direction départementale de
+l'agriculture et de la forêt ou, en Ile-de-France, par la direction régionale et interdépartementale de l'agriculture et de
+la forêt d'Ile-de-France.
+
+Les décisions de cette commission relatives à la liste des estimateurs, aux barèmes départementaux, aux dates extrêmes
+habituelles d'enlèvement des récoltes ainsi qu'au délai de déclaration des dégâts dans le cas prévu au III de l'article R.
+426-12 sont publiées au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 6 () JORF 31 août 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R426-12 (M)
+
+
 ###### Article R426-9
 
 Les membres de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
-l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peuvent saisir la commission nationale des
-décisions mentionnées à l'article R. 426-8, par lettre recommandée avec accusé de réception, dans un délai de quinze jours à
-compter de la délibération correspondante.
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peuvent saisir la commission nationale
+d'indemnisation des dégâts de gibier des décisions mentionnées à l'article R. 426-8, par lettre recommandée avec accusé de
+réception, dans un délai de quinze jours à compter de la délibération correspondante.
 
 **Liens relatifs à cet article**
 
@@ -83345,33 +83419,41 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
 
 _Cite_:
 
-  - Code de l'environnement - art. R426-8 (M)
+  - Code de l'environnement - art. R426-8 (V)
 
 
 ##### Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier<a id=822></a>
 
 ###### Article R426-10
 
-La fédération départementale des chasseurs ne peut accorder d'indemnité pour des dégâts de grand gibier que lorsque les plans
-de chasse pris en considération conformément à l'article L. 426-1 ont été exécutés sur le fonds dont provient le grand
-gibier. Les plans de chasse sont ceux qui ont été attribués au titre de la dernière campagne accomplie avant la demande
-d'indemnité.
+Au sens des dispositions du présent chapitre, il faut entendre par grand gibier les animaux appartenant aux espèces
+suivantes : 
+
+sanglier, chevreuil, cerf élaphe, cerf sika, daim, chamois, mouflon, isard. 
+
+La fédération départementale ou interdépartementale des chasseurs ne peut accorder d'indemnité pour des dégâts de grand
+gibier que lorsque les plans de chasse pris en considération conformément à l'article L. 426-1 ont été exécutés sur le fonds
+dont provient le grand gibier. Les plans de chasse sont ceux qui ont été attribués au titre de la dernière campagne accomplie
+avant la demande d'indemnité. 
 
 Ils sont regardés comme exécutés dès lors qu'il a été tiré le nombre minimum de têtes de grand gibier fixé par les arrêtés
-qui les attribuent.
+qui les attribuent. 
 
 Lorsque, dans les départements où le plan de chasse a été institué en application de l'article L. 425-6, la provenance des
-animaux ne peut être précisée de façon certaine, les indemnisations sont prises en charge comme si les animaux provenaient
-d'un fonds où le plan de chasse a été réalisé.
+animaux ne peut être précisée de façon certaine, les indemnisations sont prises en charge par la fédération comme si les
+animaux provenaient d'un fonds où le plan de chasse a été réalisé. 
 
 L'indemnisation est également accordée pour les dégâts causés par les animaux des espèces soumises au plan de chasse,
-lorsqu'ils proviennent d'une réserve de chasse et de faune sauvage, d'une réserve approuvée, ou d'une réserve nationale de
-chasse, où ils font l'objet de reprises ou d'un plan de chasse, même en cas de réalisation partielle des reprises prévues ou
-du plan de chasse attribué.
+lorsqu'ils proviennent d'une réserve de chasse et de faune sauvage ou d'une réserve nationale de chasse et de faune sauvage
+où ils font l'objet de reprises ou d'un plan de chasse. 
+
+L'indemnisation d'une perte de récolte n'est due que si la récolte est effectivement réalisée sauf dans le cas où
+l'importance des dommages est telle qu'aucune récolte n'a été possible.
 
 **Liens relatifs à cet article**
 
@@ -83381,12 +83463,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 7 () JORF 31 août 2006
 
 _Cite_:
 
   - Code de l'environnement - art. L425-6 (V)
-  - Code de l'environnement - art. L426-1 (M)
+  - Code de l'environnement - art. L426-1 (V)
 
 _Cité par_:
 
@@ -83395,11 +83478,17 @@ _Cité par_:
 
 ###### Article R426-11
 
-Le minimum prévu au premier alinéa de l'article L. 426-3 est fixé à 76 .
+Le minimum prévu au premier alinéa de l'article L. 426-3 est fixé à 76. Ce seuil est appliqué par exploitation et par
+campagne cynégétique. Il peut être réévalué, par arrêté du ministre chargé de la chasse, pour tenir compte de l'évolution des
+prix agricoles. 
 
-L'abattement proportionnel prévu au deuxième alinéa du même article est fixé à 5 % du montant des dommages retenus.
+L'abattement proportionnel prévu au deuxième alinéa du même article est fixé à 5 % du montant des dommages retenus. 
 
-Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas prévus au troisième alinéa du même article.
+Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas prévus au troisième alinéa du même article. 
+
+Les modes de prévention des dégâts proposés par la fédération départementale ou interdépartementale des chasseurs en
+application du troisième alinéa de l'article L. 426-3 figurent dans les schémas départementaux de gestion cynégétique
+conformément au 5° de l'article L. 425-2.
 
 **Liens relatifs à cet article**
 
@@ -83409,11 +83498,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 8 () JORF 31 août 2006
 
 _Cite_:
 
-  - Code de l'environnement - art. L426-3 (M)
+  - Code de l'environnement - art. L425-2 (V)
+  - Code de l'environnement - art. L426-3 (V)
 
 _Cité par_:
 
@@ -83424,23 +83515,31 @@ _Cité par_:
 
 ###### Article R426-12
 
-I. - Les personnes qui ont subi des dégâts mentionnés à l'article L. 426-1 doivent adresser sans délai au président de la
-fédération départementale des chasseurs, par lettre recommandée avec accusé de réception ou par notification remise contre
-récépissé, une déclaration indiquant :
+I.-Les personnes qui ont subi des dégâts mentionnés à l'article L. 426-1 doivent adresser sans délai au président de la
+fédération départementale des chasseurs, par lettre recommandée avec demande d'avis de réception, une déclaration
+indiquant : 
 
-1° La nature, l'étendue et la localisation des dégâts ainsi que l'évaluation des pertes en volume et le montant de
-l'indemnité sollicitée, compte tenu du dernier barème départemental connu ;
+1° Sous peine du rejet de la demande, la date d'observation des premières manifestations des dégâts, la nature, l'étendue et
+la localisation des dégâts ainsi que l'évaluation des pertes en volume et le montant de l'indemnité sollicitée, compte tenu
+du dernier barème départemental connu ; 
 
-2° Si possible, l'espèce des animaux responsables des dégâts et le fonds de provenance présumée de ceux-ci ;
+2° Si possible, l'espèce des animaux responsables des dégâts et le fonds de provenance présumée de ceux-ci ; 
 
 3° L'étendue des terres possédées ou exploitées par le réclamant dans le département et les cantons limitrophes, ainsi que la
-position des parcelles touchées par rapport à l'ensemble de ces terres.
+position des parcelles touchées par rapport à l'ensemble de ces terres. Il joint à sa déclaration ou, à défaut, tient à la
+disposition de l'estimateur soit un plan cadastral de ses parcelles exploitées, soit le registre parcellaire graphique
+utilisé pour les déclarations de ses parcelles dans le cadre de la politique agricole commune. 
 
-II. - La fédération départementale compétente pour statuer sur la demande d'indemnisation est celle du département de la
-parcelle endommagée.
+II.-La fédération départementale compétente pour statuer sur la demande d'indemnisation est celle du département de la
+parcelle endommagée. 
 
-III. - Pour les cultures annuelles, la déclaration des dégâts par les réclamants est adressée au président de la fédération
-départementale des chasseurs dix jours au moins avant la date de l'enlèvement des récoltes.
+III.-Dans le cas de dégâts occasionnés à des plants de vigne au moment du débourrement, le délai de déclaration des dégâts
+est fixé par la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles en fonction du stade de développement de la
+plante. 
+
+IV.-Pour les cultures annuelles, la déclaration des dégâts doit être reçue à la fédération départementale des chasseurs au
+moins dix jours avant la date de l'enlèvement des récoltes.
 
 **Liens relatifs à cet article**
 
@@ -83450,11 +83549,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 9 () JORF 31 août 2006
 
 _Cite_:
 
-  - Code de l'environnement - art. L426-1 (M)
+  - Code de l'environnement - art. L426-1 (V)
 
 _Cité par_:
 
@@ -83464,34 +83564,41 @@ _Cité par_:
 ###### Article R426-13
 
 Le président de la fédération départementale des chasseurs désigne l'estimateur chargé de procéder à l'expertise des dégâts
-ayant donné lieu à déclaration parmi les personnes figurant sur la liste prévue à l'article R. 426-8.
+ayant donné lieu à déclaration parmi les personnes figurant sur la liste prévue à l'article R. 426-8. 
 
-Dans les cas prévus par la commission nationale d'indemnisation en application du second alinéa de l'article R. 426-5, il
-demande à la fédération nationale de désigner un expert national parmi les personnes figurant sur la liste prévue au même
-article, pour accompagner l'estimateur.
+Dans les cas prévus par la commission nationale d'indemnisation des dégâts de gibier en application du second alinéa de
+l'article R. 426-5, il demande à la fédération nationale de désigner un expert national parmi les personnes figurant sur la
+liste prévue au même article, pour accompagner l'estimateur. 
 
 L'expertise des dégâts déclarés a lieu dans un délai de dix jours francs à compter de la date de réception de la demande
-d'indemnisation par le président de la fédération départementale des chasseurs.
+d'indemnisation par le président de la fédération départementale des chasseurs. 
 
-Après avoir convoqué les réclamants par lettre recommandée avec demande d'avis de réception ou par notification remise contre
-récépissé, l'estimateur, conjointement avec l'expert national, le cas échéant, constate l'état des lieux et des récoltes,
-l'importance des dommages subis compte tenu de son évaluation du rendement de la parcelle, la cause de ces dommages, la
-nature et si possible, la provenance du gibier. Il recherche éventuellement si les victimes ont, par un procédé quelconque,
-favorisé l'arrivée du gibier sur leur fonds, en particulier en procédant, de façon répétée et sans respecter les assolements
-pratiqués dans la région, à des cultures de nature à l'attirer et si les titulaires de droits de chasse ont exécuté leur plan
-de chasse. Il donne son appréciation, le cas échéant, sur les raisons pour lesquelles les dates extrêmes habituelles
-d'enlèvement des récoltes fixées par la commission départementale de la chasse et de la faune sauvage dans sa formation
-spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles ont été dépassées.
+Après avoir convoqué l'auteur de la réclamation par lettre recommandée avec demande d'avis de réception, l'estimateur
+constate sur place, conjointement, le cas échéant, avec l'expert national, l'état des lieux et des récoltes, estime la date
+des premiers dégâts, l'importance des dommages subis eu égard au rendement de la parcelle tel qu'il l'évalue, la cause des
+dégâts, les espèces de gibier qui en sont responsables et, si possible, leur provenance. Il recherche, éventuellement, si
+l'exploitant a, par un procédé quelconque, favorisé l'arrivée du gibier sur son fonds et si les titulaires de droits de
+chasse ont exécuté leurs plans de chasse. Il donne, le cas échéant, son appréciation sur les raisons pour lesquelles le stade
+optimal de développement de la culture et les dates extrêmes habituelles d'enlèvement des récoltes fixées par la commission
+départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des dégâts de gibier
+aux cultures et aux récoltes agricoles ont été dépassés. 
 
 L'estimateur transmet son rapport au président de la fédération départementale dans un délai de quinze jours suivant
-l'expertise.
+l'expertise. 
 
-En cas de déclaration portant sur des dégâts dans les semis, l'estimateur doit, sans délai, soit établir un constat
-provisoire des dégâts de nature à justifier l'étendue de la perte indemnisable qui sera évaluée au moment de la récolte, soit
-évaluer les frais de premier ensemencement qui seront immédiatement indemnisés, le réclamant conservant, alors, le droit
-d'être indemnisé au cas où la nouvelle culture ferait l'objet de nouveaux dégâts.
+En cas de dégâts occasionnés à des semis, l'estimateur doit, sans délai, en accord avec l'exploitant, soit établir un constat
+provisoire des dégâts de nature à justifier leur lien avec la perte qui sera évaluée au moment de la récolte, soit proposer
+une indemnisation immédiate des frais de premier ensemencement. Le choix d'une telle indemnisation ne fait pas obstacle à une
+indemnisation ultérieure pour perte s'il est constaté, au moment de la récolte, une différence de rendement entre les zones
+ainsi ressemées et celles qui sont indemnes de dégâts ou si les zones ressemées subissent, avant la récolte, de nouveaux
+dégâts. 
 
-Les réclamants peuvent se faire assister ou représenter, à leurs frais, par toute personne de leur choix.
+En cas de dégâts occasionnés à des vergers ou à des prairies utilisées à des fins agricoles, l'estimateur procède, à la
+demande de l'exploitant qui doit réitérer sa réclamation chaque année, à l'évaluation annuelle de la perte de récolte jusqu'à
+ce que les nouvelles plantations ou le couvert végétal réimplanté aient retrouvé un potentiel de production équivalent à
+celui de cultures ou de parcelles de même nature indemnes de dégâts. 
+
+Les réclamants peuvent se faire assister ou représenter, à leurs frais, par toute personne de leur choix. 
 
 La parcelle objet des dommages ne doit pas être récoltée avant l'expertise ou l'expiration du délai prévu pour celle-ci au
 troisième alinéa du présent article. Si l'estimateur ne s'est pas présenté dans ce délai pour constater les dégâts, son
@@ -83505,11 +83612,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R426-5 (M)
+  - Décret n°2006-1097 du 30 août 2006 - art. 10 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -83518,18 +83622,20 @@ _Cité par_:
 
 ###### Article R426-14
 
-Dans les quinze jours suivant la fixation du barème départemental d'indemnisation pour la denrée considérée, le président de
-la fédération départementale des chasseurs notifie au réclamant le montant de l'indemnité qu'il propose, calculé compte tenu
-du barème mentionné à l'article R. 426-8 et des conclusions de l'expertise, en lui demandant si cette proposition recueille
-son accord.
+Dans les quinze jours suivant la notification par le secrétariat de la commission départementale de la chasse et de la faune
+sauvage dans sa formation spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles au
+président de la fédération départementale des chasseurs du barème départemental d'indemnisation pour la denrée considérée, le
+président de la fédération départementale des chasseurs notifie au réclamant le montant de l'indemnité qu'il propose, calculé
+compte tenu du barème mentionné à l'article R. 426-8 et des conclusions de l'expertise, en lui demandant si cette proposition
+recueille son accord. 
 
 En l'absence de réponse du réclamant dans les dix jours de l'envoi de sa proposition d'indemnisation, le président de la
 fédération départementale réitère celle-ci par lettre recommandée avec accusé de réception, mentionnant qu'en l'absence de
 réponse de la part du demandeur dans le délai d'un mois à compter de la réception de la proposition, celle-ci sera considérée
-comme acceptée.
+comme acceptée. 
 
 L'indemnité est mise en paiement dès réception de l'accord écrit du demandeur de l'indemnisation ou à l'expiration du délai
-mentionné au précédent alinéa.
+mentionné au précédent alinéa. 
 
 En cas de refus par le réclamant du montant de l'indemnité proposée, le président de la fédération départementale des
 chasseurs transmet le dossier à la commission départementale d'indemnisation.
@@ -83542,11 +83648,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 11 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
-  - Code de l'environnement - art. R426-8 (M)
+  - Code de l'environnement - art. R426-8 (V)
 
 _Cité par_:
 
@@ -83567,9 +83674,10 @@ Un membre de la commission départementale de la chasse et de la faune sauvage d
 l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles ne prend pas part au délibéré et au vote lorsque
 la commission examine une demande d'indemnisation à laquelle il a, directement ou indirectement, un intérêt personnel.
 
-La décision de la commission départementale est notifiée au réclamant et au président de la fédération départementale des
-chasseurs par lettre recommandée avec accusé de réception mentionnant le délai de recours ouvert contre cette décision devant
-la commission nationale d'indemnisation.
+La décision de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles est notifiée par son secrétariat au réclamant et
+au président de la fédération départementale des chasseurs par lettre recommandée avec accusé de réception mentionnant le
+délai de recours ouvert contre cette décision devant la Commission nationale d'indemnisation des dégâts de gibier.
 
 **Liens relatifs à cet article**
 
@@ -83579,22 +83687,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 12 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
 ###### Article R426-16
 
 La décision de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
 l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peut être contestée par le réclamant ou le
-président de la fédération départementale devant la commission nationale d'indemnisation, par lettre recommandée avec accusé
-de réception, dans un délai de quinze jours à compter de la notification de cette décision.
+président de la fédération départementale devant la commission nationale d'indemnisation des dégâts de gibier, par lettre
+recommandée avec accusé de réception, dans un délai de quinze jours à compter de la notification de cette décision.
 
-Le secrétariat de la commission nationale instruit les demandes selon une procédure écrite et contradictoire. Le réclamant et
-le président de la fédération départementale des chasseurs sont informés qu'ils seront entendus par la commission nationale
-s'ils en font la demande. Ils peuvent se faire assister ou représenter.
+Le secrétariat de la commission nationale d'indemnisation des dégâts de gibier instruit les demandes selon une procédure
+écrite et contradictoire. Le réclamant et le président de la fédération départementale des chasseurs sont informés qu'ils
+seront entendus par la commission nationale d'indemnisation des dégâts de gibier s'ils en font la demande. Ils peuvent se
+faire assister ou représenter.
 
-La commission nationale peut demander aux parties de lui communiquer tous documents utiles à l'instruction du dossier. Elle
-peut aussi convoquer les personnes de son choix.
+La commission nationale d'indemnisation des dégâts de gibier peut demander aux parties de lui communiquer tous documents
+utiles à l'instruction du dossier. Elle peut aussi convoquer les personnes de son choix.
 
 **Liens relatifs à cet article**
 
@@ -83604,13 +83714,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
 
 
 ###### Article R426-17
 
-Dans un délai de deux mois à compter de sa saisine, la commission nationale d'indemnisation fixe le montant de l'indemnité
-qu'elle notifie au réclamant et au président de la fédération départementale par lettre recommandée avec accusé de réception.
+Dans un délai de deux mois à compter de sa saisine, la commission nationale d'indemnisation des dégâts de gibier fixe le
+montant de l'indemnité qu'elle notifie au réclamant et au président de la fédération départementale par lettre recommandée
+avec accusé de réception.
 
 **Liens relatifs à cet article**
 
@@ -83618,12 +83730,17 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
+
 
 ###### Article R426-18
 
 Tout réclamant qui, ayant demandé une indemnisation en application de l'article L. 426-1, obtient des responsables du dommage
 une indemnité à la suite, soit d'une action fondée sur l'article 1382 du code civil, soit d'un accord amiable, est tenu de
-déclarer le montant de cette indemnité, dans les huit jours de sa perception, à la fédération départementale des chasseurs.
+déclarer le montant de cette indemnité, dans les huit jours de sa perception, à la fédération départementale des chasseurs. 
 
 Si la fédération a procédé au règlement de l'indemnité, celle-ci doit lui être reversée, à concurrence des sommes reçues du
 responsable du dommage.
@@ -83634,25 +83751,34 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
 _Cite_:
 
   - Code civil - art. 1382 (V)
-  - Code de l'environnement - art. L426-1 (M)
+  - Code de l'environnement - art. L426-1 (V)
 
 
 ##### Sous-section 5 : Dispositions diverses<a id=824></a>
 
 ###### Article R426-19
 
-Les modalités de rémunération des estimateurs et experts et de remboursement de leurs frais sont déterminées par arrêté
-conjoint du ministre chargé de la chasse et du ministre chargé du budget, sur proposition de la commission nationale
-d'indemnisation.
+Le montant et les modalités de rémunération et de remboursement des frais des estimateurs et des experts sont déterminés par
+la Fédération nationale des chasseurs. Ils sont communiqués à la Commission nationale d'indemnisation des dégâts de gibier
+dès leur établissement et lors de chacune de leur révision.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 13 () JORF 31 août 2006
+  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -83663,14 +83789,18 @@ _Cité par_:
 
 ###### Article R426-20
 
-Les actions en réparation des dommages causés aux récoltes par un gibier quelconque présentées devant les tribunaux
-judiciaires sont exercées conformément aux dispositions de la présente section.
+Les actions en réparation des dommages causés aux cultures et aux récoltes par un gibier quelconque présentées devant les
+tribunaux judiciaires sont exercées conformément aux dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 14 () JORF 31 août 2006
 
 
 ###### Article R426-21
@@ -83716,14 +83846,18 @@ _Codifié par_:
 ###### Article R426-24
 
 En cas de conciliation, il en est dressé procès-verbal. A défaut de conciliation, le juge désigne un expert chargé de
-constater l'état des récoltes, l'importance des dommages causés par le gibier, d'indiquer d'où ce gibier provient, de
-préciser la cause de ces dommages, de rechercher si le gibier est en nombre excessif et pour quelle raison.
+constater l'état des récoltes, l'importance des dommages causés aux récoltes par le gibier, d'indiquer d'où ce gibier
+provient, de préciser la cause de ces dommages, de rechercher si le gibier est en nombre excessif et pour quelle raison.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 15 () JORF 31 août 2006
 
 
 ###### Article R426-25
@@ -85029,7 +85163,7 @@ _Cite_:
 ###### Article R429-1
 
 Les dispositions du présent titre sont applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à l'exception
-de celles des articles R. 422-1 à R. 422-80, R. 424-2, R. 424-7, R. 424-15, R. 426-3 à R. 426-29, R. 428-1 et R. 428-12, et
+de celles des articles R. 422-1 à R. 422-80, R. 424-2, R. 424-7, R. 424-15, R. 426-1 à R. 426-29, R. 428-1 et R. 428-12, et
 sous réserve des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
@@ -85038,6 +85172,10 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 17 () JORF 31 août 2006
+
 _Cite_:
 
   - Code de l'environnement - art. R424-15 (V)
@@ -85045,7 +85183,7 @@ _Cite_:
   - Code de l'environnement - art. R424-7 (V)
   - Code de l'environnement - art. R428-1 (M)
   - Code de l'environnement - art. R428-12 (M)
-  - Code de l'environnement R422-1 à R422-80, R424-2, R424-7, R424-15, R426-3 à R426-29, R428-1, R428-12
+  - Code de l'environnement R422-1 à R422-80, R424-2, R424-7, R424-15, R426-1 à R426-29, R428-1, R428-12
 
 
 ##### Section 2 : Exercice de la chasse<a id=856></a>
@@ -85241,11 +85379,11 @@ _Codifié par_:
 
 ###### Article R429-13
 
-L'estimateur a droit, sur sa demande, à une indemnité fixée dans les conditions prévues à l'article R. 426-10.
+L'estimateur a droit, sur sa demande, à une indemnité fixée dans les conditions prévues à l'article R. 426-19. 
 
 Lorsque des dommages ont été constatés, les honoraires de l'estimateur et les frais sont à la charge de celui qui en est
 responsable ; dans le cas contraire ils sont à la charge des demandeurs en indemnité. Toutefois les honoraires et les frais
-peuvent être imposés en totalité ou en partie à celui qui a subi les dommages lorsque sa demande est manifestement exagérée.
+peuvent être imposés en totalité ou en partie à celui qui a subi les dommages lorsque sa demande est manifestement exagérée. 
 
 Sur la demande de l'estimateur, la commune est tenue de lui payer les sommes prévues au deuxième alinéa du présent article, à
 charge pour elle de se retourner contre la partie à laquelle incombent ces frais.
@@ -85256,9 +85394,13 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1097 du 30 août 2006 - art. 18 () JORF 31 août 2006
+
 _Cite_:
 
-  - Code de l'environnement - art. R426-10 (M)
+  - Code de l'environnement - art. R426-19 (V)
 
 
 ###### Article R429-14
@@ -85278,81 +85420,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-###### Article R429-15
+##### Section 4 : Pénalités<a id=862></a>
 
-Pour les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, les sommes du compte mentionné aux articles R. 426-1 et R.
-426-2 sont reversées aux fédérations départementales des chasseurs intéressées pour servir à l'amélioration de la chasse dans
-l'intérêt général.
+##### Sous-section 1 : Peines<a id=863></a>
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-1097 du 30 août 2006 - art. 19 () JORF 31 août 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R426-1 (M)
-  - Code de l'environnement - art. R426-2 (M)
-
-
-##### Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers<a id=862></a>
-
-###### Article R429-16
-
-Toute demande en indemnité pour dommages causés par les sangliers doit être adressée, dans le plus bref délai après la
-constatation des dégâts, soit au siège du syndicat des chasseurs en forêt, soit au délégué que le syndicat est tenu d'avoir
-dans chaque arrondissement.
-
-Le délégué ou un représentant désigné par lui procède à la visite des lieux avec le demandeur ou son représentant. En cas
-d'accord entre eux sur le montant de l'indemnité, celle-ci est fixée définitivement.
-
-A défaut d'accord, la partie la plus diligente demande, par lettre simple, au président du tribunal de grande instance, de
-désigner un expert choisi parmi les personnes ne faisant pas partie du syndicat des chasseurs et n'ayant ni résidence ni
-propriété dans le canton où le dégât s'est produit. L'expert fixe le montant de l'indemnité qui ne peut être ni supérieur au
-montant de la demande ni inférieur à l'offre du délégué du syndicat.
-
-Il peut être fait appel de la décision de l'expert devant la cour d'appel lorsque la demande excède le taux du dernier
-ressort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-1097 du 30 août 2006 - art. 19 () JORF 31 août 2006
-
-
-###### Article R429-17
-
-Les frais de l'expertise sont partagés proportionnellement à l'écart entre le chiffre fixé et l'indemnité demandée, d'une
-part, offerte, d'autre part.
-
-En cas de contestation par l'une des parties, les frais d'expertise sont fixés par le juge d'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-1097 du 30 août 2006 - art. 19 () JORF 31 août 2006
-
-
-##### Section 4 : Pénalités<a id=863></a>
-
-##### Sous-section 1 : Peines<a id=864></a>
-
-##### Paragraphe 1 : Territoire<a id=865></a>
+##### Paragraphe 1 : Territoire<a id=864></a>
 
 ###### Article R429-18
 
@@ -85384,7 +85456,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Exercice de la chasse<a id=866></a>
+##### Paragraphe 2 : Exercice de la chasse<a id=865></a>
 
 ###### Article R429-20
 
@@ -85402,7 +85474,7 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Sous-section 2 : Récidive<a id=867></a>
+##### Sous-section 2 : Récidive<a id=866></a>
 
 ###### Article R429-21
 
@@ -85421,11 +85493,11 @@ _Cite_:
   - Code de l'environnement - art. R429-18 (V)
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=868></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=867></a>
 
-#### Chapitre Ier : Champ d'application<a id=869></a>
+#### Chapitre Ier : Champ d'application<a id=868></a>
 
-##### Section 1 : Dispositions générales<a id=870></a>
+##### Section 1 : Dispositions générales<a id=869></a>
 
 ###### Article R431-1
 
@@ -85536,9 +85608,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 2 : Piscicultures<a id=871></a>
+##### Section 2 : Piscicultures<a id=870></a>
 
-##### Sous-section 1 : Dispositions générales<a id=872></a>
+##### Sous-section 1 : Dispositions générales<a id=871></a>
 
 ###### Article R431-7
 
@@ -85632,7 +85704,7 @@ _Cite_:
   - Code de l'environnement - art. L432-12 (M)
 
 
-##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture<a id=873></a>
+##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture<a id=872></a>
 
 ###### Article R431-11
 
@@ -86059,7 +86131,7 @@ _Abrogé par_:
   - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 
-##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture<a id=874></a>
+##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture<a id=873></a>
 
 ###### Article R431-27
 
@@ -86260,7 +86332,7 @@ _Cite_:
   - Code de l'environnement R431-23 à R431-26
 
 
-##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=875></a>
+##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=874></a>
 
 ###### Article R431-35
 
@@ -86331,7 +86403,7 @@ _Cité par_:
   - Arrêté du 6 août 2013 - art. 4 (V)
 
 
-##### Sous-section 5 : Dispositions diverses<a id=876></a>
+##### Sous-section 5 : Dispositions diverses<a id=875></a>
 
 ###### Article R431-38
 
@@ -86410,7 +86482,7 @@ _Cite_:
   - Code de l'environnement - art. R431-23 (Ab)
 
 
-##### Sous-section 6 : Dispositions pénales<a id=877></a>
+##### Sous-section 6 : Dispositions pénales<a id=876></a>
 
 ###### Article R431-42
 
@@ -86457,11 +86529,11 @@ _Cite_:
   - Code de l'environnement - art. L431-6 (M)
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=878></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=877></a>
 
-##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=879></a>
+##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=878></a>
 
-##### Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation<a id=880></a>
+##### Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation<a id=879></a>
 
 ###### Article R432-1
 
@@ -86494,9 +86566,9 @@ _Cite_:
   - Code de l'environnement L214-1 à L214-6, L432-3
 
 
-##### Section 3 : Obligations relatives aux ouvrages<a id=881></a>
+##### Section 3 : Obligations relatives aux ouvrages<a id=880></a>
 
-##### Sous-section 1 : Autorisation de vidange<a id=882></a>
+##### Sous-section 1 : Autorisation de vidange<a id=881></a>
 
 ###### Article R432-2
 
@@ -86519,7 +86591,7 @@ _Cite_:
   - Code de l'environnement L214-1 à L214-6, L432-9
 
 
-##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=883></a>
+##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=882></a>
 
 ###### Article D432-4
 
@@ -86573,7 +86645,7 @@ _Abrogé par_:
   - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
-##### Section 4 : Contrôle des peuplements<a id=884></a>
+##### Section 4 : Contrôle des peuplements<a id=883></a>
 
 ###### Article R432-5
 
@@ -86890,9 +86962,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=885></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=884></a>
 
-##### Section 1 : Orientations de bassin.<a id=886></a>
+##### Section 1 : Orientations de bassin.<a id=885></a>
 
 ###### Article D433-1
 
@@ -87120,11 +87192,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=887></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=886></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=888></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=887></a>
 
-##### Sous-section 1 : Dispositions générales<a id=889></a>
+##### Sous-section 1 : Dispositions générales<a id=888></a>
 
 ###### Article R434-1
 
@@ -87237,7 +87309,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=890></a>
+##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=889></a>
 
 ###### Article R434-5
 
@@ -87254,7 +87326,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 1 : Le conseil d'administration<a id=891></a>
+##### Paragraphe 1 : Le conseil d'administration<a id=890></a>
 
 ###### Article R434-6
 
@@ -87510,7 +87582,7 @@ _Cite_:
   - Code de l'environnement - art. R434-10 (Ab)
 
 
-##### Paragraphe 2 : Le directeur général<a id=892></a>
+##### Paragraphe 2 : Le directeur général<a id=891></a>
 
 ###### Article R434-12
 
@@ -87555,7 +87627,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=893></a>
+##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=892></a>
 
 ###### Article R434-14
 
@@ -87690,9 +87762,9 @@ _Cite_:
   - Code de l'environnement - art. R434-15 (Ab)
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=894></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=893></a>
 
-##### Paragraphe 1 : Organisation financière et comptable<a id=895></a>
+##### Paragraphe 1 : Organisation financière et comptable<a id=894></a>
 
 ###### Article R434-19
 
@@ -87815,7 +87887,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 2 : Contrôles<a id=896></a>
+##### Paragraphe 2 : Contrôles<a id=895></a>
 
 ###### Article R434-24
 
@@ -87843,7 +87915,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Section 2 : Organisation de la pêche de loisir<a id=897></a>
+##### Section 2 : Organisation de la pêche de loisir<a id=896></a>
 
 ###### Article R*434-36
 
@@ -88098,7 +88170,7 @@ _Cite_:
   - Code de l'environnement - art. L434-4 (M)
 
 
-##### Section 3 : Organisation de la pêche professionnelle<a id=898></a>
+##### Section 3 : Organisation de la pêche professionnelle<a id=897></a>
 
 ###### Article R*434-42
 
@@ -88294,7 +88366,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre V : Droit de pêche<a id=899></a>
+#### Chapitre V : Droit de pêche<a id=898></a>
 
 ###### Article R435-1
 
@@ -88308,9 +88380,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=900></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=899></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation<a id=901></a>
+##### Sous-section 1 : Conditions générales d'exploitation<a id=900></a>
 
 ###### Article R435-2
 
@@ -88683,7 +88755,7 @@ _Cité par_:
   - Code de l'environnement - art. R435-8 (V)
 
 
-##### Sous-section 2 : Modalités de location des lots<a id=902></a>
+##### Sous-section 2 : Modalités de location des lots<a id=901></a>
 
 ###### Article R435-16
 
@@ -88931,7 +89003,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-##### Sous-section 3 : Procédure d'adjudication publique<a id=903></a>
+##### Sous-section 3 : Procédure d'adjudication publique<a id=902></a>
 
 ###### Article R435-25
 
@@ -89051,7 +89123,7 @@ _Cite_:
   - Code de l'environnement - art. R435-23 (V)
 
 
-##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=904></a>
+##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=903></a>
 
 ###### Article D435-33
 
@@ -89097,9 +89169,9 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation - art. 5 (M)
 
 
-##### Section 2 : Droit de pêche des riverains<a id=905></a>
+##### Section 2 : Droit de pêche des riverains<a id=904></a>
 
-##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=906></a>
+##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=905></a>
 
 ###### Article R435-34
 
@@ -89165,7 +89237,7 @@ _Cite_:
   - Code de l'environnement - art. L435-5 (M)
 
 
-##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=907></a>
+##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=906></a>
 
 ###### Article R435-37
 
@@ -89205,7 +89277,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions diverses<a id=908></a>
+##### Sous-section 3 : Dispositions diverses<a id=907></a>
 
 ###### Article R435-39
 
@@ -89231,7 +89303,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Droit de passage<a id=909></a>
+##### Section 3 : Droit de passage<a id=908></a>
 
 ###### Article R435-40
 
@@ -89254,9 +89326,9 @@ _Cite_:
   - Code de l'environnement - art. L435-9 (Ab)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=910></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=909></a>
 
-##### Section 1 : Dispositions générales<a id=911></a>
+##### Section 1 : Dispositions générales<a id=910></a>
 
 ###### Article R436-2
 
@@ -89352,9 +89424,9 @@ _Cite_:
   - Code de l'environnement - art. L436-4 (V)
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=912></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=911></a>
 
-##### Paragraphe  1 : Temps d'interdiction<a id=913></a>
+##### Paragraphe  1 : Temps d'interdiction<a id=912></a>
 
 ###### Article R436-6
 
@@ -89525,7 +89597,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Paragraphe 2 : Heures d'interdiction<a id=914></a>
+##### Paragraphe 2 : Heures d'interdiction<a id=913></a>
 
 ###### Article R436-13
 
@@ -89644,7 +89716,7 @@ _Abrogé par_:
   - Décret n°2010-1110 du 22 septembre 2010 - art. 2
 
 
-##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=915></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=914></a>
 
 ###### Article R436-18
 
@@ -89736,7 +89808,7 @@ _Cite_:
   - Code de l'environnement - art. R436-18 (V)
 
 
-##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=916></a>
+##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=915></a>
 
 ###### Article R436-21
 
@@ -89778,7 +89850,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=917></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=916></a>
 
 ###### Article R436-23
 
@@ -90035,7 +90107,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=918></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=917></a>
 
 ###### Article R436-30
 
@@ -90178,7 +90250,7 @@ _Cite_:
   - Code de l'environnement - art. R436-19 (V)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=919></a>
+##### Sous-section 6 : Dispositions diverses<a id=918></a>
 
 ###### Article R436-36
 
@@ -90235,7 +90307,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 7 : Dispositions pénales<a id=920></a>
+##### Sous-section 7 : Dispositions pénales<a id=919></a>
 
 ###### Article R436-39
 
@@ -90349,7 +90421,7 @@ _Cite_:
   - Code de l'environnement - art. L436-8 (V)
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=921></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=920></a>
 
 ###### Article R436-43
 
@@ -90376,9 +90448,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=922></a>
+##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=921></a>
 
-##### Sous-section 1 : Dispositions générales<a id=923></a>
+##### Sous-section 1 : Dispositions générales<a id=922></a>
 
 ###### Article R436-44
 
@@ -90425,7 +90497,7 @@ _Cite_:
   - Code de l'environnement - art. L436-11 (V)
 
 
-##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=924></a>
+##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=923></a>
 
 ###### Article R436-45
 
@@ -90491,7 +90563,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-57 (V)
 
 
-##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=925></a>
+##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=924></a>
 
 ###### Article R436-47
 
@@ -90722,9 +90794,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=926></a>
+##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=925></a>
 
-##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=927></a>
+##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=926></a>
 
 ###### Article R436-55
 
@@ -90891,7 +90963,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=928></a>
+##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=927></a>
 
 ###### Article R436-62
 
@@ -91016,7 +91088,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-68 (V)
 
 
-##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=929></a>
+##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=928></a>
 
 ###### Article R436-66
 
@@ -91038,7 +91110,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-16 (V)
 
 
-##### Sous-section 6 : Dispositions pénales<a id=930></a>
+##### Sous-section 6 : Dispositions pénales<a id=929></a>
 
 ###### Article R436-67
 
@@ -91098,9 +91170,9 @@ _Cite_:
   - Code de l'environnement R436-55 à R436-58, R436-60, R436-63, R436-65
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=931></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=930></a>
 
-##### Sous-section 1 : Dispositions générales<a id=932></a>
+##### Sous-section 1 : Dispositions générales<a id=931></a>
 
 ###### Article R436-69
 
@@ -91122,7 +91194,7 @@ _Cite_:
   - Code de l'environnement - art. L431-5 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=933></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=932></a>
 
 ###### Article R436-70
 
@@ -91178,7 +91250,7 @@ _Cite_:
   - Code de l'environnement - art. R436-71 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=934></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=933></a>
 
 ###### Article R436-73
 
@@ -91259,7 +91331,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Sous-section 4 : Dispositions communes<a id=935></a>
+##### Sous-section 4 : Dispositions communes<a id=934></a>
 
 ###### Article R436-77
 
@@ -91319,7 +91391,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Section 5 : Commercialisation<a id=936></a>
+##### Section 5 : Commercialisation<a id=935></a>
 
 ###### Article R436-80
 
@@ -91367,11 +91439,11 @@ _Cite_:
   - Code de l'environnement - art. L436-16
 
 
-##### Section 6 : Dispositions particulières à certaines eaux<a id=937></a>
+##### Section 6 : Dispositions particulières à certaines eaux<a id=936></a>
 
-##### Sous-section 1 : Accords internationaux<a id=938></a>
+##### Sous-section 1 : Accords internationaux<a id=937></a>
 
-##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=939></a>
+##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=938></a>
 
 ###### Article R436-82
 
@@ -91402,7 +91474,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=940></a>
+##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=939></a>
 
 ###### Article R436-84
 
@@ -91453,7 +91525,7 @@ _Cite_:
   - Code de l'environnement - art. R436-85 (V)
 
 
-##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=941></a>
+##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=940></a>
 
 ###### Article R436-87
 
@@ -91506,9 +91578,9 @@ _Cite_:
   - Code de l'environnement - art. R436-88 (V)
 
 
-##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=942></a>
+##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=941></a>
 
-##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=943></a>
+##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=942></a>
 
 ###### Article R436-90
 
@@ -91628,9 +91700,9 @@ _Cite_:
   - Code de l'environnement - art. R436-92 (V)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=944></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=943></a>
 
-##### Section 1 : Dispositions générales<a id=945></a>
+##### Section 1 : Dispositions générales<a id=944></a>
 
 ###### Article D436-1
 
@@ -91707,11 +91779,11 @@ _Cite_:
   - Code de l'environnement - art. R436-23 (V)
 
 
-#### Chapitre VII : Dispositions pénales complémentaires<a id=946></a>
+#### Chapitre VII : Dispositions pénales complémentaires<a id=945></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=947></a>
+##### Section 1 : Recherche et constatation des infractions<a id=946></a>
 
-##### Sous-section 1 : Agents compétents<a id=948></a>
+##### Sous-section 1 : Agents compétents<a id=947></a>
 
 ###### Article R437-1
 
@@ -91770,7 +91842,7 @@ _Abrogé par_:
   - Décret n°2014-813 du 17 juillet 2014 - art. 4
 
 
-##### Sous-section 5 : Saisies<a id=949></a>
+##### Sous-section 5 : Saisies<a id=948></a>
 
 ###### Article R437-4
 
@@ -91805,7 +91877,7 @@ _Cite_:
   - Code de l'environnement - art. L437-12 (VT)
 
 
-##### Section 2 : Transaction<a id=950></a>
+##### Section 2 : Transaction<a id=949></a>
 
 ###### Article R437-6
 
@@ -91890,7 +91962,7 @@ _Abrogé par_:
   - Décret n°2007-598 du 24 avril 2007 - art. 2 () JORF 26 avril 2007
 
 
-##### Section 3 : Poursuites<a id=951></a>
+##### Section 3 : Poursuites<a id=950></a>
 
 ###### Article R437-10
 
@@ -91946,7 +92018,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 5 : Sanctions<a id=952></a>
+##### Section 5 : Sanctions<a id=951></a>
 
 ###### Article R437-12
 
@@ -91981,13 +92053,13 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=953></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=952></a>
 
-### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=954></a>
+### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=953></a>
 
-#### Chapitre II : Déclaration et autorisation<a id=955></a>
+#### Chapitre II : Déclaration et autorisation<a id=954></a>
 
-##### Section 1 : Autorités compétentes<a id=956></a>
+##### Section 1 : Autorités compétentes<a id=955></a>
 
 ###### Article R712-1
 
@@ -92058,7 +92130,7 @@ _Cite_:
   - Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 2 : Activités soumises à déclaration<a id=957></a>
+##### Section 2 : Activités soumises à déclaration<a id=956></a>
 
 ###### Article R712-3
 
@@ -92244,7 +92316,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 3 : Activités soumises à autorisation<a id=958></a>
+##### Section 3 : Activités soumises à autorisation<a id=957></a>
 
 ###### Article R712-9
 
@@ -92443,7 +92515,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 4 : Cas d'urgence<a id=959></a>
+##### Section 4 : Cas d'urgence<a id=958></a>
 
 ###### Article R712-15
 
@@ -92471,7 +92543,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=960></a>
+#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=959></a>
 
 ###### Article R714-1
 
@@ -92530,7 +92602,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-# ANNEXES<a id=961></a>
+# ANNEXES<a id=960></a>
 
 ###### Article Annexe I à l'article D432-4
 
