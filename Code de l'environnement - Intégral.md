@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-08-31
+Version Consolidée au 2006-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -868,99 +868,92 @@ Version Consolidée au 2006-08-31
               - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#865)
             - [Sous-section 2 : Récidive (art. R429-21)](#866)
       - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#867)
-        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-43)](#868)
+        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-37)](#868)
           - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#869)
-          - [Section 2 : Piscicultures (art. R431-7 à R431-43)](#870)
-            - [Sous-section 1 : Dispositions générales (art. R431-7 à R431-10)](#871)
-            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture (art. R431-11 à R431-26)](#872)
-            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture (art. R431-27 à R431-34)](#873)
-            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#874)
-            - [Sous-section 5 : Dispositions diverses (art. R431-38 à R431-41)](#875)
-            - [Sous-section 6 : Dispositions pénales (art. R431-42 à R431-43)](#876)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R432-1 à R432-18)](#877)
-          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R432-1)](#878)
-            - [Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation (art. R432-1)](#879)
-          - [Section 3 : Obligations relatives aux ouvrages (art. R432-2 à R432-3)](#880)
-            - [Sous-section 1 : Autorisation de vidange (art. R432-2)](#881)
-            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#882)
-          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#883)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#884)
-          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#885)
-        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#886)
-          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#887)
-            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#888)
-            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#889)
-              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#890)
-              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#891)
-              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#892)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#893)
-              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#894)
-              - [Paragraphe 2 : Contrôles (art. R434-24)](#895)
-          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#896)
-          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#897)
-        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#898)
-          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#899)
-            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#900)
-            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#901)
-            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#902)
-            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#903)
-          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#904)
-            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#905)
-            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#906)
-            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#907)
-          - [Section 3 : Droit de passage (art. R435-40)](#908)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#909)
-          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#910)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#911)
-              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#912)
-              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#913)
-            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#914)
-            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#915)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#916)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#917)
-            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#918)
-            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#919)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#920)
-          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#921)
-            - [Sous-section 1 : Dispositions générales (art. R436-44)](#922)
-            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#923)
-            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#924)
-            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#925)
-              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#926)
-              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#927)
-            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#928)
-            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#929)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#930)
-            - [Sous-section 1 : Dispositions générales (art. R436-69)](#931)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#932)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#933)
-            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#934)
-          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#935)
-          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#936)
-            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#937)
-              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#938)
-              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#939)
-              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#940)
-            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#941)
-              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#942)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#943)
-          - [Section 1 : Dispositions générales (art. D436-1)](#944)
-        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#945)
-          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#946)
-            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#947)
-            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#948)
-          - [Section 2 : Transaction (art. R437-6 à R437-9)](#949)
-          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#950)
-          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#951)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#952)
-      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#953)
-        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#954)
-          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#955)
-          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#956)
-          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#957)
-          - [Section 4 : Cas d'urgence (art. R712-15)](#958)
-        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#959)
-  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#960)
+          - [Section 2 : Piscicultures (art. R431-7 à R431-37)](#870)
+            - [Sous-section 1 : Dispositions générales (art. R431-7)](#871)
+            - [Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#872)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. D432-4 à R432-18)](#873)
+          - [Section 3 : Obligations relatives aux ouvrages (art. D432-4 à R432-3)](#874)
+            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#875)
+          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#876)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#877)
+          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#878)
+        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#879)
+          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#880)
+            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#881)
+            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#882)
+              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#883)
+              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#884)
+              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#885)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#886)
+              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#887)
+              - [Paragraphe 2 : Contrôles (art. R434-24)](#888)
+          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#889)
+          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#890)
+        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#891)
+          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#892)
+            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#893)
+            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#894)
+            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#895)
+            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#896)
+          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#897)
+            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#898)
+            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#899)
+            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#900)
+          - [Section 3 : Droit de passage (art. R435-40)](#901)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#902)
+          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#903)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#904)
+              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#905)
+              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#906)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#907)
+            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#908)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#909)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#910)
+            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#911)
+            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#912)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#913)
+          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#914)
+            - [Sous-section 1 : Dispositions générales (art. R436-44)](#915)
+            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#916)
+            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#917)
+            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#918)
+              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#919)
+              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#920)
+            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#921)
+            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#922)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#923)
+            - [Sous-section 1 : Dispositions générales (art. R436-69)](#924)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#925)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#926)
+            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#927)
+          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#928)
+          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#929)
+            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#930)
+              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#931)
+              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#932)
+              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#933)
+            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#934)
+              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#935)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#936)
+          - [Section 1 : Dispositions générales (art. D436-1)](#937)
+        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#938)
+          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#939)
+            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#940)
+            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#941)
+          - [Section 2 : Transaction (art. R437-6 à R437-9)](#942)
+          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#943)
+          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#944)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#945)
+      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#946)
+        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#947)
+          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#948)
+          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#949)
+          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#950)
+          - [Section 4 : Cas d'urgence (art. R712-15)](#951)
+        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#952)
+  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#953)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -52216,6 +52209,324 @@ _Cite_:
   - Code de l'environnement - art. R122-8 (M)
 
 
+###### Article R122-5
+
+Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des dispositions de l'article R. 122-9, les aménagements,
+ouvrages et travaux définis au tableau ci-après, dans les limites et sous les conditions qu'il précise.
+
+<table cellspacing="1" border="1" cellpadding="4">
+    <thead>
+      <tr>
+        <th bgcolor="#efeff7" align="center" width="234">
+
+<font size="2">CATÉGORIES D'AMÉNAGEMENTS, D'OUVRAGES ET DE TRAVAUX</font>
+        </th>
+        <th width="221" align="center" bgcolor="#efeff7">
+
+<font size="2">ÉTENDUE DE LA DISPENSE</font>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">
+
+1
+          <sup>o</sup> Ouvrages et travaux sur le domaine public fluvial et maritime.</td>
+        <td align="left">
+
+Travaux de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+2
+          <sup>o</sup> Voies publiques et privées.</td>
+        <td align="left">
+
+Travaux de renforcement et travaux de sécurité, lorsque ces derniers sont localisés et d'un montant inférieur à 1 900 000
+euros.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+3
+          <sup>o</sup> Etablissements conchylicoles, aquacoles et, d'une manière générale, tous établissements de pêche
+concédés sur le domaine public maritime sauf ceux soumis à la réglementation des installations classées pour la protection de
+l'environnement.</td>
+        <td align="left">
+
+Tous travaux ou aménagements.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+4
+          <sup>o</sup> Remontées mécaniques.</td>
+        <td align="left">
+
+Travaux d'installation d'un montant inférieur à 950 000 euros et travaux de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+5
+          <sup>o</sup> Transport et distribution d'électricité.</td>
+        <td align="left">
+
+Travaux d'installation ou de modernisation des ouvrages de tension inférieure à 63 kV. Travaux d'électrification des voies
+ferrées.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+6
+          <sup>o</sup> Réseaux de distribution de gaz.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+7
+          <sup>o</sup> Transport de gaz, d'hydrocarbures et de produits chimiques.</td>
+        <td align="left">
+
+Travaux de modernisation des canalisations et ouvrages.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+8
+          <sup>o</sup> Production d'énergie hydraulique.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation des ouvrages dont la puissance maximum n'excède pas 500 kW.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+9
+          <sup>o</sup>
+          _(D. n
+            <sup>o</sup> 2006-649, 2 juin 2006, art. 54)_ Recherches de mines et de carrières.</td>
+        <td align="left">
+
+Mines : travaux soumis à déclaration  en vertu du décret n
+          <sup>o</sup> 2006-649 du 2 juin 2006 ».</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+</td>
+        <td align="left">
+
+Carrières : travaux soumis à autorisation en application des articles 109 et 109-1 du code minier et du décret n
+          <sup>o</sup> 97-181 du 28 février 1997 pris pour son application.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+10
+          <sup>o</sup> Installations classées pour la protection de l'environnement.</td>
+        <td align="left">
+
+Travaux soumis à déclaration.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+11
+          <sup>o</sup> Réseaux d'assainissement, d'évacuation des eaux pluviales et de distribution d'eau.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+12
+          <sup>o</sup> Réservoirs de stockage d'eau.</td>
+        <td align="left">
+
+Travaux concernant les réservoirs de stockage d'eau  sur tour » d'une capacité inférieure à 1 000 m
+          <sup>3</sup> et les autres réservoirs de stockage d'eau d'une superficie inférieure à 10 ha.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+13
+          <sup>o</sup> Gestion, mise en valeur et exploitation des forêts.</td>
+        <td align="left">
+
+Tous travaux et opérations.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+14
+          <sup>o</sup> Correction des torrents, restauration des terrains en montagne, lutte contre les avalanches, fixation
+des dunes, lutte contre l'incendie.</td>
+        <td align="left">
+
+Tous équipements et ouvrages.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+15
+          <sup>o</sup> Défrichements soumis aux dispositions du code forestier et premiers boisements soumis à autorisation
+au titre du code rural.</td>
+        <td align="left">
+
+Défrichements et premiers boisements portant sur une superficie inférieure à 25 hectares.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+16
+          <sup>o</sup> Réseaux et télécommunications.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation intéressant les réseaux de câbles ou de conducteurs.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+17
+          <sup>o</sup> Sémaphores régis par la loi du 11 juillet 1933.</td>
+        <td align="left">
+
+Tous travaux.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+18
+          <sup>o</sup> Terrains de camping.</td>
+        <td align="left">
+
+Travaux d'aménagement de terrains comportant moins de 200 emplacements.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+19
+          <sup>o</sup> Ouvrages destinés à l'épuration des eaux des collectivités locales.</td>
+        <td align="left">
+
+Ouvrages permettant de traiter un flux de matières polluantes inférieur à celui produit par 10 000 habitants au sens de
+l'article R. 780-3 du code de la santé publique.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+20
+          <sup>o</sup>  Production d'énergie éolienne.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation des ouvrages  dont la hauteur du mât est inférieure ou égale à 50 mètres ».</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+21
+          <sup>o</sup>
+          _(Supprimé à compter du 1
+            <sup>er</sup> octobre 2006 par D. n
+            <sup>o</sup> 2006-880, 17 juill. 2006, art. 34, I et 38)_
+        </td>
+        <td align="left">
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+22
+          <sup>o</sup> Travaux et ouvrages de défense contre la mer.</td>
+        <td align="left">
+
+Travaux d'une emprise totale inférieure à 2 000 mètres carrés.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+23
+          <sup>o</sup> Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole
+intensive.</td>
+        <td align="left">
+
+Projets portant sur une superficie inférieure à 50 hectares.</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-1141 1977-10-12 art. 3 B alinéa 1er (Annexe I)
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-629 du 30 mai 2006 - art. 2 () JORF 31 mai 2006
+  - Décret n°2006-649 du 2 juin 2006 - art. 54 () JORF 3 juin 2006
+  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+
+_Cité par_:
+
+  - Décret n°2006-649 du 2 juin 2006 - art. 6 (V)
+  - Décret n°2007-1557 du 2 novembre 2007 - art. 9 (VD)
+  - Arrêté du 23 juin 2015 - art. 13 (VD)
+  - Décret n°2016-1110 du 11 août 2016 - art. 6
+  - Décret n°2016-1110 du 11 août 2016 - art. 8
+  - Arrêté du 13 février 2017 - art. 2 (V)
+  - Décret n°2019-190 du 14 mars 2019 - art. 9 (V)
+  - Code de l'environnement - art. D181-15-2 (V)
+  - Code de l'environnement - art. R122-10 (V)
+  - Code de l'environnement - art. R122-26 (V)
+  - Code de l'environnement - art. R122-27 (V)
+  - Code de l'environnement - art. R122-28 (T)
+  - Code de l'environnement - art. R122-3 (VD)
+  - Code de l'environnement - art. R122-4 (VD)
+  - Code de l'environnement - art. R122-5 (V)
+  - Code de l'environnement - art. R122-7 (V)
+  - Code de l'environnement - art. R122-9 (V)
+  - Code de l'environnement - art. R214-32 (V)
+  - Code de l'environnement - art. R214-6 (V)
+  - Code de l'environnement - art. R214-62 (VD)
+  - Code de l'environnement - art. R331-34 (V)
+  - Code de l'environnement - art. R333-14 (V)
+  - Code de l'environnement - art. R334-36 (V)
+  - Code de l'environnement - art. R512-14 (VT)
+  - Code de l'environnement - art. R512-6 (VT)
+  - Code de l'environnement - art. R512-8 (VT)
+  - Code de l'environnement - art. R515-11 (VD)
+  - Code de l'environnement - art. R542-20 (V)
+  - Code de l'environnement - art. R555-9 (V)
+  - Code de l'urbanisme - art. R*311-2 (V)
+  - Code de l'urbanisme - art. R*443-5 (VD)
+  - Code de l'urbanisme - art. R113-3 (V)
+  - Code de l'urbanisme - art. R472-3 (V)
+  - Code de l'urbanisme - art. R473-2 (V)
+  - Code des ports maritimes - art. R*122-4 (V)
+  - Code du domaine de l'Etat - art. R145-1 (VD)
+  - Code du domaine de l'Etat - art. R58-5 (VD)
+  - Code du tourisme. - art. D331-2 (VD)
+  - Code forestier (nouveau) - art. R341-1 (V)
+  - Code forestier - art. R311-1 (Ab)
+  - Code rural et de la pêche maritime - art. R123-10 (V)
+  - Code rural et de la pêche maritime - art. R151-41 (T)
+  - Code rural et de la pêche maritime - art. R152-4 (V)
+
+
 ###### Article R122-6
 
 Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des dispositions de l'article R. 122-9, les aménagements,
@@ -52482,7 +52793,8 @@ des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ou
 6° Travaux nécessitant une autorisation en vertu soit de la législation relative aux installations classées pour la
 protection de l'environnement, soit de la réglementation concernant les installations nucléaires de base ;
 
-7° Réservoirs de stockage d'eau autres que les réservoirs enterrés ou semi-enterrés ;
+7° Réservoirs de stockage d'eau "sur tour" d'une capacité égale ou supérieure à 1 000 m3 et autres réservoirs de stockage
+d'eau d'une superficie égale ou supérieure à 10 ha ;
 
 8° Aménagement de terrains de camping ou de stationnement de caravanes comportant 200 emplacements ou plus ;
 
@@ -52514,8 +52826,7 @@ au moins équivalent à celui produit par 10 000 habitants, au sens de l'article
 
 15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât dépasse 50 mètres ;
 
-16° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 du présent code et définies au premier
-alinéa de l'article R. 431-16 de ce code ;
+16° Supprimé ;
 
 17° Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets
 radioactifs ;
@@ -52537,15 +52848,6 @@ une superficie d'au moins 50 hectares.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L121-1
-  - Décret n°2006-649 2006-06-02
-  - Code de la santé publique - art. R1416-3 (M)
-  - Code de la santé publique R1416-3, R431-16
-  - Code de l'urbanisme - art. L130-2 (M)
-  - Code de l'environnement - art. L431-6 (M)
-
 _Cité par_:
 
   - Décret n°59-645 du 16 mai 1959 - art. 4 (Ab)
@@ -52565,52 +52867,62 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Cite_:
+
+  - Décret n°2006-649 2006-06-02
+  - Code de la santé publique - art. R1416-3 (M)
+  - Code de la santé publique R1416-3, R431-16
+  - Code de l'urbanisme - art. L130-2 (M)
+  - Code de l'environnement - art. L431-6 (M)
+  - Code rural L121-1
+
 _Modifié par_:
 
-  - Décret n°2006-649 du 2 juin 2006 - art. 55 () JORF 3 juin 2006
+  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R122-9
 
 Pour les travaux et projets d'aménagements définis au présent article, la dispense, prévue aux articles R. 122-5 à R. 122-8,
 de la procédure d'étude d'impact est subordonnée à l'élaboration d'une notice indiquant les incidences éventuelles de ceux-ci
-sur l'environnement et les conditions dans lesquelles l'opération projetée satisfait aux préoccupations d'environnement :
+sur l'environnement et les conditions dans lesquelles l'opération projetée satisfait aux préoccupations d'environnement : 
 
 1° Travaux ou aménagements d'un coût total inférieur à 1 900 000 euros réalisés sur le domaine public fluvial ou maritime
-sous le régime de la concession prévu à l'article L. 64 du code du domaine de l'Etat, ainsi que les travaux de création ou
-d'extension d'un port de plaisance ;
+sous le régime de la concession prévu aux articles L. 3211-10 et L. 3211-15 du code général de la propriété des personnes
+publiques, ainsi que les travaux de création ou d'extension d'un port de plaisance ; 
 
 2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver,
-lorsque leur coût total est inférieur à 950 000 euros ;
+lorsque leur coût total est inférieur à 950 000 euros ; 
 
 3° Travaux d'installation des ouvrages de transport et de distribution d'électricité de tension inférieure à 63 kV, à
-l'exclusion des travaux souterrains ;
+l'exclusion des travaux souterrains ; 
 
 4° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est
 inférieure ou égale à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de
-l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
+l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ; 
 
 5° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à déclaration en vertu du décret n° 2006-649 du 2
 juin 2006 et travaux de recherches de carrières soumis à autorisation dans les zones définies aux articles 109 et 109-1 du
-code minier et en application du décret n° 97-181 du 28 février 1997 ;
+code minier et en application du décret n° 97-181 du 28 février 1997 ; 
 
 6° Travaux de défrichement et de premiers boisements soumis à autorisation et portant sur une superficie inférieure à 25
-hectares ;
+hectares ; 
 
 7° Ouvrages et équipements relatifs à la correction des torrents, à la restauration des terrains en montagne, à la lutte
-contre les avalanches, à la fixation des dunes et à la défense contre l'incendie ;
+contre les avalanches, à la fixation des dunes et à la défense contre l'incendie ; 
 
-8° Ouverture de terrains aménagés pour le camping ou le stationnement de caravanes comportant moins de 200 emplacements ;
+8° Ouverture de terrains aménagés pour le camping ou le stationnement de caravanes comportant moins de 200 emplacements ; 
 
 9° Ouvrages destinés à l'épuration des eaux des collectivités locales, d'une capacité de traitement inférieure à celle des
-ouvrages visés au 14° du II de l'article R. 122-8 ;
+ouvrages visés au 14° du II de l'article R. 122-8 ; 
 
-10° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 et mentionnées au deuxième alinéa de
-l'article R. 431-16 ;
+10° Travaux concernant les réservoirs de stockage d'eau " sur tour " d'une capacité inférieure à 1 000 m3 et les autres
+réservoirs de stockage d'eau d'une superficie égale ou supérieure à 2 ha et inférieure à 10 ha ; 
 
-11° Travaux d'hydraulique agricole dont le coût total est compris entre 950 000 et 1 900 000 euros ;
+11° Travaux d'hydraulique agricole dont le coût total est compris entre 950 000 et 1 900 000 euros ; 
 
-12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés ;
+12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés ; 
 
 13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât est inférieure ou égale à 50
 mètres.
@@ -52626,6 +52938,7 @@ _Cite_:
   - Décret n°97-181 1997-02-28
   - Décret n°2006-649 2006-06-02
   - Code du domaine de l'Etat - art. L64 (Ab)
+  - Code général de la propriété des personnes publ... - art. L3211-10 (V)
   - Code minier 109, 109-1
   - Code de l'environnement - art. L431-6 (M)
   - Code de l'environnement - art. R431-16 (Ab)
@@ -52636,7 +52949,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-649 du 2 juin 2006 - art. 56 () JORF 3 juin 2006
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 2 (V)
+  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 _Cité par_:
 
@@ -85732,9 +86046,14 @@ _Codifié par_:
 
 ###### Article R431-7
 
-La création et l'exploitation, dans les eaux visées à l'article L. 431-3, de piscicultures telles que définies à l'article L.
-431-6 sont soumises à autorisation ou font l'objet d'une concession dans les formes et aux conditions définies à la présente
-section.
+Constituent des piscicultures régulièrement autorisées ou déclarées au sens de l'article L. 431-7 les piscicultures qui :
+
+- avant le 1er octobre 2006, ont été autorisées au titre de la législation des installations classées ou au titre de
+l'article L. 431-6 du code de l'environnement ou des textes auquel il s'est substitué ;
+
+- après le 1er octobre 2006, ont été autorisées au titre de la législation des installations classées ou ont fait l'objet
+d'une déclaration comme entrant dans la rubrique 3.2.7.0 de la nomenclature prévue à l'article L. 214-2, à laquelle le préfet
+ne s'est pas opposé.
 
 **Liens relatifs à cet article**
 
@@ -85742,10 +86061,19 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+
+_Transféré par_:
+
+  - Décret n°2007-978 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 _Cite_:
 
-  - Code de l'environnement - art. L431-3 (M)
+  - Code de l'environnement - art. L214-2 (M)
   - Code de l'environnement - art. L431-6 (M)
+  - Code de l'environnement - art. L431-7 (M)
 
 _Nouveaux textes_:
 
@@ -85753,704 +86081,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R431-8 (V)
 
 
-###### Article R431-8
-
-Il ne peut être accordé d'autorisation ou de concession de pisciculture si un inconvénient paraît devoir en résulter pour le
-peuplement piscicole des eaux avec lesquelles cette pisciculture communiquerait, et notamment lorsque sa création aurait pour
-conséquence l'interruption de la libre circulation des espèces piscicoles dans le cours d'eau, une insuffisance du débit ou
-une altération de la qualité de l'eau compromettant la vie de ces espèces.
-
-Sauf dans les cas de piscicultures destinées à la valorisation touristique, l'autorisation ou la concession ne peut être
-accordée que si les modes de récolte du poisson envisagés excluent la capture à l'aide de lignes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-15 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'environnement - art. R431-7 (M)
-  - Code de l'environnement - art. R431-7 (T)
-
-
-###### Article R431-9
-
-La délivrance de l'autorisation ou de la concession est subordonnée à la justification par l'intéressé qu'il a souscrit les
-déclarations ou formulé les demandes d'autorisations exigées, le cas échéant, pour la création de la pisciculture, par
-d'autres législations ou réglementations, et notamment par celles relatives à l'eau, aux installations classées ou au
-domaine.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-10
-
-L'introduction de poissons dans les piscicultures est soumise aux dispositions des articles L. 432-10, L. 432-12 et des
-articles de la section 4 du chapitre II du présent titre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L432-10 (M)
-  - Code de l'environnement - art. L432-12 (M)
-
-
-##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture<a id=872></a>
-
-###### Article R431-11
-
-Les demandes d'autorisation en vue d'aménager en pisciculture une partie d'un cours d'eau, canal ou plan d'eau où le droit de
-pêche appartient à un propriétaire riverain peuvent être formées :
-
-1° Soit par un riverain jouissant en cette qualité du droit de pêche sur la partie de cours d'eau, canal ou plan d'eau
-concernée par l'aménagement ;
-
-2° Soit par toute personne cessionnaire à un titre quelconque du droit de pêche et en même temps munie d'une autorisation
-expresse du riverain pour l'aménagement de la pisciculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-13 (Ab)
-  - Code de l'environnement - art. R431-28 (Ab)
-
-
-###### Article R431-12
-
-Les demandes d'autorisation de pisciculture sont adressées au préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-13
-
-Le dossier de demande comporte les pièces et indications suivantes :
-
-1° L'identité ou la raison sociale et l'adresse du demandeur ;
-
-2° La dénomination et la catégorie piscicole du cours d'eau, canal ou plan d'eau dans lequel la pisciculture serait établie
-ainsi qu'un plan de situation au 1/25 000 ;
-
-3° La justification des titres du demandeur exigés à l'article R. 431-11 et, le cas échéant, la copie du titre conférant un
-droit d'eau ou des autorisations qui lui ont été délivrées au titre de la législation sur l'eau ;
-
-4° Un plan au 1/2 500 de la pisciculture et de ses abords assorti d'une notice précisant sa surface, ses limites, la
-désignation cadastrale des terrains concernés, les aménagements projetés, les points de captage et de rejet, le volume du
-débit prélevé ou le mode d'alimentation en eau ainsi que l'emplacement et la nature des dispositifs permanents de clôture ;
-
-5° L'objet de la pisciculture ;
-
-6° Un mémoire exposant la nature et les méthodes d'élevage piscicole envisagées, les espèces choisies, les objectifs de
-production ou d'expérimentation ainsi que les modes de récolte du poisson ;
-
-7° Les dispositions envisagées pour garantir, dans le lit du cours d'eau ou du canal, le maintien d'un débit suffisant, la
-libre circulation des espèces piscicoles et les mesures projetées afin, notamment, de maintenir la qualité de l'eau et de ne
-pas porter atteinte aux autres peuplements piscicoles ;
-
-8° Le programme des vidanges prévu ;
-
-9° La durée pour laquelle l'autorisation est sollicitée, celle prévue pour réaliser les aménagements nécessaires ainsi qu'une
-note précisant les capacités financières du demandeur eu égard à l'opération projetée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-11 (Ab)
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-17 (Ab)
-  - Code de l'environnement - art. R431-25 (Ab)
-  - Code de l'environnement - art. R431-28 (Ab)
-
-
-###### Article R431-14
-
-Dans le mois qui suit l'enregistrement de la demande, le préfet en accuse réception et, s'il y a lieu, demande les
-compléments d'information qui lui paraissent nécessaires à l'établissement du dossier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-28 (Ab)
-
-
-###### Article R431-15
-
-Dans les deux mois qui suivent la réception définitive du dossier, le préfet :
-
-1° Soit notifie le rejet de la demande si elle ne répond pas à la finalité exigée par la loi ou aux conditions définies à
-l'article R. 431-8 ;
-
-2° Soit demande au pétitionnaire de réaliser, dans les conditions fixées à l'article R. 431-16 et dans un délai maximum de
-deux ans à peine d'être réputé avoir renoncé à l'opération, une étude d'impact ou une notice d'impact dans les formes
-définies aux articles R. 122-1 à R. 122-15.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-16 (Ab)
-  - Code de l'environnement - art. R431-8 (Ab)
-  - Code de l'environnement R431-8, R431-16, R122-1 à R122-15
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-24 (Ab)
-  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-16
-
-Font l'objet d'une étude d'impact, d'une part, les créations de salmonicultures et d'élevages à des fins scientifiques ou
-expérimentales, d'autre part, les créations de piscicultures dont la production ou la commercialisation annuelle est égale ou
-supérieure à 2 tonnes ou dont la surface en eau est égale ou supérieure à 3 hectares, ainsi que les extensions de
-piscicultures qui ont pour effet de porter leur production et leur commercialisation annuelles ou leur surface en eau à un
-niveau égal ou supérieur aux seuils ainsi fixés.
-
-Font l'objet d'une notice d'impact les créations de piscicultures autres que celles définies à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R122-9 (V)
-  - Code de l'environnement - art. R431-15 (Ab)
-  - Code de l'environnement - art. R431-24 (Ab)
-  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-17
-
-Lorsqu'une étude d'impact est exigée et dans le mois qui suit la réception de celle-ci, le préfet ordonne l'ouverture d'une
-enquête publique, dans les formes définies par les articles R. 123-1 à R. 123-23. Le dossier d'enquête prévu au 1° du II de
-l'article R. 123-7 comprend les pièces mentionnées à l'article R. 431-13, l'étude d'impact ainsi qu'un rapport du service
-instructeur.
-
-L'enquête porte sur la réalisation de la pisciculture et de ses aménagements ainsi que sur les méthodes d'élevage piscicole
-envisagées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R123-7 (V)
-  - Code de l'environnement - art. R431-13 (Ab)
-  - Code de l'environnement R123-1 à R123-23, R123-7, R431-13
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-24 (Ab)
-  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-18
-
-Lorsque la création simultanée d'un plan d'eau et d'une pisciculture nécessite à la fois une enquête publique au titre de la
-réglementation relative à l'eau et une enquête publique au titre de la réglementation de la pêche, il est procédé à une seule
-enquête dans les conditions prévues par l'article R. 123-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R123-4 (V)
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-19
-
-L'enquête terminée, ou la notice d'impact produite, le préfet consulte immédiatement la fédération départementale des
-associations agréées de pêche et de pisciculture et la commission départementale de la nature, des paysages et des sites. Si
-ces organismes n'ont pas fait connaître leur avis dans le délai de deux mois, ils sont réputés avoir émis un avis favorable.
-
-Il statue sur la demande et, dans le délai de quatre mois suivant la fin de l'enquête ou la production de la notice d'impact,
-notifie sa décision au demandeur et aux maires des communes concernées qui procèdent, dans les quarante-huit heures suivant
-la notification de cette décision, à son affichage pendant une durée d'un mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Modifié par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-20
-
-L'autorisation délivrée par le préfet détermine :
-
-1° Le titulaire de l'autorisation, l'objet, l'emplacement et les limites de la pisciculture, la nature des dispositifs
-permanents de clôture qui doivent empêcher la circulation du poisson dans les deux sens, les espèces de poissons, les
-méthodes d'élevage piscicole et les modes de récolte du poisson ;
-
-2° En cas de dérivation d'un cours d'eau ou d'un canal, le débit minimal à réserver pour garantir en permanence, dans ce
-canal ou ce cours d'eau, la vie et la reproduction des espèces piscicoles, le programme des vidanges et les conditions de
-leur déclaration préalable, les dispositifs garantissant la libre circulation des peuplements piscicoles sauvages et les
-mesures nécessaires à la protection des milieux aquatiques ;
-
-3° La durée de l'autorisation qui ne peut excéder trente années et le délai de réalisation des travaux d'aménagement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-31 (Ab)
-
-
-###### Article R431-21
-
-Le titulaire de l'autorisation informe le préfet de la fin d'exécution des travaux d'aménagement. Le préfet fait procéder à
-leur récolement dans le délai d'un mois et notifie sous quinzaine le procès-verbal de récolement au permissionnaire.
-L'exploitation de la pisciculture ne peut commencer avant cette notification.
-
-En cas de défaut d'exécution des travaux dans le délai imparti, ou de non-conformité aux prescriptions imposées, le préfet
-met le demandeur en demeure de satisfaire dans un délai déterminé aux conditions de l'autorisation sous peine de son retrait.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-32 (Ab)
-  - Code de l'environnement - art. R431-33 (Ab)
-
-
-###### Article R431-22
-
-Après avoir recueilli les observations du titulaire de l'autorisation, le préfet peut prononcer son retrait :
-
-1° Lorsque le titulaire de l'autorisation n'a pas déféré dans le délai imparti à une mise en demeure d'avoir à respecter les
-prescriptions imposées ;
-
-2° A tout moment, s'il est constaté que la pisciculture crée des nuisances pour les autres peuplements piscicoles ou les
-milieux aquatiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-33 (Ab)
-
-
-###### Article R431-23
-
-Les modifications de l'objet de la pisciculture, de la nature des espèces piscicoles élevées, des méthodes d'élevage
-piscicole pratiquées ou des modes de capture du poisson tels qu'ils ont été précisés dans l'autorisation sont déclarées au
-préfet, qui fait connaître, le cas échéant, son opposition dans les deux mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-41 (Ab)
-
-
-###### Article R431-24
-
-L'autorisation peut être renouvelée pour une durée maximale de trente années. La demande de renouvellement doit être
-présentée au préfet deux ans au moins avant la date d'expiration de l'autorisation. Il est statué sur cette demande six mois
-au moins avant l'expiration de l'autorisation.
-
-Le préfet se prononce sur la demande de renouvellement selon la procédure définie aux articles R. 431-11 à R. 431-21.
-Toutefois, les formalités prévues au 2° de l'article R. 431-15 et aux articles R. 431-16 et R. 431-17 ne sont pas requises en
-l'absence de modification des conditions générales d'exploitation, à moins que le préfet n'estime que le renouvellement de
-l'autorisation puisse présenter des inconvénients pour les autres peuplements piscicoles.
-
-Lorsque la demande tendant au renouvellement d'une autorisation n'est pas présentée dans le délai requis, le titulaire de
-l'autorisation est réputé renoncer au bénéfice de cette dernière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-15 (Ab)
-  - Code de l'environnement - art. R431-16 (Ab)
-  - Code de l'environnement - art. R431-17 (Ab)
-  - Code de l'environnement R431-11 à R431-21, R431-15, R431-16, R431-17
-
-
-###### Article R431-25
-
-En cours d'autorisation, le changement de titulaire peut être autorisé par le préfet, sur la demande du permissionnaire et du
-postulant qui doivent fournir les pièces et indications mentionnées aux 1° et 3° de l'article R. 431-13.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-13 (Ab)
-
-
-###### Article R431-26
-
-En cas de retrait de l'autorisation ou si celle-ci n'est pas renouvelée à son expiration, le titulaire de l'autorisation est
-tenu de remettre les lieux en état.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture<a id=873></a>
-
-###### Article R431-27
-
-La demande tendant à obtenir la concession de pisciculture d'une partie d'un cours d'eau, d'un canal ou d'un plan d'eau
-entrant dans le champ de l'article L. 435-1 ou dépendant du domaine privé de l'Etat est adressée au préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L435-1 (M)
-
-
-###### Article R431-28
-
-Le dossier comporte les pièces et indications prévues à l'article R. 431-13 à l'exception des titres exigés à l'article R.
-431-11. Les dispositions de l'article R. 431-14 sont applicables aux concessions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-11 (Ab)
-  - Code de l'environnement - art. R431-13 (Ab)
-  - Code de l'environnement - art. R431-14 (Ab)
-
-
-###### Article R431-29
-
-Dans les deux mois qui suivent la réception définitive du dossier, le préfet, après avis des services chargés de la police de
-la pêche et, le cas échéant, des services chargés de la gestion du domaine public fluvial et des services fiscaux :
-
-1° Soit rejette la demande si le projet ne répond pas aux conditions prévues au 1° de l'article R. 431-15, s'il est de nature
-à compromettre la gestion piscicole du cours d'eau, du canal ou du plan d'eau ou s'il n'est pas jugé compatible avec la
-gestion du domaine public ou privé concerné ;
-
-2° Soit demande au pétitionnaire de réaliser une étude d'impact ou une notice d'impact dans les conditions définies au 2° de
-l'article R. 431-15 et à l'article R. 431-16. Dès réception de l'étude d'impact lorsqu'elle est requise, il est procédé à
-l'enquête dans les formes et conditions prévues aux articles R. 431-17 et R. 431-18.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-15 (Ab)
-  - Code de l'environnement - art. R431-16 (Ab)
-  - Code de l'environnement - art. R431-17 (Ab)
-  - Code de l'environnement - art. R431-18 (Ab)
-
-
-###### Article R431-30
-
-L'enquête terminée, ou la notice d'impact produite, le préfet consulte immédiatement les services intéressés ainsi que la
-commission départementale de la nature, des paysages et des sites, et la fédération départementale des associations agréées
-de pêche et de pisciculture. Si ces services et organismes n'ont pas fait connaître leur avis dans le délai de deux mois, ils
-sont réputés avoir émis un avis favorable.
-
-Il adresse une copie du dossier de la demande de concession et le projet d'acte de concession au directeur des services
-fiscaux en vue de la fixation des redevances dues pour la concession du droit de pêche et, s'il y a lieu, pour l'occupation
-du domaine public ou privé concerné et pour l'usage de l'eau.
-
-Il statue sur la demande et, dans le délai de quatre mois suivant la fin de l'enquête ou la production de la notice d'impact,
-notifie sa décision au demandeur et aux maires des communes concernées, qui procèdent, dans les quarante-huit heures suivant
-la notification de cette décision, à son affichage pendant une durée d'un mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Modifié par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-31
-
-I. - L'acte de concession détermine :
-
-1° Les prescriptions prévues à l'article R. 431-20 ;
-
-2° La nature des droits concédés par l'Etat et le montant des redevances à payer par le concessionnaire.
-
-II. - La délivrance du titre de concession est subordonnée à l'acceptation par le demandeur des conditions financières de la
-concession. Les travaux d'aménagement de la pisciculture ne peuvent pas être entrepris avant le paiement du premier terme des
-redevances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-20 (Ab)
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-42 (Ab)
-
-
-###### Article R431-32
-
-Il est procédé au récolement des travaux dans les formes et conditions fixées à l'article R. 431-21. L'exploitation de la
-concession ne peut commencer avant la notification du procès-verbal de récolement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-21 (Ab)
-
-
-###### Article R431-33
-
-Sous réserve des dispositions particulières applicables au domaine public, la concession accordée peut être modifiée,
-suspendue ou retirée par le préfet à tout moment, dans les formes et conditions fixées à l'alinéa 2 de l'article R. 431-21 et
-à l'article R. 431-22. Elle peut également être retirée en cas de défaut de paiement des redevances par le concessionnaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-21 (Ab)
-  - Code de l'environnement - art. R431-22 (Ab)
-
-
-###### Article R431-34
-
-Les dispositions des articles R. 431-23 à R. 431-26 sont applicables aux concessions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cité par_:
-
-  - Code de l'environnement - art. R431-42 (Ab)
-
-_Cite_:
-
-  - Code de l'environnement R431-23 à R431-26
-
-
-##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=874></a>
+##### Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=872></a>
 
 ###### Article R431-35
 
@@ -86463,6 +86094,10 @@ envisagée.
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 _Cite_:
 
@@ -86495,6 +86130,10 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+
 _Cite_:
 
   - Code de l'environnement - art. R431-35 (M)
@@ -86507,209 +86146,29 @@ Le préfet, après avoir, dans un délai de deux mois, accusé réception de la 
 1° Soit délivre un certificat attestant la validité des droits ou prend un arrêté constatant le changement de titulaire de
 l'autorisation ou de la concession ;
 
-2° Soit, si la validité des droits, de la concession ou de l'autorisation n'a pu être établie, invite le déclarant à déposer
-une demande d'autorisation ou de concession dans les formes prévues aux dispositions de la présente section.
+2° Soit, si la validité des droits, de la concession ou de l'autorisation n'a pu être établie, invite le déclarant à déposer,
+selon le cas, une déclaration ou une demande d'autorisation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 _Cité par_:
 
   - Arrêté du 6 août 2013 - art. 4 (V)
 
 
-##### Sous-section 5 : Dispositions diverses<a id=875></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=873></a>
 
-###### Article R431-38
+##### Section 3 : Obligations relatives aux ouvrages<a id=874></a>
 
-Les frais de constitution de dossier, d'affichage, de publicité et d'enquête sont à la charge du demandeur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-39
-
-Des copies des arrêtés d'autorisation ou de concession ou de retrait de celles-ci sont adressées au ministre chargé de la
-pêche en eau douce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-40
-
-Les enclos qui avaient été autorisés en vertu du décret du 24 octobre 1925 pris pour l'application de l'article 1er de la loi
-du 18 juin 1923 conservent le bénéfice des dispositions qui leur étaient antérieurement applicables jusqu'au renouvellement
-des autorisations ou concessions qui s'effectuera en application de l'article L. 431-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L431-6 (M)
-  - Décret n°1925-10-24
-  - Loi n°1923-06-18 art. 1
-
-
-###### Article R431-41
-
-Les détenteurs de concessions ou d'autorisations administratives de plans d'eau en cours de validité doivent déclarer, dans
-les conditions prévues par l'article R. 431-23, lorsque leurs plans d'eau sont destinés à des fins de valorisation
-touristique au sens des dispositions du premier alinéa de l'article L. 431-6, que la capture du poisson à l'aide de lignes
-peut y être pratiquée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L431-6 (M)
-  - Code de l'environnement - art. R431-23 (Ab)
-
-
-##### Sous-section 6 : Dispositions pénales<a id=876></a>
-
-###### Article R431-42
-
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de ne pas respecter les prescriptions prises en
-application des articles R. 431-20, R. 431-26, du 1° du I de l'article R. 431-31 ou de l'article R. 431-34.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. R431-31 (Ab)
-  - Code de l'environnement - art. R431-34 (Ab)
-
-
-###### Article R431-43
-
-Est puni de l'amende prévue pour les contraventions de la 2e classe le fait de pratiquer la capture du poisson à l'aide de
-lignes dans les plans d'eau d'une superficie égale ou supérieure à 10 000 mètres carrés aménagés en pisciculture à des fins
-de valorisation touristique sans avoir acquitté la taxe prévue par l'article L. 431-6.
-
-Cette disposition ne s'applique pas à la personne physique propriétaire du plan d'eau et aux autres personnes exonérées par
-l'article L. 431-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L431-6 (M)
-
-
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=877></a>
-
-##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=878></a>
-
-##### Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation<a id=879></a>
-
-###### Article R432-1
-
-Toute autorisation délivrée en application des articles L. 214-1 à L. 214-6 pour l'installation ou l'aménagement d'ouvrages
-ainsi que pour l'exécution de travaux dans le lit d'un cours d'eau vaut autorisation au titre de l'article L. 432-3,
-lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation ou de réserves de
-nourriture de la faune piscicole. Dans ce cas, elle fixe les mesures compensatoires visant à remettre en état le milieu
-naturel aquatique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006 rectificatif JORF 16 septembre 2006
-
-_Cité par_:
-
-  - Arrêté du 23 avril 2008 - art. 1 (V)
-  - Arrêté du 23 avril 2008 - art. 2 (V)
-  - Arrêté du 23 avril 2008 - art. 3 (V)
-  - Code de l'environnement - art. R432-1-5 (V)
-
-_Cite_:
-
-  - Code de l'environnement - art. L432-3 (M)
-  - Code de l'environnement L214-1 à L214-6, L432-3
-
-
-##### Section 3 : Obligations relatives aux ouvrages<a id=880></a>
-
-##### Sous-section 1 : Autorisation de vidange<a id=881></a>
-
-###### Article R432-2
-
-Toute autorisation de vidange délivrée en application des articles L. 214-1 à L. 214-6 vaut autorisation au titre de
-l'article L. 432-9. Dans ce cas, elle fixe les modalités de capture du poisson et la destination de celui-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006 rectificatif 16 septembre 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L432-9 (M)
-  - Code de l'environnement L214-1 à L214-6, L432-9
-
-
-##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=882></a>
+##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=875></a>
 
 ###### Article D432-4
 
@@ -86763,7 +86222,7 @@ _Abrogé par_:
   - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
-##### Section 4 : Contrôle des peuplements<a id=883></a>
+##### Section 4 : Contrôle des peuplements<a id=876></a>
 
 ###### Article R432-5
 
@@ -87080,9 +86539,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=884></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=877></a>
 
-##### Section 1 : Orientations de bassin.<a id=885></a>
+##### Section 1 : Orientations de bassin.<a id=878></a>
 
 ###### Article D433-1
 
@@ -87310,11 +86769,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=886></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=879></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=887></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=880></a>
 
-##### Sous-section 1 : Dispositions générales<a id=888></a>
+##### Sous-section 1 : Dispositions générales<a id=881></a>
 
 ###### Article R434-1
 
@@ -87427,7 +86886,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=889></a>
+##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=882></a>
 
 ###### Article R434-5
 
@@ -87444,7 +86903,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 1 : Le conseil d'administration<a id=890></a>
+##### Paragraphe 1 : Le conseil d'administration<a id=883></a>
 
 ###### Article R434-6
 
@@ -87700,7 +87159,7 @@ _Cite_:
   - Code de l'environnement - art. R434-10 (Ab)
 
 
-##### Paragraphe 2 : Le directeur général<a id=891></a>
+##### Paragraphe 2 : Le directeur général<a id=884></a>
 
 ###### Article R434-12
 
@@ -87745,7 +87204,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=892></a>
+##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=885></a>
 
 ###### Article R434-14
 
@@ -87880,9 +87339,9 @@ _Cite_:
   - Code de l'environnement - art. R434-15 (Ab)
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=893></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=886></a>
 
-##### Paragraphe 1 : Organisation financière et comptable<a id=894></a>
+##### Paragraphe 1 : Organisation financière et comptable<a id=887></a>
 
 ###### Article R434-19
 
@@ -88005,7 +87464,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 2 : Contrôles<a id=895></a>
+##### Paragraphe 2 : Contrôles<a id=888></a>
 
 ###### Article R434-24
 
@@ -88033,7 +87492,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Section 2 : Organisation de la pêche de loisir<a id=896></a>
+##### Section 2 : Organisation de la pêche de loisir<a id=889></a>
 
 ###### Article R*434-36
 
@@ -88288,7 +87747,7 @@ _Cite_:
   - Code de l'environnement - art. L434-4 (M)
 
 
-##### Section 3 : Organisation de la pêche professionnelle<a id=897></a>
+##### Section 3 : Organisation de la pêche professionnelle<a id=890></a>
 
 ###### Article R*434-42
 
@@ -88484,7 +87943,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre V : Droit de pêche<a id=898></a>
+#### Chapitre V : Droit de pêche<a id=891></a>
 
 ###### Article R435-1
 
@@ -88498,9 +87957,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=899></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=892></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation<a id=900></a>
+##### Sous-section 1 : Conditions générales d'exploitation<a id=893></a>
 
 ###### Article R435-2
 
@@ -88873,7 +88332,7 @@ _Cité par_:
   - Code de l'environnement - art. R435-8 (V)
 
 
-##### Sous-section 2 : Modalités de location des lots<a id=901></a>
+##### Sous-section 2 : Modalités de location des lots<a id=894></a>
 
 ###### Article R435-16
 
@@ -89121,7 +88580,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-##### Sous-section 3 : Procédure d'adjudication publique<a id=902></a>
+##### Sous-section 3 : Procédure d'adjudication publique<a id=895></a>
 
 ###### Article R435-25
 
@@ -89241,7 +88700,7 @@ _Cite_:
   - Code de l'environnement - art. R435-23 (V)
 
 
-##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=903></a>
+##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=896></a>
 
 ###### Article D435-33
 
@@ -89287,9 +88746,9 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation - art. 5 (M)
 
 
-##### Section 2 : Droit de pêche des riverains<a id=904></a>
+##### Section 2 : Droit de pêche des riverains<a id=897></a>
 
-##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=905></a>
+##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=898></a>
 
 ###### Article R435-34
 
@@ -89355,7 +88814,7 @@ _Cite_:
   - Code de l'environnement - art. L435-5 (M)
 
 
-##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=906></a>
+##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=899></a>
 
 ###### Article R435-37
 
@@ -89395,7 +88854,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions diverses<a id=907></a>
+##### Sous-section 3 : Dispositions diverses<a id=900></a>
 
 ###### Article R435-39
 
@@ -89421,7 +88880,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Droit de passage<a id=908></a>
+##### Section 3 : Droit de passage<a id=901></a>
 
 ###### Article R435-40
 
@@ -89444,9 +88903,9 @@ _Cite_:
   - Code de l'environnement - art. L435-9 (Ab)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=909></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=902></a>
 
-##### Section 1 : Dispositions générales<a id=910></a>
+##### Section 1 : Dispositions générales<a id=903></a>
 
 ###### Article R436-2
 
@@ -89542,9 +89001,9 @@ _Cite_:
   - Code de l'environnement - art. L436-4 (V)
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=911></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=904></a>
 
-##### Paragraphe  1 : Temps d'interdiction<a id=912></a>
+##### Paragraphe  1 : Temps d'interdiction<a id=905></a>
 
 ###### Article R436-6
 
@@ -89715,7 +89174,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Paragraphe 2 : Heures d'interdiction<a id=913></a>
+##### Paragraphe 2 : Heures d'interdiction<a id=906></a>
 
 ###### Article R436-13
 
@@ -89834,7 +89293,7 @@ _Abrogé par_:
   - Décret n°2010-1110 du 22 septembre 2010 - art. 2
 
 
-##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=914></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=907></a>
 
 ###### Article R436-18
 
@@ -89926,7 +89385,7 @@ _Cite_:
   - Code de l'environnement - art. R436-18 (V)
 
 
-##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=915></a>
+##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=908></a>
 
 ###### Article R436-21
 
@@ -89968,7 +89427,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=916></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=909></a>
 
 ###### Article R436-23
 
@@ -90225,7 +89684,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=917></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=910></a>
 
 ###### Article R436-30
 
@@ -90368,7 +89827,7 @@ _Cite_:
   - Code de l'environnement - art. R436-19 (V)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=918></a>
+##### Sous-section 6 : Dispositions diverses<a id=911></a>
 
 ###### Article R436-36
 
@@ -90425,7 +89884,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 7 : Dispositions pénales<a id=919></a>
+##### Sous-section 7 : Dispositions pénales<a id=912></a>
 
 ###### Article R436-39
 
@@ -90539,7 +89998,7 @@ _Cite_:
   - Code de l'environnement - art. L436-8 (V)
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=920></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=913></a>
 
 ###### Article R436-43
 
@@ -90566,9 +90025,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=921></a>
+##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=914></a>
 
-##### Sous-section 1 : Dispositions générales<a id=922></a>
+##### Sous-section 1 : Dispositions générales<a id=915></a>
 
 ###### Article R436-44
 
@@ -90615,7 +90074,7 @@ _Cite_:
   - Code de l'environnement - art. L436-11 (V)
 
 
-##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=923></a>
+##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=916></a>
 
 ###### Article R436-45
 
@@ -90681,7 +90140,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-57 (V)
 
 
-##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=924></a>
+##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=917></a>
 
 ###### Article R436-47
 
@@ -90912,9 +90371,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=925></a>
+##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=918></a>
 
-##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=926></a>
+##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=919></a>
 
 ###### Article R436-55
 
@@ -91081,7 +90540,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=927></a>
+##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=920></a>
 
 ###### Article R436-62
 
@@ -91207,7 +90666,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-68 (V)
 
 
-##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=928></a>
+##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=921></a>
 
 ###### Article R436-66
 
@@ -91229,7 +90688,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-16 (V)
 
 
-##### Sous-section 6 : Dispositions pénales<a id=929></a>
+##### Sous-section 6 : Dispositions pénales<a id=922></a>
 
 ###### Article R436-67
 
@@ -91289,9 +90748,9 @@ _Cite_:
   - Code de l'environnement R436-55 à R436-58, R436-60, R436-63, R436-65
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=930></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=923></a>
 
-##### Sous-section 1 : Dispositions générales<a id=931></a>
+##### Sous-section 1 : Dispositions générales<a id=924></a>
 
 ###### Article R436-69
 
@@ -91313,7 +90772,7 @@ _Cite_:
   - Code de l'environnement - art. L431-5 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=932></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=925></a>
 
 ###### Article R436-70
 
@@ -91369,7 +90828,7 @@ _Cite_:
   - Code de l'environnement - art. R436-71 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=933></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=926></a>
 
 ###### Article R436-73
 
@@ -91450,7 +90909,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Sous-section 4 : Dispositions communes<a id=934></a>
+##### Sous-section 4 : Dispositions communes<a id=927></a>
 
 ###### Article R436-77
 
@@ -91510,7 +90969,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Section 5 : Commercialisation<a id=935></a>
+##### Section 5 : Commercialisation<a id=928></a>
 
 ###### Article R436-80
 
@@ -91558,11 +91017,11 @@ _Cite_:
   - Code de l'environnement - art. L436-16
 
 
-##### Section 6 : Dispositions particulières à certaines eaux<a id=936></a>
+##### Section 6 : Dispositions particulières à certaines eaux<a id=929></a>
 
-##### Sous-section 1 : Accords internationaux<a id=937></a>
+##### Sous-section 1 : Accords internationaux<a id=930></a>
 
-##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=938></a>
+##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=931></a>
 
 ###### Article R436-82
 
@@ -91593,7 +91052,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=939></a>
+##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=932></a>
 
 ###### Article R436-84
 
@@ -91644,7 +91103,7 @@ _Cite_:
   - Code de l'environnement - art. R436-85 (V)
 
 
-##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=940></a>
+##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=933></a>
 
 ###### Article R436-87
 
@@ -91697,9 +91156,9 @@ _Cite_:
   - Code de l'environnement - art. R436-88 (V)
 
 
-##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=941></a>
+##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=934></a>
 
-##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=942></a>
+##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=935></a>
 
 ###### Article R436-90
 
@@ -91819,9 +91278,9 @@ _Cite_:
   - Code de l'environnement - art. R436-92 (V)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=943></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=936></a>
 
-##### Section 1 : Dispositions générales<a id=944></a>
+##### Section 1 : Dispositions générales<a id=937></a>
 
 ###### Article D436-1
 
@@ -91898,11 +91357,11 @@ _Cite_:
   - Code de l'environnement - art. R436-23 (V)
 
 
-#### Chapitre VII : Dispositions pénales complémentaires<a id=945></a>
+#### Chapitre VII : Dispositions pénales complémentaires<a id=938></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=946></a>
+##### Section 1 : Recherche et constatation des infractions<a id=939></a>
 
-##### Sous-section 1 : Agents compétents<a id=947></a>
+##### Sous-section 1 : Agents compétents<a id=940></a>
 
 ###### Article R437-1
 
@@ -91961,7 +91420,7 @@ _Abrogé par_:
   - Décret n°2014-813 du 17 juillet 2014 - art. 4
 
 
-##### Sous-section 5 : Saisies<a id=948></a>
+##### Sous-section 5 : Saisies<a id=941></a>
 
 ###### Article R437-4
 
@@ -92004,7 +91463,7 @@ _Cite_:
   - Code de l'environnement - art. L437-12
 
 
-##### Section 2 : Transaction<a id=949></a>
+##### Section 2 : Transaction<a id=942></a>
 
 ###### Article R437-6
 
@@ -92089,7 +91548,7 @@ _Abrogé par_:
   - Décret n°2007-598 du 24 avril 2007 - art. 2 () JORF 26 avril 2007
 
 
-##### Section 3 : Poursuites<a id=950></a>
+##### Section 3 : Poursuites<a id=943></a>
 
 ###### Article R437-10
 
@@ -92145,7 +91604,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 5 : Sanctions<a id=951></a>
+##### Section 5 : Sanctions<a id=944></a>
 
 ###### Article R437-12
 
@@ -92184,13 +91643,13 @@ _Cite_:
   - Code de l'environnement - art. L437-1
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=952></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=945></a>
 
-### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=953></a>
+### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=946></a>
 
-#### Chapitre II : Déclaration et autorisation<a id=954></a>
+#### Chapitre II : Déclaration et autorisation<a id=947></a>
 
-##### Section 1 : Autorités compétentes<a id=955></a>
+##### Section 1 : Autorités compétentes<a id=948></a>
 
 ###### Article R712-1
 
@@ -92261,7 +91720,7 @@ _Cite_:
   - Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 2 : Activités soumises à déclaration<a id=956></a>
+##### Section 2 : Activités soumises à déclaration<a id=949></a>
 
 ###### Article R712-3
 
@@ -92447,7 +91906,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 3 : Activités soumises à autorisation<a id=957></a>
+##### Section 3 : Activités soumises à autorisation<a id=950></a>
 
 ###### Article R712-9
 
@@ -92646,7 +92105,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 4 : Cas d'urgence<a id=958></a>
+##### Section 4 : Cas d'urgence<a id=951></a>
 
 ###### Article R712-15
 
@@ -92674,7 +92133,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=959></a>
+#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=952></a>
 
 ###### Article R714-1
 
@@ -92733,7 +92192,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-# ANNEXES<a id=960></a>
+# ANNEXES<a id=953></a>
 
 ###### Article Annexe I à l'article D432-4
 
