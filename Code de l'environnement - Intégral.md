@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-10-01
+Version Consolidée au 2006-10-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -26681,11 +26681,11 @@ destruction ou favoriser le repeuplement du gibier.
 III. - Le transport, la vente, la mise en vente, la détention pour la vente et l'achat des animaux vivants ou morts d'espèces
 dont la chasse est autorisée et qui sont nés et élevés en captivité sont libres toute l'année.
 
-IV. - Nonobstant les dispositions des I et III, la vente, le transport pour la vente, la mise en vente, la détention pour la
-vente et l'achat des animaux licitement tués à la chasse ou morts provenant d'élevages visés au III sont autorisés s'ils
-respectent les dispositions relatives à la traçabilité des produits prévues aux articles L. 232-1, L. 232-1-1, L. 232-2 et L.
-232-3 du code rural et si les animaux ont fait l'objet d'une inspection sanitaire conformément aux articles L. 231-1, L.
-231-2 et L. 231-3 du même code.
+IV. - Outre les dispositions des I et III, la vente, le transport pour la vente, la mise en vente, la détention pour la vente
+et l'achat des animaux licitement tués à la chasse ou morts provenant d'élevage visés au III doivent respecter les
+dispositions relatives à la traçabilité des produits prévues à l'article 18 du règlement (CE) n° 178/2002 du Parlement
+européen et du Conseil du 28 janvier 2002 et les animaux doivent avoir fait l'objet d'un contrôle officiel conformément aux
+articles L. 231-1, L. 231-2 et L. 231-3 du code rural.
 
 V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -26704,7 +26704,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 46 () JORF 6 octobre 2006
 
 _Cité par_:
 
@@ -26725,7 +26725,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural L232-1, L232-1-1, L232-2, L232-3, L231-1, L231-2, L231-3
+  - Code rural L231-1, L231-2, L231-3
+  - Règlement 178-2002 CE 2002-01-28 art. 18
 
 
 ###### Article L424-9
@@ -26733,6 +26734,8 @@ _Cite_:
 Le grand gibier tué accidentellement et en tout temps à la suite d'une collision avec un véhicule automobile peut être
 transporté sous réserve que le conducteur en ait préalablement prévenu les services de la gendarmerie nationale ou de la
 police nationale.
+
+Toute cession de ce gibier est interdite.
 
 **Liens relatifs à cet article**
 
@@ -26752,7 +26755,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 47 () JORF 6 octobre 2006
 
 
 ###### Article L424-10
@@ -29115,9 +29118,17 @@ _Abrogé par_:
 ###### Article L428-27
 
 La recherche du gibier ne peut être faite à domicile que chez les aubergistes, chez les marchands de comestibles et dans les
-lieux ouverts au public.
+lieux ouverts au public. 
+
+Les agents mentionnés aux deux premiers alinéas de l'article L. 428-20 peuvent se faire présenter tous registres, documents
+ou moyens permettant de connaître l'origine des animaux ou morceaux d'animaux détenus par tout exploitant du secteur
+alimentaire qui commercialise du gibier mort.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'environnement - art. L428-20 (VT)
 
 _Anciens textes_:
 
@@ -29126,8 +29137,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Ordonnance n°2000-914 du 18 septembre 2000
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 48 () JORF 6 octobre 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 11
 
 
 ###### Article L428-28
