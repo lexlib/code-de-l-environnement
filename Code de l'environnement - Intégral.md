@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-10-08
+Version Consolidée au 2006-10-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -587,13 +587,13 @@ Version Consolidée au 2006-10-08
           - [Section 2 : Patrimoine du conservatoire (art. R322-4 à R322-16)](#584)
             - [Sous-section 1 : Constitution et aliénations (art. R322-4 à R322-9)](#585)
             - [Sous-section 2 : Gestion (art. R322-10 à R322-16)](#586)
-          - [Section 3 : Administration (art. R322-17 à R322-37)](#587)
+          - [Section 3 : Administration (art. R322-17 à R322-37-1)](#587)
             - [Sous-section 1 : Conseil d'administration (art. R322-17 à R322-29)](#588)
             - [Sous-section 2 : Conseils de rivage (art. R322-30 à R322-36)](#589)
-            - [Sous-section 3 : Direction et personnels (art. R322-37)](#590)
+            - [Sous-section 3 : Direction et personnels (art. R322-37 à R322-37-1)](#590)
           - [Section 4 : Dispositions financières (art. R322-38 à R322-41)](#591)
           - [Section 5 : Dispositions pénales (art. R322-42)](#592)
-      - [Titre III : Parcs et réserves (art. R331-1 à R333-16)](#593)
+      - [Titre III : Parcs et réserves (art. R331-1 à R334-38)](#593)
         - [Chapitre Ier : Parcs nationaux (art. R331-1 à R331-85)](#594)
           - [Section 1 : Création et dispositions générales (art. R331-1 à R331-21)](#595)
             - [Sous-section 1 : Création du parc (art. R331-1 à R331-14)](#596)
@@ -665,295 +665,312 @@ Version Consolidée au 2006-10-08
             - [Sous-section 1 : Constatation des infractions et poursuites (art. R332-68)](#662)
             - [Sous-section 2 : Sanctions (art. R332-69 à R332-81)](#663)
         - [Chapitre III : Parcs naturels régionaux (art. R333-1 à R333-16)](#664)
-      - [Titre IV : Sites (art. R341-1 à R341-31)](#665)
-        - [Chapitre Ier : Sites inscrits et classés (art. R341-1 à R341-31)](#666)
-          - [Section 1 : Inventaire et classement, modifications (art. R341-1 à R341-15)](#667)
-            - [Sous-section 1 : Inventaire et classement (art. R341-1 à R341-8)](#668)
-            - [Sous-section 2 : Modifications de l'état ou de l'aspect d'un site inscrit ou classé (art. R341-9 à R341-13)](#669)
-              - [Paragraphe 1 : Sites inscrits (art. R341-9)](#670)
-              - [Paragraphe 2 : Sites classés ou en instance de classement (art. R*341-12 à R341-13)](#671)
-            - [Sous-section 3 : Dispositions financières (art. R341-14 à R341-15)](#672)
-          - [Section 2 : Organismes (art. R341-16 à R341-31)](#673)
-            - [Sous-section 1 : Commission départementale de la nature, des paysages et des sites (art. R341-16 à R341-25)](#674)
-            - [Sous-section 2 : Commission supérieure des sites, perspectives et paysages (art. R341-28 à R341-31)](#675)
-      - [Titre V : Paysages (art. R350-1 à R350-16)](#676)
-      - [Titre VI : Accès à la nature (art. R362-1 à R365-3)](#677)
-        - [Chapitre II : Circulation motorisée (art. R362-1 à R362-5)](#678)
-        - [Chapitre V : Camping et caravanage (art. R365-1 à R365-3)](#679)
-    - [Livre IV : Faune et flore (art. R411-1 à R437-13)](#680)
-      - [Titre Ier : Protection de la faune et de la flore (art. R411-1 à D416-8)](#681)
-        - [Chapitre Ier : Préservation et surveillance du patrimoine biologique (art. R411-1 à R411-30)](#682)
-          - [Section 1 : Préservation du patrimoine biologique (art. R411-1 à R411-21)](#683)
-            - [Sous-section 1 : Mesures de protection (art. R411-1 à R411-5)](#684)
-            - [Sous-section 2 : Autorisation de capture des espèces protégées (art. R*411-7 à R411-14)](#685)
-            - [Sous-section 3 : Protection des biotopes (art. R411-15 à R411-17)](#686)
-            - [Sous-section 4 : Réglementation particulière aux produits antiparasitaires et assimilés (art. R411-18)](#687)
-            - [Sous-section 5 : Prise de vues ou de son (art. R411-19 à R411-21)](#688)
-          - [Section 3 : Conseil scientifique régional du patrimoine naturel (art. R411-22 à R411-30)](#689)
-        - [Chapitre II : Activités soumises à autorisation (art. R412-1 à R412-10)](#690)
-          - [Section 1 : Régime général d'autorisation (art. R412-1 à R412-7)](#691)
-            - [Sous-section 1 : Autorisation (art. R412-2 à R412-6)](#692)
-            - [Sous-section 2 : Contrôle (art. R412-7)](#693)
-          - [Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces (art. R412-8 à R412-10)](#694)
-        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. R413-1 à R413-51)](#695)
-          - [Section 1 : Etablissements soumis à autorisation d'ouverture autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée (art. R413-3 à R413-23)](#696)
-            - [Sous-section 1 : Certificat de capacité (art. R413-3 à R413-7)](#697)
-            - [Sous-section 2 : Autorisations d'ouverture des établissements (art. R413-8 à R413-21)](#698)
-              - [Paragraphe 1 : Demande d'autorisation (art. R413-10 à R413-14)](#699)
-              - [Paragraphe 2 : Instruction pour les établissements de la première catégorie (art. R413-15 à R413-20)](#700)
-              - [Paragraphe 3 : Instruction pour les établissements de la deuxième catégorie (art. R413-21)](#701)
-            - [Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant (art. R413-22 à R413-23)](#702)
-          - [Section 2 : Autorisation d'ouverture pour les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée (art. R413-24 à R413-39)](#703)
-            - [Sous-section 1 : Certificat de capacité (art. R413-25 à R413-27)](#704)
-            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R413-28 à R413-37)](#705)
-              - [Paragraphe 1 : Demande d'autorisation (art. R413-31 à R413-34)](#706)
-              - [Paragraphe 2 : Instruction de la demande (art. R413-35 à R413-37)](#707)
-            - [Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant (art. R413-38 à R413-39)](#708)
-          - [Section 3 : Etablissements soumis à déclaration (art. R413-40 à R413-41)](#709)
-          - [Section 4 : Contrôle de l'autorité administrative (art. R413-42 à R413-44)](#710)
-          - [Section 5 : Sanctions administratives (art. R413-45 à R413-51)](#711)
-            - [Sous-section 1 : Dispositions applicables en cas d'absence d'autorisation ou de déclaration (art. R413-45 à R413-47)](#712)
-            - [Sous-section 2 : Dispositions applicables en cas de méconnaissance des prescriptions imposées (art. R413-48 à R413-49)](#713)
-            - [Sous-section 3 : Dispositions communes (art. R413-50 à R413-51)](#714)
-        - [Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages (art. R414-1 à R414-24)](#715)
-          - [Section 1 : Sites Natura 2000 (art. R414-1 à R414-24)](#716)
-            - [Sous-section 1 : Dispositions communes (art. R414-1 à R414-2)](#717)
-            - [Sous-section 2 : Procédure de désignation des sites Natura 2000 (art. R414-3 à R414-7)](#718)
-            - [Sous-section 3 : Dispositions relatives aux documents d'objectifs. (art. R414-8 à R414-11)](#719)
-              - [Paragraphe 1 : Comité de pilotage. (art. R414-8 à R414-8-2)](#720)
-              - [Paragraphe 2 : Elaboration et modification. (art. R414-9 à R414-10-1)](#721)
-              - [Paragraphe 3 : Contenu. (art. R414-11)](#722)
-            - [Sous-section 4 : Dispositions relatives aux chartes et aux contrats Natura 2000 (art. R414-12 à R414-18)](#723)
-              - [Paragraphe 1 : Charte Natura 2000 (art. R414-12 à R414-12-1)](#724)
-              - [Paragraphe 2 : Contrat Natura 2000 (art. R414-13 à R414-17)](#725)
-              - [Paragraphe 3 : Dispositions communes (art. R414-18)](#726)
-            - [Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation (art. R414-19 à R414-24)](#727)
-        - [Chapitre V : Dispositions pénales (art. R415-1 à R415-3)](#728)
-          - [Section 2 : Sanctions (art. R415-1 à R415-3)](#729)
-            - [Sous-section 1 : Préservation du patrimoine biologique (art. R415-1 à R415-2)](#730)
-            - [Sous-section 2 : Activités soumises à autorisation (art. R415-3)](#731)
-        - [Chapitre VI : Conservatoires botaniques nationaux (art. D416-1 à D416-8)](#732)
-          - [Section 1 : Missions et agrément des conservatoires botaniques nationaux (art. D416-1 à R*416-5)](#733)
-          - [Section 2 : Commission des conservatoires botaniques nationaux (art. D416-7 à D416-8)](#734)
-      - [Titre II : Chasse (art. R421-1 à R429-21)](#735)
-        - [Chapitre Ier : Organisation de la chasse (art. R421-1 à D421-54)](#736)
-          - [Section 1 : Conseil national de la chasse et de la faune sauvage (art. R421-1 à R421-6)](#737)
-          - [Section 2 : Office national de la chasse et de la faune sauvage (art. R421-8 à R421-28)](#738)
-            - [Sous-section 2 : Administration générale (art. R421-8 à R421-24)](#739)
-              - [Paragraphe 1 : Conseil d'administration (art. R421-8 à R421-13)](#740)
-              - [Paragraphe 2 : Directeur général (art. R421-14)](#741)
-              - [Paragraphe 3 : Conseil scientifique (art. R421-15 à R421-16)](#742)
-              - [Paragraphe 4 : Personnels (art. R421-17 à R421-24)](#743)
-            - [Sous-section 3 : Dispositions financières (art. R421-25 à R421-26)](#744)
-            - [Sous-section 4 : Contrôle (art. R421-27 à R421-28)](#745)
-          - [Section 3 : Commission départementale de la chasse et de la faune sauvage (art. R421-29 à R421-32)](#746)
-          - [Section 4 : Fédérations départementales des chasseurs (art. R421-33 à R421-39)](#747)
-            - [Sous-section 1 : Adhésion et participations exigibles des adhérents (art. R421-33 à R421-34)](#748)
-            - [Sous-section 2 : Régime budgétaire et comptable (art. R421-35 à R421-38)](#749)
-            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la fédération (art. R421-39)](#750)
-          - [Section 5 : Fédérations interdépartementales des chasseurs (art. R421-40 à R421-42)](#751)
-          - [Section 6 : Fédérations régionales des chasseurs (art. R421-43 à R421-44)](#752)
-          - [Section 7 : Fédération nationale des chasseurs (art. R421-45 à R421-50)](#753)
-            - [Sous-section 1 : Cotisations et contributions des fédérations départementales (art. R421-45 à R421-47)](#754)
-            - [Sous-section 2 : Régime budgétaire et comptable (art. R421-48 à R421-49)](#755)
-            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs (art. R421-50)](#756)
-          - [Section 8 : Observatoire national de la faune sauvage et de ses habitats. (art. D421-51 à D421-54)](#757)
-        - [Chapitre II : Territoire de chasse (art. R422-1 à D422-127)](#758)
-          - [Section 1 : Associations communales et intercommunales de chasse agréées (art. R422-1 à R422-81)](#759)
-            - [Sous-section 1 : Dispositions générales (art. R422-1 à R422-4)](#760)
-            - [Sous-section 2 : Institution des associations communales de chasse agréées (art. R422-5 à R422-16)](#761)
-              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées (art. R422-5 à R422-11)](#762)
-              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées (art. R422-12 à R422-16)](#763)
-            - [Sous-section 3 : Modalités de constitution (art. R422-17 à R422-41)](#764)
-              - [Paragraphe 1 : Enquête (art. R422-17 à R422-32)](#765)
-              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée (art. R422-33 à R422-41)](#766)
-            - [Sous-section 4 : Territoire (art. R422-42 à R422-61)](#767)
-              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition (art. R422-42 à R422-44)](#768)
-              - [Paragraphe 3 : Apports (art. R422-45 à R422-51)](#769)
-              - [Paragraphe 4 : Modification du territoire de l'association (art. R422-52 à R422-58)](#770)
-              - [Paragraphe 5 : Enclaves (art. R422-59 à R422-61)](#771)
-            - [Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées (art. R422-62 à R422-64)](#772)
-            - [Sous-section 6 : Réserves et garderies (art. R422-65 à R422-68)](#773)
-            - [Sous-section 7 : Associations intercommunales de chasse agréées (art. R422-69 à R422-78)](#774)
-            - [Sous-section 8 : Dispositions diverses (art. R422-79 à R422-80)](#775)
-            - [Sous-section 9 : Cas particuliers de la Guadeloupe, de la Martinique et de la Réunion (art. R422-81)](#776)
-          - [Section 2 : Réserves de chasse et de faune sauvage (art. R422-82 à R422-94)](#777)
-            - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage (art. R422-82 à R422-85)](#778)
-            - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage (art. R422-86 à R422-91)](#779)
-            - [Sous-section 3 : Réserves nationales de chasse et de faune sauvage (art. R*422-93 à R422-94)](#780)
-          - [Section 3 : Chasse maritime (art. R422-95)](#781)
-          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. D422-96 à D422-127)](#782)
-            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. D422-96)](#783)
-            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial (art. D422-97 à D422-114)](#784)
-              - [Paragraphe 1 : Conditions d'exploitation en amont de la limite de salure des eaux (art. D422-97 à D422-113)](#785)
-              - [Paragraphe 2 : Conditions d'exploitation en aval de la limite de salure des eaux (art. D422-114)](#786)
-            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime (art. D422-115 à D422-127)](#787)
-        - [Chapitre III : Permis de chasser (art. R423-1 à R423-27)](#788)
-          - [Section 1 : Examen pour la délivrance du permis de chasser (art. R423-2 à R423-8)](#789)
-            - [Sous-section 1 : Examen pour la délivrance du permis de chasser (art. R423-2 à R423-7)](#790)
-            - [Sous-section 2 : Autorisation de chasser accompagné (art. R423-8)](#791)
-          - [Section 2 : Délivrance et validation du permis de chasser (art. R423-9 à R423-25)](#792)
-            - [Sous-section 1 : Délivrance (art. R423-9 à R423-11)](#793)
-            - [Sous-section 2 : Validation du permis de chasser (art. R423-12 à R423-18)](#794)
-            - [Sous-section 3 : Modalités de validation du permis de chasser (art. R423-19 à R423-21)](#795)
-            - [Sous-section 4 : Dispositions propres à l'Ile-de-France (art. R423-22 à R423-23)](#796)
-            - [Sous-section 6 : Refus et exclusions (art. R423-24 à R423-25)](#797)
-          - [Section 4 : Dispositions diverses (art. R423-26 à R423-27)](#798)
-        - [Chapitre IV : Exercice de la chasse (art. R424-1 à R424-25)](#799)
-          - [Section 1 : Protection du gibier (art. R424-1 à R424-3)](#800)
-          - [Section 2 : Temps de chasse (art. R424-4 à R424-13)](#801)
-            - [Sous-section 1 : Chasse à courre, à cor, à cri et au vol (art. R424-4 à R424-5)](#802)
-            - [Sous-section 2 : Chasse à tir (art. R424-6 à R424-13)](#803)
-              - [Paragraphe 1 : Cas général (art. R424-6 à R424-9)](#804)
-              - [Paragraphe 2 : Cas particuliers de la Guadeloupe, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon (art. R424-10 à R424-13)](#805)
-          - [Section 3 : Modes et moyens de chasse (art. R424-14 à R424-19)](#806)
-          - [Section 4 : Commercialisation et transport du gibier (art. R424-20 à R424-22)](#807)
-            - [Sous-section 1 : Interdiction permanente (art. R424-20 à R424-22)](#808)
-          - [Section 5 : Dispositions spéciales à la chasse maritime (art. R424-24 à R424-25)](#809)
-        - [Chapitre V : Gestion (art. R425-1 à R425-20)](#810)
-          - [Section 1 : Schéma départemental de gestion cynégétique (art. R425-1)](#811)
-          - [Section 3 : Plan de chasse (art. R425-2 à R425-17)](#812)
-            - [Sous-section 1 : Dispositions générales (art. R425-2 à R425-13)](#813)
-            - [Sous-section 2 : Dispositions particulières à la Corse (art. R425-14 à R425-17)](#814)
-          - [Section 4 : Prélèvement maximal autorisé (art. R425-18 à R425-20)](#815)
-        - [Chapitre VI : Indemnisation des dégâts de gibiers (art. R426-1 à R426-29)](#816)
-          - [Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles (art. R426-1 à R426-19)](#817)
-            - [Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier (art. R426-1 à R426-2)](#818)
-            - [Sous-section 2 : Instances consultatives pour l'indemnisation des dégâts de gibier (art. R426-3 à R426-9)](#819)
-              - [Paragraphe 1 : Commission nationale d'indemnisation des dégâts de gibier (art. R426-3 à R426-5)](#820)
-              - [Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage (art. R426-6 à R426-9)](#821)
-            - [Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier (art. R426-10 à R426-11)](#822)
-            - [Sous-section 4 : Procédure d'indemnisation (art. R426-12 à R426-18)](#823)
-            - [Sous-section 5 : Dispositions diverses (art. R426-19)](#824)
-          - [Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes (art. R426-20 à R426-29)](#825)
-        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R427-1 à R427-28)](#826)
-          - [Section 1 : Mesures administratives (art. R427-1 à R427-5)](#827)
-            - [Sous-section 1 : Louveterie (art. R427-1 à R427-3)](#828)
-            - [Sous-section 2 : Battues administratives (art. R427-4)](#829)
-            - [Sous-section 3 : Sécurité aérienne (art. R427-5)](#830)
-          - [Section 2 : Droits des particuliers (art. R427-6 à R427-27)](#831)
-            - [Sous-section 1 : Classement des animaux nuisibles (art. R427-6 à R427-7)](#832)
-            - [Sous-section 2 : Exercice du droit de destruction (art. R427-8)](#833)
-            - [Sous-section 3 : Modalités de destruction (art. R427-9 à R427-25)](#834)
-              - [Paragraphe 1 : Toxiques (art. R427-10)](#835)
-              - [Paragraphe 2 : Déterrage (art. R427-11 à R427-12)](#836)
-              - [Paragraphe 3 : Piégeage (art. R*427-15 à R427-17)](#837)
-              - [Paragraphe 4 : Tir (art. R427-18 à R427-24)](#838)
-              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol (art. R427-25)](#839)
-            - [Sous-section 4 : Lâcher (art. R427-26)](#840)
-            - [Sous-section 5 : Mesures diverses (art. R427-27)](#841)
-          - [Section 3 : Commercialisation et transport (art. R427-28)](#842)
-        - [Chapitre VIII : Dispositions pénales (art. R428-1 à R428-24)](#843)
-          - [Section 1 : Peines (art. R428-1 à R428-22)](#844)
-            - [Sous-section 1 : Territoire (art. R428-1 à R428-3)](#845)
-            - [Sous-section 2 : Permis de chasser (art. R428-4 à R428-5)](#846)
-            - [Sous-section 3 : Exercice de la chasse (art. R428-6 à R428-21)](#847)
-              - [Paragraphe 1 : Protection du gibier (art. R428-6 à R428-7)](#848)
-              - [Paragraphe 2 : Temps de chasse (art. R428-8 à R428-9)](#849)
-              - [Paragraphe 3 : Plan de chasse (art. R428-10 à R428-11)](#850)
-              - [Paragraphe 4 : Modes et moyens (art. R428-12 à R428-13)](#851)
-              - [Paragraphe 5 : Transport et commercialisation du gibier (art. R428-14 à R428-21)](#852)
-            - [Sous-section 4 : Destruction des animaux nuisibles et louveterie. (art. R428-22)](#853)
-          - [Section 2 : Circonstances aggravantes et récidive. (art. R428-23 à R428-24)](#854)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R429-1 à R429-21)](#855)
-          - [Section 2 : Exercice de la chasse (art. R429-2 à R429-7)](#856)
-            - [Sous-section 1 : Temps de chasse (art. R429-2 à R429-5)](#857)
-            - [Sous-section 2 : Plan de chasse (art. R429-6)](#858)
-            - [Sous-section 3 : Modes et moyens de chasse (art. R429-7)](#859)
-          - [Section 3 : Indemnisation des dégâts de gibier (art. R429-8 à R429-14)](#860)
-            - [Sous-section 1 : Régime général (art. R429-8 à R429-14)](#861)
-          - [Section 4 : Pénalités (art. R429-18 à R429-21)](#862)
-            - [Sous-section 1 : Peines (art. R429-18 à R429-20)](#863)
-              - [Paragraphe 1 : Territoire (art. R429-18 à R429-19)](#864)
-              - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#865)
-            - [Sous-section 2 : Récidive (art. R429-21)](#866)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#867)
-        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-37)](#868)
-          - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#869)
-          - [Section 2 : Piscicultures (art. R431-7 à R431-37)](#870)
-            - [Sous-section 1 : Dispositions générales (art. R431-7)](#871)
-            - [Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#872)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. D432-4 à R432-18)](#873)
-          - [Section 3 : Obligations relatives aux ouvrages (art. D432-4 à R432-3)](#874)
-            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#875)
-          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#876)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#877)
-          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#878)
-        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#879)
-          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#880)
-            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#881)
-            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#882)
-              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#883)
-              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#884)
-              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#885)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#886)
-              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#887)
-              - [Paragraphe 2 : Contrôles (art. R434-24)](#888)
-          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#889)
-          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#890)
-        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#891)
-          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#892)
-            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#893)
-            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#894)
-            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#895)
-            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#896)
-          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#897)
-            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#898)
-            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#899)
-            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#900)
-          - [Section 3 : Droit de passage (art. R435-40)](#901)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#902)
-          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#903)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#904)
-              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#905)
-              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#906)
-            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#907)
-            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#908)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#909)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#910)
-            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#911)
-            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#912)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#913)
-          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#914)
-            - [Sous-section 1 : Dispositions générales (art. R436-44)](#915)
-            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#916)
-            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#917)
-            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#918)
-              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#919)
-              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#920)
-            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#921)
-            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#922)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#923)
-            - [Sous-section 1 : Dispositions générales (art. R436-69)](#924)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#925)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#926)
-            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#927)
-          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#928)
-          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#929)
-            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#930)
-              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#931)
-              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#932)
-              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#933)
-            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#934)
-              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#935)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#936)
-          - [Section 1 : Dispositions générales (art. D436-1)](#937)
-        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#938)
-          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#939)
-            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#940)
-            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#941)
-          - [Section 2 : Transaction (art. R437-6 à R437-9)](#942)
-          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#943)
-          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#944)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#945)
-      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#946)
-        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#947)
-          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#948)
-          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#949)
-          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#950)
-          - [Section 4 : Cas d'urgence (art. R712-15)](#951)
-        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#952)
-  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#953)
+        - [Chapitre IV : Agence des aires marines protégées et parcs naturels marins (art. R334-1 à R334-38)](#665)
+          - [Section 1 : Agence des aires marines protégées (art. R334-1 à R334-26)](#666)
+            - [Sous-section 1 : Dispositions générales (art. R334-1 à R334-3)](#667)
+            - [Sous-section 2 : Le conseil d'administration (art. R334-4 à R334-13)](#668)
+              - [Paragraphe 1 : Composition (art. R334-4 à R334-7)](#669)
+              - [Paragraphe 2 : Attributions (art. R334-8 à R334-10)](#670)
+              - [Paragraphe 3 : Fonctionnement (art. R334-11 à R334-13)](#671)
+            - [Sous-section 3 : Le directeur (art. R334-14 à R334-15)](#672)
+            - [Sous-section 4 : Le conseil scientifique (art. R334-16 à R334-17)](#673)
+            - [Sous-section 5 : Dispositions financières et comptables (art. R334-18 à R334-22)](#674)
+            - [Sous-section 6 : Contrôle (art. R334-23 à R334-26)](#675)
+          - [Section 2 : Les parcs naturels marins (art. R334-27 à R334-38)](#676)
+            - [Sous-section 1 : Création (art. R334-27 à R334-30)](#677)
+            - [Sous-section 2 : Administration (art. R334-31 à R334-38)](#678)
+              - [Paragraphe 1 : Les conseils de gestion (art. R334-31 à R334-35)](#679)
+              - [Paragraphe 2 : Le délégué du directeur (art. R334-36 à R334-37)](#680)
+              - [Paragraphe 3 : Dispositions financières (art. R334-38)](#681)
+      - [Titre IV : Sites (art. R341-1 à R341-31)](#682)
+        - [Chapitre Ier : Sites inscrits et classés (art. R341-1 à R341-31)](#683)
+          - [Section 1 : Inventaire et classement, modifications (art. R341-1 à R341-15)](#684)
+            - [Sous-section 1 : Inventaire et classement (art. R341-1 à R341-8)](#685)
+            - [Sous-section 2 : Modifications de l'état ou de l'aspect d'un site inscrit ou classé (art. R341-9 à R341-13)](#686)
+              - [Paragraphe 1 : Sites inscrits (art. R341-9)](#687)
+              - [Paragraphe 2 : Sites classés ou en instance de classement (art. R*341-12 à R341-13)](#688)
+            - [Sous-section 3 : Dispositions financières (art. R341-14 à R341-15)](#689)
+          - [Section 2 : Organismes (art. R341-16 à R341-31)](#690)
+            - [Sous-section 1 : Commission départementale de la nature, des paysages et des sites (art. R341-16 à R341-25)](#691)
+            - [Sous-section 2 : Commission supérieure des sites, perspectives et paysages (art. R341-28 à R341-31)](#692)
+      - [Titre V : Paysages (art. R350-1 à R350-16)](#693)
+      - [Titre VI : Accès à la nature (art. R362-1 à R365-3)](#694)
+        - [Chapitre II : Circulation motorisée (art. R362-1 à R362-5)](#695)
+        - [Chapitre V : Camping et caravanage (art. R365-1 à R365-3)](#696)
+    - [Livre IV : Faune et flore (art. R411-1 à R437-13)](#697)
+      - [Titre Ier : Protection de la faune et de la flore (art. R411-1 à D416-8)](#698)
+        - [Chapitre Ier : Préservation et surveillance du patrimoine biologique (art. R411-1 à R411-30)](#699)
+          - [Section 1 : Préservation du patrimoine biologique (art. R411-1 à R411-21)](#700)
+            - [Sous-section 1 : Mesures de protection (art. R411-1 à R411-5)](#701)
+            - [Sous-section 2 : Autorisation de capture des espèces protégées (art. R*411-7 à R411-14)](#702)
+            - [Sous-section 3 : Protection des biotopes (art. R411-15 à R411-17)](#703)
+            - [Sous-section 4 : Réglementation particulière aux produits antiparasitaires et assimilés (art. R411-18)](#704)
+            - [Sous-section 5 : Prise de vues ou de son (art. R411-19 à R411-21)](#705)
+          - [Section 3 : Conseil scientifique régional du patrimoine naturel (art. R411-22 à R411-30)](#706)
+        - [Chapitre II : Activités soumises à autorisation (art. R412-1 à R412-10)](#707)
+          - [Section 1 : Régime général d'autorisation (art. R412-1 à R412-7)](#708)
+            - [Sous-section 1 : Autorisation (art. R412-2 à R412-6)](#709)
+            - [Sous-section 2 : Contrôle (art. R412-7)](#710)
+          - [Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces (art. R412-8 à R412-10)](#711)
+        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. R413-1 à R413-51)](#712)
+          - [Section 1 : Etablissements soumis à autorisation d'ouverture autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée (art. R413-3 à R413-23)](#713)
+            - [Sous-section 1 : Certificat de capacité (art. R413-3 à R413-7)](#714)
+            - [Sous-section 2 : Autorisations d'ouverture des établissements (art. R413-8 à R413-21)](#715)
+              - [Paragraphe 1 : Demande d'autorisation (art. R413-10 à R413-14)](#716)
+              - [Paragraphe 2 : Instruction pour les établissements de la première catégorie (art. R413-15 à R413-20)](#717)
+              - [Paragraphe 3 : Instruction pour les établissements de la deuxième catégorie (art. R413-21)](#718)
+            - [Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant (art. R413-22 à R413-23)](#719)
+          - [Section 2 : Autorisation d'ouverture pour les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée (art. R413-24 à R413-39)](#720)
+            - [Sous-section 1 : Certificat de capacité (art. R413-25 à R413-27)](#721)
+            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R413-28 à R413-37)](#722)
+              - [Paragraphe 1 : Demande d'autorisation (art. R413-31 à R413-34)](#723)
+              - [Paragraphe 2 : Instruction de la demande (art. R413-35 à R413-37)](#724)
+            - [Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant (art. R413-38 à R413-39)](#725)
+          - [Section 3 : Etablissements soumis à déclaration (art. R413-40 à R413-41)](#726)
+          - [Section 4 : Contrôle de l'autorité administrative (art. R413-42 à R413-44)](#727)
+          - [Section 5 : Sanctions administratives (art. R413-45 à R413-51)](#728)
+            - [Sous-section 1 : Dispositions applicables en cas d'absence d'autorisation ou de déclaration (art. R413-45 à R413-47)](#729)
+            - [Sous-section 2 : Dispositions applicables en cas de méconnaissance des prescriptions imposées (art. R413-48 à R413-49)](#730)
+            - [Sous-section 3 : Dispositions communes (art. R413-50 à R413-51)](#731)
+        - [Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages (art. R414-1 à R414-24)](#732)
+          - [Section 1 : Sites Natura 2000 (art. R414-1 à R414-24)](#733)
+            - [Sous-section 1 : Dispositions communes (art. R414-1 à R414-2)](#734)
+            - [Sous-section 2 : Procédure de désignation des sites Natura 2000 (art. R414-3 à R414-7)](#735)
+            - [Sous-section 3 : Dispositions relatives aux documents d'objectifs. (art. R414-8 à R414-11)](#736)
+              - [Paragraphe 1 : Comité de pilotage. (art. R414-8 à R414-8-2)](#737)
+              - [Paragraphe 2 : Elaboration et modification. (art. R414-9 à R414-10-1)](#738)
+              - [Paragraphe 3 : Contenu. (art. R414-11)](#739)
+            - [Sous-section 4 : Dispositions relatives aux chartes et aux contrats Natura 2000 (art. R414-12 à R414-18)](#740)
+              - [Paragraphe 1 : Charte Natura 2000 (art. R414-12 à R414-12-1)](#741)
+              - [Paragraphe 2 : Contrat Natura 2000 (art. R414-13 à R414-17)](#742)
+              - [Paragraphe 3 : Dispositions communes (art. R414-18)](#743)
+            - [Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation (art. R414-19 à R414-24)](#744)
+        - [Chapitre V : Dispositions pénales (art. R415-1 à R415-3)](#745)
+          - [Section 2 : Sanctions (art. R415-1 à R415-3)](#746)
+            - [Sous-section 1 : Préservation du patrimoine biologique (art. R415-1 à R415-2)](#747)
+            - [Sous-section 2 : Activités soumises à autorisation (art. R415-3)](#748)
+        - [Chapitre VI : Conservatoires botaniques nationaux (art. D416-1 à D416-8)](#749)
+          - [Section 1 : Missions et agrément des conservatoires botaniques nationaux (art. D416-1 à R*416-5)](#750)
+          - [Section 2 : Commission des conservatoires botaniques nationaux (art. D416-7 à D416-8)](#751)
+      - [Titre II : Chasse (art. R421-1 à R429-21)](#752)
+        - [Chapitre Ier : Organisation de la chasse (art. R421-1 à D421-54)](#753)
+          - [Section 1 : Conseil national de la chasse et de la faune sauvage (art. R421-1 à R421-6)](#754)
+          - [Section 2 : Office national de la chasse et de la faune sauvage (art. R421-8 à R421-28)](#755)
+            - [Sous-section 2 : Administration générale (art. R421-8 à R421-24)](#756)
+              - [Paragraphe 1 : Conseil d'administration (art. R421-8 à R421-13)](#757)
+              - [Paragraphe 2 : Directeur général (art. R421-14)](#758)
+              - [Paragraphe 3 : Conseil scientifique (art. R421-15 à R421-16)](#759)
+              - [Paragraphe 4 : Personnels (art. R421-17 à R421-24)](#760)
+            - [Sous-section 3 : Dispositions financières (art. R421-25 à R421-26)](#761)
+            - [Sous-section 4 : Contrôle (art. R421-27 à R421-28)](#762)
+          - [Section 3 : Commission départementale de la chasse et de la faune sauvage (art. R421-29 à R421-32)](#763)
+          - [Section 4 : Fédérations départementales des chasseurs (art. R421-33 à R421-39)](#764)
+            - [Sous-section 1 : Adhésion et participations exigibles des adhérents (art. R421-33 à R421-34)](#765)
+            - [Sous-section 2 : Régime budgétaire et comptable (art. R421-35 à R421-38)](#766)
+            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la fédération (art. R421-39)](#767)
+          - [Section 5 : Fédérations interdépartementales des chasseurs (art. R421-40 à R421-42)](#768)
+          - [Section 6 : Fédérations régionales des chasseurs (art. R421-43 à R421-44)](#769)
+          - [Section 7 : Fédération nationale des chasseurs (art. R421-45 à R421-50)](#770)
+            - [Sous-section 1 : Cotisations et contributions des fédérations départementales (art. R421-45 à R421-47)](#771)
+            - [Sous-section 2 : Régime budgétaire et comptable (art. R421-48 à R421-49)](#772)
+            - [Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs (art. R421-50)](#773)
+          - [Section 8 : Observatoire national de la faune sauvage et de ses habitats. (art. D421-51 à D421-54)](#774)
+        - [Chapitre II : Territoire de chasse (art. R422-1 à D422-127)](#775)
+          - [Section 1 : Associations communales et intercommunales de chasse agréées (art. R422-1 à R422-81)](#776)
+            - [Sous-section 1 : Dispositions générales (art. R422-1 à R422-4)](#777)
+            - [Sous-section 2 : Institution des associations communales de chasse agréées (art. R422-5 à R422-16)](#778)
+              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées (art. R422-5 à R422-11)](#779)
+              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées (art. R422-12 à R422-16)](#780)
+            - [Sous-section 3 : Modalités de constitution (art. R422-17 à R422-41)](#781)
+              - [Paragraphe 1 : Enquête (art. R422-17 à R422-32)](#782)
+              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée (art. R422-33 à R422-41)](#783)
+            - [Sous-section 4 : Territoire (art. R422-42 à R422-61)](#784)
+              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition (art. R422-42 à R422-44)](#785)
+              - [Paragraphe 3 : Apports (art. R422-45 à R422-51)](#786)
+              - [Paragraphe 4 : Modification du territoire de l'association (art. R422-52 à R422-58)](#787)
+              - [Paragraphe 5 : Enclaves (art. R422-59 à R422-61)](#788)
+            - [Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées (art. R422-62 à R422-64)](#789)
+            - [Sous-section 6 : Réserves et garderies (art. R422-65 à R422-68)](#790)
+            - [Sous-section 7 : Associations intercommunales de chasse agréées (art. R422-69 à R422-78)](#791)
+            - [Sous-section 8 : Dispositions diverses (art. R422-79 à R422-80)](#792)
+            - [Sous-section 9 : Cas particuliers de la Guadeloupe, de la Martinique et de la Réunion (art. R422-81)](#793)
+          - [Section 2 : Réserves de chasse et de faune sauvage (art. R422-82 à R422-94)](#794)
+            - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage (art. R422-82 à R422-85)](#795)
+            - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage (art. R422-86 à R422-91)](#796)
+            - [Sous-section 3 : Réserves nationales de chasse et de faune sauvage (art. R*422-93 à R422-94)](#797)
+          - [Section 3 : Chasse maritime (art. R422-95)](#798)
+          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. D422-96 à D422-127)](#799)
+            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. D422-96)](#800)
+            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial (art. D422-97 à D422-114)](#801)
+              - [Paragraphe 1 : Conditions d'exploitation en amont de la limite de salure des eaux (art. D422-97 à D422-113)](#802)
+              - [Paragraphe 2 : Conditions d'exploitation en aval de la limite de salure des eaux (art. D422-114)](#803)
+            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime (art. D422-115 à D422-127)](#804)
+        - [Chapitre III : Permis de chasser (art. R423-1 à R423-27)](#805)
+          - [Section 1 : Examen pour la délivrance du permis de chasser (art. R423-2 à R423-8)](#806)
+            - [Sous-section 1 : Examen pour la délivrance du permis de chasser (art. R423-2 à R423-7)](#807)
+            - [Sous-section 2 : Autorisation de chasser accompagné (art. R423-8)](#808)
+          - [Section 2 : Délivrance et validation du permis de chasser (art. R423-9 à R423-25)](#809)
+            - [Sous-section 1 : Délivrance (art. R423-9 à R423-11)](#810)
+            - [Sous-section 2 : Validation du permis de chasser (art. R423-12 à R423-18)](#811)
+            - [Sous-section 3 : Modalités de validation du permis de chasser (art. R423-19 à R423-21)](#812)
+            - [Sous-section 4 : Dispositions propres à l'Ile-de-France (art. R423-22 à R423-23)](#813)
+            - [Sous-section 6 : Refus et exclusions (art. R423-24 à R423-25)](#814)
+          - [Section 4 : Dispositions diverses (art. R423-26 à R423-27)](#815)
+        - [Chapitre IV : Exercice de la chasse (art. R424-1 à R424-25)](#816)
+          - [Section 1 : Protection du gibier (art. R424-1 à R424-3)](#817)
+          - [Section 2 : Temps de chasse (art. R424-4 à R424-13)](#818)
+            - [Sous-section 1 : Chasse à courre, à cor, à cri et au vol (art. R424-4 à R424-5)](#819)
+            - [Sous-section 2 : Chasse à tir (art. R424-6 à R424-13)](#820)
+              - [Paragraphe 1 : Cas général (art. R424-6 à R424-9)](#821)
+              - [Paragraphe 2 : Cas particuliers de la Guadeloupe, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon (art. R424-10 à R424-13)](#822)
+          - [Section 3 : Modes et moyens de chasse (art. R424-14 à R424-19)](#823)
+          - [Section 4 : Commercialisation et transport du gibier (art. R424-20 à R424-22)](#824)
+            - [Sous-section 1 : Interdiction permanente (art. R424-20 à R424-22)](#825)
+          - [Section 5 : Dispositions spéciales à la chasse maritime (art. R424-24 à R424-25)](#826)
+        - [Chapitre V : Gestion (art. R425-1 à R425-20)](#827)
+          - [Section 1 : Schéma départemental de gestion cynégétique (art. R425-1)](#828)
+          - [Section 3 : Plan de chasse (art. R425-2 à R425-17)](#829)
+            - [Sous-section 1 : Dispositions générales (art. R425-2 à R425-13)](#830)
+            - [Sous-section 2 : Dispositions particulières à la Corse (art. R425-14 à R425-17)](#831)
+          - [Section 4 : Prélèvement maximal autorisé (art. R425-18 à R425-20)](#832)
+        - [Chapitre VI : Indemnisation des dégâts de gibiers (art. R426-1 à R426-29)](#833)
+          - [Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles (art. R426-1 à R426-19)](#834)
+            - [Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier (art. R426-1 à R426-2)](#835)
+            - [Sous-section 2 : Instances consultatives pour l'indemnisation des dégâts de gibier (art. R426-3 à R426-9)](#836)
+              - [Paragraphe 1 : Commission nationale d'indemnisation des dégâts de gibier (art. R426-3 à R426-5)](#837)
+              - [Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage (art. R426-6 à R426-9)](#838)
+            - [Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier (art. R426-10 à R426-11)](#839)
+            - [Sous-section 4 : Procédure d'indemnisation (art. R426-12 à R426-18)](#840)
+            - [Sous-section 5 : Dispositions diverses (art. R426-19)](#841)
+          - [Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes (art. R426-20 à R426-29)](#842)
+        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R427-1 à R427-28)](#843)
+          - [Section 1 : Mesures administratives (art. R427-1 à R427-5)](#844)
+            - [Sous-section 1 : Louveterie (art. R427-1 à R427-3)](#845)
+            - [Sous-section 2 : Battues administratives (art. R427-4)](#846)
+            - [Sous-section 3 : Sécurité aérienne (art. R427-5)](#847)
+          - [Section 2 : Droits des particuliers (art. R427-6 à R427-27)](#848)
+            - [Sous-section 1 : Classement des animaux nuisibles (art. R427-6 à R427-7)](#849)
+            - [Sous-section 2 : Exercice du droit de destruction (art. R427-8)](#850)
+            - [Sous-section 3 : Modalités de destruction (art. R427-9 à R427-25)](#851)
+              - [Paragraphe 1 : Toxiques (art. R427-10)](#852)
+              - [Paragraphe 2 : Déterrage (art. R427-11 à R427-12)](#853)
+              - [Paragraphe 3 : Piégeage (art. R*427-15 à R427-17)](#854)
+              - [Paragraphe 4 : Tir (art. R427-18 à R427-24)](#855)
+              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol (art. R427-25)](#856)
+            - [Sous-section 4 : Lâcher (art. R427-26)](#857)
+            - [Sous-section 5 : Mesures diverses (art. R427-27)](#858)
+          - [Section 3 : Commercialisation et transport (art. R427-28)](#859)
+        - [Chapitre VIII : Dispositions pénales (art. R428-1 à R428-24)](#860)
+          - [Section 1 : Peines (art. R428-1 à R428-22)](#861)
+            - [Sous-section 1 : Territoire (art. R428-1 à R428-3)](#862)
+            - [Sous-section 2 : Permis de chasser (art. R428-4 à R428-5)](#863)
+            - [Sous-section 3 : Exercice de la chasse (art. R428-6 à R428-21)](#864)
+              - [Paragraphe 1 : Protection du gibier (art. R428-6 à R428-7)](#865)
+              - [Paragraphe 2 : Temps de chasse (art. R428-8 à R428-9)](#866)
+              - [Paragraphe 3 : Plan de chasse (art. R428-10 à R428-11)](#867)
+              - [Paragraphe 4 : Modes et moyens (art. R428-12 à R428-13)](#868)
+              - [Paragraphe 5 : Transport et commercialisation du gibier (art. R428-14 à R428-21)](#869)
+            - [Sous-section 4 : Destruction des animaux nuisibles et louveterie. (art. R428-22)](#870)
+          - [Section 2 : Circonstances aggravantes et récidive. (art. R428-23 à R428-24)](#871)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R429-1 à R429-21)](#872)
+          - [Section 2 : Exercice de la chasse (art. R429-2 à R429-7)](#873)
+            - [Sous-section 1 : Temps de chasse (art. R429-2 à R429-5)](#874)
+            - [Sous-section 2 : Plan de chasse (art. R429-6)](#875)
+            - [Sous-section 3 : Modes et moyens de chasse (art. R429-7)](#876)
+          - [Section 3 : Indemnisation des dégâts de gibier (art. R429-8 à R429-14)](#877)
+            - [Sous-section 1 : Régime général (art. R429-8 à R429-14)](#878)
+          - [Section 4 : Pénalités (art. R429-18 à R429-21)](#879)
+            - [Sous-section 1 : Peines (art. R429-18 à R429-20)](#880)
+              - [Paragraphe 1 : Territoire (art. R429-18 à R429-19)](#881)
+              - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#882)
+            - [Sous-section 2 : Récidive (art. R429-21)](#883)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#884)
+        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-37)](#885)
+          - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#886)
+          - [Section 2 : Piscicultures (art. R431-7 à R431-37)](#887)
+            - [Sous-section 1 : Dispositions générales (art. R431-7)](#888)
+            - [Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#889)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. D432-4 à R432-18)](#890)
+          - [Section 3 : Obligations relatives aux ouvrages (art. D432-4 à R432-3)](#891)
+            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#892)
+          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#893)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#894)
+          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#895)
+        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#896)
+          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#897)
+            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#898)
+            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#899)
+              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#900)
+              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#901)
+              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#902)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#903)
+              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#904)
+              - [Paragraphe 2 : Contrôles (art. R434-24)](#905)
+          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#906)
+          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#907)
+        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#908)
+          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#909)
+            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#910)
+            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#911)
+            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#912)
+            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#913)
+          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#914)
+            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#915)
+            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#916)
+            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#917)
+          - [Section 3 : Droit de passage (art. R435-40)](#918)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#919)
+          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#920)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#921)
+              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#922)
+              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#923)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#924)
+            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#925)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#926)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#927)
+            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#928)
+            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#929)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#930)
+          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#931)
+            - [Sous-section 1 : Dispositions générales (art. R436-44)](#932)
+            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#933)
+            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#934)
+            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#935)
+              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#936)
+              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#937)
+            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#938)
+            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#939)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#940)
+            - [Sous-section 1 : Dispositions générales (art. R436-69)](#941)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#942)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#943)
+            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#944)
+          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#945)
+          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#946)
+            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#947)
+              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#948)
+              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#949)
+              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#950)
+            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#951)
+              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#952)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#953)
+          - [Section 1 : Dispositions générales (art. D436-1)](#954)
+        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#955)
+          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#956)
+            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#957)
+            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#958)
+          - [Section 2 : Transaction (art. R437-6 à R437-9)](#959)
+          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#960)
+          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#961)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#962)
+      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#963)
+        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#964)
+          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#965)
+          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#966)
+          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#967)
+          - [Section 4 : Cas d'urgence (art. R712-15)](#968)
+        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#969)
+  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#970)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -58129,10 +58146,22 @@ mission :
 a) Préserver et restaurer la diversité de la flore et de la faune sauvages et des habitats naturels ;
 
 b) Assurer la protection des espaces naturels et le maintien des équilibres biologiques auxquels ils participent, notamment
-en matière de parcs nationaux, parcs naturels régionaux et réserves naturelles, et dans les sites d'importance
-communautaire ;
+en matière de parcs nationaux, parcs naturels régionaux, parcs naturels marins et réserves naturelles, et dans les sites
+d'importance communautaire ;
 
 2° D'étudier les mesures législatives et réglementaires et les travaux scientifiques afférents à ces objets.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la protection de la nature).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil national de la protection de la nature).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil national de la protection de la nature est
+renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -58140,12 +58169,20 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 3 () JORF 17 octobre 2006
+
 _Cité par_:
 
   - Décret n°2008-679 du 9 juillet 2008 - art. 1 (Ab)
   - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
   - Décret n°2014-589 du 6 juin 2014 - art. (V)
   - Décret n°2015-622 du 5 juin 2015 - art. Annexe 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2017-342 du 17 mars 2017 - art. 3
 
 
 ##### Sous-section 1 : Composition<a id=528></a>
@@ -63723,7 +63760,11 @@ public ou à des groupements d'intérêt économique ou scientifique ;
 12° L'attribution des contrats et des marchés d'un montant supérieur à un seuil qu'il détermine ou comportant des engagements
 d'une durée supérieure à celle qu'il fixe ;
 
-13° La composition du conseil scientifique.
+13° La composition du conseil scientifique ;
+
+14° Les mesures proposées aux autorités compétentes en matière de gestion de la diversité biologique marine, d'accès, de
+navigation et de mouillage des navires, sur les parties maritimes du domaine relevant du conservatoire mentionnées à
+l'article L. 334-1 et les espaces maritimes adjacents, jusqu'à la limite d'un mille de la laisse de basse mer.
 
 III. - Il arrête son règlement intérieur.
 
@@ -63744,9 +63785,14 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 4 () JORF 17 octobre 2006
+
 _Cite_:
 
   - Code de l'environnement - art. L322-10 (M)
+  - Code de l'environnement - art. L334-1 (V)
   - Code de l'environnement - art. R322-1 (V)
 
 _Cité par_:
@@ -65394,15 +65440,44 @@ Il peut déléguer sa signature.
 
 Il assiste aux séances du conseil d'administration dont il prépare les délibérations et dont il exécute les décisions.
 
+Il exerce les attributions conférées au conseil d'administration par le 14° du II de l'article R. 322-26, sur délégation du
+conseil d'administration et après consultation des conseils de rivages intéressés.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 4 () JORF 17 octobre 2006 rectificatif JORF 28 octobre 2006
+
 _Cite_:
 
+  - Code de l'environnement - art. R322-26 (M)
   - Code de l'environnement - art. R322-28 (V)
+
+
+###### Article R322-37-1
+
+Lorsque le directeur du conservatoire exerce les compétences qui lui sont reconnues par l'article L. 322-10-4 pour la
+répression et la poursuite des contraventions de grande voirie, il notifie au préfet copie du procès-verbal de contravention
+dans les dix jours suivant la rédaction de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 5 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L322-10-4 (V)
 
 
 ##### Section 4 : Dispositions financières<a id=591></a>
@@ -69345,6 +69420,27 @@ _Cite_:
   - Code de l'environnement - art. L332-8 (V)
 
 
+###### Article R332-42-1
+
+Lorsque le président du conseil régional exerce les compétences qui lui sont reconnues par l'article L. 332-22-1 pour la
+répression et la poursuite des contraventions de grande voirie, il notifie au préfet copie du procès-verbal de contravention
+dans les dix jours suivant la rédaction de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 5 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L332-22-1 (VT)
+
+
 ###### Article R332-43
 
 Dans les trois ans suivant sa désignation, le gestionnaire élabore un projet de plan de gestion qui s'appuie sur une
@@ -69776,6 +69872,27 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'environnement - art. L332-8 (V)
+
+
+###### Article R332-59-1
+
+Lorsque le président du conseil exécutif de Corse exerce les compétences qui lui sont reconnues par l'article L. 332-22-1
+pour la répression et la poursuite des contraventions de grande voirie, il notifie au préfet copie du procès-verbal de
+contravention dans les dix jours suivant la rédaction de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 5 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L332-22-1 (VT)
 
 
 ###### Article R332-60
@@ -70683,13 +70800,1188 @@ _Cite_:
   - Code de l'environnement - art. R333-12 (V)
 
 
-### Titre IV : Sites<a id=665></a>
+#### Chapitre IV : Agence des aires marines protégées et parcs naturels marins<a id=665></a>
 
-#### Chapitre Ier : Sites inscrits et classés<a id=666></a>
+##### Section 1 : Agence des aires marines protégées<a id=666></a>
 
-##### Section 1 : Inventaire et classement, modifications<a id=667></a>
+##### Sous-section 1 : Dispositions générales<a id=667></a>
 
-##### Sous-section 1 : Inventaire et classement<a id=668></a>
+###### Article R334-1
+
+L'Agence des aires marines protégées est placée sous la tutelle du ministre chargé de la protection de la nature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Arrêté du 11 mars 2014 (V)
+  - Code de l'environnement - art. R643-1 (V)
+
+
+###### Article R334-2
+
+Entrent dans le champ de compétence de l'agence, outre les catégories d'aires marines protégées énumérées au III de l'article
+L. 334-1, les catégories d'espaces marins dont la protection, la restauration et la gestion durable requièrent des mesures
+réglementaires ou contractuelles ou un programme d'actions, lorsqu'elles ont fait l'objet d'une décision du ministre de
+tutelle, prise après avis du conseil d'administration de l'agence et du conseil national de la protection de la nature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Arrêté du 3 juin 2011 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'environnement - art. L334-1 (V)
+
+
+###### Article R334-3
+
+Le siège de l'établissement est situé à Brest.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+##### Sous-section 2 : Le conseil d'administration<a id=668></a>
+
+##### Paragraphe 1 : Composition<a id=669></a>
+
+###### Article R334-4
+
+Le conseil d'administration de l'agence est composé :
+
+I. - D'un collège de représentants de l'Etat, qui comprend :
+
+1° Un représentant du ministre chargé de la protection de la nature ;
+
+2° Un représentant du ministre chargé de la mer ;
+
+3° Un représentant du ministre chargé des pêches maritimes et des cultures marines ;
+
+4° Un représentant du ministre chargé de l'outre-mer ;
+
+5° Un représentant du ministre de la défense ;
+
+6° Un représentant du ministre des affaires étrangères ;
+
+7° Un représentant du ministre chargé du budget ;
+
+8° Un représentant du ministre chargé du domaine de l'Etat ;
+
+9° Un représentant du ministre chargé de l'énergie et des matières premières ;
+
+10° Un représentant du ministre de l'intérieur ;
+
+11° Un représentant du ministre chargé de la jeunesse et des sports ;
+
+12° Le secrétaire général de la mer ;
+
+13° Les préfets maritimes de la Manche et de la mer du Nord, de l'Atlantique, de la Méditerranée et un représentant des
+autorités chargées de l'action de l'Etat en mer outre-mer.
+
+II. - D'un autre collège qui comprend :
+
+1° Un député et un sénateur ;
+
+2° Trois représentants des collectivités territoriales intéressées et de leurs groupements compétents, désignés
+respectivement par l'Association des maires de France, l'Assemblée des départements de France et l'Association des régions de
+France ;
+
+3° Le président du conseil d'administration de l'établissement public d'un parc national ayant une partie maritime ;
+
+4° Un représentant des gestionnaires de réserves naturelles ayant une partie maritime ;
+
+5° Les présidents des conseils de gestion de chaque parc naturel marin ;
+
+6° Le président du comité de pilotage d'un site Natura 2000 ayant une partie marine ;
+
+7° Le président du conseil d'administration du Conservatoire de l'espace littoral et des rivages lacustres ;
+
+8° Lorsque d'autres catégories d'aires marines protégées relèvent de l'action de l'agence, un représentant de celles-ci ;
+
+9° Un représentant des parcs naturels régionaux intéressés, sur proposition de la Fédération nationale des parcs naturels
+régionaux de France ;
+
+10° Deux représentants des associations de protection de l'environnement agréées au titre de l'article L. 141-1 ;
+
+11° Le président du Conseil supérieur de la navigation de plaisance et des sports nautiques ;
+
+12° Un représentant désigné par le Comité national des pêches maritimes et des élevages marins et un représentant désigné par
+le Comité national de la conchyliculture ;
+
+13° Un représentant du secteur professionnel des transports maritimes, désigné par le ministre chargé des transports ;
+
+14° Un représentant du secteur professionnel de la recherche et de l'exploitation des ressources minérales, désigné par le
+ministre chargé de l'énergie ;
+
+15° Le directeur général de l'Institut français de recherche pour l'exploitation de la mer ;
+
+16° Le directeur général de l'Institut de recherche pour le développement ;
+
+17° Un représentant du personnel élu par le personnel de l'agence sur une liste présentée par les organisations syndicales
+habilitées à désigner des représentants au comité technique paritaire central de l'agence ;
+
+18° Deux personnalités qualifiées en raison de leur compétence dans le domaine de la protection, de la restauration ou de la
+gestion durable du patrimoine naturel marin.
+
+Lorsque la nomination au conseil d'administration du président du conseil de gestion d'un parc naturel marin nouvellement
+créé ou d'un représentant d'une autre catégorie d'aires marines protégées a pour effet de ramener la proportion des membres
+du collège des représentants de l'Etat à moins des deux cinquièmes des membres de ce conseil, il est procédé à la désignation
+d'un représentant supplémentaire de l'Etat par, successivement, le ministre chargé de la protection de la nature, le ministre
+chargé de la mer, le ministre chargé des pêches maritimes et des cultures marines et le ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Code de l'environnement - art. R334-13 (V)
+
+
+###### Article R334-5
+
+Les membres du conseil d'administration qui ne représentent pas l'Etat ou qui ne siègent pas en raison des fonctions qu'ils
+occupent sont nommés par arrêté du ministre de tutelle pour une durée de trois ans renouvelable.
+
+L'administrateur qui, au cours de son mandat, décède, démissionne ou perd la qualité au titre de laquelle il a été désigné
+est remplacé pour la durée du mandat restant à courir par une personne désignée dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-6
+
+Les membres du conseil d'administration qui représentent l'Etat ou qui siègent en raison des fonctions qu'ils occupent
+peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-7
+
+Les membres du conseil d'administration exercent leurs fonctions à titre gratuit. Ils bénéficient du remboursement de leurs
+frais de déplacement et de séjour dans les conditions prévues par la réglementation applicable aux fonctionnaires civils de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+##### Paragraphe 2 : Attributions<a id=670></a>
+
+###### Article R334-8
+
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement.
+
+I. - Il délibère notamment sur :
+
+1° Les conditions générales d'organisation et de fonctionnement de l'établissement ;
+
+2° Les règlements intérieurs du conseil d'administration, du bureau et du conseil scientifique ;
+
+3° Les programmes généraux d'activité et d'investissement ;
+
+4° Les projets de contrats d'objectifs avec l'Etat ;
+
+5° Les programmes de contribution aux recherches et les subventions ;
+
+6° Le bilan annuel, le compte de résultat et les propositions relatives à la constitution de réserves ;
+
+7° Le rapport annuel d'activité ;
+
+8° L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
+
+9° Les contrats, conventions et marchés excédant un montant fixé par lui ;
+
+10° La conclusion d'emprunts à moyen et long termes ;
+
+11° Les conditions générales d'octroi d'avances à des organismes ou sociétés ayant pour objet de contribuer à l'exécution des
+missions de l'établissement ;
+
+12° L'octroi d'hypothèques, de cautions ou d'autres garanties ;
+
+13° L'acquisition ou l'aliénation des biens immobiliers, les baux et locations d'immeubles d'une durée supérieure à neuf
+ans ;
+
+14° Les actions en justice à intenter au nom de l'établissement et les transactions ;
+
+15° L'adhésion à des organismes dotés de la personnalité morale ;
+
+16° L'acceptation ou le refus des dons et legs.
+
+II. - Le conseil d'administration a également pour attribution :
+
+1° De définir les politiques, notamment en matière internationale, permettant à l'agence de remplir les missions qui lui sont
+confiées et les principaux moyens mis en ouvre à cette fin ;
+
+2° De donner son avis sur le projet de création d'un parc naturel marin et, pour chaque parc naturel marin, d'approuver le
+règlement intérieur du conseil de gestion, le plan de gestion ainsi que le rapport annuel d'activité et de décider les moyens
+mis à disposition et les délégations consenties au conseil de gestion ;
+
+3° D'accepter ou de refuser la gestion directe d'aires marines protégées autres que les parcs naturels marins et de prendre
+toute décision qui en découle ;
+
+4° De donner un avis sur les catégories d'aires marines protégées susceptibles d'entrer dans son champ de compétences.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Décret n°2007-1406 du 28 septembre 2007 - art. 7 (V)
+  - Décret n°2011-1269 du 11 octobre 2011 - art. 6 (VD)
+  - Décret n°2012-245 du 22 février 2012 - art. 6 (VD)
+  - Décret n°2012-1389 du 11 décembre 2012 - art. 7 (VD)
+  - Code de l'environnement - art. R334-10 (Ab)
+  - Code de l'environnement - art. R334-15 (V)
+  - Code de l'environnement - art. R334-9 (Ab)
+
+
+###### Article R334-9
+
+Le conseil d'administration peut déléguer certaines de ses attributions au président du conseil d'administration ou au
+bureau, à l'exception de celles mentionnées aux 1°, 2°, 6°, 8° et 15° du I de l'article R. 334-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Code de l'environnement - art. R334-10 (Ab)
+  - Code de l'environnement - art. R334-15 (Ab)
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-8
+
+
+###### Article R334-10
+
+Le conseil d'administration peut également consentir la délégation d'attribution prévue par l'article R. 334-9 au profit du
+directeur de l'établissement, à l'exception, en outre, des attributions mentionnées aux 7°, 9° et 10° du I de l'article R.
+334-8, ainsi que de celles mentionnées au II du même article. 
+
+Il peut également autoriser le directeur, pour la durée de ses fonctions, à arrêter, en accord avec le membre du corps du
+contrôle général économique et financier, les modifications du budget qui ne comportent variation ni du montant de ce budget
+ni des effectifs du personnel. Le directeur rend compte des décisions prises en vertu de cette autorisation lors de la séance
+du conseil d'administration qui suit leur intervention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-8 (V)
+  - Code de l'environnement - art. R334-9 (V)
+
+
+##### Paragraphe 3 : Fonctionnement<a id=671></a>
+
+###### Article R334-11
+
+Le conseil d'administration se réunit aussi souvent que la bonne marche de l'établissement l'exige et au minimum deux fois
+par an, sur convocation de son président qui fixe l'ordre du jour.
+
+La convocation est de droit si elle est demandée par le ministre de tutelle ou par la moitié au moins des membres sur un
+ordre du jour déterminé.
+
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres sont présents. Si le
+quorum n'est pas atteint, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de quinze jours. Il
+délibère alors valablement quel que soit le nombre de membres présents.
+
+Les délibérations sont adoptées à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du
+président de séance est prépondérante.
+
+Le commissaire du Gouvernement, le directeur, le membre du corps du contrôle général économique et financier, l'agent
+comptable et le président du conseil scientifique de l'agence assistent aux séances avec voix consultative.
+
+Le conseil d'administration peut entendre toute personne dont il estime l'audition utile à son information.
+
+Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président de séance et par le
+secrétaire. Le procès-verbal est adressé sans délai au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R334-12
+
+Le conseil d'administration élit en son sein le président du conseil d'administration et deux vice-présidents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-13
+
+Le conseil d'administration constitue en son sein un bureau comprenant le président du conseil d'administration, un
+représentant du ministre de tutelle, un représentant du ministre chargé de la mer, un représentant du ministre chargé des
+pêches maritimes et des cultures marines, un représentant du ministre chargé de l'outre-mer, un représentant de collectivités
+territoriales, un président de conseil de gestion de parc naturel marin, un représentant d'une autre catégorie d'aire marine
+protégée, le représentant du personnel de l'établissement et une personnalité nommée au titre du 18° du II de l'article R.
+334-4. 
+
+La composition du bureau et les conditions de désignation de ses membres sont précisées par le règlement intérieur adopté par
+le conseil d'administration. 
+
+Le bureau exerce les attributions qui lui ont été déléguées. 
+
+Le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier assistent aux réunions du
+bureau avec voix consultative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-4 (V)
+
+
+##### Sous-section 3 : Le directeur<a id=672></a>
+
+###### Article R334-14
+
+Le directeur est nommé par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-15
+
+Le directeur exerce la direction générale de l'agence.
+
+Il est assisté, pour la gestion des parcs naturels marins, de délégués placés auprès du conseil de gestion de chacun de ces
+parcs.
+
+Il prépare les délibérations du conseil d'administration et s'assure de leur exécution. Il exerce, par délégation, les
+attributions du conseil d'administration mentionnées à l'article R. 334-8.
+
+Il assure le fonctionnement des services de l'agence et à ce titre prépare le budget, recrute et gère le personnel et dirige
+les services.
+
+Il est ordonnateur des recettes et des dépenses de l'agence.
+
+Il signe les marchés publics.
+
+Il représente l'agence dans tous les actes de la vie civile et dans ses rapports avec les tiers. Il peut, en outre, par
+délégation du conseil d'administration, être chargé pour la durée de ses fonctions d'intenter au nom de l'agence les actions
+en justice ou de défendre l'établissement dans les actions intentées contre lui. Il en rend compte au conseil
+d'administration.
+
+Il décide des programmes de coopération de l'agence avec les organismes étrangers et internationaux conformément à la
+politique définie par le conseil d'administration et l'en tient régulièrement informé.
+
+Il établit le rapport annuel d'activité de l'agence et le soumet pour approbation au conseil d'administration.
+
+Il assure avec ses délégués le secrétariat des différents organes de l'agence.
+
+Il peut déléguer ses compétences pour la gestion des parcs naturels marins.
+
+Il peut déléguer sa signature à des agents placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-8 (V)
+
+
+##### Sous-section 4 : Le conseil scientifique<a id=673></a>
+
+###### Article R334-16
+
+Le conseil scientifique est composé de dix personnalités nommées par arrêté du ministre de tutelle en raison de leurs
+compétences dans les domaines de la protection, de la restauration ou de la gestion durable du patrimoine naturel marin.
+
+Il élit en son sein un président.
+
+Le président et les membres du conseil scientifique exercent leurs fonctions à titre gratuit. Ils bénéficient du
+remboursement des frais de déplacement et de séjour supportés par eux dans les conditions prévues par la réglementation
+applicable aux fonctionnaires civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-17
+
+Le conseil scientifique est consulté sur les projets de création des parcs naturels marins et leurs plans de gestion.
+
+Il peut être consulté par le président du conseil d'administration ou le directeur de l'agence sur toute question relative
+aux missions de l'agence ou à un parc naturel marin.
+
+Il fait des recommandations sur la constitution du réseau national d'aires marines protégées et sur la création d'aires
+marines protégées internationales, ainsi que sur toute question sur laquelle il estime nécessaire d'attirer l'attention du
+conseil d'administration ou du directeur de l'agence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Décret n°2012-1389 du 11 décembre 2012 - art. 7 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+##### Sous-section 5 : Dispositions financières et comptables<a id=674></a>
+
+###### Article R334-18
+
+L'agence est soumise au régime financier et comptable applicable aux établissements publics nationaux à caractère
+administratif. 
+
+Elle est soumise au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au
+sein des établissements publics administratifs de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2005-757 du 4 juillet 2005 (V)
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R334-19
+
+L'agent comptable est nommé par arrêté conjoint du ministre chargé de la protection de la nature et du ministre chargé du
+budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 31
+
+
+###### Article R334-20
+
+Les ressources de l'agence prévues par le II de l'article L. 334-2 sont notamment constituées par : 
+
+1° Les subventions de l'Etat, des collectivités publiques ou d'organismes publics ou privés et les recettes du mécénat ; 
+
+2° Les produits des contrats et conventions ; 
+
+3° Le produit de la vente de publications et documents sur quelque support que ce soit ; 
+
+4° Le produit des cessions et participations ; 
+
+5° Les revenus des biens meubles et immeubles ; 
+
+6° Les dons et legs ; 
+
+7° Le produit financier du résultat des placements de ses fonds ; 
+
+8° Le produit des aliénations ; 
+
+9° D'une manière générale, toutes les recettes autorisées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'environnement - art. L334-2
+
+
+###### Article R334-21
+
+Les dépenses de l'établissement comprennent les frais de personnel qui ne sont pas pris en charge par l'Etat ou les
+collectivités territoriales, les frais de fonctionnement et d'équipement et, d'une manière générale, toutes les dépenses
+nécessaires à l'activité de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-22
+
+Il peut être constitué au sein de l'agence des régies de recettes et des régies de dépenses dans les conditions prévues par
+le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°92-681 du 20 juillet 1992
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+##### Sous-section 6 : Contrôle<a id=675></a>
+
+###### Article R334-23
+
+Le ministre de tutelle désigne auprès de l'agence un commissaire du Gouvernement qui peut se faire représenter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+_Cité par_:
+
+  - Code de l'environnement - art. R334-35 (VD)
+
+
+###### Article R334-24
+
+Le commissaire du Gouvernement reçoit les convocations adressées aux membres du conseil d'administration et du bureau et
+siège avec voix consultative à toutes les réunions de ces instances ainsi qu'à celles des commissions qu'ils ont constituées.
+
+Il peut demander l'inscription de questions à l'ordre du jour du conseil d'administration.
+
+Il reçoit copie des délibérations du conseil d'administration et, s'il le demande, des décisions prises sur délégation de ce
+conseil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 du 2 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+
+###### Article R334-25
+
+Les délibérations du conseil d'administration sont exécutoires de plein droit si le commissaire du Gouvernement n'y fait pas
+opposition dans le délai de quinze jours qui suit soit la date de réunion du conseil d'administration lorsqu'il y a assisté
+ou y était représenté, soit la date de réception du procès-verbal de la séance.
+
+Lorsque le commissaire du Gouvernement demande par écrit des informations ou documents complémentaires, le délai est suspendu
+jusqu'à la production de ces informations ou documents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R334-26
+
+Le commissaire du Gouvernement peut demander une seconde délibération dans les délais mentionnés à l'article R. 334-25. 
+
+Si après une seconde délibération le désaccord persiste, le commissaire du Gouvernement transmet le dossier dans les
+quarante-huit heures au ministre de tutelle. 
+
+Le ministre de tutelle statue après avoir recueilli, s'il y a lieu, l'avis du ministre chargé de la mer, du ministre chargé
+des pêches maritimes et des cultures marines, du ministre chargé de l'outre-mer et du ministre chargé du budget. Si le ou les
+ministres consultés ne se sont pas prononcés dans les quinze jours suivant la date à laquelle leur avis a été sollicité, ils
+sont réputés être favorables à la levée de l'opposition. 
+
+L'opposition du commissaire du Gouvernement est levée de plein droit si le ministre de tutelle n'a pas statué dans le délai
+d'un mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1842 du 26 décembre 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-25 (Ab)
+
+
+##### Section 2 : Les parcs naturels marins<a id=676></a>
+
+##### Sous-section 1 : Création<a id=677></a>
+
+###### Article R334-27
+
+La conduite de la procédure de création d'un parc naturel marin est confiée conjointement au représentant de l'Etat en mer et
+au préfet du département principalement intéressés à cette création par un arrêté des ministres chargés de la protection de
+la nature et de la mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Décret n°2017-784 du 5 mai 2017 (V)
+  - Code de l'environnement - art. R334-29 (VD)
+
+
+###### Article R334-28
+
+Le dossier de création comprend :
+
+1° Un document indiquant les limites du parc naturel marin projeté ;
+
+2° Une synthèse de l'état du patrimoine marin et des usages du milieu marin ;
+
+3° Les propositions d'orientations de gestion en matière de connaissance, de conservation et d'usage du patrimoine et du
+milieu marin ;
+
+4° Le projet de composition du conseil de gestion du parc.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R334-29
+
+Le projet de création d'un parc naturel marin est, simultanément ou successivement :
+
+1° Soumis pour avis aux personnes et organismes directement intéressés par le projet, figurant sur une liste établie par les
+représentants de l'Etat chargés de conduire la procédure et choisies parmi les catégories suivantes : services et
+établissements publics de l'Etat, régions et départements, communes littorales et leurs groupements, chambres de commerce et
+d'industrie, comités régionaux et locaux des pêches maritimes et des élevages marins, sections régionales de la
+conchyliculture, organismes de gestion d'espaces naturels au sens du livre troisième du présent code. A défaut de réponse
+dans le délai de deux mois à compter de la réception de la demande d'avis, celui-ci est réputé favorable ;
+
+2° Soumis à enquête publique dans les conditions fixées aux articles R. 123-7 à R. 123-23. L'enquête est organisée sur le
+territoire des communes littorales directement intéressées par le projet. Les directions départementales de l'équipement et
+les directions départementales des affaires maritimes territorialement compétentes pour le parc figurent parmi les lieux
+d'enquête.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Code de l'environnement - art. R334-30 (VD)
+  - Code de l'environnement - art. R643-1 (V)
+
+_Cite_:
+
+  - Code de l'environnement R123-7 à R123-23
+
+
+###### Article R334-30
+
+Le projet d'extension d'un parc naturel marin est adressé pour avis aux personnes et organismes figurant sur la liste prévue
+à l'article R. 334-29 et soumis à enquête publique dans les communes intéressées par cette extension. Les directions
+départementales de l'équipement et les directions départementales des affaires maritimes territorialement compétentes pour le
+parc figurent parmi les lieux d'enquête.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-29 (V)
+
+_Cité par_:
+
+  - Code de l'environnement - art. R643-1 (V)
+
+
+##### Sous-section 2 : Administration<a id=678></a>
+
+##### Paragraphe 1 : Les conseils de gestion<a id=679></a>
+
+###### Article R334-31
+
+Les membres du conseil de gestion sont nommés pour une durée de cinq ans par arrêté conjoint du représentant de l'Etat en mer
+et du préfet du département qui ont conduit la procédure de création du parc naturel marin.
+
+L'administrateur qui, au cours de son mandat, décède, démissionne ou perd la qualité au titre de laquelle il a été désigné
+est remplacé pour la durée du mandat restant à courir par une personne désignée dans les mêmes conditions.
+
+Les membres du conseil de gestion exercent leurs fonctions à titre gratuit. Ils bénéficient du remboursement de leurs frais
+de déplacement et de séjour dans les conditions prévues par la réglementation applicable aux fonctionnaires civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R334-32
+
+Le conseil de gestion élit en son sein son président.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R334-33
+
+Le conseil de gestion du parc naturel marin exerce notamment les attributions suivantes : 
+
+1° Il arrête son règlement intérieur, lequel fixe notamment la composition et le mode de fonctionnement du bureau ; 
+
+2° Il élabore le plan de gestion du parc naturel marin et le soumet à l'approbation du conseil d'administration de l'Agence
+des aires marines protégées, après avoir recueilli s'il y a lieu l'accord préalable de l'autorité militaire compétente ; 
+
+3° Il définit le programme d'actions permettant la mise en oeuvre du plan de gestion et en assure le suivi, l'évaluation
+périodique et la révision, 
+
+4° Sur délégation du conseil d'administration de l'agence, il fixe les modalités et critères d'attribution des concours
+financiers pour certains types d'opérations définies au plan de gestion ; 
+
+5° Décide de l'appui technique apporté aux projets de protection de l'environnement et de développement durable ayant un
+impact positif sur la qualité des eaux, la conservation des habitats naturels et des espèces ; 
+
+6° Dans les conditions prévues au quatrième alinéa de l'article L. 334-5, il se prononce sur les demandes d'autorisation
+d'activités énumérées à l'article R. 331-50 ; 
+
+7° Il émet au nom de l'Agence des aires marines protégées l'avis que celle-ci doit donner sur un projet de schéma de mise en
+valeur de la mer qui concerne le parc naturel marin ; 
+
+8° Il établit le rapport annuel d'activité du parc naturel marin et l'adresse au directeur de l'agence, aux représentants de
+l'Etat en mer et aux préfets des départements intéressés à la gestion du parc naturel marin ainsi qu'au préfet coordonnateur
+de bassin. 
+
+Lorsque le conseil de gestion a connaissance d'un projet de plan, de schéma, de programme ou autre document susceptible
+d'avoir des effets sur la qualité du milieu ou la conservation des habitats naturels et des espèces du parc naturel marin, il
+peut en obtenir communication de l'autorité chargée de son élaboration. Sont exceptés de cette communication tous projets
+relatifs aux activités de défense nationale. 
+
+Le conseil de gestion peut également proposer aux autorités de l'Etat compétentes en mer toute mesure nécessaire à la
+protection et à la gestion durable du parc naturel marin, notamment en matière d'occupation du domaine public maritime,
+d'utilisation des eaux, de pêche, de circulation, de loisir, d'utilisation des ondes, de mouillage des navires, et il est
+tenu informé des suites réservées à ses propositions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Décret n°2007-1406 du 28 septembre 2007 - art. 7 (V)
+  - Décret n°2010-71 du 18 janvier 2010 - art. 6 (V)
+  - Décret n°2011-1269 du 11 octobre 2011 - art. 6 (VD)
+  - Décret n°2012-245 du 22 février 2012 - art. 6 (VD)
+  - Décret n°2012-1389 du 11 décembre 2012 - art. 7 (VD)
+  - Décret n°2014-588 du 5 juin 2014 - art. 7 (VD)
+  - Décret n°2015-424 du 15 avril 2015 - art. 9 (VD)
+  - Décret n°2016-963 du 15 juillet 2016 - art. 8 (V)
+  - Décret n°2017-784 du 5 mai 2017 - art. 8 (V)
+  - Code de l'environnement - art. R334-15 (Ab)
+  - Code de l'environnement - art. R334-34 (V)
+  - Code de l'environnement - art. R334-36 (V)
+
+_Cite_:
+
+  - Code de l'environnement - art. L334-5 (V)
+  - Code de l'environnement - art. R331-50 (V)
+
+
+###### Article R334-34
+
+Le conseil de gestion du parc naturel marin peut déléguer à son bureau les attributions mentionnées aux 6° et 7° de l'article
+R. 334-33 ainsi qu'aux deux derniers alinéas du même article. Le bureau rend compte des décisions prises par délégation à la
+plus proche réunion du conseil de gestion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-33 (V)
+
+
+###### Article R334-35
+
+Le représentant de l'Etat en mer et le préfet du département principalement intéressés à la gestion du parc naturel marin
+exercent auprès du conseil de gestion les fonctions dévolues au commissaire du Gouvernement auprès de l'Agence des aires
+marines protégées par les articles R. 334-23 à R. 334-26 dans les conditions prévues par ces articles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cité par_:
+
+  - Décret n°2007-1406 du 28 septembre 2007 - art. 5 (V)
+  - Décret n°2010-71 du 18 janvier 2010 - art. 4 (V)
+  - Décret n°2011-1269 du 11 octobre 2011 - art. 4 (V)
+  - Décret n°2012-245 du 22 février 2012 - art. 4 (V)
+  - Décret n°2012-1389 du 11 décembre 2012 - art. 5 (V)
+  - Décret n°2014-588 du 5 juin 2014 - art. 5 (V)
+  - Décret n°2015-424 du 15 avril 2015 - art. 7 (V)
+  - Décret n°2016-963 du 15 juillet 2016 - art. 6 (V)
+  - Décret n°2017-784 du 5 mai 2017 - art. 6 (V)
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-23 (V)
+
+
+##### Paragraphe 2 : Le délégué du directeur<a id=680></a>
+
+###### Article R334-36
+
+Le délégué du directeur de l'Agence des aires marines protégées auprès du conseil de gestion est nommé par lui après avis de
+ce conseil.
+
+Il assiste aux séances du conseil de gestion avec voix consultative.
+
+Il exerce les compétences qui lui ont été attribuées dans le cadre des orientations et décisions arrêtées par le conseil
+d'administration de l'agence et par le conseil de gestion du parc.
+
+Il attribue les concours financiers dont le principe a été retenu par le conseil de gestion en application du 4° de l'article
+R. 334-33.
+
+Il est ordonnateur secondaire des recettes et des dépenses de l'agence.
+
+Il présente le rapport annuel d'activité.
+
+Il peut déléguer sa signature aux agents placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. R334-33 (V)
+
+
+###### Article R334-37
+
+Lorsque le délégué du directeur de l'agence exerce, par délégation du directeur, les compétences qui lui sont reconnues par
+l'article L. 334-7 pour la répression et la poursuite des contraventions de grande voirie, il notifie au préfet copie du
+procès-verbal de contravention dans les dix jours suivant la rédaction de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L334-7 (VT)
+
+
+##### Paragraphe 3 : Dispositions financières<a id=681></a>
+
+###### Article R334-38
+
+Le conseil d'administration de l'agence met à la disposition de chaque conseil de gestion les moyens financiers nécessaires à
+la mise en oeuvre du programme d'actions du parc naturel marin. Ces moyens sont individualisés dans la comptabilité de
+l'agence.
+
+Les sommes allouées par l'agence à un conseil de gestion peuvent être abondées par toute collectivité territoriale, organisme
+ou personne souhaitant soutenir l'action d'un parc naturel marin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+### Titre IV : Sites<a id=682></a>
+
+#### Chapitre Ier : Sites inscrits et classés<a id=683></a>
+
+##### Section 1 : Inventaire et classement, modifications<a id=684></a>
+
+##### Sous-section 1 : Inventaire et classement<a id=685></a>
 
 ###### Article R341-1
 
@@ -70906,9 +72198,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 2 : Modifications de l'état ou de l'aspect d'un site inscrit ou classé<a id=669></a>
+##### Sous-section 2 : Modifications de l'état ou de l'aspect d'un site inscrit ou classé<a id=686></a>
 
-##### Paragraphe 1 : Sites inscrits<a id=670></a>
+##### Paragraphe 1 : Sites inscrits<a id=687></a>
 
 ###### Article R341-9
 
@@ -70938,7 +72230,7 @@ _Cite_:
   - Code de l'environnement - art. L341-1 (V)
 
 
-##### Paragraphe 2 : Sites classés ou en instance de classement<a id=671></a>
+##### Paragraphe 2 : Sites classés ou en instance de classement<a id=688></a>
 
 ###### Article R*341-12
 
@@ -71072,7 +72364,7 @@ _Cité par_:
   - Code forestier - art. R11-4 (Ab)
 
 
-##### Sous-section 3 : Dispositions financières<a id=672></a>
+##### Sous-section 3 : Dispositions financières<a id=689></a>
 
 ###### Article R341-14
 
@@ -71117,9 +72409,9 @@ _Cite_:
   - Code de l'environnement - art. R341-14 (V)
 
 
-##### Section 2 : Organismes<a id=673></a>
+##### Section 2 : Organismes<a id=690></a>
 
-##### Sous-section 1 : Commission départementale de la nature, des paysages et des sites<a id=674></a>
+##### Sous-section 1 : Commission départementale de la nature, des paysages et des sites<a id=691></a>
 
 ###### Article R341-16
 
@@ -71511,7 +72803,7 @@ _Cité par_:
   - Code de l'environnement - art. R661-8 (V)
 
 
-##### Sous-section 2 : Commission supérieure des sites, perspectives et paysages<a id=675></a>
+##### Sous-section 2 : Commission supérieure des sites, perspectives et paysages<a id=692></a>
 
 ###### Article R341-28
 
@@ -71630,7 +72922,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-### Titre V : Paysages<a id=676></a>
+### Titre V : Paysages<a id=693></a>
 
 ###### Article R350-1
 
@@ -71975,9 +73267,9 @@ _Abrogé par_:
   - Décret n°2011-1903 du 19 décembre 2011 - art. 3 (V)
 
 
-### Titre VI : Accès à la nature<a id=677></a>
+### Titre VI : Accès à la nature<a id=694></a>
 
-#### Chapitre II : Circulation motorisée<a id=678></a>
+#### Chapitre II : Circulation motorisée<a id=695></a>
 
 ###### Article R362-1
 
@@ -72148,7 +73440,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R362-6 (V)
 
 
-#### Chapitre V : Camping et caravanage<a id=679></a>
+#### Chapitre V : Camping et caravanage<a id=696></a>
 
 ###### Article R365-1
 
@@ -72199,15 +73491,15 @@ _Cite_:
   - Code de l'urbanisme - art. R443-10 (M)
 
 
-## Livre IV : Faune et flore<a id=680></a>
+## Livre IV : Faune et flore<a id=697></a>
 
-### Titre Ier : Protection de la faune et de la flore<a id=681></a>
+### Titre Ier : Protection de la faune et de la flore<a id=698></a>
 
-#### Chapitre Ier : Préservation et surveillance du patrimoine biologique<a id=682></a>
+#### Chapitre Ier : Préservation et surveillance du patrimoine biologique<a id=699></a>
 
-##### Section 1 : Préservation du patrimoine biologique<a id=683></a>
+##### Section 1 : Préservation du patrimoine biologique<a id=700></a>
 
-##### Sous-section 1 : Mesures de protection<a id=684></a>
+##### Sous-section 1 : Mesures de protection<a id=701></a>
 
 ###### Article R411-1
 
@@ -72329,7 +73621,7 @@ _Cité par_:
   - Arrêté du 9 février 2018 - art. 2 (V)
 
 
-##### Sous-section 2 : Autorisation de capture des espèces protégées<a id=685></a>
+##### Sous-section 2 : Autorisation de capture des espèces protégées<a id=702></a>
 
 ###### Article R*411-7
 
@@ -72564,7 +73856,7 @@ _Cité par_:
   - Arrêté du 25 avril 2017 - art. 3 (V)
 
 
-##### Sous-section 3 : Protection des biotopes<a id=686></a>
+##### Sous-section 3 : Protection des biotopes<a id=703></a>
 
 ###### Article R411-15
 
@@ -72640,7 +73932,7 @@ _Cité par_:
   - Code de l'environnement - art. R415-1 (M)
 
 
-##### Sous-section 4 : Réglementation particulière aux produits antiparasitaires et assimilés<a id=687></a>
+##### Sous-section 4 : Réglementation particulière aux produits antiparasitaires et assimilés<a id=704></a>
 
 ###### Article R411-18
 
@@ -72669,7 +73961,7 @@ _Cité par_:
   - Code de l'environnement - art. R654-7 (V)
 
 
-##### Sous-section 5 : Prise de vues ou de son<a id=688></a>
+##### Sous-section 5 : Prise de vues ou de son<a id=705></a>
 
 ###### Article R411-19
 
@@ -72780,7 +74072,7 @@ _Cite_:
   - Code de l'environnement - art. R411-20 (V)
 
 
-##### Section 3 : Conseil scientifique régional du patrimoine naturel<a id=689></a>
+##### Section 3 : Conseil scientifique régional du patrimoine naturel<a id=706></a>
 
 ###### Article R411-22
 
@@ -72952,9 +74244,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre II : Activités soumises à autorisation<a id=690></a>
+#### Chapitre II : Activités soumises à autorisation<a id=707></a>
 
-##### Section 1 : Régime général d'autorisation<a id=691></a>
+##### Section 1 : Régime général d'autorisation<a id=708></a>
 
 ###### Article R412-1
 
@@ -72992,7 +74284,7 @@ _Cité par_:
   - Code de l'environnement - art. R644-1 (V)
 
 
-##### Sous-section 1 : Autorisation<a id=692></a>
+##### Sous-section 1 : Autorisation<a id=709></a>
 
 ###### Article R412-2
 
@@ -73111,7 +74403,7 @@ _Cité par_:
   - Code de l'environnement - art. R412-5 (M)
 
 
-##### Sous-section 2 : Contrôle<a id=693></a>
+##### Sous-section 2 : Contrôle<a id=710></a>
 
 ###### Article R412-7
 
@@ -73133,7 +74425,7 @@ _Cite_:
   - Code de l'environnement - art. R412-1 (V)
 
 
-##### Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces<a id=694></a>
+##### Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces<a id=711></a>
 
 ###### Article R412-8
 
@@ -73199,7 +74491,7 @@ _Cité par_:
   - Code de l'environnement - art. R415-3 (V)
 
 
-#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=695></a>
+#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=712></a>
 
 ###### Article R413-1
 
@@ -73277,9 +74569,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 1 : Etablissements soumis à autorisation d'ouverture autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée<a id=696></a>
+##### Section 1 : Etablissements soumis à autorisation d'ouverture autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée<a id=713></a>
 
-##### Sous-section 1 : Certificat de capacité<a id=697></a>
+##### Sous-section 1 : Certificat de capacité<a id=714></a>
 
 ###### Article R413-3
 
@@ -73411,7 +74703,7 @@ _Cite_:
   - Code de l'environnement - art. R413-5 (V)
 
 
-##### Sous-section 2 : Autorisations d'ouverture des établissements<a id=698></a>
+##### Sous-section 2 : Autorisations d'ouverture des établissements<a id=715></a>
 
 ###### Article R413-8
 
@@ -73464,7 +74756,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 1 : Demande d'autorisation<a id=699></a>
+##### Paragraphe 1 : Demande d'autorisation<a id=716></a>
 
 ###### Article R413-10
 
@@ -73588,7 +74880,7 @@ _Cite_:
   - Code de l'environnement - art. R413-9 (V)
 
 
-##### Paragraphe 2 : Instruction pour les établissements de la première catégorie<a id=700></a>
+##### Paragraphe 2 : Instruction pour les établissements de la première catégorie<a id=717></a>
 
 ###### Article R413-15
 
@@ -73739,7 +75031,7 @@ _Cité par_:
   - Code de l'environnement - art. R644-1 (V)
 
 
-##### Paragraphe 3 : Instruction pour les établissements de la deuxième catégorie<a id=701></a>
+##### Paragraphe 3 : Instruction pour les établissements de la deuxième catégorie<a id=718></a>
 
 ###### Article R413-21
 
@@ -73769,7 +75061,7 @@ _Cite_:
   - Code de l'environnement - art. R413-9 (V)
 
 
-##### Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant<a id=702></a>
+##### Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant<a id=719></a>
 
 ###### Article R413-22
 
@@ -73813,7 +75105,7 @@ _Cité par_:
   - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
 
 
-##### Section 2 : Autorisation d'ouverture pour les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée<a id=703></a>
+##### Section 2 : Autorisation d'ouverture pour les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée<a id=720></a>
 
 ###### Article R413-24
 
@@ -73844,7 +75136,7 @@ _Cité par_:
   - Arrêté du 8 février 2010 - art. 4 (V)
 
 
-##### Sous-section 1 : Certificat de capacité<a id=704></a>
+##### Sous-section 1 : Certificat de capacité<a id=721></a>
 
 ###### Article R413-25
 
@@ -73892,7 +75184,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=705></a>
+##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=722></a>
 
 ###### Article R413-28
 
@@ -73969,7 +75261,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 1 : Demande d'autorisation<a id=706></a>
+##### Paragraphe 1 : Demande d'autorisation<a id=723></a>
 
 ###### Article R413-31
 
@@ -74046,7 +75338,7 @@ _Cité par_:
   - Code de l'environnement - art. R413-39 (V)
 
 
-##### Paragraphe 2 : Instruction de la demande<a id=707></a>
+##### Paragraphe 2 : Instruction de la demande<a id=724></a>
 
 ###### Article R413-35
 
@@ -74122,7 +75414,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant<a id=708></a>
+##### Sous-section 3 : Modifications concernant l'exploitation ou le changement d'exploitant<a id=725></a>
 
 ###### Article R413-38
 
@@ -74178,7 +75470,7 @@ _Cite_:
   - Code de l'environnement - art. R413-34 (V)
 
 
-##### Section 3 : Etablissements soumis à déclaration<a id=709></a>
+##### Section 3 : Etablissements soumis à déclaration<a id=726></a>
 
 ###### Article R413-40
 
@@ -74215,7 +75507,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 4 : Contrôle de l'autorité administrative<a id=710></a>
+##### Section 4 : Contrôle de l'autorité administrative<a id=727></a>
 
 ###### Article R413-42
 
@@ -74274,9 +75566,9 @@ _Cite_:
   - Code de l'environnement - art. L415-1 (VT)
 
 
-##### Section 5 : Sanctions administratives<a id=711></a>
+##### Section 5 : Sanctions administratives<a id=728></a>
 
-##### Sous-section 1 : Dispositions applicables en cas d'absence d'autorisation ou de déclaration<a id=712></a>
+##### Sous-section 1 : Dispositions applicables en cas d'absence d'autorisation ou de déclaration<a id=729></a>
 
 ###### Article R413-45
 
@@ -74344,7 +75636,7 @@ _Cité par_:
   - Code de l'environnement - art. R413-51 (V)
 
 
-##### Sous-section 2 : Dispositions applicables en cas de méconnaissance des prescriptions imposées<a id=713></a>
+##### Sous-section 2 : Dispositions applicables en cas de méconnaissance des prescriptions imposées<a id=730></a>
 
 ###### Article R413-48
 
@@ -74405,7 +75697,7 @@ _Cité par_:
   - Code de l'environnement - art. R413-51 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=714></a>
+##### Sous-section 3 : Dispositions communes<a id=731></a>
 
 ###### Article R413-50
 
@@ -74456,11 +75748,11 @@ _Cite_:
   - Code de l'environnement - art. R413-49 (V)
 
 
-#### Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages<a id=715></a>
+#### Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages<a id=732></a>
 
-##### Section 1 : Sites Natura 2000<a id=716></a>
+##### Section 1 : Sites Natura 2000<a id=733></a>
 
-##### Sous-section 1 : Dispositions communes<a id=717></a>
+##### Sous-section 1 : Dispositions communes<a id=734></a>
 
 ###### Article R414-1
 
@@ -74510,7 +75802,7 @@ _Cite_:
   - Code de l'environnement - art. L414-1 (V)
 
 
-##### Sous-section 2 : Procédure de désignation des sites Natura 2000<a id=718></a>
+##### Sous-section 2 : Procédure de désignation des sites Natura 2000<a id=735></a>
 
 ###### Article R414-3
 
@@ -74632,9 +75924,9 @@ _Cité par_:
   - Arrêté du 30 avril 2018 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux documents d'objectifs.<a id=719></a>
+##### Sous-section 3 : Dispositions relatives aux documents d'objectifs.<a id=736></a>
 
-##### Paragraphe 1 : Comité de pilotage.<a id=720></a>
+##### Paragraphe 1 : Comité de pilotage.<a id=737></a>
 
 ###### Article R414-8
 
@@ -74676,6 +75968,10 @@ IV. - Lorsque des terrains relevant du ministère de la défense sont inclus à 
 dans celui du coeur du parc national, les dispositions du document de planification prévu au III qui concernent ces terrains
 sont soumises à l'avis conforme du commandant de la région terre.
 
+V. - Lorsque la plus grande partie d'un site Natura 2000 est située dans le périmètre d'un parc naturel marin, le plan de
+gestion du parc naturel marin comprend les éléments énumérés à l'article R. 414-11, à l'exception des cahiers des charges
+prévus au 4°, et a valeur de document d'objectifs du site.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -74694,12 +75990,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-944 du 28 juillet 2006 - art. 2 () JORF 29 juillet 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L414-2 (M)
-  - Code de l'environnement - art. R414-11 (M)
+  - Décret n°2006-1266 du 16 octobre 2006 - art. 6 () JORF 17 octobre 2006
 
 
 ###### Article R414-8-1
@@ -74745,7 +76036,7 @@ _Créé par_:
   - Décret n°2006-922 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
 
 
-##### Paragraphe 2 : Elaboration et modification.<a id=721></a>
+##### Paragraphe 2 : Elaboration et modification.<a id=738></a>
 
 ###### Article R414-9
 
@@ -74879,7 +76170,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R414-8-6 (V)
 
 
-##### Paragraphe 3 : Contenu.<a id=722></a>
+##### Paragraphe 3 : Contenu.<a id=739></a>
 
 ###### Article R414-11
 
@@ -74925,9 +76216,9 @@ _Cité par_:
   - Code de l'environnement - art. R414-8 (M)
 
 
-##### Sous-section 4 : Dispositions relatives aux chartes et aux contrats Natura 2000<a id=723></a>
+##### Sous-section 4 : Dispositions relatives aux chartes et aux contrats Natura 2000<a id=740></a>
 
-##### Paragraphe 1 : Charte Natura 2000<a id=724></a>
+##### Paragraphe 1 : Charte Natura 2000<a id=741></a>
 
 ###### Article R414-12
 
@@ -74995,7 +76286,7 @@ _Cite_:
   - Code de l'environnement - art. R414-12 (M)
 
 
-##### Paragraphe 2 : Contrat Natura 2000<a id=725></a>
+##### Paragraphe 2 : Contrat Natura 2000<a id=742></a>
 
 ###### Article R414-13
 
@@ -75140,7 +76431,7 @@ _Modifié par_:
   - Décret n°2006-922 du 26 juillet 2006 - art. 2 () JORF 27 juillet 2006
 
 
-##### Paragraphe 3 : Dispositions communes<a id=726></a>
+##### Paragraphe 3 : Dispositions communes<a id=743></a>
 
 ###### Article R414-18
 
@@ -75163,7 +76454,7 @@ _Cite_:
   - Code de l'environnement - art. R414-15-1 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation<a id=727></a>
+##### Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation<a id=744></a>
 
 ###### Article R414-19
 
@@ -75387,11 +76678,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre V : Dispositions pénales<a id=728></a>
+#### Chapitre V : Dispositions pénales<a id=745></a>
 
-##### Section 2 : Sanctions<a id=729></a>
+##### Section 2 : Sanctions<a id=746></a>
 
-##### Sous-section 1 : Préservation du patrimoine biologique<a id=730></a>
+##### Sous-section 1 : Préservation du patrimoine biologique<a id=747></a>
 
 ###### Article R415-1
 
@@ -75434,7 +76725,7 @@ _Cité par_:
   - Code de l'environnement - art. R654-8 (V)
 
 
-##### Sous-section 2 : Activités soumises à autorisation<a id=731></a>
+##### Sous-section 2 : Activités soumises à autorisation<a id=748></a>
 
 ###### Article R415-3
 
@@ -75457,9 +76748,9 @@ _Cité par_:
   - Code de l'environnement - art. R654-8 (V)
 
 
-#### Chapitre VI : Conservatoires botaniques nationaux<a id=732></a>
+#### Chapitre VI : Conservatoires botaniques nationaux<a id=749></a>
 
-##### Section 1 : Missions et agrément des conservatoires botaniques nationaux<a id=733></a>
+##### Section 1 : Missions et agrément des conservatoires botaniques nationaux<a id=750></a>
 
 ###### Article D416-1
 
@@ -75583,7 +76874,7 @@ _Cite_:
   - Code de l'environnement - art. D416-1 (V)
 
 
-##### Section 2 : Commission des conservatoires botaniques nationaux<a id=734></a>
+##### Section 2 : Commission des conservatoires botaniques nationaux<a id=751></a>
 
 ###### Article D416-7
 
@@ -75662,11 +76953,11 @@ _Cité par_:
   - Décret n°2015-622 du 5 juin 2015 - art. (V)
 
 
-### Titre II : Chasse<a id=735></a>
+### Titre II : Chasse<a id=752></a>
 
-#### Chapitre Ier : Organisation de la chasse<a id=736></a>
+#### Chapitre Ier : Organisation de la chasse<a id=753></a>
 
-##### Section 1 : Conseil national de la chasse et de la faune sauvage<a id=737></a>
+##### Section 1 : Conseil national de la chasse et de la faune sauvage<a id=754></a>
 
 ###### Article R421-1
 
@@ -75875,11 +77166,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 2 : Office national de la chasse et de la faune sauvage<a id=738></a>
+##### Section 2 : Office national de la chasse et de la faune sauvage<a id=755></a>
 
-##### Sous-section 2 : Administration générale<a id=739></a>
+##### Sous-section 2 : Administration générale<a id=756></a>
 
-##### Paragraphe 1 : Conseil d'administration<a id=740></a>
+##### Paragraphe 1 : Conseil d'administration<a id=757></a>
 
 ###### Article R421-8
 
@@ -76078,7 +77369,7 @@ _Cité par_:
   - Code de l'environnement - art. R421-27 (VD)
 
 
-##### Paragraphe 2 : Directeur général<a id=741></a>
+##### Paragraphe 2 : Directeur général<a id=758></a>
 
 ###### Article R421-14
 
@@ -76116,7 +77407,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*421-10 (VD)
 
 
-##### Paragraphe 3 : Conseil scientifique<a id=742></a>
+##### Paragraphe 3 : Conseil scientifique<a id=759></a>
 
 ###### Article R421-15
 
@@ -76193,7 +77484,7 @@ _Modifié par_:
   - Décret n°2005-1238 du 30 septembre 2005 - art. 2 () JORF 1er octobre 2005
 
 
-##### Paragraphe 4 : Personnels<a id=743></a>
+##### Paragraphe 4 : Personnels<a id=760></a>
 
 ###### Article R421-17
 
@@ -76384,7 +77675,7 @@ _Cite_:
   - Code de l'environnement - art. R421-18 (V)
 
 
-##### Sous-section 3 : Dispositions financières<a id=744></a>
+##### Sous-section 3 : Dispositions financières<a id=761></a>
 
 ###### Article R421-25
 
@@ -76421,7 +77712,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Contrôle<a id=745></a>
+##### Sous-section 4 : Contrôle<a id=762></a>
 
 ###### Article R421-27
 
@@ -76503,7 +77794,7 @@ _Modifié par_:
   - Décret n°2005-1238 du 30 septembre 2005 - art. 2 () JORF 1er octobre 2005
 
 
-##### Section 3 : Commission départementale de la chasse et de la faune sauvage<a id=746></a>
+##### Section 3 : Commission départementale de la chasse et de la faune sauvage<a id=763></a>
 
 ###### Article R421-29
 
@@ -76630,9 +77921,9 @@ _Modifié par_:
   - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
-##### Section 4 : Fédérations départementales des chasseurs<a id=747></a>
+##### Section 4 : Fédérations départementales des chasseurs<a id=764></a>
 
-##### Sous-section 1 : Adhésion et participations exigibles des adhérents<a id=748></a>
+##### Sous-section 1 : Adhésion et participations exigibles des adhérents<a id=765></a>
 
 ###### Article R421-33
 
@@ -76668,7 +77959,7 @@ _Cite_:
   - Code de l'environnement - art. L426-5 (V)
 
 
-##### Sous-section 2 : Régime budgétaire et comptable<a id=749></a>
+##### Sous-section 2 : Régime budgétaire et comptable<a id=766></a>
 
 ###### Article R421-35
 
@@ -76744,7 +78035,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la fédération<a id=750></a>
+##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la fédération<a id=767></a>
 
 ###### Article R421-39
 
@@ -76782,7 +78073,7 @@ _Cite_:
   - Code de l'environnement - art. L421-10 (V)
 
 
-##### Section 5 : Fédérations interdépartementales des chasseurs<a id=751></a>
+##### Section 5 : Fédérations interdépartementales des chasseurs<a id=768></a>
 
 ###### Article R421-40
 
@@ -76837,7 +78128,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 6 : Fédérations régionales des chasseurs<a id=752></a>
+##### Section 6 : Fédérations régionales des chasseurs<a id=769></a>
 
 ###### Article R421-43
 
@@ -76874,9 +78165,9 @@ _Cite_:
   - Code de l'environnement - art. R421-35 (V)
 
 
-##### Section 7 : Fédération nationale des chasseurs<a id=753></a>
+##### Section 7 : Fédération nationale des chasseurs<a id=770></a>
 
-##### Sous-section 1 : Cotisations et contributions des fédérations départementales<a id=754></a>
+##### Sous-section 1 : Cotisations et contributions des fédérations départementales<a id=771></a>
 
 ###### Article R421-45
 
@@ -76933,7 +78224,7 @@ _Cité par_:
   - Code de l'environnement - art. R421-49 (V)
 
 
-##### Sous-section 2 : Régime budgétaire et comptable<a id=755></a>
+##### Sous-section 2 : Régime budgétaire et comptable<a id=772></a>
 
 ###### Article R421-48
 
@@ -76978,7 +78269,7 @@ _Cité par_:
   - Code de l'environnement - art. R426-2 (VD)
 
 
-##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs<a id=756></a>
+##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs<a id=773></a>
 
 ###### Article R421-50
 
@@ -76998,7 +78289,7 @@ _Cite_:
   - Code de l'environnement - art. L421-16 (V)
 
 
-##### Section 8 : Observatoire national de la faune sauvage et de ses habitats.<a id=757></a>
+##### Section 8 : Observatoire national de la faune sauvage et de ses habitats.<a id=774></a>
 
 ###### Article D421-51
 
@@ -77073,11 +78364,11 @@ _Abrogé par_:
   - Décret n°2009-401 du 14 avril 2009 - art. 1
 
 
-#### Chapitre II : Territoire de chasse<a id=758></a>
+#### Chapitre II : Territoire de chasse<a id=775></a>
 
-##### Section 1 : Associations communales et intercommunales de chasse agréées<a id=759></a>
+##### Section 1 : Associations communales et intercommunales de chasse agréées<a id=776></a>
 
-##### Sous-section 1 : Dispositions générales<a id=760></a>
+##### Sous-section 1 : Dispositions générales<a id=777></a>
 
 ###### Article R422-1
 
@@ -77157,9 +78448,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 2 : Institution des associations communales de chasse agréées<a id=761></a>
+##### Sous-section 2 : Institution des associations communales de chasse agréées<a id=778></a>
 
-##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées<a id=762></a>
+##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées<a id=779></a>
 
 ###### Article R422-5
 
@@ -77302,7 +78593,7 @@ _Cite_:
   - Code de l'environnement - art. R422-5 (V)
 
 
-##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées<a id=763></a>
+##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées<a id=780></a>
 
 ###### Article R422-12
 
@@ -77399,9 +78690,9 @@ _Cite_:
   - Code de l'environnement - art. L422-7 (V)
 
 
-##### Sous-section 3 : Modalités de constitution<a id=764></a>
+##### Sous-section 3 : Modalités de constitution<a id=781></a>
 
-##### Paragraphe 1 : Enquête<a id=765></a>
+##### Paragraphe 1 : Enquête<a id=782></a>
 
 ###### Article R422-17
 
@@ -77773,7 +79064,7 @@ _Cite_:
   - Code de l'environnement - art. R422-27 (V)
 
 
-##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée<a id=766></a>
+##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée<a id=783></a>
 
 ###### Article R422-33
 
@@ -77984,9 +79275,9 @@ _Cité par_:
   - Code de l'environnement - art. R422-47 (V)
 
 
-##### Sous-section 4 : Territoire<a id=767></a>
+##### Sous-section 4 : Territoire<a id=784></a>
 
-##### Paragraphe 2 : Terrains faisant l'objet d'une opposition<a id=768></a>
+##### Paragraphe 2 : Terrains faisant l'objet d'une opposition<a id=785></a>
 
 ###### Article R422-42
 
@@ -78048,7 +79339,7 @@ _Cite_:
   - Code de l'environnement - art. R422-24 (V)
 
 
-##### Paragraphe 3 : Apports<a id=769></a>
+##### Paragraphe 3 : Apports<a id=786></a>
 
 ###### Article R422-45
 
@@ -78211,7 +79502,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 4 : Modification du territoire de l'association<a id=770></a>
+##### Paragraphe 4 : Modification du territoire de l'association<a id=787></a>
 
 ###### Article R422-52
 
@@ -78415,7 +79706,7 @@ _Cité par_:
   - Code de l'environnement - art. R422-66 (V)
 
 
-##### Paragraphe 5 : Enclaves<a id=771></a>
+##### Paragraphe 5 : Enclaves<a id=788></a>
 
 ###### Article R422-59
 
@@ -78496,7 +79787,7 @@ _Cite_:
   - Code de l'environnement - art. R422-50 (V)
 
 
-##### Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées<a id=772></a>
+##### Sous-section 5 : Dispositions obligatoires des statuts des associations communales de chasse agréées<a id=789></a>
 
 ###### Article R422-62
 
@@ -78695,7 +79986,7 @@ _Cite_:
   - Code de l'environnement - art. R422-79 (V)
 
 
-##### Sous-section 6 : Réserves et garderies<a id=773></a>
+##### Sous-section 6 : Réserves et garderies<a id=790></a>
 
 ###### Article R422-65
 
@@ -78759,7 +80050,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 7 : Associations intercommunales de chasse agréées<a id=774></a>
+##### Sous-section 7 : Associations intercommunales de chasse agréées<a id=791></a>
 
 ###### Article R422-69
 
@@ -79003,7 +80294,7 @@ _Cite_:
   - Code de l'environnement - art. R422-65 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=775></a>
+##### Sous-section 8 : Dispositions diverses<a id=792></a>
 
 ###### Article R422-79
 
@@ -79040,7 +80331,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 9 : Cas particuliers de la Guadeloupe, de la Martinique et de la Réunion<a id=776></a>
+##### Sous-section 9 : Cas particuliers de la Guadeloupe, de la Martinique et de la Réunion<a id=793></a>
 
 ###### Article R422-81
 
@@ -79063,9 +80354,9 @@ _Cité par_:
   - Code de l'environnement - art. R654-11 (V)
 
 
-##### Section 2 : Réserves de chasse et de faune sauvage<a id=777></a>
+##### Section 2 : Réserves de chasse et de faune sauvage<a id=794></a>
 
-##### Sous-section 1 : Institution des réserves de chasse et de faune sauvage<a id=778></a>
+##### Sous-section 1 : Institution des réserves de chasse et de faune sauvage<a id=795></a>
 
 ###### Article R422-82
 
@@ -79166,7 +80457,7 @@ _Cite_:
   - Code forestier - art. L121-2 (V)
 
 
-##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage<a id=779></a>
+##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage<a id=796></a>
 
 ###### Article R422-86
 
@@ -79262,7 +80553,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Réserves nationales de chasse et de faune sauvage<a id=780></a>
+##### Sous-section 3 : Réserves nationales de chasse et de faune sauvage<a id=797></a>
 
 ###### Article R*422-93
 
@@ -79335,7 +80626,7 @@ _Cité par_:
   - Arrêté du 28 novembre 2014 - art. 2 (V)
 
 
-##### Section 3 : Chasse maritime<a id=781></a>
+##### Section 3 : Chasse maritime<a id=798></a>
 
 ###### Article R422-95
 
@@ -79360,9 +80651,9 @@ _Cite_:
   - Code de l'environnement - art. L422-28 (V)
 
 
-##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=782></a>
+##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=799></a>
 
-##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat<a id=783></a>
+##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat<a id=800></a>
 
 ###### Article D422-96
 
@@ -79382,9 +80673,9 @@ _Cite_:
   - Code forestier - art. R137-6 (Ab)
 
 
-##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial<a id=784></a>
+##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial<a id=801></a>
 
-##### Paragraphe 1 : Conditions d'exploitation en amont de la limite de salure des eaux<a id=785></a>
+##### Paragraphe 1 : Conditions d'exploitation en amont de la limite de salure des eaux<a id=802></a>
 
 ###### Article D422-97
 
@@ -79830,7 +81121,7 @@ _Cite_:
   - Code de l'environnement - art. L422-27 (V)
 
 
-##### Paragraphe 2 : Conditions d'exploitation en aval de la limite de salure des eaux<a id=786></a>
+##### Paragraphe 2 : Conditions d'exploitation en aval de la limite de salure des eaux<a id=803></a>
 
 ###### Article D422-114
 
@@ -79852,7 +81143,7 @@ _Cité par_:
   - Code de l'environnement - art. R422-95 (V)
 
 
-##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime<a id=787></a>
+##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime<a id=804></a>
 
 ###### Article D422-115
 
@@ -80162,7 +81453,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre III : Permis de chasser<a id=788></a>
+#### Chapitre III : Permis de chasser<a id=805></a>
 
 ###### Article R423-1
 
@@ -80182,9 +81473,9 @@ _Cite_:
   - Code de l'environnement - art. L423-3 (V)
 
 
-##### Section 1 : Examen pour la délivrance du permis de chasser<a id=789></a>
+##### Section 1 : Examen pour la délivrance du permis de chasser<a id=806></a>
 
-##### Sous-section 1 : Examen pour la délivrance du permis de chasser<a id=790></a>
+##### Sous-section 1 : Examen pour la délivrance du permis de chasser<a id=807></a>
 
 ###### Article R423-2
 
@@ -80349,7 +81640,7 @@ _Modifié par_:
   - Décret n°2006-913 du 24 juillet 2006 - art. 3 () JORF 25 juillet 2006
 
 
-##### Sous-section 2 : Autorisation de chasser accompagné<a id=791></a>
+##### Sous-section 2 : Autorisation de chasser accompagné<a id=808></a>
 
 ###### Article R423-8
 
@@ -80401,9 +81692,9 @@ _Cité par_:
   - Code de l'environnement - art. R423-3 (V)
 
 
-##### Section 2 : Délivrance et validation du permis de chasser<a id=792></a>
+##### Section 2 : Délivrance et validation du permis de chasser<a id=809></a>
 
-##### Sous-section 1 : Délivrance<a id=793></a>
+##### Sous-section 1 : Délivrance<a id=810></a>
 
 ###### Article R423-9
 
@@ -80496,7 +81787,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 304 (P)
 
 
-##### Sous-section 2 : Validation du permis de chasser<a id=794></a>
+##### Sous-section 2 : Validation du permis de chasser<a id=811></a>
 
 ###### Article R423-12
 
@@ -80663,7 +81954,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-4 (V)
 
 
-##### Sous-section 3 : Modalités de validation du permis de chasser<a id=795></a>
+##### Sous-section 3 : Modalités de validation du permis de chasser<a id=812></a>
 
 ###### Article R423-19
 
@@ -80731,7 +82022,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Dispositions propres à l'Ile-de-France<a id=796></a>
+##### Sous-section 4 : Dispositions propres à l'Ile-de-France<a id=813></a>
 
 ###### Article R423-22
 
@@ -80766,7 +82057,7 @@ _Abrogé par_:
   - Décret n°2009-1055 du 28 août 2009 - art. 11
 
 
-##### Sous-section 6 : Refus et exclusions<a id=797></a>
+##### Sous-section 6 : Refus et exclusions<a id=814></a>
 
 ###### Article R423-24
 
@@ -80843,7 +82134,7 @@ _Cite_:
   - Code de l'environnement - art. R423-12 (V)
 
 
-##### Section 4 : Dispositions diverses<a id=798></a>
+##### Section 4 : Dispositions diverses<a id=815></a>
 
 ###### Article R423-26
 
@@ -80887,9 +82178,9 @@ _Cite_:
   - Code de l'environnement - art. L423-5 (V)
 
 
-#### Chapitre IV : Exercice de la chasse<a id=799></a>
+#### Chapitre IV : Exercice de la chasse<a id=816></a>
 
-##### Section 1 : Protection du gibier<a id=800></a>
+##### Section 1 : Protection du gibier<a id=817></a>
 
 ###### Article R424-1
 
@@ -80972,9 +82263,9 @@ _Cité par_:
   - Code de l'environnement - art. R428-6 (V)
 
 
-##### Section 2 : Temps de chasse<a id=801></a>
+##### Section 2 : Temps de chasse<a id=818></a>
 
-##### Sous-section 1 : Chasse à courre, à cor, à cri et au vol<a id=802></a>
+##### Sous-section 1 : Chasse à courre, à cor, à cri et au vol<a id=819></a>
 
 ###### Article R424-4
 
@@ -81015,9 +82306,9 @@ _Modifié par_:
   - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
-##### Sous-section 2 : Chasse à tir<a id=803></a>
+##### Sous-section 2 : Chasse à tir<a id=820></a>
 
-##### Paragraphe 1 : Cas général<a id=804></a>
+##### Paragraphe 1 : Cas général<a id=821></a>
 
 ###### Article R424-6
 
@@ -81102,7 +82393,7 @@ _Cite_:
   - Code de l'environnement - art. R424-6 (V)
 
 
-##### Paragraphe 2 : Cas particuliers de la Guadeloupe, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon<a id=805></a>
+##### Paragraphe 2 : Cas particuliers de la Guadeloupe, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon<a id=822></a>
 
 ###### Article R424-10
 
@@ -81248,7 +82539,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Modes et moyens de chasse<a id=806></a>
+##### Section 3 : Modes et moyens de chasse<a id=823></a>
 
 ###### Article R424-14
 
@@ -81406,9 +82697,9 @@ _Cite_:
   - Code de l'environnement - art. R424-17 (V)
 
 
-##### Section 4 : Commercialisation et transport du gibier<a id=807></a>
+##### Section 4 : Commercialisation et transport du gibier<a id=824></a>
 
-##### Sous-section 1 : Interdiction permanente<a id=808></a>
+##### Sous-section 1 : Interdiction permanente<a id=825></a>
 
 ###### Article R424-20
 
@@ -81494,7 +82785,7 @@ _Cité par_:
   - Code de l'environnement - art. R424-23 (Ab)
 
 
-##### Section 5 : Dispositions spéciales à la chasse maritime<a id=809></a>
+##### Section 5 : Dispositions spéciales à la chasse maritime<a id=826></a>
 
 ###### Article R424-24
 
@@ -81530,9 +82821,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre V : Gestion<a id=810></a>
+#### Chapitre V : Gestion<a id=827></a>
 
-##### Section 1 : Schéma départemental de gestion cynégétique<a id=811></a>
+##### Section 1 : Schéma départemental de gestion cynégétique<a id=828></a>
 
 ###### Article R425-1
 
@@ -81573,9 +82864,9 @@ _Cité par_:
   - Code de l'environnement - art. R654-10 (M)
 
 
-##### Section 3 : Plan de chasse<a id=812></a>
+##### Section 3 : Plan de chasse<a id=829></a>
 
-##### Sous-section 1 : Dispositions générales<a id=813></a>
+##### Sous-section 1 : Dispositions générales<a id=830></a>
 
 ###### Article R425-2
 
@@ -81834,7 +83125,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-14 (V)
 
 
-##### Sous-section 2 : Dispositions particulières à la Corse<a id=814></a>
+##### Sous-section 2 : Dispositions particulières à la Corse<a id=831></a>
 
 ###### Article R425-14
 
@@ -81917,7 +83208,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-14 (V)
 
 
-##### Section 4 : Prélèvement maximal autorisé<a id=815></a>
+##### Section 4 : Prélèvement maximal autorisé<a id=832></a>
 
 ###### Article R425-18
 
@@ -82034,11 +83325,11 @@ _Cite_:
   - Code de l'environnement - art. L428-20 (M)
 
 
-#### Chapitre VI : Indemnisation des dégâts de gibiers<a id=816></a>
+#### Chapitre VI : Indemnisation des dégâts de gibiers<a id=833></a>
 
-##### Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles<a id=817></a>
+##### Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles<a id=834></a>
 
-##### Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier<a id=818></a>
+##### Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier<a id=835></a>
 
 ###### Article R426-1
 
@@ -82154,9 +83445,9 @@ _Cité par_:
   - Code de l'environnement - art. R429-15 (Ab)
 
 
-##### Sous-section 2 : Instances consultatives pour l'indemnisation des dégâts de gibier<a id=819></a>
+##### Sous-section 2 : Instances consultatives pour l'indemnisation des dégâts de gibier<a id=836></a>
 
-##### Paragraphe 1 : Commission nationale d'indemnisation des dégâts de gibier<a id=820></a>
+##### Paragraphe 1 : Commission nationale d'indemnisation des dégâts de gibier<a id=837></a>
 
 ###### Article R426-3
 
@@ -82263,7 +83554,7 @@ _Cite_:
   - Code rural L171
 
 
-##### Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage<a id=821></a>
+##### Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage<a id=838></a>
 
 ###### Article R426-6
 
@@ -82418,7 +83709,7 @@ _Cite_:
   - Code de l'environnement - art. R426-8 (V)
 
 
-##### Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier<a id=822></a>
+##### Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier<a id=839></a>
 
 ###### Article R426-10
 
@@ -82502,7 +83793,7 @@ _Cité par_:
   - Code de l'environnement - art. R426-14 (VD)
 
 
-##### Sous-section 4 : Procédure d'indemnisation<a id=823></a>
+##### Sous-section 4 : Procédure d'indemnisation<a id=840></a>
 
 ###### Article R426-12
 
@@ -82752,7 +84043,7 @@ _Cite_:
   - Code de l'environnement - art. L426-1 (V)
 
 
-##### Sous-section 5 : Dispositions diverses<a id=824></a>
+##### Sous-section 5 : Dispositions diverses<a id=841></a>
 
 ###### Article R426-19
 
@@ -82776,7 +84067,7 @@ _Cité par_:
   - Code de l'environnement - art. R429-13 (V)
 
 
-##### Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes<a id=825></a>
+##### Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes<a id=842></a>
 
 ###### Article R426-20
 
@@ -82911,11 +84202,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=826></a>
+#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=843></a>
 
-##### Section 1 : Mesures administratives<a id=827></a>
+##### Section 1 : Mesures administratives<a id=844></a>
 
-##### Sous-section 1 : Louveterie<a id=828></a>
+##### Sous-section 1 : Louveterie<a id=845></a>
 
 ###### Article R427-1
 
@@ -82993,7 +84284,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 2 : Battues administratives<a id=829></a>
+##### Sous-section 2 : Battues administratives<a id=846></a>
 
 ###### Article R427-4
 
@@ -83013,7 +84304,7 @@ _Cite_:
   - Code de l'environnement - art. L427-6 (V)
 
 
-##### Sous-section 3 : Sécurité aérienne<a id=830></a>
+##### Sous-section 3 : Sécurité aérienne<a id=847></a>
 
 ###### Article R427-5
 
@@ -83027,9 +84318,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 2 : Droits des particuliers<a id=831></a>
+##### Section 2 : Droits des particuliers<a id=848></a>
 
-##### Sous-section 1 : Classement des animaux nuisibles<a id=832></a>
+##### Sous-section 1 : Classement des animaux nuisibles<a id=849></a>
 
 ###### Article R427-6
 
@@ -83106,7 +84397,7 @@ _Cite_:
   - Code de l'environnement - art. R427-6 (V)
 
 
-##### Sous-section 2 : Exercice du droit de destruction<a id=833></a>
+##### Sous-section 2 : Exercice du droit de destruction<a id=850></a>
 
 ###### Article R427-8
 
@@ -83122,7 +84413,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Modalités de destruction<a id=834></a>
+##### Sous-section 3 : Modalités de destruction<a id=851></a>
 
 ###### Article R427-9
 
@@ -83139,7 +84430,7 @@ _Abrogé par_:
   - Décret n°2012-402 du 23 mars 2012 - art. 7
 
 
-##### Paragraphe 1 : Toxiques<a id=835></a>
+##### Paragraphe 1 : Toxiques<a id=852></a>
 
 ###### Article R427-10
 
@@ -83159,7 +84450,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-19 (V)
 
 
-##### Paragraphe 2 : Déterrage<a id=836></a>
+##### Paragraphe 2 : Déterrage<a id=853></a>
 
 ###### Article R427-11
 
@@ -83196,7 +84487,7 @@ _Abrogé par_:
   - Décret n°2012-402 du 23 mars 2012 - art. 8
 
 
-##### Paragraphe 3 : Piégeage<a id=837></a>
+##### Paragraphe 3 : Piégeage<a id=854></a>
 
 ###### Article R*427-15
 
@@ -83301,7 +84592,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-19 (V)
 
 
-##### Paragraphe 4 : Tir<a id=838></a>
+##### Paragraphe 4 : Tir<a id=855></a>
 
 ###### Article R427-18
 
@@ -83480,7 +84771,7 @@ _Cite_:
   - Code de l'environnement - art. R427-22
 
 
-##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol<a id=839></a>
+##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol<a id=856></a>
 
 ###### Article R427-25
 
@@ -83505,7 +84796,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Lâcher<a id=840></a>
+##### Sous-section 4 : Lâcher<a id=857></a>
 
 ###### Article R427-26
 
@@ -83519,7 +84810,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 5 : Mesures diverses<a id=841></a>
+##### Sous-section 5 : Mesures diverses<a id=858></a>
 
 ###### Article R427-27
 
@@ -83538,7 +84829,7 @@ _Cite_:
   - Code de l'environnement - art. L427-9 (V)
 
 
-##### Section 3 : Commercialisation et transport<a id=842></a>
+##### Section 3 : Commercialisation et transport<a id=859></a>
 
 ###### Article R427-28
 
@@ -83565,11 +84856,11 @@ _Cite_:
   - Code de l'environnement - art. L424-12 (V)
 
 
-#### Chapitre VIII : Dispositions pénales<a id=843></a>
+#### Chapitre VIII : Dispositions pénales<a id=860></a>
 
-##### Section 1 : Peines<a id=844></a>
+##### Section 1 : Peines<a id=861></a>
 
-##### Sous-section 1 : Territoire<a id=845></a>
+##### Sous-section 1 : Territoire<a id=862></a>
 
 ###### Article R428-1
 
@@ -83627,7 +84918,7 @@ _Cite_:
   - Code de l'environnement - art. L422-27 (M)
 
 
-##### Sous-section 2 : Permis de chasser<a id=846></a>
+##### Sous-section 2 : Permis de chasser<a id=863></a>
 
 ###### Article R428-4
 
@@ -83662,9 +84953,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Exercice de la chasse<a id=847></a>
+##### Sous-section 3 : Exercice de la chasse<a id=864></a>
 
-##### Paragraphe 1 : Protection du gibier<a id=848></a>
+##### Paragraphe 1 : Protection du gibier<a id=865></a>
 
 ###### Article R428-6
 
@@ -83702,7 +84993,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Temps de chasse<a id=849></a>
+##### Paragraphe 2 : Temps de chasse<a id=866></a>
 
 ###### Article R428-8
 
@@ -83737,7 +85028,7 @@ _Cite_:
   - Code de l'environnement - art. L424-5 (M)
 
 
-##### Paragraphe 3 : Plan de chasse<a id=850></a>
+##### Paragraphe 3 : Plan de chasse<a id=867></a>
 
 ###### Article R428-10
 
@@ -83777,7 +85068,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-24 (Ab)
 
 
-##### Paragraphe 4 : Modes et moyens<a id=851></a>
+##### Paragraphe 4 : Modes et moyens<a id=868></a>
 
 ###### Article R428-12
 
@@ -83823,7 +85114,7 @@ _Cite_:
   - Code de l'environnement - art. L427-8 (V)
 
 
-##### Paragraphe 5 : Transport et commercialisation du gibier<a id=852></a>
+##### Paragraphe 5 : Transport et commercialisation du gibier<a id=869></a>
 
 ###### Article R428-14
 
@@ -83944,7 +85235,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Destruction des animaux nuisibles et louveterie.<a id=853></a>
+##### Sous-section 4 : Destruction des animaux nuisibles et louveterie.<a id=870></a>
 
 ###### Article R428-22
 
@@ -83962,7 +85253,7 @@ _Cité par_:
   - Code de l'environnement - art. R428-24 (Ab)
 
 
-##### Section 2 : Circonstances aggravantes et récidive.<a id=854></a>
+##### Section 2 : Circonstances aggravantes et récidive.<a id=871></a>
 
 ###### Article R428-23
 
@@ -84011,7 +85302,7 @@ _Cite_:
   - Code de l'environnement R428-1, R428-4, R428-6, R428-10, R428-11, R428-16 à R428-18, R428-22
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=855></a>
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=872></a>
 
 ###### Article R429-1
 
@@ -84039,9 +85330,9 @@ _Cite_:
   - Code de l'environnement R422-1 à R422-80, R424-2, R424-7, R424-15, R426-1 à R426-29, R428-1, R428-12
 
 
-##### Section 2 : Exercice de la chasse<a id=856></a>
+##### Section 2 : Exercice de la chasse<a id=873></a>
 
-##### Sous-section 1 : Temps de chasse<a id=857></a>
+##### Sous-section 1 : Temps de chasse<a id=874></a>
 
 ###### Article R429-2
 
@@ -84112,7 +85403,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 2 : Plan de chasse<a id=858></a>
+##### Sous-section 2 : Plan de chasse<a id=875></a>
 
 ###### Article R429-6
 
@@ -84130,7 +85421,7 @@ _Cite_:
   - Code de l'environnement - art. R425-7 (Ab)
 
 
-##### Sous-section 3 : Modes et moyens de chasse<a id=859></a>
+##### Sous-section 3 : Modes et moyens de chasse<a id=876></a>
 
 ###### Article R429-7
 
@@ -84148,9 +85439,9 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Section 3 : Indemnisation des dégâts de gibier<a id=860></a>
+##### Section 3 : Indemnisation des dégâts de gibier<a id=877></a>
 
-##### Sous-section 1 : Régime général<a id=861></a>
+##### Sous-section 1 : Régime général<a id=878></a>
 
 ###### Article R429-8
 
@@ -84273,11 +85564,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 4 : Pénalités<a id=862></a>
+##### Section 4 : Pénalités<a id=879></a>
 
-##### Sous-section 1 : Peines<a id=863></a>
+##### Sous-section 1 : Peines<a id=880></a>
 
-##### Paragraphe 1 : Territoire<a id=864></a>
+##### Paragraphe 1 : Territoire<a id=881></a>
 
 ###### Article R429-18
 
@@ -84309,7 +85600,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Exercice de la chasse<a id=865></a>
+##### Paragraphe 2 : Exercice de la chasse<a id=882></a>
 
 ###### Article R429-20
 
@@ -84327,7 +85618,7 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Sous-section 2 : Récidive<a id=866></a>
+##### Sous-section 2 : Récidive<a id=883></a>
 
 ###### Article R429-21
 
@@ -84346,11 +85637,11 @@ _Cite_:
   - Code de l'environnement - art. R429-18 (V)
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=867></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=884></a>
 
-#### Chapitre Ier : Champ d'application<a id=868></a>
+#### Chapitre Ier : Champ d'application<a id=885></a>
 
-##### Section 1 : Dispositions générales<a id=869></a>
+##### Section 1 : Dispositions générales<a id=886></a>
 
 ###### Article R431-1
 
@@ -84461,9 +85752,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 2 : Piscicultures<a id=870></a>
+##### Section 2 : Piscicultures<a id=887></a>
 
-##### Sous-section 1 : Dispositions générales<a id=871></a>
+##### Sous-section 1 : Dispositions générales<a id=888></a>
 
 ###### Article R431-7
 
@@ -84502,7 +85793,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R431-8 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=872></a>
+##### Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=889></a>
 
 ###### Article R431-35
 
@@ -84585,11 +85876,11 @@ _Cité par_:
   - Arrêté du 6 août 2013 - art. 4 (V)
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=873></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=890></a>
 
-##### Section 3 : Obligations relatives aux ouvrages<a id=874></a>
+##### Section 3 : Obligations relatives aux ouvrages<a id=891></a>
 
-##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=875></a>
+##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=892></a>
 
 ###### Article D432-4
 
@@ -84639,7 +85930,7 @@ _Cite_:
   - Code de l'environnement - art. L432-6 (V)
 
 
-##### Section 4 : Contrôle des peuplements<a id=876></a>
+##### Section 4 : Contrôle des peuplements<a id=893></a>
 
 ###### Article R432-5
 
@@ -84956,9 +86247,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=877></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=894></a>
 
-##### Section 1 : Orientations de bassin.<a id=878></a>
+##### Section 1 : Orientations de bassin.<a id=895></a>
 
 ###### Article D433-1
 
@@ -85186,11 +86477,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=879></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=896></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=880></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=897></a>
 
-##### Sous-section 1 : Dispositions générales<a id=881></a>
+##### Sous-section 1 : Dispositions générales<a id=898></a>
 
 ###### Article R434-1
 
@@ -85303,7 +86594,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=882></a>
+##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=899></a>
 
 ###### Article R434-5
 
@@ -85320,7 +86611,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 1 : Le conseil d'administration<a id=883></a>
+##### Paragraphe 1 : Le conseil d'administration<a id=900></a>
 
 ###### Article R434-6
 
@@ -85576,7 +86867,7 @@ _Cite_:
   - Code de l'environnement - art. R434-10 (Ab)
 
 
-##### Paragraphe 2 : Le directeur général<a id=884></a>
+##### Paragraphe 2 : Le directeur général<a id=901></a>
 
 ###### Article R434-12
 
@@ -85621,7 +86912,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=885></a>
+##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=902></a>
 
 ###### Article R434-14
 
@@ -85756,9 +87047,9 @@ _Cite_:
   - Code de l'environnement - art. R434-15 (Ab)
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=886></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=903></a>
 
-##### Paragraphe 1 : Organisation financière et comptable<a id=887></a>
+##### Paragraphe 1 : Organisation financière et comptable<a id=904></a>
 
 ###### Article R434-19
 
@@ -85881,7 +87172,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 2 : Contrôles<a id=888></a>
+##### Paragraphe 2 : Contrôles<a id=905></a>
 
 ###### Article R434-24
 
@@ -85909,7 +87200,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Section 2 : Organisation de la pêche de loisir<a id=889></a>
+##### Section 2 : Organisation de la pêche de loisir<a id=906></a>
 
 ###### Article R*434-36
 
@@ -86164,7 +87455,7 @@ _Cite_:
   - Code de l'environnement - art. L434-4 (M)
 
 
-##### Section 3 : Organisation de la pêche professionnelle<a id=890></a>
+##### Section 3 : Organisation de la pêche professionnelle<a id=907></a>
 
 ###### Article R*434-42
 
@@ -86360,7 +87651,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre V : Droit de pêche<a id=891></a>
+#### Chapitre V : Droit de pêche<a id=908></a>
 
 ###### Article R435-1
 
@@ -86374,9 +87665,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=892></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=909></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation<a id=893></a>
+##### Sous-section 1 : Conditions générales d'exploitation<a id=910></a>
 
 ###### Article R435-2
 
@@ -86749,7 +88040,7 @@ _Cité par_:
   - Code de l'environnement - art. R435-8 (V)
 
 
-##### Sous-section 2 : Modalités de location des lots<a id=894></a>
+##### Sous-section 2 : Modalités de location des lots<a id=911></a>
 
 ###### Article R435-16
 
@@ -86997,7 +88288,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-##### Sous-section 3 : Procédure d'adjudication publique<a id=895></a>
+##### Sous-section 3 : Procédure d'adjudication publique<a id=912></a>
 
 ###### Article R435-25
 
@@ -87117,7 +88408,7 @@ _Cite_:
   - Code de l'environnement - art. R435-23 (V)
 
 
-##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=896></a>
+##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=913></a>
 
 ###### Article D435-33
 
@@ -87163,9 +88454,9 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation - art. 5 (M)
 
 
-##### Section 2 : Droit de pêche des riverains<a id=897></a>
+##### Section 2 : Droit de pêche des riverains<a id=914></a>
 
-##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=898></a>
+##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=915></a>
 
 ###### Article R435-34
 
@@ -87231,7 +88522,7 @@ _Cite_:
   - Code de l'environnement - art. L435-5 (M)
 
 
-##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=899></a>
+##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=916></a>
 
 ###### Article R435-37
 
@@ -87271,7 +88562,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions diverses<a id=900></a>
+##### Sous-section 3 : Dispositions diverses<a id=917></a>
 
 ###### Article R435-39
 
@@ -87297,7 +88588,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Droit de passage<a id=901></a>
+##### Section 3 : Droit de passage<a id=918></a>
 
 ###### Article R435-40
 
@@ -87320,9 +88611,9 @@ _Cite_:
   - Code de l'environnement - art. L435-9 (Ab)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=902></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=919></a>
 
-##### Section 1 : Dispositions générales<a id=903></a>
+##### Section 1 : Dispositions générales<a id=920></a>
 
 ###### Article R436-2
 
@@ -87418,9 +88709,9 @@ _Cite_:
   - Code de l'environnement - art. L436-4 (V)
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=904></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=921></a>
 
-##### Paragraphe  1 : Temps d'interdiction<a id=905></a>
+##### Paragraphe  1 : Temps d'interdiction<a id=922></a>
 
 ###### Article R436-6
 
@@ -87591,7 +88882,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Paragraphe 2 : Heures d'interdiction<a id=906></a>
+##### Paragraphe 2 : Heures d'interdiction<a id=923></a>
 
 ###### Article R436-13
 
@@ -87709,7 +89000,7 @@ _Abrogé par_:
   - Décret n°2010-1110 du 22 septembre 2010 - art. 2
 
 
-##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=907></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=924></a>
 
 ###### Article R436-18
 
@@ -87801,7 +89092,7 @@ _Cite_:
   - Code de l'environnement - art. R436-18 (V)
 
 
-##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=908></a>
+##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=925></a>
 
 ###### Article R436-21
 
@@ -87843,7 +89134,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=909></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=926></a>
 
 ###### Article R436-23
 
@@ -88100,7 +89391,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=910></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=927></a>
 
 ###### Article R436-30
 
@@ -88243,7 +89534,7 @@ _Cite_:
   - Code de l'environnement - art. R436-19 (V)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=911></a>
+##### Sous-section 6 : Dispositions diverses<a id=928></a>
 
 ###### Article R436-36
 
@@ -88300,7 +89591,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 7 : Dispositions pénales<a id=912></a>
+##### Sous-section 7 : Dispositions pénales<a id=929></a>
 
 ###### Article R436-39
 
@@ -88413,7 +89704,7 @@ _Cite_:
   - Code de l'environnement - art. L436-8 (V)
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=913></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=930></a>
 
 ###### Article R436-43
 
@@ -88440,9 +89731,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=914></a>
+##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=931></a>
 
-##### Sous-section 1 : Dispositions générales<a id=915></a>
+##### Sous-section 1 : Dispositions générales<a id=932></a>
 
 ###### Article R436-44
 
@@ -88487,7 +89778,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-65 (VD)
 
 
-##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=916></a>
+##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=933></a>
 
 ###### Article R436-45
 
@@ -88553,7 +89844,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-57 (V)
 
 
-##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=917></a>
+##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=934></a>
 
 ###### Article R436-47
 
@@ -88784,9 +90075,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=918></a>
+##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=935></a>
 
-##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=919></a>
+##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=936></a>
 
 ###### Article R436-55
 
@@ -88953,7 +90244,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=920></a>
+##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=937></a>
 
 ###### Article R436-62
 
@@ -89078,7 +90369,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-68 (V)
 
 
-##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=921></a>
+##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=938></a>
 
 ###### Article R436-66
 
@@ -89100,7 +90391,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-16 (V)
 
 
-##### Sous-section 6 : Dispositions pénales<a id=922></a>
+##### Sous-section 6 : Dispositions pénales<a id=939></a>
 
 ###### Article R436-67
 
@@ -89160,9 +90451,9 @@ _Cite_:
   - Code de l'environnement R436-55 à R436-58, R436-60, R436-63, R436-65
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=923></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=940></a>
 
-##### Sous-section 1 : Dispositions générales<a id=924></a>
+##### Sous-section 1 : Dispositions générales<a id=941></a>
 
 ###### Article R436-69
 
@@ -89184,7 +90475,7 @@ _Cite_:
   - Code de l'environnement - art. L431-5 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=925></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=942></a>
 
 ###### Article R436-70
 
@@ -89240,7 +90531,7 @@ _Cite_:
   - Code de l'environnement - art. R436-71 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=926></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=943></a>
 
 ###### Article R436-73
 
@@ -89321,7 +90612,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Sous-section 4 : Dispositions communes<a id=927></a>
+##### Sous-section 4 : Dispositions communes<a id=944></a>
 
 ###### Article R436-77
 
@@ -89381,7 +90672,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Section 5 : Commercialisation<a id=928></a>
+##### Section 5 : Commercialisation<a id=945></a>
 
 ###### Article R436-80
 
@@ -89429,11 +90720,11 @@ _Cite_:
   - Code de l'environnement - art. L436-16
 
 
-##### Section 6 : Dispositions particulières à certaines eaux<a id=929></a>
+##### Section 6 : Dispositions particulières à certaines eaux<a id=946></a>
 
-##### Sous-section 1 : Accords internationaux<a id=930></a>
+##### Sous-section 1 : Accords internationaux<a id=947></a>
 
-##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=931></a>
+##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=948></a>
 
 ###### Article R436-82
 
@@ -89464,7 +90755,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=932></a>
+##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=949></a>
 
 ###### Article R436-84
 
@@ -89515,7 +90806,7 @@ _Cite_:
   - Code de l'environnement - art. R436-85 (V)
 
 
-##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=933></a>
+##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=950></a>
 
 ###### Article R436-87
 
@@ -89568,9 +90859,9 @@ _Cite_:
   - Code de l'environnement - art. R436-88 (V)
 
 
-##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=934></a>
+##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=951></a>
 
-##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=935></a>
+##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=952></a>
 
 ###### Article R436-90
 
@@ -89690,9 +90981,9 @@ _Cite_:
   - Code de l'environnement - art. R436-92 (V)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=936></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=953></a>
 
-##### Section 1 : Dispositions générales<a id=937></a>
+##### Section 1 : Dispositions générales<a id=954></a>
 
 ###### Article D436-1
 
@@ -89769,11 +91060,11 @@ _Cite_:
   - Code de l'environnement - art. R436-23 (V)
 
 
-#### Chapitre VII : Dispositions pénales complémentaires<a id=938></a>
+#### Chapitre VII : Dispositions pénales complémentaires<a id=955></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=939></a>
+##### Section 1 : Recherche et constatation des infractions<a id=956></a>
 
-##### Sous-section 1 : Agents compétents<a id=940></a>
+##### Sous-section 1 : Agents compétents<a id=957></a>
 
 ###### Article R437-1
 
@@ -89832,7 +91123,7 @@ _Abrogé par_:
   - Décret n°2014-813 du 17 juillet 2014 - art. 4
 
 
-##### Sous-section 5 : Saisies<a id=941></a>
+##### Sous-section 5 : Saisies<a id=958></a>
 
 ###### Article R437-4
 
@@ -89867,7 +91158,7 @@ _Cite_:
   - Code de l'environnement - art. L437-12 (VT)
 
 
-##### Section 2 : Transaction<a id=942></a>
+##### Section 2 : Transaction<a id=959></a>
 
 ###### Article R437-6
 
@@ -89952,7 +91243,7 @@ _Abrogé par_:
   - Décret n°2007-598 du 24 avril 2007 - art. 2 () JORF 26 avril 2007
 
 
-##### Section 3 : Poursuites<a id=943></a>
+##### Section 3 : Poursuites<a id=960></a>
 
 ###### Article R437-10
 
@@ -90008,7 +91299,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 5 : Sanctions<a id=944></a>
+##### Section 5 : Sanctions<a id=961></a>
 
 ###### Article R437-12
 
@@ -90043,13 +91334,13 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=945></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=962></a>
 
-### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=946></a>
+### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=963></a>
 
-#### Chapitre II : Déclaration et autorisation<a id=947></a>
+#### Chapitre II : Déclaration et autorisation<a id=964></a>
 
-##### Section 1 : Autorités compétentes<a id=948></a>
+##### Section 1 : Autorités compétentes<a id=965></a>
 
 ###### Article R712-1
 
@@ -90120,7 +91411,7 @@ _Cite_:
   - Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 2 : Activités soumises à déclaration<a id=949></a>
+##### Section 2 : Activités soumises à déclaration<a id=966></a>
 
 ###### Article R712-3
 
@@ -90306,7 +91597,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 3 : Activités soumises à autorisation<a id=950></a>
+##### Section 3 : Activités soumises à autorisation<a id=967></a>
 
 ###### Article R712-9
 
@@ -90505,7 +91796,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 4 : Cas d'urgence<a id=951></a>
+##### Section 4 : Cas d'urgence<a id=968></a>
 
 ###### Article R712-15
 
@@ -90533,7 +91824,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=952></a>
+#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=969></a>
 
 ###### Article R714-1
 
@@ -90592,7 +91883,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-# ANNEXES<a id=953></a>
+# ANNEXES<a id=970></a>
 
 ###### Article Annexe I à l'article D432-4
 
