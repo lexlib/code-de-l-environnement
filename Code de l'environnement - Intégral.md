@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-10-17
+Version Consolidée au 2006-11-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -57206,17 +57206,12 @@ _Codifié par_:
 
 ###### Article R131-7
 
-Les membres du conseil d'administration bénéficient du remboursement, dans les conditions fixées par le décret n° 90-437 du
-28 mai 1990 modifié fixant les conditions et les modalités de règlement des frais de déplacement des personnels civils sur le
-territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux
-à caractère administratif et de certains organismes subventionnés, des frais de déplacement ou de séjour effectivement
-supportés par eux dans l'exercice de leurs fonctions.
+Les membres du conseil d'administration bénéficient du remboursement, dans les conditions fixées par le décret n° 2006-781 du
+3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des
+personnels civils de l'Etat, des frais de déplacement ou de séjour effectivement supportés par eux dans l'exercice de leurs
+fonctions.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
 
 _Anciens textes_:
 
@@ -57226,6 +57221,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Cite_:
+
+  - Décret n°2006-781 du 3 juillet 2006 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
 
 
 ###### Article R131-8
@@ -78228,23 +78231,41 @@ _Cité par_:
 Les fonctions de membre du Conseil national de la chasse et de la faune sauvage sont gratuites, de même que la participation
 aux séances des personnes invitées par le président en application du deuxième alinéa de l'article R. 421-5. Il peut
 toutefois être alloué des indemnités correspondant aux frais de déplacement et de séjour effectivement supportés à l'occasion
-des réunions, en application du décret n° 90-437 du 28 mai 1990 modifié fixant les conditions et les modalités de règlement
-des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont
-à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes
-subventionnés.
+des réunions, en application du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des
+frais occasionnés par les déplacements temporaires des personnels civils de l'Etat. 
 
 Les membres suppléants ne peuvent prétendre à ces indemnités que s'ils remplacent un membre titulaire empêché ou absent.
 
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la chasse et de la faune sauvage).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil national de la chasse et de la faune sauvage).
+
+Conformément à l'annexe 2 du décret n° 2015-622 du 5 juin 2015, le Conseil national de la chasse et de la faune sauvage est
+renouvelé pour une durée d'un an à compter du 8 juin 2015 (8 juin 2016).
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
-  - Code de l'environnement - art. R421-5 (V)
 
 _Codifié par_:
 
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+  - Décret n°2005-935 du 2 août 2005
+
+_Cite_:
+
+  - Décret n°2006-781 du 3 juillet 2006
+  - Code de l'environnement - art. R421-5
+
+_Modifié par_:
+
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2018-611 du 16 juillet 2018 - art. 1
 
 
 ##### Section 2 : Office national de la chasse et de la faune sauvage<a id=755></a>
@@ -78348,22 +78369,24 @@ _Codifié par_:
 
 Les fonctions de président ou de membre du conseil d'administration sont gratuites. Il peut toutefois leur être alloué des
 indemnités correspondant aux frais de déplacement ou de séjour effectivement supportés à l'occasion des réunions, en
-application du décret n° 90-437 du 28 mai 1990 modifié fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la
-charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes
-subventionnés.
+application du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés
+par les déplacements temporaires des personnels civils de l'Etat.
 
 Les membres suppléants ne peuvent prétendre à ces indemnités que s'ils remplacent un membre titulaire empêché ou absent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
-
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Cite_:
+
+  - Décret n°2006-781 2006-07-03
+
+_Modifié par_:
+
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
 
 
 ###### Article R421-12
@@ -87995,23 +88018,30 @@ Les fonctions des membres de la commission ne donnent pas lieu à rémunération
 
 Les membres de la commission ainsi que les personnes appelées à siéger avec voix consultative sont assimilés, pour le
 remboursement des frais de déplacement et de séjour, aux agents de l'Etat et aux personnes qui collaborent aux conseils,
-comités, commissions et autres organismes qui apportent leur concours à l'Etat, conformément au décret n° 90-437 du 28 mai
-1990 modifié fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels
-civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements
-publics nationaux à caractère administratif et de certains organismes subventionnés. Ils reçoivent à ce titre des indemnités
-pour frais de déplacement et de séjour calculées dans les conditions fixées par ce décret.
+comités, commissions et autres organismes qui apportent leur concours à l'Etat, conformément au décret n° 2006-781 du 3
+juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des
+personnels civils de l'Etat. Ils reçoivent à ce titre des indemnités pour frais de déplacement et de séjour calculées dans
+les conditions fixées par ce décret.
 
 Les dépenses de fonctionnement de la commission sont à la charge de l'agence de l'eau.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
-
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Cite_:
+
+  - Décret n°2006-781 2006-07-03
+
+_Modifié par_:
+
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-980 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
 
 
 #### Chapitre IV : Organisation des pêcheurs<a id=896></a>
@@ -88274,20 +88304,27 @@ _Cite_:
 Les fonctions de président et d'administrateur ne donnent pas lieu à rémunération. Pour le remboursement des frais de
 déplacement et de séjour, les membres du conseil d'administration ainsi que les personnalités appelées à siéger avec voix
 consultative mentionnées au II de l'article R. 434-6 sont assimilés à des fonctionnaires appartenant au groupe I prévu au
-décret n° 90-437 du 28 mai 1990 modifié fixant les conditions et les modalités de règlement des frais occasionnés par les
-déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de
-l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
+décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les
+déplacements temporaires des personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
-  - Code de l'environnement - art. R434-6 (Ab)
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Cite_:
+
+  - Décret n°2006-781 2006-07-03
+  - Code de l'environnement - art. R434-6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
 ###### Article R434-9
