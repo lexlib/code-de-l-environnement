@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-11-01
+Version Consolidée au 2006-11-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -794,10 +794,10 @@ Version Consolidée au 2006-11-01
             - [Sous-section 7 : Associations intercommunales de chasse agréées (art. R422-69 à R422-78)](#791)
             - [Sous-section 8 : Dispositions diverses (art. R422-79 à R422-80)](#792)
             - [Sous-section 9 : Cas particuliers de la Guadeloupe, de la Martinique et de la Réunion (art. R422-81)](#793)
-          - [Section 2 : Réserves de chasse et de faune sauvage (art. R422-82 à R422-94)](#794)
+          - [Section 2 : Réserves de chasse et de faune sauvage (art. R422-82 à R422-94-1)](#794)
             - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage (art. R422-82 à R422-85)](#795)
             - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage (art. R422-86 à R422-91)](#796)
-            - [Sous-section 3 : Réserves nationales de chasse et de faune sauvage (art. R*422-93 à R422-94)](#797)
+            - [Sous-section 3 : Réserves nationales de chasse et de faune sauvage (art. R*422-93 à R422-94-1)](#797)
           - [Section 3 : Chasse maritime (art. R422-95)](#798)
           - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. D422-96 à D422-127)](#799)
             - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat (art. D422-96)](#800)
@@ -81466,34 +81466,77 @@ _Cité par_:
 
 ###### Article R422-82
 
-Les réserves de chasse et de faune sauvage sont instituées par le préfet. Ces décisions font l'objet de mesures de publicité
-dans les conditions prévues par arrêté du ministre chargé de la chasse.
+Les réserves de chasse et de faune sauvage prévues à l'article L. 422-27 sont instituées par le préfet. 
+
+La décision du préfet instituant une réserve fait l'objet de mesures de publicité dans des conditions définies par arrêté du
+ministre chargé de la chasse. 
+
+La décision du préfet rejetant la demande d'institution d'une réserve, qu'elle émane du détenteur du droit de chasse ou de la
+fédération départementale ou interdépartementale des chasseurs, doit être motivée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 2 () JORF 24 novembre 2006
 
 _Cité par_:
 
   - Arrêté du 24 février 2014 - art. 8
   - Code de l'environnement - art. R422-65 (V)
 
+_Cite_:
+
+  - Code de l'environnement - art. L422-27 (V)
+
 
 ###### Article R422-83
 
-La réserve peut être instituée sur demande du détenteur du droit de chasse.
+I. - Un arrêté du ministre chargé de la chasse fixe les formes et le contenu de la demande présentée par le détenteur du
+droit de chasse, cette demande doit préciser, notamment, les mesures qui seront prises pour prévenir les dommages aux
+activités humaines et maintenir les équilibres biologiques.
 
-Un arrêté du ministre chargé de la chasse fixe les formes de la demande.
+II. - Lorsque la demande est présentée par la fédération départementale ou interdépartementale des chasseurs, le dossier
+transmis au préfet comprend :
 
-La décision de refus doit être motivée.
+1° Une note présentant les motifs d'intérêt général qui justifient l'institution de la réserve ;
+
+2° Un plan de situation au 1/25 000 indiquant le territoire à mettre en réserve, accompagné des plans cadastraux et des états
+parcellaires correspondants ;
+
+3° Une note précisant la nature des mesures envisagées pour permettre la protection des habitats et le maintien des
+équilibres biologiques ainsi que pour assurer la tranquillité du gibier et pour prévenir les dommages aux activités
+humaines ;
+
+4° La liste des propriétaires et des détenteurs de droits de chasse à l'intérieur de la réserve projetée ;
+
+5° Une proposition d'indemnisation par la fédération lorsque la décision de mise en réserve est susceptible de causer aux
+personnes mentionnées au 4° ci-dessus un préjudice certain, grave et spécial.
+
+Outre les exemplaires destinés au préfet et au directeur départemental de l'agriculture et de la forêt, la fédération remet
+au préfet autant d'exemplaires du dossier que de propriétaires et de détenteurs de droits de chasse.
+
+Le préfet invite, par lettre recommandée avec demande d'avis de réception, les propriétaires et les détenteurs de droits de
+chasse intéressés à lui faire connaître leur accord ou leur opposition. Le courrier du préfet, adressé par lettre recommandée
+avec demande d'avis de réception ou par tout autre moyen lui conférant date certaine, précise les parcelles concernées par la
+mise en réserve envisagée et indique aux intéressés que, faute de réponse de leur part dans un délai de deux mois à compter
+de la réception du courrier, leur accord est réputé acquis.
+
+Le préfet statue par arrêté motivé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 2 () JORF 24 novembre 2006
 
 _Cité par_:
 
@@ -81502,55 +81545,51 @@ _Cité par_:
 
 ###### Article R422-84
 
-I. - La réserve peut également être instituée sans que le détenteur du droit de chasse en fasse la demande lorsqu'il apparaît
-nécessaire de conforter des actions importantes de protection et de gestion du gibier effectuées dans l'intérêt général.
+I.-Le préfet peut supprimer une réserve de chasse et de faune sauvage : 
 
-II. - Dans ce cas, le préfet transmet par lettre recommandée avec demande d'avis de réception au détenteur du droit de chasse
-un dossier comprenant :
+1° A tout moment, pour un motif d'intérêt général ; 
 
-1° Un plan de situation au 1/25 000 indiquant le territoire à mettre en réserve, avec les plans cadastraux et les états
-parcellaires correspondants ;
+2° Sur demande du détenteur du droit de chasse ou de la fédération départementale ou interdépartementale des chasseurs
+présentée dans les conditions fixées par arrêté du ministre chargé de la chasse, à l'expiration : 
 
-2° Une note précisant la durée de la mise en réserve et, le cas échéant, la nature des mesures prises pour prévenir les
-dommages aux activités humaines, favoriser la protection du gibier et de ses habitats et maintenir les équilibres
-biologiques ;
+a) De périodes quinquennales courant à compter de la date d'institution de la réserve ou, pour les réserves créées avant le
+28 juillet 2000, à compter de la date d'expiration de la période de six ans en cours à la date du 28 juillet 2000 ; 
 
-3° Une note présentant les actions importantes de protection et de gestion du gibier effectuées dans l'intérêt général qui
-rendent nécessaire l'institution de la réserve ;
+b) Des baux de chasse consentis sur le domaine public fluvial, sur le domaine public maritime et sur les terrains mentionnés
+à l'article L. 121-2 du code forestier pour les réserves assises sur ces domaines ou ces terrains ; 
 
-4° Une proposition d'indemnisation lorsque la mise en réserve entraîne un préjudice grave, spécial et certain.
+c) Des baux de chasse consentis dans le Bas-Rhin, dans le Haut-Rhin et en Moselle en application des articles L. 429-7 à L.
+429-18.
 
-III. - Le préfet invite par le même courrier l'intéressé à lui faire connaître son accord ou ses observations par lettre
-recommandée avec demande d'avis de réception dans un délai d'un mois. Faute de réponse dans ce délai, l'accord de l'intéressé
-est réputé acquis. Le préfet statue par arrêté motivé.
+II.-La décision de refus opposée par le préfet à la demande prévue au 2° ci-dessus doit être motivée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 2 () JORF 24 novembre 2006
 
 _Cité par_:
 
   - Arrêté du 13 décembre 2006 - art. 7 (V)
 
+_Cite_:
+
+  - Code forestier - art. L121-2 (Ab)
+  - Code de l'environnement - art. L429-7 (V)
+
 
 ###### Article R422-85
 
-I. - Le préfet peut mettre fin à une réserve de chasse et de faune sauvage :
+Un réseau départemental de réserves de chasse et de faune sauvage peut être institué et organisé dans des conditions fixées
+par le schéma départemental de gestion cynégétique.
 
-1° A tout moment, pour un motif d'intérêt général ;
-
-2° Sur demande du détenteur du droit de chasse présentée dans les conditions fixées par arrêté du ministre chargé de la
-chasse à l'issue :
-
-a) De périodes quinquennales courant à compter de la date d'institution de la réserve, ou, pour les réserves créées avant le
-28 juillet 2000, à compter de la date d'expiration de la période de six ans en cours à la date du 28 juillet 2000 ;
-
-b) Des baux de chasse consentis sur le domaine public fluvial, sur le domaine public maritime et sur les terrains mentionnés
-à l'article L. 121-2 du code forestier pour les réserves assises sur ces domaines ou ces terrains.
-
-II. - La décision de refus doit être motivée.
+Un rapport d'activité du réseau est présenté, chaque année, par le président de la fédération départementale ou
+interdépartementale des chasseurs devant la commission départementale de la chasse et de la faune sauvage.
 
 **Liens relatifs à cet article**
 
@@ -81558,33 +81597,38 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-_Cite_:
+_Modifié par_:
 
-  - Code forestier - art. L121-2 (V)
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 2 () JORF 24 novembre 2006
 
 
 ##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage<a id=796></a>
 
 ###### Article R422-86
 
-Tout acte de chasse est interdit dans une réserve de chasse et de faune sauvage.
-
-Toutefois, l'arrêté d'institution peut prévoir la possibilité d'exécuter un plan de chasse ou un plan de gestion, lorsque
+L'arrêté d'institution de la réserve prévoit l'exécution d'un plan de chasse ou d'un plan de gestion cynégétique lorsque
 celui-ci est nécessaire au maintien des équilibres biologiques et agro-sylvo-cynégétiques. Les conditions d'exécution de ce
-plan doivent être compatibles avec la préservation du gibier et de sa tranquillité. Cette exécution doit être autorisée par
-l'arrêté attributif de plan de chasse ou par l'arrêté approuvant le plan de gestion.
+plan doivent être compatibles avec la protection du gibier et la préservation de sa tranquillité. Son exécution doit être
+autorisée chaque année, selon les cas, par l'arrêté attributif du plan de chasse ou par l'arrêté approuvant le plan de
+gestion cynégétique.
+
+Tout autre acte de chasse est interdit.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 2 () JORF 24 novembre 2006
 
 
 ###### Article R422-87
 
 Des captures de gibier à des fins scientifiques ou de repeuplement peuvent être autorisées dans les conditions fixées par
-l'article R. 424-21.
+l'article L. 424-11.
 
 **Liens relatifs à cet article**
 
@@ -81592,25 +81636,31 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 3 () JORF 24 novembre 2006
+
 _Cite_:
 
-  - Code de l'environnement - art. R424-21 (M)
+  - Code de l'environnement - art. L424-11 (V)
 
 
 ###### Article R422-88
 
-La destruction des animaux nuisibles peut être effectuée par les détenteurs du droit de destruction ou leurs délégués sur
-autorisation préfectorale.
-
-La destruction s'effectue dans les conditions fixées en application de l'article L. 427-8. Toutefois, le préfet détermine la
-période de l'année pendant laquelle elle peut avoir lieu et les restrictions nécessaires à la préservation du gibier et de sa
-tranquillité.
+La destruction des animaux nuisibles par les détenteurs du droit de destruction ou leurs délégués s'effectue dans les
+conditions fixées en application de l'article L. 427-8. Toutefois, le préfet fixe, dans l'arrêté d'institution de la réserve,
+la période de l'année durant laquelle la destruction d'animaux nuisibles peut avoir lieu et les restrictions nécessaires pour
+assurer la protection du gibier et la préservation de sa tranquillité.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 4 () JORF 24 novembre 2006
 
 _Cite_:
 
@@ -81620,29 +81670,39 @@ _Cite_:
 ###### Article R422-89
 
 Afin de favoriser la protection et le repeuplement du gibier, l'arrêté d'institution de la réserve peut réglementer ou
-interdire l'accès des véhicules, l'introduction d'animaux domestiques et l'utilisation d'instruments sonores. A titre
-exceptionnel et lorsque de telles mesures s'avèrent nécessaires aux mêmes fins, ledit arrêté peut réglementer ou interdire
-l'accès des personnes à pied à l'exception du propriétaire.
+interdire l'accès des véhicules, l'introduction d'animaux domestiques, l'utilisation d'instruments sonores et la prise
+d'images et de sons, quel qu'en soit le support, au sein de la réserve. A titre exceptionnel et lorsque de telles mesures
+s'avèrent nécessaires aux mêmes fins, ledit arrêté peut réglementer ou interdire l'accès des personnes à pied à l'exception
+du propriétaire ou de ses ayants droit.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 5 () JORF 24 novembre 2006
 
 
 ###### Article R422-90
 
 Afin de favoriser la protection et le repeuplement du gibier par la préservation de ses habitats, l'arrêté d'institution de
-la réserve détermine les mesures qui permettent la conservation des biotopes tels que mares, marécages, marais, haies,
-bosquets, landes, dunes, pelouses ou toutes autres formations naturelles peu exploitées par l'homme dans la mesure où ces
-biotopes sont nécessaires à l'alimentation, à la reproduction, à la tranquillité ou à la survie du gibier.
+la réserve détermine les mesures qui permettent la conservation et incitent à la restauration des biotopes tels que mares,
+marécages, marais, haies, bosquets, landes, dunes, pelouses ou toutes autres formations naturelles peu exploitées par l'homme
+dans la mesure où ces biotopes sont nécessaires à l'alimentation, à la reproduction, à la tranquillité ou à la survie du
+gibier.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 6 () JORF 24 novembre 2006
 
 
 ###### Article R422-91
@@ -81687,49 +81747,91 @@ _Codifié par_:
 
 ###### Article R422-92
 
-Peuvent être constituées en réserves nationales les réserves de chasse et de faune sauvage qui présentent une importance
+I. - Peuvent être constituées en réserves nationales les réserves de chasse et de faune sauvage qui présentent une importance
 particulière :
 
-1° Soit en raison de leur étendue ;
+1° Soit en fonction des études scientifiques, techniques ou des démonstrations pratiques qui y sont poursuivies ;
 
 2° Soit parce qu'elles abritent des espèces dont les effectifs sont en voie de diminution sur tout ou partie du territoire
 national ou des espèces présentant des qualités remarquables ;
 
-3° Soit en fonction des études scientifiques, techniques ou des démonstrations pratiques qui y sont poursuivies.
+3° Soit en raison de leur étendue.
+
+II. - Les réserves nationales de chasse et de faune sauvage sont instituées soit à la demande de l'Office national de la
+chasse et de la faune sauvage après avis de la Fédération nationale des chasseurs, soit à l'initiative de tout établissement
+public qui en assure la gestion après avis de l'Office national de la chasse et de la faune sauvage et de la Fédération
+nationale des chasseurs.
+
+III. - Dans chaque réserve nationale de chasse et de faune sauvage, est mis en place un comité directeur dont la composition
+est fixée par arrêté du ministre chargé de la chasse.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 7 () JORF 24 novembre 2006
 
 
 ###### Article R422-94
 
-Les réserves nationales de chasse et de faune sauvage sont gérées, dans les conditions définies par arrêté du ministre chargé
-de la chasse, par l'Office national de la chasse et de la faune sauvage ou tout autre organisme habilité suivant un programme
-de gestion ayant notamment pour objet :
+I. - La gestion des réserves nationales de chasse et de faune sauvage est confiée par arrêté du ministre chargé de la chasse
+à l'Office national de la chasse et de la faune sauvage ou à tout autre établissement public sur la base d'un programme ayant
+notamment pour objet :
 
-1° La protection des espèces de gibier menacées ;
+1° La protection d'espèces de la faune sauvage et de leurs habitats ;
 
-2° Le développement du gibier à des fins de repeuplement ;
+2° La réalisation d'études scientifiques et techniques ;
 
-3° Les études scientifiques et techniques ;
+3° La mise au point de modèles de gestion cynégétique et de gestion des habitats de la faune sauvage ;
 
-4° La réalisation d'un modèle de gestion du gibier ;
+4° La formation des personnels spécialisés ;
 
-5° La formation de personnels spécialisés et l'information du public.
+5° L'information du public ;
+
+6° La capture, à des fins de repeuplement, d'espèces appartenant à la faune sauvage.
+
+II. - Les réserves nationales de chasse et de faune sauvage sont gérées dans les conditions définies par l'arrêté du ministre
+chargé de la chasse et par l'arrêté préfectoral d'institution de la réserve.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 8 () JORF 24 novembre 2006
 
 _Cité par_:
 
   - Arrêté du 16 janvier 2008 - art. 2 (V)
   - Arrêté du 28 novembre 2014 - art. 2 (V)
+
+
+###### Article R422-94-1
+
+La coordination du réseau des réserves nationales, notamment en vue de constituer des territoires de références, est
+organisée par voie de convention entre l'Office national de la chasse et de la faune sauvage et la Fédération nationale des
+chasseurs.
+
+L'Office national de la chasse et de la faune sauvage remet, chaque année, au ministre chargé de la chasse un rapport
+d'activité, qui rend compte, notamment, des actions du réseau en matière de protection de la faune sauvage et de ses habitats
+et de maintien des équilibres biologiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1432 du 22 novembre 2006 - art. 9 () JORF 24 novembre 2006
 
 
 ##### Section 3 : Chasse maritime<a id=798></a>
