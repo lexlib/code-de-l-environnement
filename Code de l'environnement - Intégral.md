@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-11-24
+Version Consolidée au 2006-12-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -860,7 +860,7 @@ Version Consolidée au 2006-11-24
             - [Sous-section 4 : Lâcher (art. R427-26)](#857)
             - [Sous-section 5 : Mesures diverses (art. R427-27)](#858)
           - [Section 3 : Commercialisation et transport (art. R427-28)](#859)
-        - [Chapitre VIII : Dispositions pénales (art. R428-1 à R428-24)](#860)
+        - [Chapitre VIII : Dispositions pénales (art. R428-1 à R428-28)](#860)
           - [Section 1 : Peines (art. R428-1 à R428-22)](#861)
             - [Sous-section 1 : Territoire (art. R428-1 à R428-3)](#862)
             - [Sous-section 2 : Permis de chasser (art. R428-4 à R428-5)](#863)
@@ -872,105 +872,110 @@ Version Consolidée au 2006-11-24
               - [Paragraphe 5 : Transport et commercialisation du gibier (art. R428-14 à R428-21)](#869)
             - [Sous-section 4 : Destruction des animaux nuisibles et louveterie. (art. R428-22)](#870)
           - [Section 2 : Circonstances aggravantes et récidive. (art. R428-23 à R428-24)](#871)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R429-1 à R429-21)](#872)
-          - [Section 2 : Exercice de la chasse (art. R429-2 à R429-7)](#873)
-            - [Sous-section 1 : Temps de chasse (art. R429-2 à R429-5)](#874)
-            - [Sous-section 2 : Plan de chasse (art. R429-6)](#875)
-            - [Sous-section 3 : Modes et moyens de chasse (art. R429-7)](#876)
-          - [Section 3 : Indemnisation des dégâts de gibier (art. R429-8 à R429-14)](#877)
-            - [Sous-section 1 : Régime général (art. R429-8 à R429-14)](#878)
-          - [Section 4 : Pénalités (art. R429-18 à R429-21)](#879)
-            - [Sous-section 1 : Peines (art. R429-18 à R429-20)](#880)
-              - [Paragraphe 1 : Territoire (art. R429-18 à R429-19)](#881)
-              - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#882)
-            - [Sous-section 2 : Récidive (art. R429-21)](#883)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#884)
-        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-37)](#885)
-          - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#886)
-          - [Section 2 : Piscicultures (art. R431-7 à R431-37)](#887)
-            - [Sous-section 1 : Dispositions générales (art. R431-7)](#888)
-            - [Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#889)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. D432-4 à R432-18)](#890)
-          - [Section 3 : Obligations relatives aux ouvrages (art. D432-4 à R432-3)](#891)
-            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#892)
-          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#893)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#894)
-          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#895)
-        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#896)
-          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#897)
-            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#898)
-            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#899)
-              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#900)
-              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#901)
-              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#902)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#903)
-              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#904)
-              - [Paragraphe 2 : Contrôles (art. R434-24)](#905)
-          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#906)
-          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#907)
-        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#908)
-          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#909)
-            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#910)
-            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#911)
-            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#912)
-            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#913)
-          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#914)
-            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#915)
-            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#916)
-            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#917)
-          - [Section 3 : Droit de passage (art. R435-40)](#918)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#919)
-          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#920)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#921)
-              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#922)
-              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#923)
-            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#924)
-            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#925)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#926)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#927)
-            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#928)
-            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#929)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#930)
-          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#931)
-            - [Sous-section 1 : Dispositions générales (art. R436-44)](#932)
-            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#933)
-            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#934)
-            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#935)
-              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#936)
-              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#937)
-            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#938)
-            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#939)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#940)
-            - [Sous-section 1 : Dispositions générales (art. R436-69)](#941)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#942)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#943)
-            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#944)
-          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#945)
-          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#946)
-            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#947)
-              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#948)
-              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#949)
-              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#950)
-            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#951)
-              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#952)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#953)
-          - [Section 1 : Dispositions générales (art. D436-1)](#954)
-        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#955)
-          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#956)
-            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3)](#957)
-            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#958)
-          - [Section 2 : Transaction (art. R437-6 à R437-9)](#959)
-          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#960)
-          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#961)
-    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#962)
-      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#963)
-        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#964)
-          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#965)
-          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#966)
-          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#967)
-          - [Section 4 : Cas d'urgence (art. R712-15)](#968)
-        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#969)
-  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#970)
+          - [Section 4 : Constatation des infractions et poursuites (art. R428-25 à R428-28)](#872)
+            - [Sous-section 1 : Constatation des infractions (art. R428-25 à R428-28)](#873)
+              - [Paragraphe 1 : Gardes-chasse particuliers (art. R428-25)](#874)
+              - [Paragraphe 2 : Agents de développement des fédérations de chasseurs (art. R428-26 à R428-27)](#875)
+              - [Paragraphe 3 : Dispositions communes (art. R428-28)](#876)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R429-1 à R429-21)](#877)
+          - [Section 2 : Exercice de la chasse (art. R429-2 à R429-7)](#878)
+            - [Sous-section 1 : Temps de chasse (art. R429-2 à R429-5)](#879)
+            - [Sous-section 2 : Plan de chasse (art. R429-6)](#880)
+            - [Sous-section 3 : Modes et moyens de chasse (art. R429-7)](#881)
+          - [Section 3 : Indemnisation des dégâts de gibier (art. R429-8 à R429-14)](#882)
+            - [Sous-section 1 : Régime général (art. R429-8 à R429-14)](#883)
+          - [Section 4 : Pénalités (art. R429-18 à R429-21)](#884)
+            - [Sous-section 1 : Peines (art. R429-18 à R429-20)](#885)
+              - [Paragraphe 1 : Territoire (art. R429-18 à R429-19)](#886)
+              - [Paragraphe 2 : Exercice de la chasse (art. R429-20)](#887)
+            - [Sous-section 2 : Récidive (art. R429-21)](#888)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R431-1 à R437-13)](#889)
+        - [Chapitre Ier : Champ d'application (art. R431-1 à R431-37)](#890)
+          - [Section 1 : Dispositions générales (art. R431-1 à R431-6)](#891)
+          - [Section 2 : Piscicultures (art. R431-7 à R431-37)](#892)
+            - [Sous-section 1 : Dispositions générales (art. R431-7)](#893)
+            - [Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984 (art. R431-35 à R431-37)](#894)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. D432-4 à R432-18)](#895)
+          - [Section 3 : Obligations relatives aux ouvrages (art. D432-4 à R432-3)](#896)
+            - [Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau (art. D432-4 à R432-3)](#897)
+          - [Section 4 : Contrôle des peuplements (art. R432-5 à R432-18)](#898)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. D433-1 à D433-9)](#899)
+          - [Section 1 : Orientations de bassin. (art. D433-1 à D433-9)](#900)
+        - [Chapitre IV : Organisation des pêcheurs (art. R434-1 à R434-46)](#901)
+          - [Section 1 : Conseil supérieur de la pêche (art. R434-1 à R434-24)](#902)
+            - [Sous-section 1 : Dispositions générales (art. R434-1 à R434-4)](#903)
+            - [Sous-section 2 : Administration du Conseil supérieur de la pêche (art. R434-5 à R434-18)](#904)
+              - [Paragraphe 1 : Le conseil d'administration (art. R434-6 à R434-11)](#905)
+              - [Paragraphe 2 : Le directeur général (art. R434-12 à R434-13)](#906)
+              - [Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche (art. R434-14 à R434-18)](#907)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R434-19 à R434-24)](#908)
+              - [Paragraphe 1 : Organisation financière et comptable (art. R434-19 à R434-23)](#909)
+              - [Paragraphe 2 : Contrôles (art. R434-24)](#910)
+          - [Section 2 : Organisation de la pêche de loisir (art. R*434-36 à R434-37)](#911)
+          - [Section 3 : Organisation de la pêche professionnelle (art. R*434-42 à R434-46)](#912)
+        - [Chapitre V : Droit de pêche (art. R435-1 à R435-40)](#913)
+          - [Section 1 : Droit de pêche de l'Etat (art. R435-2 à R435-32)](#914)
+            - [Sous-section 1 : Conditions générales d'exploitation (art. R435-2 à R435-15)](#915)
+            - [Sous-section 2 : Modalités de location des lots (art. R435-16 à R435-24)](#916)
+            - [Sous-section 3 : Procédure d'adjudication publique (art. R435-25 à R435-31)](#917)
+            - [Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics (art. D435-33 à R435-32)](#918)
+          - [Section 2 : Droit de pêche des riverains (art. R435-34 à R435-39)](#919)
+            - [Sous-section 1 : Subvention directe à un propriétaire riverain (art. R435-34 à R435-36)](#920)
+            - [Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales (art. R435-37 à R435-38)](#921)
+            - [Sous-section 3 : Dispositions diverses (art. R435-39)](#922)
+          - [Section 3 : Droit de passage (art. R435-40)](#923)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R436-2 à R436-94)](#924)
+          - [Section 1 : Dispositions générales (art. R436-2 à R436-43)](#925)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R436-6 à R436-17)](#926)
+              - [Paragraphe  1 : Temps d'interdiction (art. R436-6 à R436-12)](#927)
+              - [Paragraphe 2 : Heures d'interdiction (art. R436-13 à R436-17)](#928)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses (art. R436-18 à R436-20)](#929)
+            - [Sous-section 3 : Nombre de captures autorisées  - Conditions de capture (art. R436-21 à R436-22)](#930)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés (art. R436-23 à R436-29)](#931)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés (art. R436-30 à R436-35)](#932)
+            - [Sous-section 6 : Dispositions diverses (art. R436-36 à R436-38)](#933)
+            - [Sous-section 7 : Dispositions pénales (art. R436-39 à R436-42)](#934)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories (art. R436-43)](#935)
+          - [Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées (art. R436-44 à R436-68)](#936)
+            - [Sous-section 1 : Dispositions générales (art. R436-44)](#937)
+            - [Sous-section 2 : Plan de gestion des poissons migrateurs (art. R436-45 à R436-46)](#938)
+            - [Sous-section 3 : Comité pour la gestion des poissons migrateurs (art. R436-47 à R436-54)](#939)
+            - [Sous-section 4 : Exercice de la pêche des poissons migrateurs (art. R436-55 à R436-65)](#940)
+              - [Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche (art. R436-55 à R436-61)](#941)
+              - [Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons (art. R436-62 à R436-65)](#942)
+            - [Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer (art. R436-66)](#943)
+            - [Sous-section 6 : Dispositions pénales (art. R436-67 à R436-68)](#944)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R436-69 à R436-79)](#945)
+            - [Sous-section 1 : Dispositions générales (art. R436-69)](#946)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche (art. R436-70 à R436-72)](#947)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche (art. R436-73 à R436-76)](#948)
+            - [Sous-section 4 : Dispositions communes (art. R436-77 à R436-79)](#949)
+          - [Section 5 : Commercialisation (art. R436-80 à R436-81)](#950)
+          - [Section 6 : Dispositions particulières à certaines eaux (art. R436-82 à R436-94)](#951)
+            - [Sous-section 1 : Accords internationaux (art. R436-82 à R436-89)](#952)
+              - [Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne (art. R436-82 à R436-83)](#953)
+              - [Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman (art. R436-84 à R436-86)](#954)
+              - [Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse (art. R436-87 à R436-89)](#955)
+            - [Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon (art. R436-90 à R436-94)](#956)
+              - [Paragraphe 1 : Dispositions applicables à la Réunion. (art. R436-90 à R436-94)](#957)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. D436-1)](#958)
+          - [Section 1 : Dispositions générales (art. D436-1)](#959)
+        - [Chapitre VII : Dispositions pénales complémentaires (art. R437-1 à R437-13)](#960)
+          - [Section 1 : Recherche et constatation des infractions (art. R437-1 à R437-5)](#961)
+            - [Sous-section 1 : Agents compétents (art. R437-1 à R437-3-1)](#962)
+            - [Sous-section 5 : Saisies (art. R437-4 à R437-5)](#963)
+          - [Section 2 : Transaction (art. R437-6 à R437-9)](#964)
+          - [Section 3 : Poursuites (art. R437-10 à R437-11)](#965)
+          - [Section 5 : Sanctions (art. R437-12 à R437-13)](#966)
+    - [Livre VII : Protection de l'environnement en Antarctique (art. R712-1 à R714-2)](#967)
+      - [Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991 (art. R712-1 à R714-2)](#968)
+        - [Chapitre II : Déclaration et autorisation (art. R712-1 à R712-15)](#969)
+          - [Section 1 : Autorités compétentes (art. R712-1 à R712-2)](#970)
+          - [Section 2 : Activités soumises à déclaration (art. R712-3 à R712-8)](#971)
+          - [Section 3 : Activités soumises à autorisation (art. R712-9 à R712-14)](#972)
+          - [Section 4 : Cas d'urgence (art. R712-15)](#973)
+        - [Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique (art. R714-1 à R714-2)](#974)
+  - [ANNEXES (art. Annexe I à l'article D432-4 à Annexe à l'article R151-2)](#975)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions communes<a id=2></a>
@@ -65186,18 +65191,18 @@ _Cite_:
 
 ###### Article R322-15
 
-Les gardes du littoral prêtent serment devant le tribunal d'instance dans le ressort duquel ils exercent leurs fonctions.
-Cette assermentation est enregistrée auprès du greffe des autres tribunaux d'instance si le garde exerce sa compétence sur le
-territoire de plusieurs tribunaux.
+Les gardes du littoral chargés des missions prévues à l'article L. 322-10-1 prêtent serment devant le tribunal d'instance
+dans le ressort duquel ils exercent leurs fonctions. Cette assermentation est enregistrée auprès du greffe des autres
+tribunaux d'instance si le garde exerce sa compétence sur le territoire de plusieurs tribunaux. 
 
-La formule du serment est la suivante :
+La formule du serment est la suivante : 
 
 " Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
-fonctions. "
+fonctions. " 
 
 Le commissionnement délivré en application de l'article L. 322-10-1 peut être retiré par le préfet, le cas échéant à la
-demande du directeur du conservatoire de l'espace littoral et des rivages lacustres.
+demande du directeur du conservatoire de l'espace littoral et des rivages lacustres. 
 
 Le directeur du conservatoire délivre aux gardes du littoral une carte professionnelle sur laquelle sont précisés les chefs
 de commissionnement et la compétence territoriale. Cette carte est signée par le préfet et par le greffier du tribunal
@@ -65215,9 +65220,37 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 2 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
 _Cite_:
 
-  - Code de l'environnement - art. L322-10-1 (M)
+  - Code de l'environnement - art. L322-10-1 (VT)
+
+
+###### Article R322-15-1
+
+Les gardes du littoral qui assurent la surveillance du domaine administré par le Conservatoire du littoral et des rivages
+lacustres en qualité de garde particulier sont commissionnés par le directeur du conservatoire. Ils sont agréés, assermentés
+et exercent leurs fonctions dans les conditions fixées aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale.
+Les dispositions des deuxième et quatrième alinéas de l'article R. 15-33-29-1 du code de procédure pénale ne leur sont pas
+applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 2 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-33-24 (V)
+  - Code de procédure pénale - art. R15-33-29-1 (V)
 
 
 ###### Article R322-16
@@ -86983,15 +87016,24 @@ La période de destruction à tir des animaux nuisibles doit être comprise entr
 31 mars au plus tard. La période de destruction du pigeon ramier peut commencer à la date de clôture spécifique de la chasse
 de cette espèce.
 
-Toutefois les agents de l'Etat et de ses établissements publics assermentés au titre de la police de la chasse et les gardes
-particuliers sont autorisés à détruire à tir les animaux nuisibles, à l'exclusion du sanglier, du lapin et du pigeon ramier,
-toute l'année, de jour seulement et sous réserve de l'assentiment du détenteur du droit de destruction.
+Toutefois, les fonctionnaires ou agents mentionnés aux 1° et 3° du I de l'article L. 428-20 ainsi que les gardes particuliers
+sur le territoire sur lequel ils sont commissionnés, sont autorisés à détruire à tir les animaux nuisibles, à l'exclusion du
+sanglier, du lapin et du pigeon ramier, toute l'année, de jour seulement et sous réserve de l'assentiment du détenteur du
+droit de destruction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 3 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L428-20 (M)
 
 _Cité par_:
 
@@ -87760,7 +87802,123 @@ _Cite_:
   - Code de l'environnement R428-1, R428-4, R428-6, R428-10, R428-11, R428-16 à R428-18, R428-22
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=872></a>
+##### Section 4 : Constatation des infractions et poursuites<a id=872></a>
+
+##### Sous-section 1 : Constatation des infractions<a id=873></a>
+
+##### Paragraphe 1 : Gardes-chasse particuliers<a id=874></a>
+
+###### Article R428-25
+
+Les gardes-chasse particuliers sont commissionnés, agréés, assermentés et exercent leurs fonctions dans les conditions fixées
+aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale. La commission délivrée en application de l'article R.
+15-33-24 de ce code précise les territoires pour lesquels le propriétaire ou le titulaire de droits d'usage dispose des
+droits de chasse que le garde-chasse particulier est chargé de surveiller.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 21 février 2013 - art. (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-33-24 (V)
+
+
+##### Paragraphe 2 : Agents de développement des fédérations de chasseurs<a id=875></a>
+
+###### Article R428-26
+
+I.-Par dérogation aux dispositions des articles R. 15-33-24 et R. 15-33-25 du code de procédure pénale, les agents de
+développement des fédérations sont commissionnés par le président de la fédération départementale ou interdépartementale des
+chasseurs, qui adresse la demande d'agrément au préfet du département où se situe le siège de la fédération. 
+
+Outre les pièces prévues à l'article R. 15-33-25 du code de procédure pénale, la demande d'agrément comporte la liste des
+conventions passées entre les propriétaires ou les détenteurs des droits de chasse et la fédération départementale ou inter-
+départementale des chasseurs dont ils sont membres, pour assurer la surveillance de leurs territoires. La fédération
+départementale ou inter-départementale des chasseurs tient à la disposition du préfet un exemplaire de ces conventions. 
+
+II.-Les agents de développement des fédérations sont agréés, assermentés et exercent leurs fonctions dans les conditions
+définies aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale. Toutefois, outre les mentions prévues à
+l'article R. 15-33-29-1, ils peuvent faire figurer sur leur vêtement la mention : " Agent de développement de la fédération
+départementale (ou inter-départementale) des chasseurs ". 
+
+La carte d'agrément est délivrée par le président de la fédération départementale ou inter-départementale des chasseurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-33-24 (V)
+  - Code de procédure pénale - art. R15-33-25 (V)
+  - Code de procédure pénale - art. R15-33-29-1 (V)
+
+
+###### Article R428-27
+
+Lorsqu'ils interviennent pour l'application de l'article L. 428-21, les agents de développement des fédérations
+départementales ou inter-départementales de chasseurs joignent aux procès-verbaux qu'ils dressent une copie de la convention
+passée entre le propriétaire ou le détenteur de droits de chasse sur le territoire duquel a été constatée l'infraction et la
+fédération qui les emploie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L428-21 (V)
+
+
+##### Paragraphe 3 : Dispositions communes<a id=876></a>
+
+###### Article R428-28
+
+Pour exercer leurs missions, les gardes-chasse particuliers et les agents de développement des fédérations départementales ou
+inter-départementales de chasseurs doivent être titulaires du permis de chasser. 
+
+Outre les pièces prévues à l'article R. 15-33-25 du code de procédure pénale, la demande d'agrément comporte une photocopie
+du permis de chasser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-33-25 (V)
+
+
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=877></a>
 
 ###### Article R429-1
 
@@ -87788,9 +87946,9 @@ _Cite_:
   - Code de l'environnement R422-1 à R422-80, R424-2, R424-7, R424-15, R426-1 à R426-29, R428-1, R428-12
 
 
-##### Section 2 : Exercice de la chasse<a id=873></a>
+##### Section 2 : Exercice de la chasse<a id=878></a>
 
-##### Sous-section 1 : Temps de chasse<a id=874></a>
+##### Sous-section 1 : Temps de chasse<a id=879></a>
 
 ###### Article R429-2
 
@@ -87861,7 +88019,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 2 : Plan de chasse<a id=875></a>
+##### Sous-section 2 : Plan de chasse<a id=880></a>
 
 ###### Article R429-6
 
@@ -87879,7 +88037,7 @@ _Cite_:
   - Code de l'environnement - art. R425-7 (Ab)
 
 
-##### Sous-section 3 : Modes et moyens de chasse<a id=876></a>
+##### Sous-section 3 : Modes et moyens de chasse<a id=881></a>
 
 ###### Article R429-7
 
@@ -87897,9 +88055,9 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Section 3 : Indemnisation des dégâts de gibier<a id=877></a>
+##### Section 3 : Indemnisation des dégâts de gibier<a id=882></a>
 
-##### Sous-section 1 : Régime général<a id=878></a>
+##### Sous-section 1 : Régime général<a id=883></a>
 
 ###### Article R429-8
 
@@ -88022,11 +88180,11 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 4 : Pénalités<a id=879></a>
+##### Section 4 : Pénalités<a id=884></a>
 
-##### Sous-section 1 : Peines<a id=880></a>
+##### Sous-section 1 : Peines<a id=885></a>
 
-##### Paragraphe 1 : Territoire<a id=881></a>
+##### Paragraphe 1 : Territoire<a id=886></a>
 
 ###### Article R429-18
 
@@ -88058,7 +88216,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Exercice de la chasse<a id=882></a>
+##### Paragraphe 2 : Exercice de la chasse<a id=887></a>
 
 ###### Article R429-20
 
@@ -88076,7 +88234,7 @@ _Cite_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Sous-section 2 : Récidive<a id=883></a>
+##### Sous-section 2 : Récidive<a id=888></a>
 
 ###### Article R429-21
 
@@ -88095,11 +88253,11 @@ _Cite_:
   - Code de l'environnement - art. R429-18 (V)
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=884></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=889></a>
 
-#### Chapitre Ier : Champ d'application<a id=885></a>
+#### Chapitre Ier : Champ d'application<a id=890></a>
 
-##### Section 1 : Dispositions générales<a id=886></a>
+##### Section 1 : Dispositions générales<a id=891></a>
 
 ###### Article R431-1
 
@@ -88210,9 +88368,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 2 : Piscicultures<a id=887></a>
+##### Section 2 : Piscicultures<a id=892></a>
 
-##### Sous-section 1 : Dispositions générales<a id=888></a>
+##### Sous-section 1 : Dispositions générales<a id=893></a>
 
 ###### Article R431-7
 
@@ -88251,7 +88409,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R431-8 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=889></a>
+##### Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984<a id=894></a>
 
 ###### Article R431-35
 
@@ -88334,11 +88492,11 @@ _Cité par_:
   - Arrêté du 6 août 2013 - art. 4 (V)
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=890></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=895></a>
 
-##### Section 3 : Obligations relatives aux ouvrages<a id=891></a>
+##### Section 3 : Obligations relatives aux ouvrages<a id=896></a>
 
-##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=892></a>
+##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau<a id=897></a>
 
 ###### Article D432-4
 
@@ -88392,7 +88550,7 @@ _Abrogé par_:
   - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
-##### Section 4 : Contrôle des peuplements<a id=893></a>
+##### Section 4 : Contrôle des peuplements<a id=898></a>
 
 ###### Article R432-5
 
@@ -88709,9 +88867,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=894></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=899></a>
 
-##### Section 1 : Orientations de bassin.<a id=895></a>
+##### Section 1 : Orientations de bassin.<a id=900></a>
 
 ###### Article D433-1
 
@@ -88946,11 +89104,11 @@ _Abrogé par_:
   - Décret n°2007-980 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=896></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=901></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=897></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=902></a>
 
-##### Sous-section 1 : Dispositions générales<a id=898></a>
+##### Sous-section 1 : Dispositions générales<a id=903></a>
 
 ###### Article R434-1
 
@@ -89063,7 +89221,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=899></a>
+##### Sous-section 2 : Administration du Conseil supérieur de la pêche<a id=904></a>
 
 ###### Article R434-5
 
@@ -89080,7 +89238,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 1 : Le conseil d'administration<a id=900></a>
+##### Paragraphe 1 : Le conseil d'administration<a id=905></a>
 
 ###### Article R434-6
 
@@ -89343,7 +89501,7 @@ _Cite_:
   - Code de l'environnement - art. R434-10 (Ab)
 
 
-##### Paragraphe 2 : Le directeur général<a id=901></a>
+##### Paragraphe 2 : Le directeur général<a id=906></a>
 
 ###### Article R434-12
 
@@ -89388,7 +89546,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=902></a>
+##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche<a id=907></a>
 
 ###### Article R434-14
 
@@ -89523,9 +89681,9 @@ _Cite_:
   - Code de l'environnement - art. R434-15 (Ab)
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=903></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=908></a>
 
-##### Paragraphe 1 : Organisation financière et comptable<a id=904></a>
+##### Paragraphe 1 : Organisation financière et comptable<a id=909></a>
 
 ###### Article R434-19
 
@@ -89648,7 +89806,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 2 : Contrôles<a id=905></a>
+##### Paragraphe 2 : Contrôles<a id=910></a>
 
 ###### Article R434-24
 
@@ -89676,7 +89834,7 @@ _Abrogé par_:
   - Décret n°2007-443 du 25 mars 2007 - art. 7 (V) JORF 27 mars 2007 en vigueur le 27 avril 2007
 
 
-##### Section 2 : Organisation de la pêche de loisir<a id=906></a>
+##### Section 2 : Organisation de la pêche de loisir<a id=911></a>
 
 ###### Article R*434-36
 
@@ -89933,7 +90091,7 @@ _Cite_:
   - Code de l'environnement - art. L434-4 (M)
 
 
-##### Section 3 : Organisation de la pêche professionnelle<a id=907></a>
+##### Section 3 : Organisation de la pêche professionnelle<a id=912></a>
 
 ###### Article R*434-42
 
@@ -90133,7 +90291,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-#### Chapitre V : Droit de pêche<a id=908></a>
+#### Chapitre V : Droit de pêche<a id=913></a>
 
 ###### Article R435-1
 
@@ -90147,9 +90305,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=909></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=914></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation<a id=910></a>
+##### Sous-section 1 : Conditions générales d'exploitation<a id=915></a>
 
 ###### Article R435-2
 
@@ -90522,7 +90680,7 @@ _Cité par_:
   - Code de l'environnement - art. R435-8 (V)
 
 
-##### Sous-section 2 : Modalités de location des lots<a id=911></a>
+##### Sous-section 2 : Modalités de location des lots<a id=916></a>
 
 ###### Article R435-16
 
@@ -90770,7 +90928,7 @@ _Cite_:
   - Code de l'environnement - art. L437-1 (VT)
 
 
-##### Sous-section 3 : Procédure d'adjudication publique<a id=912></a>
+##### Sous-section 3 : Procédure d'adjudication publique<a id=917></a>
 
 ###### Article R435-25
 
@@ -90890,7 +91048,7 @@ _Cite_:
   - Code de l'environnement - art. R435-23 (V)
 
 
-##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=913></a>
+##### Sous-section 4 : Attribution du produit du droit de pêche sur les voies d'eau du domaine public de l'Etat concédées à des collectivités ou établissements publics<a id=918></a>
 
 ###### Article D435-33
 
@@ -90936,9 +91094,9 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation - art. 5 (M)
 
 
-##### Section 2 : Droit de pêche des riverains<a id=914></a>
+##### Section 2 : Droit de pêche des riverains<a id=919></a>
 
-##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=915></a>
+##### Sous-section 1 : Subvention directe à un propriétaire riverain<a id=920></a>
 
 ###### Article R435-34
 
@@ -91004,7 +91162,7 @@ _Cite_:
   - Code de l'environnement - art. L435-5 (M)
 
 
-##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=916></a>
+##### Sous-section 2 : Travaux réalisés par une collectivité locale ou un syndicat de collectivités locales<a id=921></a>
 
 ###### Article R435-37
 
@@ -91044,7 +91202,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 3 : Dispositions diverses<a id=917></a>
+##### Sous-section 3 : Dispositions diverses<a id=922></a>
 
 ###### Article R435-39
 
@@ -91070,7 +91228,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Droit de passage<a id=918></a>
+##### Section 3 : Droit de passage<a id=923></a>
 
 ###### Article R435-40
 
@@ -91093,9 +91251,9 @@ _Cite_:
   - Code de l'environnement - art. L435-9 (Ab)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=919></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=924></a>
 
-##### Section 1 : Dispositions générales<a id=920></a>
+##### Section 1 : Dispositions générales<a id=925></a>
 
 ###### Article R436-2
 
@@ -91191,9 +91349,9 @@ _Cite_:
   - Code de l'environnement - art. L436-4 (V)
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=921></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=926></a>
 
-##### Paragraphe  1 : Temps d'interdiction<a id=922></a>
+##### Paragraphe  1 : Temps d'interdiction<a id=927></a>
 
 ###### Article R436-6
 
@@ -91364,7 +91522,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Paragraphe 2 : Heures d'interdiction<a id=923></a>
+##### Paragraphe 2 : Heures d'interdiction<a id=928></a>
 
 ###### Article R436-13
 
@@ -91483,7 +91641,7 @@ _Abrogé par_:
   - Décret n°2010-1110 du 22 septembre 2010 - art. 2
 
 
-##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=924></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses<a id=929></a>
 
 ###### Article R436-18
 
@@ -91575,7 +91733,7 @@ _Cite_:
   - Code de l'environnement - art. R436-18 (V)
 
 
-##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=925></a>
+##### Sous-section 3 : Nombre de captures autorisées  - Conditions de capture<a id=930></a>
 
 ###### Article R436-21
 
@@ -91617,7 +91775,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-40 (V)
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=926></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés<a id=931></a>
 
 ###### Article R436-23
 
@@ -91874,7 +92032,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=927></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés<a id=932></a>
 
 ###### Article R436-30
 
@@ -92017,7 +92175,7 @@ _Cite_:
   - Code de l'environnement - art. R436-19 (V)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=928></a>
+##### Sous-section 6 : Dispositions diverses<a id=933></a>
 
 ###### Article R436-36
 
@@ -92074,7 +92232,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 7 : Dispositions pénales<a id=929></a>
+##### Sous-section 7 : Dispositions pénales<a id=934></a>
 
 ###### Article R436-39
 
@@ -92188,7 +92346,7 @@ _Cite_:
   - Code de l'environnement - art. L436-8 (V)
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=930></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories<a id=935></a>
 
 ###### Article R436-43
 
@@ -92215,9 +92373,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=931></a>
+##### Section 3 : Gestion et pêche des poissons appartenant aux espèces vivant alternativement dans les eaux douces et dans les eaux salées<a id=936></a>
 
-##### Sous-section 1 : Dispositions générales<a id=932></a>
+##### Sous-section 1 : Dispositions générales<a id=937></a>
 
 ###### Article R436-44
 
@@ -92265,7 +92423,7 @@ _Cite_:
   - Code de l'environnement - art. L436-11 (V)
 
 
-##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=933></a>
+##### Sous-section 2 : Plan de gestion des poissons migrateurs<a id=938></a>
 
 ###### Article R436-45
 
@@ -92331,7 +92489,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-57 (V)
 
 
-##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=934></a>
+##### Sous-section 3 : Comité pour la gestion des poissons migrateurs<a id=939></a>
 
 ###### Article R436-47
 
@@ -92562,9 +92720,9 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=935></a>
+##### Sous-section 4 : Exercice de la pêche des poissons migrateurs<a id=940></a>
 
-##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=936></a>
+##### Paragraphe 1 : Périodes, temps d'interdiction et engins de pêche<a id=941></a>
 
 ###### Article R436-55
 
@@ -92731,7 +92889,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=937></a>
+##### Paragraphe 2 : Mesures utiles à la reproduction, au développement, à la conservation et à la circulation des poissons<a id=942></a>
 
 ###### Article R436-62
 
@@ -92864,7 +93022,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-68 (V)
 
 
-##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=938></a>
+##### Sous-section 5 : Classement en cours d'eau à saumon et à truite de mer<a id=943></a>
 
 ###### Article R436-66
 
@@ -92886,7 +93044,7 @@ _Cité par_:
   - Code de l'environnement - art. R436-16 (V)
 
 
-##### Sous-section 6 : Dispositions pénales<a id=939></a>
+##### Sous-section 6 : Dispositions pénales<a id=944></a>
 
 ###### Article R436-67
 
@@ -92946,9 +93104,9 @@ _Cite_:
   - Code de l'environnement R436-55 à R436-58, R436-60, R436-63, R436-65
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=940></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=945></a>
 
-##### Sous-section 1 : Dispositions générales<a id=941></a>
+##### Sous-section 1 : Dispositions générales<a id=946></a>
 
 ###### Article R436-69
 
@@ -92970,7 +93128,7 @@ _Cite_:
   - Code de l'environnement - art. L431-5 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=942></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche<a id=947></a>
 
 ###### Article R436-70
 
@@ -93026,7 +93184,7 @@ _Cite_:
   - Code de l'environnement - art. R436-71 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=943></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche<a id=948></a>
 
 ###### Article R436-73
 
@@ -93107,7 +93265,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Sous-section 4 : Dispositions communes<a id=944></a>
+##### Sous-section 4 : Dispositions communes<a id=949></a>
 
 ###### Article R436-77
 
@@ -93167,7 +93325,7 @@ _Cite_:
   - Code de l'environnement - art. R436-73 (V)
 
 
-##### Section 5 : Commercialisation<a id=945></a>
+##### Section 5 : Commercialisation<a id=950></a>
 
 ###### Article R436-80
 
@@ -93215,11 +93373,11 @@ _Cite_:
   - Code de l'environnement - art. L436-16
 
 
-##### Section 6 : Dispositions particulières à certaines eaux<a id=946></a>
+##### Section 6 : Dispositions particulières à certaines eaux<a id=951></a>
 
-##### Sous-section 1 : Accords internationaux<a id=947></a>
+##### Sous-section 1 : Accords internationaux<a id=952></a>
 
-##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=948></a>
+##### Paragraphe 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne<a id=953></a>
 
 ###### Article R436-82
 
@@ -93250,7 +93408,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=949></a>
+##### Paragraphe 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman<a id=954></a>
 
 ###### Article R436-84
 
@@ -93301,7 +93459,7 @@ _Cite_:
   - Code de l'environnement - art. R436-85 (V)
 
 
-##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=950></a>
+##### Paragraphe 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse<a id=955></a>
 
 ###### Article R436-87
 
@@ -93354,9 +93512,9 @@ _Cite_:
   - Code de l'environnement - art. R436-88 (V)
 
 
-##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=951></a>
+##### Sous-section 2 : Dispositions applicables en Guadeloupe, Guyane, Martinique, Réunion et à Saint-Pierre-et-Miquelon<a id=956></a>
 
-##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=952></a>
+##### Paragraphe 1 : Dispositions applicables à la Réunion.<a id=957></a>
 
 ###### Article R436-90
 
@@ -93476,9 +93634,9 @@ _Cite_:
   - Code de l'environnement - art. R436-92 (V)
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=953></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=958></a>
 
-##### Section 1 : Dispositions générales<a id=954></a>
+##### Section 1 : Dispositions générales<a id=959></a>
 
 ###### Article D436-1
 
@@ -93555,11 +93713,11 @@ _Cite_:
   - Code de l'environnement - art. R436-23 (V)
 
 
-#### Chapitre VII : Dispositions pénales complémentaires<a id=955></a>
+#### Chapitre VII : Dispositions pénales complémentaires<a id=960></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=956></a>
+##### Section 1 : Recherche et constatation des infractions<a id=961></a>
 
-##### Sous-section 1 : Agents compétents<a id=957></a>
+##### Sous-section 1 : Agents compétents<a id=962></a>
 
 ###### Article R437-1
 
@@ -93618,7 +93776,29 @@ _Abrogé par_:
   - Décret n°2014-813 du 17 juillet 2014 - art. 4
 
 
-##### Sous-section 5 : Saisies<a id=958></a>
+###### Article R437-3-1
+
+Les gardes-pêche particuliers sont commissionnés, agréés, assermentés et exercent leurs fonctions dans les conditions fixées
+aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale. La commission délivrée en application de l'article R.
+15-33-24 de ce code précise les cours d'eau ou les plans d'eau, ou les parties de ceux-ci, où le propriétaire ou le détenteur
+des droits d'usage dispose des droits de pêche que le garde-pêche particulier est chargé de surveiller.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1100 du 30 août 2006 - art. 5 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-33-24 (V)
+
+
+##### Sous-section 5 : Saisies<a id=963></a>
 
 ###### Article R437-4
 
@@ -93661,7 +93841,7 @@ _Cite_:
   - Code de l'environnement - art. L437-12
 
 
-##### Section 2 : Transaction<a id=959></a>
+##### Section 2 : Transaction<a id=964></a>
 
 ###### Article R437-6
 
@@ -93746,7 +93926,7 @@ _Abrogé par_:
   - Décret n°2007-598 du 24 avril 2007 - art. 2 () JORF 26 avril 2007
 
 
-##### Section 3 : Poursuites<a id=960></a>
+##### Section 3 : Poursuites<a id=965></a>
 
 ###### Article R437-10
 
@@ -93802,7 +93982,7 @@ _Codifié par_:
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Section 5 : Sanctions<a id=961></a>
+##### Section 5 : Sanctions<a id=966></a>
 
 ###### Article R437-12
 
@@ -93841,13 +94021,13 @@ _Cite_:
   - Code de l'environnement - art. L437-1
 
 
-## Livre VII : Protection de l'environnement en Antarctique<a id=962></a>
+## Livre VII : Protection de l'environnement en Antarctique<a id=967></a>
 
-### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=963></a>
+### Titre unique : Mise en oeuvre du protocole du Traité de l'Antarctique relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991<a id=968></a>
 
-#### Chapitre II : Déclaration et autorisation<a id=964></a>
+#### Chapitre II : Déclaration et autorisation<a id=969></a>
 
-##### Section 1 : Autorités compétentes<a id=965></a>
+##### Section 1 : Autorités compétentes<a id=970></a>
 
 ###### Article R712-1
 
@@ -93918,7 +94098,7 @@ _Cite_:
   - Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 2 : Activités soumises à déclaration<a id=966></a>
+##### Section 2 : Activités soumises à déclaration<a id=971></a>
 
 ###### Article R712-3
 
@@ -94104,7 +94284,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 3 : Activités soumises à autorisation<a id=967></a>
+##### Section 3 : Activités soumises à autorisation<a id=972></a>
 
 ###### Article R712-9
 
@@ -94303,7 +94483,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-##### Section 4 : Cas d'urgence<a id=968></a>
+##### Section 4 : Cas d'urgence<a id=973></a>
 
 ###### Article R712-15
 
@@ -94331,7 +94511,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=969></a>
+#### Chapitre IV : Zones spécialement protégées et zones gérées spéciales de l'Antarctique<a id=974></a>
 
 ###### Article R714-1
 
@@ -94390,7 +94570,7 @@ _Créé par_:
   - TXT_SOURCE: Protocole 1991-10-04, signé à Madrid
 
 
-# ANNEXES<a id=970></a>
+# ANNEXES<a id=975></a>
 
 ###### Article Annexe I à l'article D432-4
 
