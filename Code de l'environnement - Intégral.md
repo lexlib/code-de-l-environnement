@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-12-01
+Version Consolidée au 2006-12-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -84110,6 +84110,22 @@ _Cité par_:
 
   - Décret n°2013-1303 du 27 décembre 2013 - art. 1 (V)
   - Code de l'environnement - art. R654-10 (V)
+
+
+###### Article R424-14-1
+
+Le ministre chargé de la chasse peut autoriser, par arrêté, l'emploi d'appeaux pour la chasse à tir du grand gibier soumis à
+plan de chasse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1503 du 29 novembre 2006 - art. 1 () JORF 2 décembre 2006
 
 
 ###### Article R424-15
