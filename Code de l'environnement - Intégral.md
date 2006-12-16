@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-12-02
+Version Consolidée au 2006-12-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -664,7 +664,7 @@ Version Consolidée au 2006-12-02
           - [Section 4 : Dispositions pénales (art. R332-68 à R332-81)](#661)
             - [Sous-section 1 : Constatation des infractions et poursuites (art. R332-68)](#662)
             - [Sous-section 2 : Sanctions (art. R332-69 à R332-81)](#663)
-        - [Chapitre III : Parcs naturels régionaux (art. R333-1 à R333-16)](#664)
+        - [Chapitre III : Parcs naturels régionaux (art. D333-15-1 à R333-16)](#664)
         - [Chapitre IV : Agence des aires marines protégées et parcs naturels marins (art. R334-1 à R334-38)](#665)
           - [Section 1 : Agence des aires marines protégées (art. R334-1 à R334-26)](#666)
             - [Sous-section 1 : Dispositions générales (art. R334-1 à R334-3)](#667)
@@ -70705,6 +70705,63 @@ _Codifié par_:
 
 
 #### Chapitre III : Parcs naturels régionaux<a id=664></a>
+
+###### Article D333-15-1
+
+Les indemnités maximales votées en application de l'article L. 333-3 III par les organes délibérants des syndicats mixtes de
+gestion des parcs naturels régionaux pour l'exercice effectif des fonctions de président ou de vice-président sont
+déterminées en appliquant au montant du traitement mensuel correspondant à l'indice brut terminal de l'échelle indiciaire de
+la fonction publique les barèmes suivants :
+
+SUPERFICIE (en hectares) : De 0 à 49 999
+
+TAUX EN POURCENTAGE de l'indice brut 1015 :
+
+Président : 27
+
+Vice-président : 11
+
+SUPERFICIE (en hectares) : De 50 000 à 99 999
+
+TAUX EN POURCENTAGE de l'indice brut 1015 :
+
+Président : 29
+
+Vice-président : 13
+
+SUPERFICIE (en hectares) : De 100 000 à 199 999
+
+TAUX EN POURCENTAGE de l'indice brut 1015 :
+
+Président : 31
+
+Vice-président : 15
+
+SUPERFICIE (en hectares) : Plus de 200 000
+
+TAUX EN POURCENTAGE de l'indice brut 1015 :
+
+Président : 33
+
+Vice-président : 17
+
+La superficie prise en compte est celle cadastrée et non cadastrée "hors eaux" du territoire géré par le syndicat mixte du
+parc naturel régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-1614 du 15 décembre 2006 - art. 1 () JORF 17 décembre 2006
+
+_Cite_:
+
+  - Code de l'environnement - art. L333-3 (M)
+
 
 ###### Article R333-1
 
