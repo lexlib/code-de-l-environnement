@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2007-01-05
+Version Consolidée au 2007-02-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -44586,7 +44586,7 @@ l'article L. 541-22 ;
 
 8° Éliminer ou récupérer des déchets ou matériaux sans satisfaire aux prescriptions concernant les caractéristiques, les
 quantités, les conditions techniques et financières de prise en charge des déchets ou matériaux et les procédés de traitement
-mis en oeuvre fixées en application des articles L. 541-11, L. 541-22, L. 541-24, L. 541-35 et L. 541-36 ;
+mis en oeuvre fixées en application des articles L. 541-11, L. 541-22, L. 541-24 et L. 541-35 ;
 
 9° Méconnaître les prescriptions des articles L. 541-30-1 et L. 541-31 ;
 
@@ -44645,25 +44645,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1319 du 26 octobre 2005 - art. 5 (V) JORF 27 octobre 2005
-
-_Cite_:
-
-  - Code pénal - art. 131-35 (M)
-  - Code de l'environnement - art. L541-10 (V)
-  - Code de l'environnement - art. L541-11 (V)
-  - Code de l'environnement - art. L541-22 (V)
-  - Code de l'environnement - art. L541-24 (V)
-  - Code de l'environnement - art. L541-30-1 (V)
-  - Code de l'environnement - art. L541-31 (V)
-  - Code de l'environnement - art. L541-35 (V)
-  - Code de l'environnement - art. L541-36 (Ab)
-  - Code de l'environnement - art. L541-40 (V)
-  - Code de l'environnement - art. L541-44 (V)
-  - Code de l'environnement - art. L541-7 (V)
-  - Code de l'environnement - art. L541-8 (V)
-  - Code de l'environnement - art. L541-9 (V)
-  - Code des ports maritimes - art. L325-3 (Ab)
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 
 ###### Article L541-47
@@ -51179,7 +51161,7 @@ instance" ;
 "tribunal supérieur d'appel".
 
 Les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux dispositions
-ayant le même objet applicable localement.
+ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
@@ -51195,7 +51177,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 2 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 
 ###### Article L651-2
@@ -51361,7 +51343,7 @@ _Cite_:
 
 ###### Article L651-7
 
-Par dérogation aux dispositions du cinquième alinéa de l'article L. 126-1, la déclaration de projet est publiée dans les
+Par dérogation aux dispositions du dernier alinéa de l'article L. 126-1, la déclaration de projet est publiée dans les
 conditions fixées par un arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
@@ -51378,7 +51360,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
@@ -51393,14 +51375,14 @@ _Cité par_:
 
 ###### Article L652-1
 
-I. - Les articles L. 213-8 à L. 213-9-3 et L. 213-11 à L. 213-11-16 ne sont pas applicables à Mayotte.
+I.-Les articles L. 213-8 à L. 213-9-3 et L. 213-11 à L. 213-11-16 ne sont pas applicables à Mayotte. 
 
-II. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port
-adjoints, les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I sont exercés par le représentant de l'Etat
-ou par l'un de ses délégués.
+II.-Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port
+adjoints, les pouvoirs qui leur sont dévolus par les dispositions du livre II sont exercés par le représentant de l'Etat ou
+par l'un de ses délégués. 
 
-III. - Sont également applicables les dispositions du code de la santé publique mentionnées aux articles L. 211-11 et L.
-214-14 du présent code, dans les conditions indiquées à l'article L. 1515-1 du code de la santé publique.
+III.-Sont également applicables les dispositions du code de la santé publique mentionnées aux articles L. 211-11 et L. 214-14
+du présent code, dans les conditions indiquées à l'article L. 1515-1 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -51415,14 +51397,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
-  - Code de la santé publique - art. L1515-1 (M)
+  - Code de la santé publique - art. L1515-1 (V)
   - Code de l'environnement - art. L211-11 (V)
-  - Code de l'environnement - art. L214-14 (M)
-  - Code de l'environnement L213-8 à L213-9-3, L213-11 à L213-11-16, L211-11, L214-14
+  - Code de l'environnement - art. L213-11 (V)
+  - Code de l'environnement - art. L213-8 (V)
+  - Code de l'environnement - art. L214-14 (V)
 
 
 ###### Article L652-2
@@ -51489,7 +51472,7 @@ _Cité par_:
 ###### Article L652-4
 
 Pour l'application de l'article L. 213-13, la référence à l'article L. 3241-1 du code général des collectivités territoriales
-est remplacée par la référence à l'article L. 3554-1 du même code.
+est remplacée par la référence au chapitre II du titre V du livre Ier de la sixième partie du même code.
 
 **Liens relatifs à cet article**
 
@@ -51498,15 +51481,14 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 25 () JORF 22 février 2007
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L3241-1 (M)
-  - Code général des collectivités territoriales - art. L3554-1 (V)
-  - Code de l'environnement - art. L213-13 (M)
+  - Code général des collectivités territoriales - art. L3241-1 (V)
+  - Code de l'environnement - art. L213-13 (V)
 
 
 ###### Article L652-5
@@ -51539,9 +51521,6 @@ _Cite_:
 Pour l'application des articles L. 222-2 et L. 222-4, la référence aux commissions départementales compétentes en matière
 d'environnement, de risques sanitaires et technologiques est remplacée par la référence au conseil d'hygiène de Mayotte.
 
-Par dérogation aux dispositions du deuxième alinéa de l'article L. 222-2, le plan pour la qualité de l'air à Mayotte est
-arrêté par le représentant de l'Etat.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -51549,19 +51528,23 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 2
 
 _Cite_:
 
-  - Code de l'environnement - art. L222-2 (M)
-  - Code de l'environnement - art. L222-4 (M)
+  - Code de l'environnement - art. L222-2 (V)
+  - Code de l'environnement - art. L222-4 (V)
 
 
 ###### Article L652-7
 
-Les articles L. 229-5 à L. 229-19 ne sont applicables à Mayotte qu'à compter du 1er janvier 2012.
+Les articles L. 229-5 à L. 229-24 ne sont applicables à Mayotte qu'à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -51570,13 +51553,13 @@ _Codifié par_:
   - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
-  - Code de l'environnement L229-5 à L229-19
+  - Code de l'environnement - art. L229-5 (VT)
 
 
 ###### Article L652-8
@@ -51966,7 +51949,7 @@ _Modifié par_:
 
 ###### Article L655-1
 
-Les articles L. 541-32, L. 541-36, L. 565-1 et L. 562-6 ne sont pas applicables à Mayotte.
+L'article L. 562-6 n'est pas applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -51977,14 +51960,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
-  - Code de l'environnement - art. L541-32 (Ab)
-  - Code de l'environnement - art. L541-36 (Ab)
   - Code de l'environnement - art. L562-6 (V)
-  - Code de l'environnement - art. L565-1 (Ab)
 
 
 ###### Article L655-2
@@ -52162,11 +52142,11 @@ _Cité par_:
 
 ###### Article L655-7
 
-Pour l'application de l'article L. 551-2 à Mayotte, les mots : "à la date de publication de la loi n° 2003-699 du 30 juillet
-2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages" sont remplacés par les
-mots : "à la date de publication de l'ordonnance n° 2005-869 du 28 juillet 2005 relative à l'adaptation du droit de
-l'environnement à Mayotte" et les mots : "dans les trois années suivant l'entrée en vigueur de ladite loi" sont remplacés par
-les mots : "avant le 31 décembre 2008".
+Pour l'application de l'article L. 551-2 à Mayotte, les mots : " à la date de publication de la loi n° 2003-699 du 30 juillet
+2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages " sont remplacés par les
+mots : " à la date de publication de l'ordonnance n° 2005-869 du 28 juillet 2005 relative à l'adaptation du droit de
+l'environnement à Mayotte " et les mots : " dans les trois années suivant l'entrée en vigueur de ladite loi " sont remplacés
+par les mots : " avant le 31 décembre 2009 ". 
 
 Par dérogation aux dispositions du dernier alinéa du même article, ses modalités d'application, et notamment les catégories
 d'ouvrages concernés, sont fixées par arrêté du représentant de l'Etat à Mayotte.
@@ -52185,7 +52165,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 11 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
