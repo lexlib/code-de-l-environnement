@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-03-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L713-9)](#1)
     - [Livre Ier : Dispositions communes (art. L110-1 à L151-2)](#2)
@@ -82570,7 +82570,15 @@ _Cité par_:
 La chasse sur le domaine public fluvial est, en règle générale, mise en location par voie d'adjudication publique ; elle peut
 être également exploitée par concession de licences à prix d'argent, ou, lorsque l'adjudication a été tentée sans succès, par
 voie de location amiable. Ces adjudications et locations sont régies par un cahier des charges dans les conditions prévues à
-l'article D. 422-119.
+l'article D. 422-119. 
+
+Le préfet fixe l'assiette des lots de chasse et détermine les lots qui sont exploités par voie de location et ceux qui sont
+exploités par concession de licences, après consultation du gestionnaire du domaine public fluvial et du directeur
+départemental de l'agriculture et de la forêt. 
+
+Lorsque le Conservatoire de l'espace littoral et des rivages lacustres est attributaire du domaine public fluvial, le
+directeur de cet établissement ou son représentant est consulté par le préfet préalablement à la délimitation des lots de
+chasse. 
 
 Toutefois, sur décision du préfet, certaines parties du domaine public fluvial peuvent être constituées en réserve de chasse
 au sens de l'article L. 422-27.
@@ -82579,12 +82587,15 @@ au sens de l'article L. 422-27.
 
 _Anciens textes_:
 
-  - Décret n°68-915 du 18 octobre 1968 - art. 1 (M)
   - Décret n°68-915 du 18 octobre 1968 - art. 1 (Ab)
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
 
 _Cité par_:
 
@@ -82595,7 +82606,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'environnement - art. D422-119 (V)
-  - Code de l'environnement - art. L422-27 (M)
+  - Code de l'environnement - art. L422-27 (V)
 
 
 ###### Article D422-99
@@ -82621,12 +82632,11 @@ _Cité par_:
 
 ###### Article D422-100
 
-Dans chaque département concerné, la commission départementale de la chasse au gibier d'eau sur le domaine public fluvial est
-consultée par le préfet sur les demandes de participation à l'adjudication publique en vue d'obtenir la location d'un ou
-plusieurs lots déterminés.
+La commission départementale de la chasse et de la faune sauvage est consultée par le préfet sur les demandes de
+participation à l'adjudication publique en vue d'obtenir la location d'un ou plusieurs lots déterminés. 
 
 Ces demandes sont adressées au préfet dans le délai de trente jours à compter de la publication de l'avis mentionné à
-l'article D. 422-99.
+l'article D. 422-99. 
 
 La commission est également consultée sur les demandes de locations amiables présentées en application de l'article D.
 422-98.
@@ -82641,6 +82651,10 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
+
 _Cité par_:
 
   - Arrêté du 21 février 2013 - art. (V)
@@ -82649,47 +82663,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. D422-98 (M)
+  - Code de l'environnement - art. D422-98 (V)
   - Code de l'environnement - art. D422-99 (V)
-
-
-###### Article D422-101
-
-La commission prévue à l'article D. 422-100 est présidée par le préfet ou son représentant et comprend :
-
-1° Le directeur départemental de l'agriculture et de la forêt ou son représentant ;
-
-2° Le directeur départemental de l'équipement ou son représentant ;
-
-3° Le directeur des services fiscaux ou son représentant ;
-
-4° Le directeur régional de l'environnement ou son représentant ;
-
-5° Le président de la fédération départementale des chasseurs ou son représentant ;
-
-6° Une personne désignée par le préfet, sur proposition du président de la fédération départementale des chasseurs, en
-fonction de ses compétences en matière de chasse au gibier d'eau ;
-
-7° Une personne désignée par le préfet, sur proposition du directeur régional de l'environnement, en fonction de ses
-compétences en matière de protection de la nature.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-915 du 18 octobre 1968 - art. 2-2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-_Abrogé par_:
-
-  - Décret n°2007-318 du 7 mars 2007 - art. 3 () JORF 9 mars 2007
-
-_Cite_:
-
-  - Code de l'environnement - art. D422-100 (M)
 
 
 ###### Article D422-102
@@ -82762,8 +82737,8 @@ _Cité par_:
 ###### Article D422-104
 
 Lorsqu'un lot a fait l'objet d'une seule demande admise en application de l'article D. 422-102, il est consenti par le préfet
-une location amiable au profit de ce candidat. Les conditions financières sont fixées par le directeur des services fiscaux,
-après avis du service gestionnaire.
+une location amiable au profit de ce candidat. Les conditions financières sont fixées par le trésorier-payeur général, après
+avis du gestionnaire du domaine public fluvial. 
 
 A défaut de conclusion du contrat dans les quinze jours de la notification qui lui est faite à cet effet, le lot est mis en
 adjudication.
@@ -82778,6 +82753,10 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
+
 _Cite_:
 
   - Code de l'environnement - art. D422-102 (V)
@@ -82789,10 +82768,14 @@ _Cité par_:
 
 ###### Article D422-105
 
-L'adjudication a lieu publiquement par-devant le préfet ou son représentant, assisté du chef du service gestionnaire et du
-directeur des services fiscaux ou de leurs représentants.
+L'adjudication a lieu publiquement par-devant le préfet ou son représentant, assisté du gestionnaire du domaine public
+fluvial et du trésorier-payeur général ou de leurs représentants.
 
-La mise à prix ou le prix minimum est arrêté par le directeur des services fiscaux, après avis du service gestionnaire.
+Dans le cas où le Conservatoire de l'espace littoral et des rivages lacustres est attributaire du domaine public fluvial,
+l'adjudication a lieu en présence du directeur de cet établissement ou de son représentant.
+
+La mise à prix ou le prix minimum est arrêté par le trésorier-payeur général, après avis du gestionnaire du domaine public
+fluvial.
 
 **Liens relatifs à cet article**
 
@@ -82803,6 +82786,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
 
 
 ###### Article D422-106
@@ -82852,50 +82839,55 @@ _Cite_:
 
 ###### Article D422-108
 
-Le préfet détermine les lots qui seront exploités par licences.
+Dans les lots exploités par concession de licences, le nombre de ces licences et l'étendue des droits qu'elles confèrent à
+leurs bénéficiaires sont fixés, pour chaque lot, par le gestionnaire du domaine public fluvial et par le directeur
+départemental de l'agriculture et de la forêt.
 
-Le nombre de ces licences et l'étendue des droits qu'elles confèrent à leurs bénéficiaires sont fixés, pour chaque lot, par
-le service compétent.
-
-Le prix des licences est arrêté par le directeur des services fiscaux, après avis du service gestionnaire.
+Le prix des licences est arrêté par le trésorier-payeur général, après avis du gestionnaire du domaine public fluvial.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°68-915 du 18 octobre 1968 - art. 3 (M)
   - Décret n°68-915 du 18 octobre 1968 - art. 3 (Ab)
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
+
 
 ###### Article D422-109
 
 Par dérogation aux dispositions de l'article D. 422-98, des locations amiables de lots de chasse peuvent être consenties,
 sans tentative d'adjudication préalable, aux associations communales ou intercommunales de chasse agréées lorsque celles-ci
-sont titulaires du droit de chasse sur un territoire contigu à la dépendance domaniale considérée.
+sont titulaires du droit de chasse sur un territoire contigu à la dépendance domaniale considérée. 
 
 La liste des parties du domaine public fluvial qui pourront faire l'objet des locations prévues à l'alinéa ci-dessus est
-arrêtée par le préfet.
+arrêtée par le préfet. 
 
 Les demandes de locations amiables prévues par le présent article sont adressées au préfet. Les locations sont conclues par
-le préfet sur proposition conjointe des représentants du service gestionnaire et du service des domaines.
+le préfet sur proposition conjointe des représentants du gestionnaire du domaine public fluvial et du service des domaines. 
 
-Les conditions financières de ces locations sont fixées par le directeur des services fiscaux, après avis du service
-gestionnaire.
+Les conditions financières de ces locations sont fixées par le trésorier-payeur général, après avis du gestionnaire du
+domaine public fluvial.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°68-915 du 18 octobre 1968 - art. 4 (M)
   - Décret n°68-915 du 18 octobre 1968 - art. 4 (Ab)
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
 
 _Cité par_:
 
@@ -82903,13 +82895,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. D422-98 (M)
+  - Code de l'environnement - art. D422-98 (V)
 
 
 ###### Article D422-110
 
 Les locations amiables prévues à l'article D. 422-98 sont consenties selon les modalités fixées au dernier alinéa de
-l'article D.  422-109 après avis de la commission mentionnée à l'article D. 422-100.
+l'article D. 422-109 après avis de la commission mentionnée à l'article D. 422-100 et du gestionnaire du domaine public
+fluvial. 
+
+Dans le cas où le Conservatoire de l'espace littoral et des rivages lacustres est attributaire du domaine public fluvial,
+l'avis du directeur de cet établissement ou de son représentant est recueilli par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -82921,17 +82917,21 @@ _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
+
 _Cite_:
 
-  - Code de l'environnement - art. D422-100 (M)
-  - Code de l'environnement - art. D422-109 (M)
-  - Code de l'environnement - art. D422-98 (M)
+  - Code de l'environnement - art. D422-100 (V)
+  - Code de l'environnement - art. D422-109 (V)
+  - Code de l'environnement - art. D422-98 (V)
 
 
 ###### Article D422-111
 
-Le préfet peut demander à tout moment au locataire d'un lot de rendre compte au service gestionnaire de l'exécution du
-programme d'exploitation et d'amélioration prévu à l'article D. 422-102.
+Le préfet peut demander à tout moment au locataire d'un lot de rendre compte au directeur départemental de l'agriculture et
+de la forêt de l'exécution du programme d'exploitation et d'amélioration prévu à l'article D. 422-102.
 
 **Liens relatifs à cet article**
 
@@ -82942,6 +82942,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 1 () JORF 9 mars 2007
 
 _Cite_:
 
@@ -83064,7 +83068,7 @@ _Cite_:
 ###### Article D422-117
 
 Le préfet détermine les lots qui sont exploités par voie de location et ceux qui sont exploités par concession de licences,
-en dehors des réserves de chasse instituées par le ministre chargé de la chasse et le ministre chargé de la mer.
+en dehors des réserves de chasse et de faune sauvage.
 
 Lorsque le Conservatoire de l'espace littoral et des rivages lacustres est attributaire du domaine public maritime, le préfet
 recueille l'avis du directeur de cet établissement ou de son représentant, préalablement à la délimitation des lots de
@@ -83074,12 +83078,15 @@ chasse.
 
 _Anciens textes_:
 
-  - Décret n°75-293 du 21 avril 1975 - art. 2 (M)
   - Décret n°75-293 du 21 avril 1975 - art. 2 (Ab)
 
 _Codifié par_:
 
   - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+_Modifié par_:
+
+  - Décret n°2007-318 du 7 mars 2007 - art. 2 () JORF 9 mars 2007
 
 
 ###### Article D422-118
