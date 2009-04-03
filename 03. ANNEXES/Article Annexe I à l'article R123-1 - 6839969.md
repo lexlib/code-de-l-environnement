@@ -147,9 +147,9 @@
 ┃                                                  │ valent à celui produit par 10 000 habitants, au sens de l'article R.   ┃
 ┃                                                  │ 1416-3 du code de la santé publique.                                   ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 19 o Réservoirs de stockage d'eau.               │ Réservoirs sur tour » d'une capacité supérieure ou égale à 1 000       ┃
-┃                                                  │ mètres cubes et autres réservoirs d'une superficie égale ou supérieure ┃
-┃                                                  │ à 10 ha.                                                               ┃
+┃ 19 o Réservoirs de stockage d'eau.               │ Réservoirs sur tour d'une capacité supérieure ou égale à 1 000 mètres  ┃
+┃                                                  │ cubes et autres réservoirs d'une superficie égale ou supérieure à 10   ┃
+┃                                                  │ ha.                                                                    ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 20 o Canalisations d'adduction d'eau potable.    │ Construction de canalisations souterraines dans une nouvelle emprise   ┃
 ┃                                                  │ lorsque le produit du diamètre extérieur des canalisations par leur    ┃
@@ -186,8 +186,12 @@
 ┃ de stockage souterrain soumis à autorisation en  │ 000 mètres cubes ou entraînant la dissolution de certaines couches du  ┃
 ┃ vertu du décret n o 2006-649 du 2 juin 2006.     │ sous-sol, ou effectués sur des terrains humides ou des marais.         ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 25 o Ouvrages de transport et de distribution    │ Ouvrages d'une tension supérieure ou égale à 63 kV.                    ┃
-┃ d'électricité.                                   │                                                                        ┃
+┃ 25 o Ouvrages de transport et de distribution    │ Ouvrages aériens d'une tension supérieure ou égale à 63 kV. Construc-  ┃
+┃ d'électricité.                                   │ tions et travaux d'installation ou de modernisation concernant les     ┃
+┃                                                  │ liaisons souterraines de tension égale à 225 kV d'une longueur supé-   ┃
+┃                                                  │ rieure à 15 km. Constructions et travaux d'installation ou de moderni- ┃
+┃                                                  │ sation concernant les liaisons souterraines de tension supérieure à    ┃
+┃                                                  │ 225 kV.                                                                ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 26 o Canalisations de transport de gaz.          │ Canalisations dont le produit du diamètre extérieur par la longueur    ┃
 ┃                                                  │ est supérieur ou égal à 5 000 mètres carrés.                           ┃
@@ -265,28 +269,22 @@
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+  - Décret n°2006-649 du 2 juin 2006
+  - Décret n°2007-830 du 11 mai 2007
+  - Code rural - art. L151-36
+  - Code de l'urbanisme - art. L146-4
+  - Code de l'urbanisme - art. L146-6
+  - Code de l'environnement - art. L123-1
+  - Code de l'environnement - art. L331-2
+  - Code de l'environnement - art. L332-1
+  - Code de l'environnement - art. L333-1
+  - Code de l'environnement - art. L334-3
+  - Code de l'aviation civile - art. L321-2
+  - Code de l'aviation civile - art. R222-5
+  - Code de l'aviation civile - art. R227-7
 
 _Modifié par_:
 
-  - Décret n°2006-394 du 30 mars 2006 - art. 26 () JORF 1er avril 2006
-  - Décret n°2006-629 du 30 mai 2006 - art. 3 () JORF 31 mai 2006
-  - Décret n°2006-649 du 2 juin 2006 - art. 57 () JORF 3 juin 2006
-  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-  - Décret n°2006-1230 du 6 octobre 2006 - art. 4 () JORF 8 octobre 2006
-  - Décret n°2006-1266 du 16 octobre 2006 - art. 2 () JORF 17 octobre 2006
-  - Décret n°2007-18 du 5 janvier 2007 - art. 18 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-397 du 22 mars 2007 - art. 9 () JORF 23 mars 2007
-  - Décret n°2007-830 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
-
-_Cite_:
-
-  - Code rural - art. L151-36 (V)
-  - Code de l'urbanisme - art. L146-4 (V)
-  - Code de l'urbanisme - art. L146-6 (V)
-  - Code de l'environnement - art. L331-2 (V)
-  - Code de l'environnement - art. L332-1 (V)
-  - Code de l'environnement - art. L333-1 (V)
-  - Code de l'environnement - art. L334-3 (V)
+  - Décret n°2009-368 du 1er avril 2009 - art. 1
