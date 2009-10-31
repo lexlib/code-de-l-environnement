@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -661,7 +661,8 @@ A
 </td>
       <td>
 
-a) supérieure ou égal à 106
+a) supérieure ou égal à 10
+          <sup>6</sup>
 
 </td>
       <td>
@@ -671,15 +672,16 @@ a) supérieure ou égal à 106
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
 
-b) supérieure ou égal à 104
+b) supérieure ou égal à 10
+          <sup>4</sup>
 
 </td>
-      <td>
+      <td align="left">
 
 1
 
@@ -701,7 +703,9 @@ D
 
 </td>
       <td>
-      </td><td>
+
+</td>
+      <td>
 
 </td>
     </tr>
@@ -1790,7 +1794,7 @@ Couvoirs
     <tr>
       <td>
 
-Capacité logeable d'eau moins 100 000 œufs
+Capacité logeable d'eau moins 100 000 oeufs
 
 </td>
       <td>
@@ -2203,7 +2207,8 @@ DC
 </td>
       <td>
 
-Engrais et supports de culture (fabrication des) à partir de matières organiques
+Engrais, amendements et supports de culture (fabrication des) à partir de matières organiques, à l'exclusion des rubriques
+2780 et 2781 :
 
 </td>
       <td>
@@ -2241,7 +2246,7 @@ A
     <tr>
       <td>
 
-2. Lorsque la capacité de production et supérieure ou égale à 1 t/j et inférieure à 10 t/j
+2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10 t/j
 
 </td>
       <td>
@@ -2628,15 +2633,15 @@ a) supérieure à 200 t/j
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
 
 b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
-      <td>
+      <td align="left">
 
 1
 
@@ -3696,7 +3701,7 @@ D
 </td>
       <td>
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 </td>
       <td>
@@ -7884,7 +7889,7 @@ A
     <tr>
       <td>
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
 cuves de traitement étant :
 
 </td>
@@ -7971,7 +7976,7 @@ DC
     <tr>
       <td>
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
 
 </td>
       <td>
@@ -9089,7 +9094,7 @@ Quelle que soit la capacité
 </td>
       <td>
 
-Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou
+Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou
 commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une
 autorisation de mise sur le marché conformément à la loi n
           <sup>o </sup>92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur
@@ -9182,7 +9187,7 @@ classement des organismes génétiquement modifiés en groupe I et II
     <tr>
       <td>
 
-On entend par mise en oeuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un
+On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un
 processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours
 desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
 
@@ -9206,7 +9211,7 @@ desquelles des organismes génétiquement modifiés sont cultivés, utilisés, s
 </td>
       <td>
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
 
 </td>
       <td>
@@ -9743,6 +9748,325 @@ A
 
 </td>
     </tr>
+    <tr>
+      <td align="left">
+
+2780
+
+</td>
+      <td align="left">
+
+Installations de traitement aérobie (compostage ou stabilisation
+
+biologique) de déchets non dangereux ou matière végétale
+
+brute, ayant le cas échéant subi une étape de méthanisation
+
+</td>
+      <td align="left">
+
+</td>
+      <td align="left">
+
+</td>
+      <td align="left">
+
+</td>
+      <td align="left">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+1. Compostage de matière végétale brute, effluents d'élevage,
+
+matières stercoraires :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+a) La quantité de matières traitées étant supérieure ou égale à
+
+30 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+b) La quantité de matières traitées étant supérieure ou égale
+
+à 3 t/j et inférieure à 30 t/j
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de
+fabrication
+
+de denrées alimentaires végétales, de boues de station d'épuration
+
+des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls
+
+ou en mélange avec des déchets végétaux ou des effluents d'élevages
+
+ou des matières stercoraires :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+a) La quantité de matières traitées étant supérieure ou égale
+
+à 20 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+
+b) La quantité de matières traitées étant supérieure ou égale
+
+à 2 t/j
+
+et inférieure à 20 t/j
+
+</td>
+      <td align="left">
+
+D
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>3. Compostage d'autres déchets ou stabilisation biologique</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">
+
+2781
+
+</td>
+      <td align="left">
+
+Installations de méthanisation de déchets non dangereux ou
+
+matière végétale brute à l'exclusion des installations de stations
+
+d'épuration urbaines
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+1. Méthanisation de matière végétale brute, effluents d'élevage,
+
+matières stercoraires, déchets végétaux d'industries agroalimentaires :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+a) La quantité de matières traitées étant supérieure ou égale
+
+à 30 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) La quantité de matières traitées étant inférieure à 30 t/j
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+2. Méthanisation d'autres déchets non dangereux
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">
+
+2782
+
+</td>
+      <td align="left">
+
+Installations mettant en œuvre d'autres traitements
+
+biologiques de déchets non dangereux que ceux mentionnés
+
+aux rubriques 2780 et 2781 à l'exclusion des installations
+
+réglementées au titre d'une autre législation
+
+</td>
+      <td align="left">
+
+A
+
+</td>
+      <td align="left">
+
+3
+
+</td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
     <tr>
       <td>
 
@@ -10307,7 +10631,7 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
     <tr>
       <td>
 
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
+1. Lorsque l'installation n'est pas du type "circuit primaire fermé :
 
 </td>
       <td>
@@ -10389,10 +10713,10 @@ D
     <tr>
       <td>
 
-Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au
-travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à
-celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les
-échangeurs thermiques.
+Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers
+d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ;
+tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs
+thermiques.
 
 </td>
       <td>
@@ -10706,7 +11030,7 @@ rubrique 1521,
     <tr>
       <td>
 
-1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé au trempé . Si
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si
 la quantité maximale de produits susceptible d'être présente dans l'installation est :
 
 </td>
@@ -10770,7 +11094,7 @@ DC
     <tr>
       <td>
 
-2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction). Si la quantité maximale
+2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale
 de produits susceptible d'être mise en œuvre est :
 
 </td>
@@ -10782,7 +11106,7 @@ de produits susceptible d'être mise en œuvre est :
 </td>
       <td>
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 </td>
       <td>
@@ -11113,4 +11437,4 @@ DC
 
 _Modifié par_:
 
-  - Décret n°2006-1454 du 24 novembre 2006 - art. 1 (V)
+  - Décret n°2009-1341 du 29 octobre 2009 - art.
