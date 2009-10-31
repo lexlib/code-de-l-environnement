@@ -4,15 +4,15 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES 
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <td width="33" rowspan="2" valign="top">
+      <td rowspan="2" valign="top" width="33">
 
 N°
 
 </td>
-      <td width="412" colspan="3">
+      <td colspan="3" width="412">
 
 A - NOMENCLATURE DES INSTALLATIONS CLASSEES
 
@@ -51,7 +51,7 @@ Coef.
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="33">
+      <td width="33" valign="top" rowspan="4">
 
 1611
 
@@ -62,13 +62,13 @@ Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %, 
 phosphorique à plus de 10 %, sulfurique à plus de 25 %, anhydride phosphorique (emploi ou stockage de).
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -79,19 +79,19 @@ phosphorique à plus de 10 %, sulfurique à plus de 25 %, anhydride phosphorique
 La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. supérieure ou égale à 250 t
 
@@ -101,28 +101,28 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure ou égale à 50 t, mais inférieure à 250 t
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -131,7 +131,7 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="10">
+      <td valign="top" rowspan="10" width="33">
 
 1612
 
@@ -144,27 +144,27 @@ Acide chlorosulfurique, oléums (fabrication industrielle, emploi ou stockage d'
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 A. Fabrication industrielle
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 A. La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -174,7 +174,7 @@ A. La quantité totale susceptible d'être présente dans l'installation étant 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -182,7 +182,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -191,7 +191,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure ou égale à 500 t
 
@@ -206,7 +206,7 @@ AS
 3
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. supérieure ou égale à 500 t
 
@@ -218,12 +218,12 @@ AS
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. inférieure à 500 t
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -253,7 +253,7 @@ B. Emploi ou stockage
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -298,7 +298,7 @@ AS
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. supérieure ou égale à 500 t
 
@@ -320,17 +320,17 @@ AS
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 2. supérieure ou égale à 50 t, mais inférieure à 500 t
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 6
 
@@ -347,7 +347,7 @@ A
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -356,7 +356,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="7" valign="top">
+      <td rowspan="7" valign="top" width="33">
 
 1630
 
@@ -369,11 +369,11 @@ Soude ou potasse caustique (fabrication industrielle, emploi ou stockage de less
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -388,7 +388,7 @@ A. Fabrication industrielle de
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
@@ -398,14 +398,14 @@ A
 A. Quelle que soit la capacité
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 B. Emploi ou stockage de lessives de
 
@@ -416,7 +416,7 @@ B. Emploi ou stockage de lessives de
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -430,11 +430,11 @@ Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassiu
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -444,7 +444,7 @@ Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassiu
 La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
@@ -456,7 +456,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 250 t
 
@@ -466,37 +466,37 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 100 t, mais inférieure ou égale à 250 t
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 1631
 
@@ -506,17 +506,17 @@ D
 Carbonate de sodium ou carbonate de potassium (fabrication industrielle du)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 Quelle que soit la capacité
 
@@ -528,7 +528,7 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="8" valign="top">
+      <td valign="top" rowspan="8" width="33">
 
 1700
 
@@ -538,14 +538,14 @@ Quelle que soit la capacité
 Substances radioactives (définitions et règles de classement des)
 
 </td>
-      <td rowspan="8" width="38" valign="top">
+      <td width="38" rowspan="8" valign="top">
 
 </td>
-      <td valign="top" rowspan="8" width="35">
+      <td width="35" rowspan="8" valign="top">
 
 </td>
       <td rowspan="8" valign="top" width="129">
-      </td><td rowspan="8" width="31" valign="top">
+      </td><td valign="top" rowspan="8" width="31">
 
 </td>
     </tr>
@@ -581,7 +581,7 @@ autorisation au titre d'une autre rubrique de la nomenclature.
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2° A chaque radionucléide est associé un "seuil d'exemption" (en Bq), défini en application de l'article L. 1333-4 du code de
 la santé publique à l'annexe 13-8 de la première partie de ce code.
@@ -597,7 +597,7 @@ mentionnés par les dispositions précédentes.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 3° Pour une installation dans laquelle un ou plusieurs radionucléides sont utilisés, le rapport Q (sans dimension) est
 calculé d'après la formule:
@@ -613,12 +613,12 @@ Aexi représente le seuil d'exemption en activité du radionucléide i
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="33" valign="top">
+      <td width="33" rowspan="4" valign="top">
 
 1715
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Substances radioactives (préparation, fabrication, transformation, conditionnement, utilisation, dépôt, entreposage ou
 stockage de) sous forme de sources radioactives, scellées ou non scellées à l'exclusion des installations mentionnées à la
@@ -643,13 +643,13 @@ par l'article 6 du décret n° 2001-592 du 5 juillet 2001.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. La valeur de Q est égale ou supérieure à 10
           <sup>4</sup>
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -661,7 +661,8 @@ A
 </td>
       <td width="129" valign="top">
 
-a) supérieure ou égal à 106
+a) supérieure ou égal à 10
+          <sup>6</sup>
 
 </td>
       <td width="31" valign="top">
@@ -671,22 +672,23 @@ a) supérieure ou égal à 106
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
-b) supérieure ou égal à 104
+b) supérieure ou égal à 10
+          <sup>4</sup>
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10
           <sup>4</sup>
@@ -697,11 +699,16 @@ b) supérieure ou égal à 104
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+
+<sup>
+        </sup>
+
+</td>
+      <td valign="top" width="31">
 
 </td>
     </tr>
@@ -711,14 +718,14 @@ D
 1735
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Substances radioactives (dépôt, entreposage ou stockage de) sous forme de résidus solides de minerai d'uranium, de thorium ou
 de radium, ainsi que leurs produits de traitement ne contenant pas d'uranium enrichi en isotope 235 et dont la quantité
 totale est supérieure à 1 tonne
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -728,7 +735,7 @@ A
 2
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La quantité étant supérieure ou égale à 1 tonne
 
@@ -740,7 +747,7 @@ La quantité étant supérieure ou égale à 1 tonne
 </td>
     </tr>
     <tr>
-      <td rowspan="8" width="33" valign="top">
+      <td valign="top" width="33" rowspan="8">
 
 1810
 
@@ -754,10 +761,10 @@ substances et préparations visées explicitement ou par famille par d'autres ru
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 A. Fabrication
 
@@ -767,14 +774,14 @@ A. Fabrication
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -785,18 +792,18 @@ La quantité totale susceptible d'être présente dans l'installation étant :
     </tr>
     <tr>
       <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. supérieure ou égale à 500 t
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 10
 
@@ -826,7 +833,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure ou égale à 500 t
 
@@ -841,12 +848,12 @@ AS
 3
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 B. Emploi ou stockage
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
@@ -871,12 +878,12 @@ A
 La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 3. supérieure ou égale à 2 t, mais inférieure à 100 t
 
@@ -889,20 +896,20 @@ D
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. supérieure ou égale à 500 t
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      <td valign="top" width="340">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -920,7 +927,7 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="33">
+      <td width="33" valign="top" rowspan="8">
 
 1820
 
@@ -931,10 +938,10 @@ Substances ou préparations dégageant des gaz toxiques au contact de l'eau (fab
 l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -942,7 +949,7 @@ l'exclusion des substances et préparations visées explicitement ou par famille
 A. Fabrication
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
@@ -954,7 +961,7 @@ A. Fabrication
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -964,7 +971,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td width="38" valign="top">
 
 </td>
@@ -976,22 +983,22 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 1. supérieure ou égale à 200 t
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 10
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -1006,12 +1013,12 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. supérieure ou égale à 200 t
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 AS
 
@@ -1021,7 +1028,7 @@ AS
 6
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 B. Emploi ou stockage
 
@@ -1031,7 +1038,7 @@ B. Emploi ou stockage
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure ou égale à 50 t, mais inférieure à 200 t
 
@@ -1051,22 +1058,22 @@ A
 La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 3. supérieure ou égale à 2 t, mais inférieure à 50 t
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -1082,7 +1089,7 @@ D
     </tr>
     <tr>
       <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
@@ -1100,7 +1107,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="12">
+      <td width="33" rowspan="12" valign="top">
 
 2101
 
@@ -1116,8 +1123,8 @@ Bovins (activité d'élevage, transit, vente, etc. de).
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -1128,40 +1135,40 @@ Bovins (activité d'élevage, transit, vente, etc. de).
 est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-a) plus de 400 animaux
-
-</td>
-      <td valign="top" width="38">
-
-A
-
-</td>
-      <td width="35" valign="top">
-
-1
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
+
+a) plus de 400 animaux
+
+</td>
+      <td width="38" valign="top">
+
+A
+
+</td>
+      <td valign="top" width="35">
+
+1
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 b) de 201 à 400 animaux
 
@@ -1174,7 +1181,7 @@ DC
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -1185,16 +1192,16 @@ DC
 c) de 50 à 200 animaux
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -1207,16 +1214,16 @@ D
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 a) plus de 100 vaches
 
@@ -1231,13 +1238,13 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) de 50 à 100 vaches
 
@@ -1247,7 +1254,7 @@ b) de 50 à 100 vaches
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -1264,21 +1271,21 @@ D
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 à partir de 100 vaches
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -1286,7 +1293,7 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -1298,19 +1305,19 @@ D
 ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Capacité égale ou supérieure à 50 places
 
@@ -1324,22 +1331,22 @@ D
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="33" valign="top">
+      <td width="33" rowspan="4" valign="top">
 
 2102
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou en plein air :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
@@ -1351,7 +1358,7 @@ Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou e
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. Plus de 450 animaux-équivalents
 
@@ -1367,12 +1374,12 @@ A
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. De 50 à 450 animaux-équivalents
 
@@ -1382,11 +1389,11 @@ A
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -1417,7 +1424,7 @@ trois animaux-équivalents,
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="3" valign="top">
+      <td rowspan="3" valign="top" width="33">
 
 2110
 
@@ -1430,7 +1437,7 @@ Lapins (activité d'élevage, transit, vente, etc., de).
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -1439,22 +1446,22 @@ Lapins (activité d'élevage, transit, vente, etc., de).
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. plus de 20 000 animaux sevrés
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
@@ -1470,16 +1477,16 @@ A
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="16" valign="top">
+      <td rowspan="16" valign="top" width="33">
 
 2111 (1)
 
@@ -1490,19 +1497,19 @@ Volailles, gibier à plumes (activité d'élevage, vente, etc. de) à l'exclusio
 rubriques
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. plus de 30 000 animaux-équivalents
 
@@ -1512,7 +1519,7 @@ rubriques
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
@@ -1523,12 +1530,12 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. de 20 001 à 30 000 animaux-équivalents
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
 
@@ -1542,12 +1549,12 @@ DC
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 3. de 5 000 à 30 000 animaux-équivalents
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -1561,7 +1568,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents :
 
@@ -1569,28 +1576,28 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. caille = 0,125
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -1606,42 +1613,42 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 3. coquelet = 0,75
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 4. poulet léger = 0,85
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -1658,23 +1665,6 @@ canard colvert = 1
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-6. poulet lourd = 1,15
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
       <td width="129" valign="top">
       </td><td valign="top" width="31">
 
@@ -1683,10 +1673,27 @@ canard colvert = 1
     <tr>
       <td width="340" valign="top">
 
+6. poulet lourd = 1,15
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
 7. canard à rôtir, canard prêt à gaver, canard reproducteur = 2
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
@@ -1703,14 +1710,14 @@ canard colvert = 1
 8. dinde légère = 2,20
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -1720,82 +1727,7 @@ canard colvert = 1
 9. dinde médium, dinde reproductrice, oie = 3
 
 </td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-10. dinde lourde = 3,50
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-11. palmipèdes gras en gavage = 7
-
-</td>
       <td valign="top" width="38">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="33" valign="top" rowspan="2">
-
-2112
-
-</td>
-      <td valign="top" width="340">
-
-Couvoirs
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-Capacité logeable d'eau moins 100 000 œufs
-
-</td>
-      <td width="38" valign="top">
-
-D
 
 </td>
       <td valign="top" width="35">
@@ -1807,7 +1739,82 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="33">
+      <td valign="top" width="340">
+
+10. dinde lourde = 3,50
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+11. palmipèdes gras en gavage = 7
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="2" width="33">
+
+2112
+
+</td>
+      <td width="340" valign="top">
+
+Couvoirs
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+Capacité logeable d'eau moins 100 000 oeufs
+
+</td>
+      <td width="38" valign="top">
+
+D
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td width="33" rowspan="3" valign="top">
 
 2113
 
@@ -1820,16 +1827,16 @@ Carnassiers à fourrure (établissements d'élevage, vente, transit, etc., d'ani
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. plus de 2 000 animaux
 
@@ -1839,23 +1846,23 @@ Carnassiers à fourrure (établissements d'élevage, vente, transit, etc., d'ani
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. de 100 à 2 000 animaux
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -1869,12 +1876,12 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="33">
+      <td rowspan="4" valign="top" width="33">
 
 2120
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de) à l'exclusion des établissements de soins et
 de toilettage et des rassemblements occasionnels tels que foires, expositions et démonstrations canines.
@@ -1897,7 +1904,7 @@ de toilettage et des rassemblements occasionnels tels que foires, expositions et
 1. plus de 50 animaux
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -1908,7 +1915,7 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -1927,7 +1934,7 @@ D
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -1937,7 +1944,7 @@ D
 Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
@@ -1949,7 +1956,7 @@ Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="5">
+      <td rowspan="5" valign="top" width="33">
 
 2130
 
@@ -1962,10 +1969,10 @@ Piscicultures
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -1977,7 +1984,7 @@ Piscicultures
 apport de nourriture exceptionnel), la capacité de production étant supérieure à 20 t/an
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -1998,40 +2005,40 @@ A
 2. piscicultures d'eau de mer, la capacité de production étant :
 
 </td>
-      <td valign="top" width="38">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-a) supérieure à 20 t/an
-
-</td>
       <td width="38" valign="top">
-
-A
 
 </td>
       <td width="35" valign="top">
 
-3
-
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
+
+a) supérieure à 20 t/an
+
+</td>
+      <td valign="top" width="38">
+
+A
+
+</td>
+      <td valign="top" width="35">
+
+3
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 b) supérieure à 5 t/an, mais inférieure ou égale à 20 t/an
 
@@ -2041,16 +2048,16 @@ b) supérieure à 5 t/an, mais inférieure ou égale à 20 t/an
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="33">
+      <td valign="top" width="33" rowspan="2">
 
 2140
 
@@ -2070,7 +2077,7 @@ l'environnement ;
 - présentation au public d'arthropodes.
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -2095,7 +2102,7 @@ l'activité de présentation au public est d'au moins 7 jours par an sur ce site
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -2104,7 +2111,7 @@ l'activité de présentation au public est d'au moins 7 jours par an sur ce site
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 2150
 
@@ -2119,13 +2126,13 @@ Verminières (élevage de larves de mouches, asticots)
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -2135,20 +2142,20 @@ A
 2160
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Silos et installations de stockage de céréales, grains, produits alimentaires ou tout produit organique dégageant des
 poussières inflammables, y compris les stockages sous tente ou structure gonflable.
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -2159,7 +2166,7 @@ a) si le volume total de stockage est supérieur à 15 000 m
           <sup>3</sup>
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -2170,43 +2177,21 @@ A
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) si le volume total de stockage est supérieur à 5 000 m
           <sup>3</sup>, mais inférieur ou égal à 15 000 m
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" rowspan="3" width="33">
-
-2170
-
-</td>
-      <td width="340" valign="top">
-
-Engrais et supports de culture (fabrication des) à partir de matières organiques
-
-</td>
-      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
@@ -2218,7 +2203,30 @@ Engrais et supports de culture (fabrication des) à partir de matières organiqu
 </td>
     </tr>
     <tr>
+      <td rowspan="3" valign="top" width="33">
+
+2170
+
+</td>
       <td valign="top" width="340">
+
+Engrais, amendements et supports de culture (fabrication des) à partir de matières organiques, à l'exclusion des rubriques
+2780 et 2781 :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
 1. Lorsque la capacité de production est supérieure ou égale à 10 t/j
 
@@ -2228,20 +2236,20 @@ Engrais et supports de culture (fabrication des) à partir de matières organiqu
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="340">
 
-2. Lorsque la capacité de production et supérieure ou égale à 1 t/j et inférieure à 10 t/j
+2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10 t/j
 
 </td>
       <td valign="top" width="38">
@@ -2249,10 +2257,10 @@ A
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -2269,13 +2277,13 @@ Fumiers, engrais et supports de culture (dépôts de) renfermant des matières o
 exploitation agricole
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -2287,7 +2295,7 @@ Le dépôt étant supérieur à 200 m
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -2296,12 +2304,12 @@ D
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="33">
+      <td valign="top" rowspan="3" width="33">
 
 2175
 
@@ -2317,30 +2325,30 @@ Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. Supérieure ou égale à 500 m
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -2352,16 +2360,16 @@ A
           <sup>3</sup>
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -2376,24 +2384,24 @@ D
 Etablissements de fabrication et dépôts de tabac
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La quantité totale susceptible d'être emmagasinée étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -2410,7 +2418,7 @@ La quantité totale susceptible d'être emmagasinée étant :
 1. supérieure à 25 t
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -2421,12 +2429,12 @@ A
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 5 t mais inférieure ou égale à 25 t
 
@@ -2436,16 +2444,16 @@ A
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="6" valign="top">
+      <td valign="top" rowspan="6" width="33">
 
 2210
 
@@ -2458,7 +2466,7 @@ Abattage d'animaux
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -2467,7 +2475,7 @@ Abattage d'animaux
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Le poids des animaux exprimé en carcasses étant, en activité de pointe :
 
@@ -2475,7 +2483,7 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -2515,14 +2523,14 @@ a) supérieur à 100 t/j
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 
@@ -2534,7 +2542,7 @@ b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
@@ -2546,7 +2554,7 @@ b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
@@ -2558,21 +2566,21 @@ c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
 2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="4" valign="top">
+      <td valign="top" rowspan="4" width="33">
 
 2220
 
@@ -2585,28 +2593,28 @@ et des aliments pour le bétail mais y compris les ateliers de maturation de fru
 entrant étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La capacité de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 10 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -2628,22 +2636,22 @@ a) supérieure à 200 t/j
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j 
 
 </td>
-      <td>
+      <td valign="top" align="left">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
 
@@ -2662,12 +2670,12 @@ DC
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="5" valign="top">
+      <td width="33" valign="top" rowspan="5">
 
 2221
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Alimentaires (préparation ou conservation de produits) d'origine animale, par découpage, cuisson, appertisation, surgélation,
 congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du
@@ -2691,10 +2699,10 @@ lait et des corps gras, mais y compris les aliments pour les animaux de compagni
 La quantité de produits entrant étant :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -2717,7 +2725,7 @@ La quantité de produits entrant étant :
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
@@ -2727,7 +2735,7 @@ A
 a) supérieure à 250 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 3
 
@@ -2746,14 +2754,14 @@ a) supérieure à 250 t/j
 b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
 
@@ -2763,16 +2771,16 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="3">
+      <td rowspan="3" width="33" valign="top">
 
 2225
 
@@ -2782,17 +2790,17 @@ D
 Sucreries, raffineries de sucre, malteries
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de production étant :
 
@@ -2809,12 +2817,12 @@ La capacité de production étant :
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 a) supérieure à 200 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 6
 
@@ -2825,15 +2833,15 @@ a) supérieure à 200 t/j
       </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 2
 
@@ -2845,12 +2853,12 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 2226
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Amidonneries, féculeries, dextrineries
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -2860,7 +2868,7 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de production étant :
 
@@ -2871,13 +2879,13 @@ La capacité de production étant :
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td valign="top" width="38">
+      </td><td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) supérieure à 200 t/j
 
@@ -2889,31 +2897,31 @@ a) supérieure à 200 t/j
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="33">
+      <td valign="top" rowspan="3" width="33">
 
 2230
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Lait (Réception, stockage, traitement, transformation, etc. du) ou des produits issus du lait
 
@@ -2927,27 +2935,27 @@ La capacité journalière de traitement exprimée en litre de lait ou équivalen
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 70 000 l/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. La capacité journalière de traitement de l'installation exprimée en litre de lait ou équivalent-lait étant supérieure à
 250 000 l/j
@@ -2960,7 +2968,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j
 
@@ -2975,7 +2983,7 @@ Equivalences sur les produits entrant dans l'installation :
 1 kg de fromage = 10 l équivalent-lait
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -2984,12 +2992,12 @@ D
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="5" width="33">
+      <td width="33" valign="top" rowspan="5">
 
 2240
 
@@ -3006,13 +3014,13 @@ et oléiques, à l'exclusion de l'extraction des huiles essentielles des plantes
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La capacité de production étant :
 
@@ -3028,7 +3036,7 @@ La capacité de production étant :
 1. La capacité de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
@@ -3043,7 +3051,7 @@ La capacité de production étant :
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
@@ -3072,46 +3080,46 @@ a) supérieure à 100 t/j
 b) supérieure à 10 t/j, mais inférieure ou égale à 100 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 200 kg/j, mais inférieure ou égale à 2 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="4">
+      <td valign="top" rowspan="4" width="33">
 
 2250
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation des)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -3128,16 +3136,16 @@ La capacité de production exprimée en alcool absolu étant :
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 500 l/j
 
@@ -3147,7 +3155,7 @@ La capacité de production exprimée en alcool absolu étant :
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
@@ -3164,26 +3172,26 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 50 l/j, mais inférieure ou égale à 500 l/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="4">
+      <td width="33" rowspan="4" valign="top">
 
 2251
 
@@ -3193,7 +3201,7 @@ D
 Vins (préparation, conditionnement de)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
@@ -3205,7 +3213,7 @@ Vins (préparation, conditionnement de)
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La capacité de production étant :
 
@@ -3213,10 +3221,10 @@ La capacité de production étant :
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -3237,7 +3245,7 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. La capacité de l'installation étant supérieure à 50 000 hl/an
 
@@ -3249,43 +3257,43 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="33">
+      <td valign="top" rowspan="4" width="33">
 
 2252
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Cidre (préparation, conditionnement de)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -3298,7 +3306,7 @@ La capacité de production étant :
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -3312,7 +3320,7 @@ La capacité de production étant :
 1. supérieure à 10 000 hl/an
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -3334,12 +3342,12 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 250 hl/an, mais inférieure ou égale à 10 000 hl/an
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -3347,7 +3355,7 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -3358,20 +3366,20 @@ D
 2253
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Boissons (préparation, conditionnement de) bière, jus de fruits, autres boissons, à l'exclusion des eaux minérales, eaux de
 source, eaux de table et des activités visées par les rubriques 2230, 2250, 2251 et 2252
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -3381,19 +3389,19 @@ source, eaux de table et des activités visées par les rubriques 2230, 2250, 22
 La capacité de production étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. supérieure à 20 000 l/j
 
@@ -3403,7 +3411,7 @@ La capacité de production étant :
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
@@ -3420,7 +3428,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 2 000 l/j, mais inférieure ou égale à 20 000 l/j
 
@@ -3428,6 +3436,28 @@ A
       <td valign="top" width="38">
 
 D
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="5" valign="top" width="33">
+
+2255
+
+</td>
+      <td width="340" valign="top">
+
+Alcools de bouche d'origine agricole, eaux de vie et liqueurs (stockage des)
+
+</td>
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -3439,14 +3469,10 @@ D
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="5" valign="top">
-
-2255
-
-</td>
       <td valign="top" width="340">
 
-Alcools de bouche d'origine agricole, eaux de vie et liqueurs (stockage des)
+Lorsque la quantité stockée de produits dont le titre alcoométrique volumique est supérieur à 40 %, susceptible d'être
+présente est :
 
 </td>
       <td width="38" valign="top">
@@ -3456,29 +3482,11 @@ Alcools de bouche d'origine agricole, eaux de vie et liqueurs (stockage des)
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-Lorsque la quantité stockée de produits dont le titre alcoométrique volumique est supérieur à 40 %, susceptible d'être
-présente est :
-
-</td>
-      <td valign="top" width="38">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
 
 La quantité stockée de produits dont le titre alcoométrique volumique est supérieur à 40 %, susceptible d'être présente est :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
@@ -3493,7 +3501,7 @@ La quantité stockée de produits dont le titre alcoométrique volumique est sup
 AS
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 4
 
@@ -3503,7 +3511,7 @@ AS
 1. supérieure ou égale à 50 000 t
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 6
 
@@ -3532,14 +3540,14 @@ A
           <sup>3</sup>
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 3
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 3. supérieure ou égale à 50 m
           <sup>3</sup>
@@ -3550,21 +3558,21 @@ A
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="6">
+      <td width="33" valign="top" rowspan="6">
 
 2260
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, nettoyage, tamisage, blutage, mélange,
 épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication
@@ -3577,13 +3585,13 @@ d'aliments composés pour les animaux, mais à l'exclusion des activités visée
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. traitement et transformation destinés à la fabrication de produits alimentaires d'une capacité de production de produits
 finis supérieure à 300 t/j
@@ -3594,13 +3602,13 @@ finis supérieure à 300 t/j
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -3616,17 +3624,17 @@ A
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à
 500 kW
@@ -3637,17 +3645,17 @@ a) La puissance installée de l'ensemble des machines fixes concourant au foncti
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 2
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) supérieure ou égale à 5 MW
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 3
 
@@ -3669,7 +3677,7 @@ b) supérieure à 1 MW, mais inférieure à 5 MW
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à
 100 kW mais inférieure ou égale à 500 kW
@@ -3680,23 +3688,23 @@ b) La puissance installée de l'ensemble des machines fixes concourant au foncti
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="33">
+      <td width="33" rowspan="4" valign="top">
 
 2265
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 </td>
       <td valign="top" width="38">
@@ -3705,7 +3713,7 @@ Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -3722,30 +3730,30 @@ Le volume total des réacteurs ou fermenteurs étant :
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. supérieur à 100 m
           <sup>3</sup>
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -3765,8 +3773,8 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -3781,7 +3789,7 @@ D
 Acides butyrique, citrique, glutamique, lactique et autres acides organiques alimentaires (fabrication d')
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -3792,12 +3800,12 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 2275
 
@@ -3818,7 +3826,7 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -3828,12 +3836,12 @@ A
 2310
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Rouissage (hors rouissage à terre) ou teillage du lin, du chanvre et autres plantes textiles
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -3844,12 +3852,12 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="4">
+      <td width="33" valign="top" rowspan="4">
 
 2311
 
@@ -3860,10 +3868,27 @@ Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou syn
 lavage, etc.)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
+
+</td>
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+La quantité de fibres susceptible d'être traitée étant :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -3874,27 +3899,10 @@ lavage, etc.)
     <tr>
       <td width="340" valign="top">
 
-La quantité de fibres susceptible d'être traitée étant :
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
 1. supérieure à 5 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -3904,7 +3912,7 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -3934,7 +3942,7 @@ D
 2315
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Fabrication de fibres végétales artificielles et produits manufacturés dérivés
 
@@ -3942,10 +3950,10 @@ Fabrication de fibres végétales artificielles et produits manufacturés dériv
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
@@ -3961,18 +3969,18 @@ La capacité de production étant supérieure à 2 t/j
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="2">
+      <td width="33" rowspan="2" valign="top">
 
 2320
 
@@ -3985,25 +3993,6 @@ Atelier de moulinage
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-La puissance installée pour alimenter l'ensemble des machines étant supérieure à 40 kW
-
-</td>
-      <td width="38" valign="top">
-
-D
-
-</td>
       <td width="35" valign="top">
 
 </td>
@@ -4013,7 +4002,26 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="33">
+      <td width="340" valign="top">
+
+La puissance installée pour alimenter l'ensemble des machines étant supérieure à 40 kW
+
+</td>
+      <td valign="top" width="38">
+
+D
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="33" valign="top">
 
 2321
 
@@ -4030,12 +4038,12 @@ Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécaniq
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 La puissance installée pour alimenter l'ensemble des machines étant supérieure à 40 kW
 
@@ -4054,7 +4062,7 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="33">
+      <td valign="top" width="33" rowspan="5">
 
 2330
 
@@ -4064,19 +4072,19 @@ D
 Teinture, impression, apprêt, enduction, blanchiment et délavage de matières textiles :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La quantité de fibres et de tissus susceptible d'être traitée étant :
 
@@ -4084,35 +4092,35 @@ La quantité de fibres et de tissus susceptible d'être traitée étant :
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. La quantité de fibres et de tissus susceptible d'être traitée étant :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. supérieure à 1 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 a) supérieure à 20 t/j
 
@@ -4143,21 +4151,21 @@ b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 50 kg/j, mais inférieure ou égale à 1 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -4167,7 +4175,7 @@ D
 2340
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345
 
@@ -4175,11 +4183,11 @@ Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par l
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -4189,24 +4197,24 @@ Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par l
 La capacité de lavage de linge étant :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 5 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -4222,12 +4230,12 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -4235,18 +4243,18 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="33" valign="top">
+      <td width="33" rowspan="4" valign="top">
 
 2345
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Utilisation de solvants pour le nettoyage à sec et le traitement des textiles ou vêtements ; la capacité nominale (1) totale
 des machines présentes dans l'installation étant :
@@ -4290,12 +4298,31 @@ A
 2. supérieure à 0,5 kg et inférieure ou égale à 50 kg
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
 
 </td>
       <td width="35" valign="top">
+
+</td>
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+(1) La capacité nominale est calculée conformément à la norme NF G 45-010 de février 1982, relative au matériel pour
+l'industrie textile et matériel connexe "Matériel de nettoyage à sec - Définitions et contrôle des caractéristiques de
+capacité de consommation d'une machine." 
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -4304,47 +4331,28 @@ DC
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-
-(1) La capacité nominale est calculée conformément à la norme NF G 45-010 de février 1982, relative au matériel pour
-l'industrie textile et matériel connexe "Matériel de nettoyage à sec - Définitions et contrôle des caractéristiques de
-capacité de consommation d'une machine." 
-
-</td>
-      <td valign="top" width="38">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="3" width="33" valign="top">
+      <td width="33" valign="top" rowspan="3">
 
 2350
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux à l'exclusion des opérations de salage en annexe
 des abattoirs et de la teinture
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 La capacité de production étant :
 
@@ -4354,26 +4362,26 @@ La capacité de production étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      <td width="340" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) supérieure à 5 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td width="38" valign="top">
 
 </td>
@@ -4385,19 +4393,19 @@ a) supérieure à 5 t/j
 b) supérieure à 1 t/j, mais inférieure ou égale à 5 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="5">
+      <td rowspan="5" width="33" valign="top">
 
 2351
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Teinture et pigmentation de peaux
 
@@ -4408,7 +4416,7 @@ Teinture et pigmentation de peaux
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
@@ -4425,22 +4433,22 @@ La capacité de production étant :
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La capacité de production étant :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 1 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -4450,26 +4458,26 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 a) supérieure à 20 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 3
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
-      </td><td valign="top" width="38">
+      <td width="340" valign="top">
+      </td><td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 
@@ -4486,7 +4494,7 @@ b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 2. supérieure à 100 kg/j, mais inférieure ou égale à 1 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 DC
 
@@ -4494,7 +4502,7 @@ DC
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -4510,7 +4518,7 @@ DC
 Fabrication d'extraits tannants
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -4531,7 +4539,7 @@ A
 2355
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Dépôts de peaux y compris les dépôts de peaux salées en annexe des abattoirs
 
@@ -4539,10 +4547,10 @@ Dépôts de peaux y compris les dépôts de peaux salées en annexe des abattoir
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -4561,13 +4569,13 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="4" valign="top">
+      <td rowspan="4" width="33" valign="top">
 
 2360
 
@@ -4577,24 +4585,24 @@ D
 Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des peaux
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 La puissance installée pour alimenter l'ensemble des machines étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -4616,13 +4624,13 @@ La puissance installée pour alimenter l'ensemble des machines étant :
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -4637,11 +4645,11 @@ A
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -4651,15 +4659,15 @@ D
 2410
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Ateliers ou l'on travaille le bois ou matériaux combustibles analogues
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -4679,13 +4687,13 @@ La puissance installée pour alimenter l'ensemble des machines étant :
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. supérieure à 200 kW
 
@@ -4701,12 +4709,12 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 50 kW, mais inférieure ou égale à 200 kW
 
@@ -4716,7 +4724,7 @@ A
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -4725,29 +4733,29 @@ D
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="3" valign="top">
+      <td rowspan="3" width="33" valign="top">
 
 2415
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. La quantité susceptible d'être présente dans l'installation étant supérieure à 1 000 l
 
@@ -4757,7 +4765,7 @@ Installations de mise en œuvre de produits de préservation du bois et matéria
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 3
 
@@ -4767,7 +4775,7 @@ A
 1. La quantité susceptible d'être présente dans l'installation étant supérieure à 10 000 l
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 3
 
@@ -4781,7 +4789,7 @@ consommée étant supérieure à 25 t/an, sans que la quantité susceptible d'ê
 1 000 l
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 DC
 
@@ -4789,13 +4797,13 @@ DC
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="33" valign="top">
+      <td valign="top" width="33" rowspan="5">
 
 2420
 
@@ -4822,7 +4830,7 @@ Charbon de bois (fabrication du)
 1. par des procédés de fabrication en continu
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -4838,7 +4846,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. par des procédés de fabrication à fonctionnement en discontinu, la capacité totale des enceintes ou s'effectue le
 carbonisation étant :
@@ -4847,7 +4855,7 @@ carbonisation étant :
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -4856,13 +4864,13 @@ carbonisation étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure à 100 m
           <sup>3</sup>
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -4873,12 +4881,12 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) inférieure ou égale à 100 m
           <sup>3</sup>
@@ -4889,7 +4897,7 @@ b) inférieure ou égale à 100 m
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -4898,20 +4906,20 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="9">
+      <td width="33" rowspan="9" valign="top">
 
 2430
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Préparation de la pâte à papier
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -4931,7 +4939,7 @@ Préparation de la pâte à papier
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La capacité de production étant :
 
@@ -4941,7 +4949,7 @@ Préparation de la pâte à papier
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure à 100 t/j
 
@@ -4951,7 +4959,7 @@ a) supérieure à 100 t/j
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 5
 
@@ -4968,7 +4976,7 @@ a) supérieure à 500 t/j
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td width="38" valign="top">
 
 </td>
@@ -4977,7 +4985,7 @@ a) supérieure à 500 t/j
 3
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 supérieure à 100 t/j, mais inférieure ou égale à 500 t/j
 
@@ -4989,12 +4997,12 @@ supérieure à 100 t/j, mais inférieure ou égale à 500 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) inférieure ou égale à 100 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -5002,19 +5010,19 @@ A
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 b) supérieure à 20 t/j, mais inférieure ou égale à 100 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. Autres pâtes, y compris le désencrage des vieux papiers
 
@@ -5029,17 +5037,17 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 2. La capacité de production étant :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td width="38" valign="top">
 
 </td>
@@ -5051,7 +5059,7 @@ A
 a) supérieure à 500 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 6
 
@@ -5065,12 +5073,12 @@ a) supérieure à 500 t/j
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieure à 100 t/j, mais inférieure ou égale à 500 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 3
 
@@ -5089,24 +5097,24 @@ b) supérieure à 100 t/j, mais inférieure ou égale à 500 t/j
 c) inférieure ou égale à 100 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="33">
+      <td valign="top" width="33" rowspan="4">
 
 2440
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Fabrication de papier, carton
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -5116,12 +5124,31 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de production étant :
 
 </td>
       <td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+      </td><td valign="top" width="38">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+
+a) supérieure à 500 t/j
+
+</td>
+      <td valign="top" width="31">
+
+6
 
 </td>
     </tr>
@@ -5133,14 +5160,14 @@ La capacité de production étant :
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
-a) supérieure à 500 t/j
+b) supérieure à 100 t/j, mais inférieure ou égale à 500 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
-6
+3
 
 </td>
     </tr>
@@ -5149,29 +5176,10 @@ a) supérieure à 500 t/j
       </td><td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-
-b) supérieure à 100 t/j, mais inférieure ou égale à 500 t/j
-
-</td>
-      <td width="31" valign="top">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-      </td><td valign="top" width="38">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 c) supérieure à 20 t/j, mais inférieure ou égale à 100 t/j
 
@@ -5193,13 +5201,13 @@ c) supérieure à 20 t/j, mais inférieure ou égale à 100 t/j
 Transformation du papier, carton
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -5216,18 +5224,18 @@ La capacité de production étant :
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 20 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -5237,7 +5245,7 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -5256,13 +5264,13 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="13">
+      <td valign="top" width="33" rowspan="13">
 
 2450
 
@@ -5273,14 +5281,14 @@ Imprimeries ou ateliers de reproduction graphique sur tout support tel que méta
 textiles, etc. utilisant une forme imprimante
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -5290,17 +5298,17 @@ textiles, etc. utilisant une forme imprimante
 1. Offset utilisant des rotatives à séchage thermique
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 2
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. Non soumis à la taxe.
 
@@ -5312,16 +5320,16 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. Héliogravure, flexographie et opérations connexes aux procédés d'impression quels qu'ils soient comme la fabrication de
 complexes par contrecollage ou le vernissage si la quantité totale de produits consommée pour revêtir le support est :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -5339,7 +5347,7 @@ complexes par contrecollage ou le vernissage si la quantité totale de produits 
 a) supérieure à 200 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -5354,7 +5362,7 @@ A
 a) supérieure à 5 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
@@ -5362,10 +5370,10 @@ a) supérieure à 5 t/j
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td valign="top" width="38">
+      </td><td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -5380,14 +5388,14 @@ supérieure ou égale à 1 t/j mais inférieure à 5 t/j
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      <td valign="top" width="340">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 supérieure ou égale à 200 kg/j mais inférieure à 1 t/j
 
@@ -5399,7 +5407,7 @@ supérieure ou égale à 200 kg/j mais inférieure à 1 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) supérieure à 50 kg/j mais inférieure ou égale à 200 kg/j
 
@@ -5409,11 +5417,11 @@ b) supérieure à 50 kg/j mais inférieure ou égale à 200 kg/j
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -5434,17 +5442,17 @@ D
 3. La quantité d'encres consommée est :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure ou égale à 400 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -5454,7 +5462,7 @@ A
 2
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 a) supérieure à 5 t/j
 
@@ -5467,10 +5475,10 @@ a) supérieure à 5 t/j
     </tr>
     <tr>
       <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -5486,13 +5494,13 @@ supérieure ou égale à 1 t/j, mais inférieure à 5 t/j
     </tr>
     <tr>
       <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 supérieure ou égale à 400 kg/j, mais inférieure à 1 t/j
 
@@ -5509,7 +5517,7 @@ supérieure ou égale à 400 kg/j, mais inférieure à 1 t/j
 b) supérieure à 100 kg/j mais inférieure ou égale à 400 kg/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -5517,7 +5525,7 @@ D
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
@@ -5530,19 +5538,19 @@ pour établir le classement sous les paragraphes 2 et 3 correspond à la quantit
 deux.
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="22">
+      <td rowspan="22" valign="top" width="33">
 
 2510
 
@@ -5555,45 +5563,45 @@ Carrières (exploitation de).
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. Exploitation de carrières, à l'exception de celles visées au 5 et 6
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La capacité nominale de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      <td width="340" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -5601,26 +5609,26 @@ A
 a) supérieure ou égale à 500 000 t/an
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 8
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
@@ -5628,7 +5636,7 @@ b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -5639,23 +5647,23 @@ b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an
 c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. sans objet
 
 </td>
-      <td valign="top" width="38">
-      </td><td width="35" valign="top">
+      <td width="38" valign="top">
+      </td><td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 2. La capacité nominale de production étant :
 
@@ -5669,10 +5677,10 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
       </td><td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 a) supérieure ou égale à 500 000 t/an
 
@@ -5685,7 +5693,7 @@ a) supérieure ou égale à 500 000 t/an
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -5696,7 +5704,7 @@ a) supérieure ou égale à 500 000 t/an
 b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
@@ -5707,7 +5715,7 @@ b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an
       </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -5715,7 +5723,7 @@ b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an
 c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 2
 
@@ -5751,14 +5759,14 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) supérieure ou égale à 500 000 t/an
 
@@ -5771,13 +5779,13 @@ a) supérieure ou égale à 500 000 t/an
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 b) supérieure ou égale à 150 000 t/an mais inférieure à 500 000 t/an
 
@@ -5789,26 +5797,26 @@ b) supérieure ou égale à 150 000 t/an mais inférieure à 500 000 t/an
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets
 d'exploitation de carrières (à l'exception des cas visés à l'article 1
@@ -5823,17 +5831,36 @@ superficie d'exploitation est supérieure à 1 000 m
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 4. La capacité nominale de production étant :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+      </td><td valign="top" width="38">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+
+a) supérieure ou égale à 500 000 t/an
+
+</td>
+      <td valign="top" width="31">
+
+8
 
 </td>
     </tr>
@@ -5847,43 +5874,24 @@ A
 </td>
       <td width="129" valign="top">
 
-a) supérieure ou égale à 500 000 t/an
-
-</td>
-      <td width="31" valign="top">
-
-8
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-      </td><td valign="top" width="38">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-
 b) supérieure ou égale à 150 000 t/an mais inférieure à 500 000 t/an
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
@@ -5910,7 +5918,7 @@ champs, soit par la commune, le groupement de communes ou le syndicat intercommu
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -5921,12 +5929,12 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 6. Carrières de pierre, de sable et d'argile destinées :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
@@ -5938,7 +5946,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 - à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise
 en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
@@ -5950,7 +5958,7 @@ en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'e
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -5968,8 +5976,8 @@ avec leurs matériaux d'origine.
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -6003,7 +6011,7 @@ DC
 2515
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage, mélange de pierres, cailloux, minerais et
 autres produits minéraux naturels ou artificiels
@@ -6012,7 +6020,7 @@ autres produits minéraux naturels ou artificiels
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -6021,7 +6029,7 @@ autres produits minéraux naturels ou artificiels
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
 
@@ -6029,7 +6037,7 @@ La puissance installée de l'ensemble des machines fixes concourant au fonctionn
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -6037,7 +6045,7 @@ La puissance installée de l'ensemble des machines fixes concourant au fonctionn
 1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
@@ -6047,12 +6055,12 @@ La puissance installée de l'ensemble des machines fixes concourant au fonctionn
 1. supérieure à 200 kW
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 2
 
@@ -6062,7 +6070,7 @@ A
 a) supérieure à 5 MW
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 3
 
@@ -6073,27 +6081,27 @@ a) supérieure à 5 MW
       </td><td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieure à 500 kW, mais inférieure ou égale à 5 MW
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -6107,7 +6115,7 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="33">
+      <td rowspan="3" valign="top" width="33">
 
 2516
 
@@ -6118,14 +6126,14 @@ Station de transit de produits minéraux pulvérulents non ensachés tels que ci
 capacité de stockage étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -6147,12 +6155,12 @@ A
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 5 000 m
           <sup>3</sup>, mais inférieure ou égale à 25 000 m
@@ -6164,16 +6172,16 @@ A
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="33">
+      <td width="33" rowspan="3" valign="top">
 
 2517
 
@@ -6183,25 +6191,25 @@ D
 Station de transit de produits minéraux autres que ceux visés par d'autres rubriques, la capacité de stockage étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 75 000 m
           <sup>3</sup>
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -6211,8 +6219,8 @@ A
 3
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -6233,12 +6241,12 @@ D
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="33" valign="top">
+      <td width="33" rowspan="3" valign="top">
 
 2520
 
@@ -6248,22 +6256,22 @@ D
 Ciments, chaux, plâtres (fabrication de), la capacité de production étant supérieure à 5 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
@@ -6287,11 +6295,11 @@ a) supérieure à 100 t/j
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td valign="top" width="38">
+      <td valign="top" width="340">
+      </td><td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -6306,7 +6314,7 @@ b) inférieure ou égale à 100 t/j mais supérieure à 20 t/j
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="33" valign="top">
+      <td rowspan="5" valign="top" width="33">
 
 2521
 
@@ -6319,7 +6327,7 @@ Enrobage au bitume de matériaux routiers (centrale d')
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -6333,7 +6341,7 @@ Enrobage au bitume de matériaux routiers (centrale d')
 1. à chaud
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -6343,13 +6351,13 @@ A
 2
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. à froid, la capacité de l'installation étant :
 
@@ -6366,7 +6374,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure à 1 500 t/j
 
@@ -6387,7 +6395,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j
 
@@ -6417,31 +6425,10 @@ Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton,
 matériel vibrant étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-1. supérieure à 200 kW
-
-</td>
-      <td width="38" valign="top">
-
-A
-
-</td>
-      <td valign="top" width="35">
-
-1
 
 </td>
       <td width="129" valign="top">
@@ -6452,10 +6439,31 @@ A
     <tr>
       <td width="340" valign="top">
 
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
+1. supérieure à 200 kW
 
 </td>
       <td valign="top" width="38">
+
+A
+
+</td>
+      <td width="35" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
+
+</td>
+      <td width="38" valign="top">
 
 D
 
@@ -6474,17 +6482,17 @@ D
 2523
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Céramiques et réfractaires (fabrication de produits), la capacité de production étant supérieure à 20 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 2
 
@@ -6501,36 +6509,36 @@ La capacité de production étant supérieure à 20 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="2">
+      <td width="33" rowspan="2" valign="top">
 
 2524
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Minéraux naturels ou artificiels tels que le marbre, le granite, l'ardoise, le verre, etc. (Ateliers de taillage, sciage et
 polissage de)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 400
 kW
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -6544,7 +6552,7 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="33">
+      <td width="33" valign="top" rowspan="2">
 
 2525
 
@@ -6554,10 +6562,10 @@ D
 Fusion de matières minérales, y compris pour la production de fibres minérales
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -6586,14 +6594,14 @@ A
 La capacité de fusion étant supérieure à 20 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="33">
+      <td valign="top" rowspan="7" width="33">
 
 2530
 
@@ -6615,15 +6623,15 @@ Verre (fabrication et travail du), la capacité de production des fours de fusio
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. pour les verres sodocalciques :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -6631,24 +6639,24 @@ Verre (fabrication et travail du), la capacité de production des fours de fusio
 1. La capacité de production des fours de fusion et de ramollissement étant supérieure à 5 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 a) supérieure à 5 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 3
 
@@ -6659,7 +6667,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
 
@@ -6672,8 +6680,8 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -6683,51 +6691,51 @@ D
 2. pour les autres verres :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 2. Non soumis à la taxe
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 -
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure à 500 kg/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -6741,7 +6749,7 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="33">
+      <td rowspan="4" width="33" valign="top">
 
 2531
 
@@ -6751,7 +6759,7 @@ D
 Verre ou cristal (travail chimique du)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -6768,34 +6776,34 @@ Verre ou cristal (travail chimique du)
 Le volume maximum de produit de traitement susceptible d'être présent dans l'installation étant :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 a) supérieure à 150 l
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -6806,7 +6814,7 @@ A
 b) supérieure à 50 l, mais inférieure ou égale à 150 l
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -6815,17 +6823,17 @@ D
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="2">
+      <td rowspan="2" width="33" valign="top">
 
 2540
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Houille, minerais, minéraux ou résidus métallurgiques (lavoirs à)
 
@@ -6833,16 +6841,16 @@ Houille, minerais, minéraux ou résidus métallurgiques (lavoirs à)
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La capacité de traitement étant supérieure à 10 t/j
 
@@ -6852,24 +6860,24 @@ La capacité de traitement étant supérieure à 10 t/j
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 2
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de traitement étant supérieure à 100 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="2">
+      <td width="33" rowspan="2" valign="top">
 
 2541
 
@@ -6880,12 +6888,12 @@ La capacité de traitement étant supérieure à 100 t/j
 étant supérieure à 10 t/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
@@ -6895,24 +6903,24 @@ A
 1. La capacité de production étant supérieure à 100 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. Grillage ou frittage de minerai métallique, y compris de minerai sulfuré
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
@@ -6934,7 +6942,7 @@ A
 2542
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Coke (fabrication du)
 
@@ -6949,7 +6957,7 @@ A
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 Quelle que soit la capacité
 
@@ -6961,12 +6969,12 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="3" valign="top">
+      <td valign="top" rowspan="3" width="33">
 
 2545
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Acier, fer, fonte, ferro-alliages (fabrication d') à l'exclusion de la fabrication de ferro-alliages au four électrique
 lorsque la puissance installée du (des) four(s) est inférieure à 100 kW
@@ -6977,26 +6985,26 @@ lorsque la puissance installée du (des) four(s) est inférieure à 100 kW
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -7004,15 +7012,15 @@ La capacité de production étant :
 a) supérieure à 500 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 10
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
-      </td><td valign="top" width="38">
+      <td width="340" valign="top">
+      </td><td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
@@ -7030,7 +7038,7 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="3">
+      <td valign="top" rowspan="3" width="33">
 
 2546
 
@@ -7040,7 +7048,7 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 Traitement des minerais non ferreux, élaboration et affinage des métaux et alliages non ferreux (à l'échelle industrielle)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -7050,18 +7058,18 @@ A
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 La capacité de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      <td width="340" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -7079,11 +7087,11 @@ a) supérieure à 500 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      <td width="340" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -7091,7 +7099,7 @@ a) supérieure à 500 t/j
 b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
@@ -7103,13 +7111,13 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 2547
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Silico-alliages ou carbure de silicium (fabrication de) au four électrique, lorsque la puissance installée du (des) four(s)
 dépasse 100 kW (à l'exclusion du ferro-silicium visé à la rubrique 2545)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -7119,7 +7127,7 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 5
@@ -7127,7 +7135,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="33">
+      <td valign="top" width="33" rowspan="7">
 
 2550
 
@@ -7140,10 +7148,10 @@ Fonderie (fabrication de produits moulés) de plomb et alliages contenant du plo
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -7154,19 +7162,19 @@ Fonderie (fabrication de produits moulés) de plomb et alliages contenant du plo
 La capacité de production étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. supérieure à 100 kg/j
 
@@ -7181,18 +7189,18 @@ A
 2
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La capacité de production étant :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td valign="top" width="38">
+      </td><td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
@@ -7211,10 +7219,10 @@ a) supérieure à 2 t/j
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td valign="top" width="38">
+      </td><td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -7222,21 +7230,21 @@ a) supérieure à 2 t/j
 b) supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 3
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      <td valign="top" width="340">
+      </td><td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 c) supérieure à 100 kg/j, mais inférieure ou égale à 500 kg/j
 
@@ -7253,15 +7261,15 @@ c) supérieure à 100 kg/j, mais inférieure ou égale à 500 kg/j
 2. supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -7272,24 +7280,24 @@ DC
 2551
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Fonderie (fabrication de produits moulés) de métaux et alliages ferreux
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 La capacité de production étant :
 
@@ -7297,11 +7305,11 @@ La capacité de production étant :
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -7311,7 +7319,7 @@ La capacité de production étant :
 1. supérieure à 10 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -7321,24 +7329,24 @@ A
 2
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La capacité de production étant :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 a) supérieure à 200 t/j
 
@@ -7350,11 +7358,11 @@ a) supérieure à 200 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -7369,40 +7377,40 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. supérieure à 1 t/j, mais inférieure ou égale à 10 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 DC
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="4">
+      <td valign="top" width="33" rowspan="4">
 
 2552
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux (à l'exclusion de celles relevant de la rubrique
 2550)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -7416,53 +7424,7 @@ Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux (�
 La capacité de production étant :
 
 </td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-1. supérieure à 2 t/j
-
-</td>
       <td valign="top" width="38">
-
-A
-
-</td>
-      <td valign="top" width="35">
-
-2
-
-</td>
-      <td width="129" valign="top">
-
-1. La capacité de production étant supérieure à 50 t/j
-
-</td>
-      <td valign="top" width="31">
-
-1
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-2. supérieure à 100 kg/j, mais inférieure ou égale à 2 t/j
-
-</td>
-      <td valign="top" width="38">
-
-DC
 
 </td>
       <td width="35" valign="top">
@@ -7474,7 +7436,53 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="4">
+      <td width="340" valign="top">
+
+1. supérieure à 2 t/j
+
+</td>
+      <td width="38" valign="top">
+
+A
+
+</td>
+      <td width="35" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="129">
+
+1. La capacité de production étant supérieure à 50 t/j
+
+</td>
+      <td valign="top" width="31">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+2. supérieure à 100 kg/j, mais inférieure ou égale à 2 t/j
+
+</td>
+      <td valign="top" width="38">
+
+DC
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td width="33" valign="top" rowspan="4">
 
 2560
 
@@ -7484,7 +7492,7 @@ DC
 Métaux et alliages (travail mécanique des)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -7507,7 +7515,7 @@ La puissance installée de l'ensemble des machines fixes concourant au fonctionn
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -7518,7 +7526,7 @@ La puissance installée de l'ensemble des machines fixes concourant au fonctionn
 1. supérieure à 500 kW
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -7528,7 +7536,7 @@ A
 2
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à
 500 kW
@@ -7546,16 +7554,16 @@ A
 2. supérieure à 50 kW, mais inférieure ou égale à 500 kW
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -7565,12 +7573,12 @@ D
 2561
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Métaux et alliages (trempe, recuit ou revenu)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -7578,13 +7586,13 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="33">
+      <td rowspan="4" width="33" valign="top">
 
 2562
 
@@ -7594,10 +7602,10 @@ D
 Bains de sels fondus (chauffage et traitements industriels par l'intermédiaire de)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
@@ -7618,6 +7626,27 @@ Le volume des bains étant :
 
 </td>
       <td width="129" valign="top">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+1. supérieur à 500 l
+
+</td>
+      <td width="38" valign="top">
+
+A
+
+</td>
+      <td width="35" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -7625,17 +7654,15 @@ Le volume des bains étant :
     <tr>
       <td valign="top" width="340">
 
-1. supérieur à 500 l
+2. supérieur à 100 l, mais inférieur ou égal à 500 l
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
-A
+DC
 
 </td>
       <td valign="top" width="35">
-
-1
 
 </td>
       <td width="129" valign="top">
@@ -7644,26 +7671,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-
-2. supérieur à 100 l, mais inférieur ou égal à 500 l
-
-</td>
-      <td valign="top" width="38">
-
-DC
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="33" rowspan="8" valign="top">
+      <td width="33" valign="top" rowspan="8">
 
 2564
 
@@ -7691,7 +7699,7 @@ organohalogénés ou des solvants organiques (1).
 Le volume des cuves de traitement étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -7702,7 +7710,7 @@ Le volume des cuves de traitement étant :
 1. Le volume des cuves de traitement étant :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
     </tr>
@@ -7717,12 +7725,12 @@ Le volume des cuves de traitement étant :
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) supérieur à 25 000 l
 
@@ -7741,12 +7749,12 @@ a) supérieur à 25 000 l
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 1
 
@@ -7758,21 +7766,21 @@ b) supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
 2. supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 3. supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants à phrase de risque R 45, R 46, R 49, R 60, R 61 ou
 des solvants halogénés étiquetés R 40 sont utilisés dans une machine non fermée (2)
@@ -7792,7 +7800,7 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 (1) Solvant organique : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à
 une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé
@@ -7808,7 +7816,7 @@ correcteur de viscosité, correcteur de tension superficielle, plastifiant ou ag
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -7819,24 +7827,24 @@ correcteur de viscosité, correcteur de tension superficielle, plastifiant ou ag
 l'aspiration des effluents gazeux.
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="33">
+      <td rowspan="8" width="33" valign="top">
 
 2565
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissage, attaque chimique, vibro-abrasion, etc.) de
 surfaces (métaux, matières plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à l'exclusion du
@@ -7865,7 +7873,7 @@ nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
@@ -7882,19 +7890,19 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
 cuves de traitement étant :
 
 </td>
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 2. Le volume des cuves de traitement étant :
 
@@ -7904,7 +7912,7 @@ cuves de traitement étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieur à 1 500 l
 
@@ -7924,7 +7932,7 @@ A
 a) supérieur à 25 000 l
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 4
 
@@ -7932,10 +7940,10 @@ a) supérieur à 25 000 l
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -7950,7 +7958,7 @@ supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
@@ -7963,15 +7971,15 @@ DC
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
 
 </td>
       <td valign="top" width="38">
@@ -7983,7 +7991,7 @@ DC
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -8001,18 +8009,18 @@ DC
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 2566
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Métaux (décapage ou nettoyage des) par traitement thermique
 
@@ -8027,7 +8035,7 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 Quelle que soit la capacité
 
@@ -8060,18 +8068,18 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="33" valign="top">
+      <td width="33" valign="top" rowspan="5">
 
 2570
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Email
 
@@ -8083,7 +8091,7 @@ Email
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -8096,7 +8104,7 @@ Email
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -8120,25 +8128,6 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j
-
-</td>
-      <td width="38" valign="top">
-
-DC
-
-</td>
-      <td valign="top" width="35">
-
-</td>
       <td valign="top" width="129">
       </td><td width="31" valign="top">
 
@@ -8147,35 +8136,12 @@ DC
     <tr>
       <td valign="top" width="340">
 
-2. Application, la quantité de matière susceptible d'être traitée étant supérieure à 100 kg/j
-
-</td>
-      <td width="38" valign="top">
-
-DC
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="33" rowspan="2">
-
-2575
-
-</td>
-      <td valign="top" width="340">
-
-Abrasives (emploi de matières) telles que sables, corindon, grenailles métalliques, etc. sur un matériau quelconque pour
-gravure, dépolissage, décapage, grainage, à l'exclusion des activités visées par la rubrique 2565.
+b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j
 
 </td>
       <td valign="top" width="38">
+
+DC
 
 </td>
       <td width="35" valign="top">
@@ -8183,6 +8149,48 @@ gravure, dépolissage, décapage, grainage, à l'exclusion des activités visée
 </td>
       <td valign="top" width="129">
       </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+2. Application, la quantité de matière susceptible d'être traitée étant supérieure à 100 kg/j
+
+</td>
+      <td valign="top" width="38">
+
+DC
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="top" width="33">
+
+2575
+
+</td>
+      <td width="340" valign="top">
+
+Abrasives (emploi de matières) telles que sables, corindon, grenailles métalliques, etc. sur un matériau quelconque pour
+gravure, dépolissage, décapage, grainage, à l'exclusion des activités visées par la rubrique 2565.
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -8206,18 +8214,18 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="3">
+      <td valign="top" rowspan="3" width="33">
 
 2610
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Engrais simples ou composés à base de phosphore, d'azote ou de potassium (fabrication industrielle par transformation
 chimique d').
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -8232,26 +8240,7 @@ A
 La capacité de production étant :
 
 </td>
-      <td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-      </td><td width="38" valign="top">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-
-a) supérieure à 200 t/j
-
-</td>
       <td valign="top" width="31">
-
-6
 
 </td>
     </tr>
@@ -8265,6 +8254,25 @@ a) supérieure à 200 t/j
 </td>
       <td width="129" valign="top">
 
+a) supérieure à 200 t/j
+
+</td>
+      <td width="31" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+      </td><td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+
 b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
@@ -8275,12 +8283,12 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 2620
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Sulfurés (ateliers de fabrication de composés organiques) : mercaptans, thiols, thioacides, thioesters, etc., à l'exception
 des substances inflammables ou toxiques
@@ -8291,7 +8299,7 @@ des substances inflammables ou toxiques
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
@@ -8308,29 +8316,29 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="4">
+      <td width="33" valign="top" rowspan="4">
 
 2630
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Détergents et savons (fabrication industrielle de ou à base de)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 La capacité de production étant :
 
@@ -8338,21 +8346,21 @@ La capacité de production étant :
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure ou égale à 5 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -8362,12 +8370,12 @@ A
 2
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) La capacité de production étant supérieure ou égale à 5 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
@@ -8387,37 +8395,20 @@ D
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="33">
+      <td width="33" valign="top" rowspan="4">
 
 2631
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Parfums, huiles essentielles (extraction par la vapeur des) contenus dans les plantes aromatiques
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-La capacité totale des vases d'extraction destinés à la distillation étant :
 
 </td>
       <td valign="top" width="38">
@@ -8426,13 +8417,30 @@ La capacité totale des vases d'extraction destinés à la distillation étant :
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
+
+La capacité totale des vases d'extraction destinés à la distillation étant :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 1. Supérieure à 50 m
           <sup>3</sup>
@@ -8454,14 +8462,14 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. Supérieure ou égale à 6 m
           <sup>3</sup>, mais inférieure ou égale à 50 m
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -8469,13 +8477,13 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="6" valign="top">
+      <td rowspan="6" valign="top" width="33">
 
 2640
 
@@ -8485,19 +8493,19 @@ D
 Colorants et pigments organiques, minéraux et naturels (fabrication industrielle, emploi de) :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre
 installation
@@ -8513,7 +8521,7 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La quantité de matière produite étant supérieure ou égale à 2 t/j
 
@@ -8525,26 +8533,9 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-
-2. Emploi
-
-</td>
-      <td valign="top" width="38">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="340">
 
-La quantité de matière utilisée étant :
+2. Emploi
 
 </td>
       <td valign="top" width="38">
@@ -8561,6 +8552,23 @@ La quantité de matière utilisée étant :
     <tr>
       <td width="340" valign="top">
 
+La quantité de matière utilisée étant :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
 a) supérieure ou égale à 2 t/j
 
 </td>
@@ -8569,17 +8577,17 @@ a) supérieure ou égale à 2 t/j
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 2. La quantité de matière utilisée étant supérieure ou égale à 2 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
@@ -8596,7 +8604,7 @@ b) supérieure ou égale à 200 kg/j, mais inférieure à 2 t/j
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -8605,7 +8613,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="3" valign="top">
+      <td valign="top" width="33" rowspan="3">
 
 2660
 
@@ -8632,31 +8640,31 @@ La capacité de production étant :
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td valign="top" width="38">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 a) supérieure à 20 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td valign="top" width="38">
+      <td valign="top" width="340">
+      </td><td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
@@ -8667,14 +8675,14 @@ a) supérieure à 20 t/j
 b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="7" width="33">
+      <td width="33" rowspan="7" valign="top">
 
 2661
 
@@ -8684,7 +8692,7 @@ b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (transformation de)
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
@@ -8696,7 +8704,7 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. Par des procédés exigeant des conditions particulières de température ou de pression (extrusion, injection, moulage,
 segmentation à chaud, densification, etc.), la quantité de matière susceptible d'être traitée étant :
@@ -8705,11 +8713,11 @@ segmentation à chaud, densification, etc.), la quantité de matière susceptibl
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -8724,12 +8732,12 @@ a) Supérieure ou égale à 10 t/j
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j
 
@@ -8751,11 +8759,11 @@ b) Supérieure ou égale à 1 t/j, mais inférieure à 10 t/j
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -8766,24 +8774,24 @@ D
 d'être traitée étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 a) Supérieure ou égale à 20 t/j
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -8793,7 +8801,7 @@ A
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j
 
@@ -8815,7 +8823,7 @@ b) Supérieure ou égale à 2 t/j, mais inférieure à 20 t/j
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -8824,7 +8832,7 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="4">
+      <td rowspan="4" valign="top" width="33">
 
 2662
 
@@ -8837,10 +8845,10 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -8851,25 +8859,25 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
 Le volume susceptible d'être stocké étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) Supérieur ou égal à 1 000 m
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -8879,13 +8887,13 @@ A
 2
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) Supérieure ou égal à 100 m
           <sup>3</sup>, mais inférieur à 1 000 m
@@ -8897,7 +8905,7 @@ b) Supérieure ou égal à 100 m
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -8906,7 +8914,7 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="7" width="33">
+      <td valign="top" width="33" rowspan="7">
 
 2663
 
@@ -8917,7 +8925,7 @@ Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est comp
 caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de)
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
@@ -8935,13 +8943,13 @@ caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de)
 d'être stocké étant :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -8964,12 +8972,12 @@ A
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) supérieur ou égal à 200 m
           <sup>3</sup>, mais inférieur à 2 000 m
@@ -8990,7 +8998,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être stocké étant :
 
@@ -8998,16 +9006,16 @@ D
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieur ou égal à 10 000 m
           <sup>3</sup>
@@ -9024,38 +9032,38 @@ A
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) supérieur ou égal à 1 000 m
           <sup>3</sup>, mais inférieur à 10 000 m
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 2670
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Accumulateurs et piles (fabrication d') contenant du plomb, du cadmium ou du mercure
 
@@ -9075,35 +9083,35 @@ A
 Quelle que soit la capacité
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="33" valign="top">
+      <td valign="top" rowspan="5" width="33">
 
 2680
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
-Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou
+Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou
 commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une
 autorisation de mise sur le marché conformément à la loi n
           <sup>o </sup>92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur
 le marché
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -9113,7 +9121,7 @@ le marché
 1. organismes et notamment micro-organismes génétiquement modifiés du groupe I
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
@@ -9133,7 +9141,7 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2. organismes et notamment micro-organismes génétiquement modifiés du groupe II
 
@@ -9143,17 +9151,17 @@ D
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 4
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 2. Quelle que soit la capacité
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 8
 
@@ -9168,21 +9176,21 @@ Les organismes génétiquement modifiés visés sont ceux définis par la loi n
 classement des organismes génétiquement modifiés en groupe I et II
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
 
-On entend par mise en oeuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un
+On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un
 processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours
 desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
 
@@ -9193,8 +9201,8 @@ desquelles des organismes génétiquement modifiés sont cultivés, utilisés, s
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -9204,9 +9212,9 @@ desquelles des organismes génétiquement modifiés sont cultivés, utilisés, s
 2681
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
 
 </td>
       <td width="38" valign="top">
@@ -9214,29 +9222,29 @@ Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 4
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 Quelle que soit la capacité
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 8
 
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="3" valign="top">
+      <td rowspan="3" width="33" valign="top">
 
 2690
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Produits opothérapiques (préparation de)
 
@@ -9244,10 +9252,10 @@ Produits opothérapiques (préparation de)
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -9258,7 +9266,7 @@ Produits opothérapiques (préparation de)
 1. quand l'opération est pratiquée sur des matières fraîches par simple dessiccation dans le vide
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -9277,7 +9285,7 @@ D
 2. dans tous les autres cas
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -9287,13 +9295,13 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="7">
+      <td rowspan="7" valign="top" width="33">
 
 2710
 
@@ -9303,19 +9311,19 @@ A
 Décheteries aménagées pour la collecte des encombrants, matériaux ou produits triés et apportés par les usagers :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 - monstres (mobilier, éléments de véhicules), déchets de jardin, déchets de démolition, déblais, gravats, terre ;
 
@@ -9323,11 +9331,11 @@ Décheteries aménagées pour la collecte des encombrants, matériaux ou produit
       <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -9340,10 +9348,10 @@ Décheteries aménagées pour la collecte des encombrants, matériaux ou produit
       <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -9361,13 +9369,13 @@ phytosanitaires, etc.) usés ou non ;
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 - déchets d'équipements électriques et électroniques.
 
@@ -9379,7 +9387,7 @@ phytosanitaires, etc.) usés ou non ;
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -9395,52 +9403,9 @@ phytosanitaires, etc.) usés ou non ;
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
-
-</td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-2. la superficie de l'installation hors espaces verts étant supérieure à 100 m
-          <sup>2</sup>, mais inférieure ou égale à 3 500 m
-          <sup>2</sup>
-
-</td>
-      <td valign="top" width="38">
-
-D
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="4" valign="top" width="33">
-
-2711
-
-</td>
-      <td valign="top" width="340">
-
-Transit, regroupement, tri, désassemblage, remise en état d'équipements électriques et électroniques mis au rebut.
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
@@ -9451,13 +9416,39 @@ Transit, regroupement, tri, désassemblage, remise en état d'équipements élec
     <tr>
       <td width="340" valign="top">
 
-Le volume susceptible d'être entreposé étant :
+2. la superficie de l'installation hors espaces verts étant supérieure à 100 m
+          <sup>2</sup>, mais inférieure ou égale à 3 500 m
+          <sup>2</sup>
 
 </td>
       <td width="38" valign="top">
 
+D
+
 </td>
       <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="33" rowspan="4">
+
+2711
+
+</td>
+      <td width="340" valign="top">
+
+Transit, regroupement, tri, désassemblage, remise en état d'équipements électriques et électroniques mis au rebut.
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -9468,6 +9459,23 @@ Le volume susceptible d'être entreposé étant :
     <tr>
       <td valign="top" width="340">
 
+Le volume susceptible d'être entreposé étant :
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
 1. Supérieur ou égal à 1 000 m
           <sup>3</sup>
 
@@ -9477,13 +9485,13 @@ Le volume susceptible d'être entreposé étant :
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 1
 
 </td>
       <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -9495,7 +9503,7 @@ A
           <sup>3</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 D
 
@@ -9503,13 +9511,13 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="33">
+      <td width="33" valign="top" rowspan="3">
 
 2730
 
@@ -9521,13 +9529,13 @@ peaux, laines brutes, laines en suint, à l'exclusion des activités visées par
 établissements de diagnostic, de recherche et d'enseignement :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 La capacité de traitement étant :
 
@@ -9537,12 +9545,12 @@ La capacité de traitement étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 La capacité de traitement étant supérieure à 500 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -9564,14 +9572,14 @@ a) supérieure à 50 t/j
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
       </td><td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 
@@ -9583,7 +9591,7 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="33" valign="top">
+      <td width="33" valign="top" rowspan="2">
 
 2731
 
@@ -9596,10 +9604,10 @@ les activités sont classées sous les rubriques 2101 à 2150, 2170, 2210, 2221,
 nomenclature :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -9623,7 +9631,7 @@ A
 3
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -9634,7 +9642,7 @@ A
 2740
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Incinération de cadavres d'animaux de compagnie
 
@@ -9649,24 +9657,24 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 2750
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Station d'épuration collective d'eaux résiduaires industrielles en provenance d'au moins une installation classée soumise à
 autorisation
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -9698,7 +9706,7 @@ Quelle que soit la capacité
 Station d'épuration collective de déjections animales
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -9719,7 +9727,7 @@ A
 2752
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Station d'épuration mixte (recevant des eaux résiduaires domestiques et des eaux résiduaires industrielles) ayant une
 capacité nominale de traitement d'au moins 10 000 équivalents-habitants, lorsque la charge des eaux résiduaires industrielles
@@ -9736,20 +9744,339 @@ A
 1
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top">
+      <td valign="top" align="left">
+
+2780
+
+</td>
+      <td valign="top" align="left">
+
+Installations de traitement aérobie (compostage ou stabilisation
+
+biologique) de déchets non dangereux ou matière végétale
+
+brute, ayant le cas échéant subi une étape de méthanisation
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+1. Compostage de matière végétale brute, effluents d'élevage,
+
+matières stercoraires :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+a) La quantité de matières traitées étant supérieure ou égale à
+
+30 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+b) La quantité de matières traitées étant supérieure ou égale
+
+à 3 t/j et inférieure à 30 t/j
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de
+fabrication
+
+de denrées alimentaires végétales, de boues de station d'épuration
+
+des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls
+
+ou en mélange avec des déchets végétaux ou des effluents d'élevages
+
+ou des matières stercoraires :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+a) La quantité de matières traitées étant supérieure ou égale
+
+à 20 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
+
+b) La quantité de matières traitées étant supérieure ou égale
+
+à 2 t/j
+
+et inférieure à 20 t/j
+
+</td>
+      <td valign="top" align="left">
+
+D
+
+</td>
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
+      </td><td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>3. Compostage d'autres déchets ou stabilisation biologique </td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+
+2781
+
+</td>
+      <td valign="top" align="left">
+
+Installations de méthanisation de déchets non dangereux ou
+
+matière végétale brute à l'exclusion des installations de stations
+
+d'épuration urbaines
+
+</td>
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+1. Méthanisation de matière végétale brute, effluents d'élevage,
+
+matières stercoraires, déchets végétaux d'industries agroalimentaires :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+a) La quantité de matières traitées étant supérieure ou égale
+
+à 30 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) La quantité de matières traitées étant inférieure à 30 t/j
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+2. Méthanisation d'autres déchets non dangereux
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+2782
+
+</td>
+      <td valign="top" align="left">
+
+Installations mettant en œuvre d'autres traitements
+
+biologiques de déchets non dangereux que ceux mentionnés
+
+aux rubriques 2780 et 2781 à l'exclusion des installations
+
+réglementées au titre d'une autre législation
+
+</td>
+      <td valign="top" align="left">
+
+A
+
+</td>
+      <td align="left" valign="top">
+
+3
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="33">
 
 2799
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Déchets provenant d'installations nucléaires de base (installations d'élimination, à l'exception des installations
 mentionnées aux rubriques 322, 1715 et 1735 et des installations nucléaires de base)
@@ -9777,18 +10104,18 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td width="33" rowspan="11" valign="top">
+      <td width="33" valign="top" rowspan="11">
 
 2910
 
 </td>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Combustion à l'exclusion des installations visées par les rubriques 167C et 322 B4. La puissance thermique maximale est
 définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être consommée par seconde.
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
@@ -9800,7 +10127,7 @@ définie comme la quantité maximale de combustible, exprimée en PCI, susceptib
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 Nota : La biomasse se présente à l'état naturel et n'est ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le
 bois sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de poussières de ponçage ou de chutes issues
@@ -9814,7 +10141,7 @@ de l'industrie du bois, de sa transformation ou de son artisanat.
 
 </td>
       <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -9833,7 +10160,7 @@ combustion, des matières entrantes, si la puissance thermique maximale de l'ins
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 A. La puissance thermique maximale de l'installation (quantité maximale de combustible exprimée en PCI susceptible d'être
 consommée par seconde), étant :
@@ -9854,12 +10181,12 @@ consommée par seconde), étant :
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. supérieure à 1 000 MW
 
@@ -9867,25 +10194,6 @@ A
       <td width="31" valign="top">
 
 10
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-      </td><td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-
-supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
-
-</td>
-      <td width="31" valign="top">
-
-4
 
 </td>
     </tr>
@@ -9899,10 +10207,29 @@ supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
 </td>
       <td valign="top" width="129">
 
+supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
+
+</td>
+      <td valign="top" width="31">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+      </td><td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+
 supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
@@ -9922,29 +10249,29 @@ DC
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et si la puissance thermique
 maximale est supérieure à 0,1 MW
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 3
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 B. La puissance thermique maximale de l'installation (quantité maximale de combustible exprimée en PCI susceptible d'être
 consommée par seconde), étant :
@@ -9956,7 +10283,7 @@ consommée par seconde), étant :
     </tr>
     <tr>
       <td valign="top" width="340">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -9967,15 +10294,15 @@ consommée par seconde), étant :
 a) supérieure à 1 000 MW
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 10
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      <td valign="top" width="340">
+      </td><td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
@@ -9986,7 +10313,7 @@ a) supérieure à 1 000 MW
 b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 4
 
@@ -9994,10 +10321,10 @@ b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
     </tr>
     <tr>
       <td width="340" valign="top">
-      </td><td width="38" valign="top">
+      </td><td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
@@ -10005,31 +10332,31 @@ b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
 c) supérieure ou égale à 4 MW mais inférieure à 50 MW
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td rowspan="7" width="33" valign="top">
+      <td valign="top" width="33" rowspan="7">
 
 2915
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organiques combustibles
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -10039,13 +10366,13 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 1. Lorsque la température d'utilisation est égale ou supérieure au point éclair des fluides
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td valign="top" width="31">
 
 </td>
@@ -10063,7 +10390,7 @@ Si la quantité totale de fluides présente dans l'installation (mesurée à 25
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
@@ -10090,7 +10417,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
 
@@ -10100,11 +10427,11 @@ b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -10126,27 +10453,27 @@ D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
           <sup>o</sup>C) est supérieure à 250 l.
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="33">
+      <td width="33" valign="top" rowspan="7">
 
 2920
 
@@ -10169,7 +10496,7 @@ Réfrigération ou compression (installations de) fonctionnant à des pressions 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1. comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant :
 
@@ -10180,13 +10507,13 @@ Réfrigération ou compression (installations de) fonctionnant à des pressions 
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure à 300 kW
 
@@ -10202,12 +10529,12 @@ A
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieure à 20 kW, mais inférieure ou égale à 300 kW
 
@@ -10231,14 +10558,14 @@ DC
 2. dans tous les autres cas :
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
 
 </td>
       <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -10253,7 +10580,7 @@ a) supérieure à 500 kW
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
@@ -10264,26 +10591,26 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieure à 50 kW, mais inférieure ou égale à 500 kW
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="6">
+      <td width="33" valign="top" rowspan="6">
 
 2921
 
@@ -10291,23 +10618,6 @@ D
       <td width="340" valign="top">
 
 Refroidissement par dispersion d'eau dans un flux d'air (installations de)
-
-</td>
-      <td valign="top" width="38">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
 
 </td>
       <td width="38" valign="top">
@@ -10322,12 +10632,29 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 </td>
     </tr>
     <tr>
+      <td width="340" valign="top">
+
+1. Lorsque l'installation n'est pas du type "circuit primaire fermé :
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="340">
 
 a) la puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 A
 
@@ -10362,8 +10689,8 @@ D
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -10378,10 +10705,10 @@ D
 D
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
@@ -10389,35 +10716,13 @@ D
     <tr>
       <td valign="top" width="340">
 
-Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au
-travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à
-celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les
-échangeurs thermiques.
+Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers
+d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ;
+tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs
+thermiques.
 
 </td>
       <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="33" valign="top">
-
-2925
-
-</td>
-      <td width="340" valign="top">
-
-Accumulateurs (ateliers de charge d')
-
-</td>
-      <td valign="top" width="38">
 
 </td>
       <td width="35" valign="top">
@@ -10429,7 +10734,29 @@ Accumulateurs (ateliers de charge d')
 </td>
     </tr>
     <tr>
+      <td valign="top" rowspan="2" width="33">
+
+2925
+
+</td>
       <td width="340" valign="top">
+
+Accumulateurs (ateliers de charge d')
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 La puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW
 
@@ -10443,7 +10770,7 @@ D
 
 </td>
       <td valign="top" width="129">
-      </td><td valign="top" width="31">
+      </td><td width="31" valign="top">
 
 </td>
     </tr>
@@ -10458,23 +10785,6 @@ D
 Ateliers de réparation et d'entretien de véhicules et engins à moteur, y compris les activités de carrosserie et de tôlerie.
 
 </td>
-      <td valign="top" width="38">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td width="129" valign="top">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="340">
-
-1. Réparation et entretien de véhicules et engins à moteur :
-
-</td>
       <td width="38" valign="top">
 
 </td>
@@ -10487,23 +10797,40 @@ Ateliers de réparation et d'entretien de véhicules et engins à moteur, y comp
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
+
+1. Réparation et entretien de véhicules et engins à moteur :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td width="35" valign="top">
+
+</td>
+      <td width="129" valign="top">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
 a) La surface de l'atelier étant supérieure à 5 000 m
           <sup>2</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 1. Non soumis à la taxe
 
@@ -10527,11 +10854,11 @@ b) La surface de l'atelier étant supérieure à 2 000 m
 DC
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
-      </td><td width="31" valign="top">
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -10552,7 +10879,7 @@ DC
 2. La quantité annuelle de solvants contenus dans les produits susceptible d'être utilisée est :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
     </tr>
@@ -10567,7 +10894,7 @@ a) Si la quantité maximale de produits susceptibles d'être utilisée est supé
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
@@ -10577,7 +10904,7 @@ A
 a) supérieure à 50 t
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 2
 
@@ -10591,7 +10918,7 @@ solvants contenus dans les produits susceptible d'être utilisée est supérieur
 produits susceptible d'être utilisée dépasse 100 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
 
@@ -10604,14 +10931,14 @@ DC
 supérieure ou égale à 12,5 t, mais inférieure à 50 t
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td width="33" valign="top" rowspan="3">
+      <td width="33" rowspan="3" valign="top">
 
 2931
 
@@ -10621,13 +10948,13 @@ supérieure ou égale à 12,5 t, mais inférieure à 50 t
 Moteurs à explosion, à combustion interne ou à réaction, turbines à combustion (ateliers d'essais sur banc de) :
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
       </td><td width="31" valign="top">
 
 </td>
@@ -10644,7 +10971,7 @@ turbines simultanément en essais est supérieure à 150 kW ou lorsque la pouss�
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 2
 
@@ -10663,21 +10990,21 @@ Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
       <td width="38" valign="top">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td width="31" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="33" rowspan="13">
+      <td width="33" valign="top" rowspan="13">
 
 2940
 
 </td>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois,
 plastique, cuir, papier, textile) à l'exclusion :
@@ -10692,28 +11019,28 @@ rubrique 1521,
 - ou de toute autre activité couverte explicitement par une autre rubrique.
 
 </td>
-      <td width="38" valign="top">
-
-</td>
-      <td width="35" valign="top">
-
-</td>
-      <td valign="top" width="129">
-      </td><td valign="top" width="31">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé au trempé . Si
-la quantité maximale de produits susceptible d'être présente dans l'installation est :
-
-</td>
       <td valign="top" width="38">
 
 </td>
       <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td width="31" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
+
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si
+la quantité maximale de produits susceptible d'être présente dans l'installation est :
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -10727,22 +11054,22 @@ la quantité maximale de produits susceptible d'être présente dans l'installat
 a) supérieure à 1 000 l
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td width="129" valign="top">
+      <td valign="top" width="129">
 
 1. La quantité maximale de produits susceptible d'être présente dans l'installation est supérieure à 1 000 l
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 1
 
@@ -10754,43 +11081,43 @@ A
 b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 DC
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
-
-2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction). Si la quantité maximale
-de produits susceptible d'être mise en œuvre est :
-
-</td>
-      <td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
       <td valign="top" width="129">
-
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
-
-</td>
-      <td width="31" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
       <td width="340" valign="top">
+
+2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale
+de produits susceptible d'être mise en œuvre est :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td valign="top" width="35">
+
+</td>
+      <td width="129" valign="top">
+
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
+
+</td>
+      <td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 a) supérieure à 100 kg/j
 
@@ -10810,21 +11137,21 @@ A
 a) supérieure ou égale à 5 t/j
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
-      </td><td valign="top" width="38">
+      <td valign="top" width="340">
+      </td><td width="38" valign="top">
 
 </td>
       <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 supérieure ou égale à 1 t/j et inférieure à 5 t/j
 
@@ -10836,26 +11163,26 @@ supérieure ou égale à 1 t/j et inférieure à 5 t/j
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
       </td><td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 supérieure ou égale à 250 kg/j et inférieure à 1 t/j
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 1
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
@@ -10865,11 +11192,11 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 DC
 
 </td>
-      <td width="35" valign="top">
+      <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
+      <td width="129" valign="top">
+      </td><td valign="top" width="31">
 
 </td>
     </tr>
@@ -10886,28 +11213,28 @@ susceptible d'être mise en œuvre est :
       <td valign="top" width="35">
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
       </td><td valign="top" width="31">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 a) supérieure à 200 kg/j
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
 </td>
-      <td valign="top" width="129">
+      <td width="129" valign="top">
 
 3. Non soumis à la taxe
 
@@ -10919,7 +11246,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
 
@@ -10950,10 +11277,32 @@ d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont uti
 sera égale à : Q = A + B/2.
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 </td>
       <td valign="top" width="35">
+
+</td>
+      <td valign="top" width="129">
+      </td><td valign="top" width="31">
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="7" width="33" valign="top">
+
+2950
+
+</td>
+      <td width="340" valign="top">
+
+Traitement et développement des surfaces photosensibles à base argentique, la surface annuelle traitée étant :
+
+</td>
+      <td valign="top" width="38">
+
+</td>
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -10962,29 +11311,7 @@ sera égale à : Q = A + B/2.
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="33">
-
-2950
-
-</td>
       <td valign="top" width="340">
-
-Traitement et développement des surfaces photosensibles à base argentique, la surface annuelle traitée étant :
-
-</td>
-      <td width="38" valign="top">
-
-</td>
-      <td valign="top" width="35">
-
-</td>
-      <td valign="top" width="129">
-      </td><td width="31" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="340" valign="top">
 
 1. Radiographie industrielle :
 
@@ -11012,7 +11339,7 @@ a) supérieure à 20 000 m
 A
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 1
 
@@ -11052,7 +11379,7 @@ DC
       <td valign="top" width="38">
 
 </td>
-      <td valign="top" width="35">
+      <td width="35" valign="top">
 
 </td>
       <td width="129" valign="top">
@@ -11061,13 +11388,13 @@ DC
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 a) supérieure à 50 000 m
           <sup>2</sup>
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 A
 
@@ -11083,7 +11410,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 b) supérieure à 5 000 m
           <sup>2</sup>, mais inférieure ou égale à 50 000 m
@@ -11113,5 +11440,4 @@ DC
 
 _Modifié par_:
 
-  - Décret n°2006-678 du 8 juin 2006 - art. 2 (V)
-  - Décret n°2009-841 du 8 juillet 2009 - art.
+  - Décret n°2009-1341 du 29 octobre 2009 - art.
