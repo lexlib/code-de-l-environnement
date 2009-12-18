@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -14,12 +14,12 @@ N°
 </td>
       <td colspan="3">
 
-A - NOMENCLATURE DES INSTALLATIONS CLASSEES
+A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 </td>
       <td colspan="2">
 
-B - TAXE GENERALE SUR LES ACTIVITES POLLUANTES
+B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 </td>
     </tr>
@@ -600,7 +600,7 @@ mentionnés par les dispositions précédentes.
       <td>
 
 3° Pour une installation dans laquelle un ou plusieurs radionucléides sont utilisés, le rapport Q (sans dimension) est
-calculé d'après la formule:
+calculé d'après la formule :
 
 Q = Σ (Ai / Aexi)
 
@@ -645,8 +645,8 @@ par l'article 6 du décret n° 2001-592 du 5 juillet 2001.
     <tr>
       <td>
 
-1. La valeur de Q est égale ou supérieure à 10
-          <sup>4</sup>
+1. La valeur de Q est égale ou supérieure à 10 
+          <sup>4 </sup>
 
 </td>
       <td>
@@ -661,8 +661,7 @@ A
 </td>
       <td>
 
-a) supérieure ou égal à 10
-          <sup>6</sup>
+a) supérieure ou égal à 106
 
 </td>
       <td>
@@ -672,16 +671,15 @@ a) supérieure ou égal à 10
 </td>
     </tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
 
-b) supérieure ou égal à 10
-          <sup>4</sup>
+b) supérieure ou égal à 104
 
 </td>
-      <td align="left">
+      <td>
 
 1
 
@@ -690,8 +688,8 @@ b) supérieure ou égal à 10
     <tr>
       <td>
 
-2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10
-          <sup>4</sup>
+2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10 
+          <sup>4 </sup>
 
 </td>
       <td>
@@ -703,9 +701,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
     </tr>
@@ -1405,7 +1401,7 @@ comptent pour un animal-équivalent,
 - Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour
 trois animaux-équivalents,
 
-- Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0,2 animal-
+- Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0, 2 animal-
 équivalent.
 
 </td>
@@ -1584,7 +1580,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
     <tr>
       <td>
 
-1. caille = 0,125
+1. caille = 0, 125
 
 </td>
       <td>
@@ -1601,7 +1597,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
     <tr>
       <td>
 
-2. pigeon, perdrix = 0,25
+2. pigeon, perdrix = 0, 25
 
 </td>
       <td>
@@ -1618,7 +1614,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
     <tr>
       <td>
 
-3. coquelet = 0,75
+3. coquelet = 0, 75
 
 </td>
       <td>
@@ -1635,7 +1631,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
     <tr>
       <td>
 
-4. poulet léger = 0,85
+4. poulet léger = 0, 85
 
 </td>
       <td>
@@ -1670,7 +1666,7 @@ canard colvert = 1
     <tr>
       <td>
 
-6. poulet lourd = 1,15
+6. poulet lourd = 1, 15
 
 </td>
       <td>
@@ -1704,7 +1700,7 @@ canard colvert = 1
     <tr>
       <td>
 
-8. dinde légère = 2,20
+8. dinde légère = 2, 20
 
 </td>
       <td>
@@ -1738,7 +1734,7 @@ canard colvert = 1
     <tr>
       <td>
 
-10. dinde lourde = 3,50
+10. dinde lourde = 3, 50
 
 </td>
       <td>
@@ -1794,7 +1790,7 @@ Couvoirs
     <tr>
       <td>
 
-Capacité logeable d'eau moins 100 000 oeufs
+Capacité logeable d'eau moins 100 000 œufs
 
 </td>
       <td>
@@ -2160,7 +2156,7 @@ poussières inflammables, y compris les stockages sous tente ou structure gonfla
       <td>
 
 a) si le volume total de stockage est supérieur à 15 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -2183,7 +2179,7 @@ A
 
 b) si le volume total de stockage est supérieur à 5 000 m
           <sup>3</sup>, mais inférieur ou égal à 15 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -2288,8 +2284,8 @@ exploitation agricole
     <tr>
       <td>
 
-Le dépôt étant supérieur à 200 m
-          <sup>3</sup>
+Le dépôt étant supérieur à 200 m 
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -2330,8 +2326,8 @@ Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou
     <tr>
       <td>
 
-1. Supérieure ou égale à 500 m
-          <sup>3</sup>
+1. Supérieure ou égale à 500 m 
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -2352,9 +2348,9 @@ A
     <tr>
       <td>
 
-2. Supérieure à 100 m
-          <sup>3</sup> mais inférieure à 500 m
-          <sup>3</sup>
+2. Supérieure à 100 m 
+          <sup>3 </sup>mais inférieure à 500 m 
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -2955,7 +2951,7 @@ A
       <td>
 
 1. La capacité journalière de traitement de l'installation exprimée en litre de lait ou équivalent-lait étant supérieure à
-250 000 l/j
+250 000 l / j
 
 </td>
       <td>
@@ -2967,7 +2963,9 @@ A
     <tr>
       <td>
 
-2. supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j
+2. supérieure à 7 000 l/j, mais inférieure ou égale à
+
+70 000 l/j
 
 Equivalences sur les produits entrant dans l'installation :
 
@@ -2975,7 +2973,9 @@ Equivalences sur les produits entrant dans l'installation :
 
 1 litre de lait écrémé, de sérum, de beurre non concentré = 1 l équivalent-lait
 
-1 litre de lait écrémé, de sérum, de beurre préconcentré = 6 l équivalent-lait
+1 litre de lait écrémé, de sérum, de beurre préconcentré =
+
+6 l équivalent-lait
 
 1 kg de fromage = 10 l équivalent-lait
 
@@ -3517,8 +3517,8 @@ AS
     <tr>
       <td>
 
-2. supérieure ou égale à 500 m
-          <sup>3</sup>
+2. supérieure ou égale à 500 m 
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -3533,8 +3533,8 @@ A
 </td>
       <td>
 
-2. supérieure ou égale à 500 m
-          <sup>3</sup>
+2. supérieure ou égale à 500 m 
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -3546,8 +3546,8 @@ A
     <tr>
       <td>
 
-3. supérieure ou égale à 50 m
-          <sup>3</sup>
+3. supérieure ou égale à 50 m 
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -3605,7 +3605,13 @@ A
 
 </td>
       <td>
-      </td><td>
+
+1
+
+</td>
+      <td>
+
+6
 
 </td>
     </tr>
@@ -3623,7 +3629,7 @@ A
 </td>
       <td>
 
-1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
+2. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
 
 </td>
       <td>
@@ -3649,7 +3655,7 @@ A
 </td>
       <td>
 
-a) supérieure ou égale à 5 MW
+a) Supérieure ou égale à 5 MW
 
 </td>
       <td>
@@ -3664,7 +3670,7 @@ a) supérieure ou égale à 5 MW
       </td><td>
       </td><td>
 
-b) supérieure à 1 MW, mais inférieure à 5 MW
+b) Supérieure à 1 MW, mais inférieure à 5 MW
 
 </td>
       <td>
@@ -3736,7 +3742,7 @@ Le volume total des réacteurs ou fermenteurs étant :
       <td>
 
 1. supérieur à 100 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -3759,7 +3765,7 @@ A
 
 2. supérieur à 30 m
           <sup>3</sup>, mais inférieur ou égal à 100 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -4312,8 +4318,8 @@ DC
       <td>
 
 (1) La capacité nominale est calculée conformément à la norme NF G 45-010 de février 1982, relative au matériel pour
-l'industrie textile et matériel connexe "Matériel de nettoyage à sec - Définitions et contrôle des caractéristiques de
-capacité de consommation d'une machine."
+l'industrie textile et matériel connexe "Matériel de nettoyage à sec-Définitions et contrôle des caractéristiques de capacité
+de consommation d'une machine."
 
 </td>
       <td>
@@ -4737,7 +4743,7 @@ D
 </td>
       <td>
 
-Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
 
 </td>
       <td>
@@ -4864,7 +4870,7 @@ carbonisation étant :
       <td>
 
 a) supérieure à 100 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -4886,7 +4892,7 @@ A
       <td>
 
 b) inférieure ou égale à 100 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -5733,7 +5739,7 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
 matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits
 et lorsque la superficie d'affouillement est supérieure à 1 000 m
-          <sup>2</sup> ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
+          <sup>2 </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 </td>
       <td>
@@ -5816,11 +5822,11 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
       <td>
 
 4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets
-d'exploitation de carrières (à l'exception des cas visés à l'article 1
-          <sup>er</sup> du décret n
-          <sup>o</sup> 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la
-superficie d'exploitation est supérieure à 1 000 m
-          <sup>2</sup> ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
+d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour
+l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à
+
+1 000 m
+          <sup>2 </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
 
 </td>
       <td>
@@ -5905,7 +5911,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans
 but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie
 d'extraction est inférieure à 500 m
-          <sup>2</sup> et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale
+          <sup>2 </sup>et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale
 d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres
 champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
 
@@ -5983,8 +5989,8 @@ avec leurs matériaux d'origine.
 
 lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et
 lorsque la quantité de matériaux à extraire est inférieure à 100 m
-          <sup>3</sup> par an et que la quantité totale d'extraction n'excède pas 500 m
-          <sup>3</sup>
+          <sup>3 </sup>par an et que la quantité totale d'extraction n'excède pas 500 m
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -6138,7 +6144,7 @@ capacité de stockage étant :
       <td>
 
 1. supérieure à 25 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -6161,7 +6167,7 @@ A
 
 2. supérieure à 5 000 m
           <sup>3</sup>, mais inférieure ou égale à 25 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -6203,7 +6209,7 @@ Station de transit de produits minéraux autres que ceux visés par d'autres rub
       <td>
 
 1. supérieure à 75 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -6226,7 +6232,7 @@ A
 
 2. supérieure à 15 000 m
           <sup>3</sup>, mais inférieure ou égale à 75 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -6974,7 +6980,7 @@ Quelle que soit la capacité
       <td>
 
 Acier, fer, fonte, ferro-alliages (fabrication d') à l'exclusion de la fabrication de ferro-alliages au four électrique
-lorsque la puissance installée du (des) four(s) est inférieure à 100 kW
+lorsque la puissance installée du (des) four (s) est inférieure à 100 kW
 
 </td>
       <td>
@@ -7110,7 +7116,7 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 </td>
       <td>
 
-Silico-alliages ou carbure de silicium (fabrication de) au four électrique, lorsque la puissance installée du (des) four(s)
+Silico-alliages ou carbure de silicium (fabrication de) au four électrique, lorsque la puissance installée du (des) four (s)
 dépasse 100 kW (à l'exclusion du ferro-silicium visé à la rubrique 2545)
 
 </td>
@@ -7976,7 +7982,7 @@ DC
     <tr>
       <td>
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
 
 </td>
       <td>
@@ -8234,7 +8240,7 @@ A
 </td>
       <td>
 
-La capacité de production étant :
+La capacité nominale de production étant :
 
 </td>
       <td>
@@ -8251,7 +8257,7 @@ La capacité de production étant :
 </td>
       <td>
 
-a) supérieure à 200 t/j
+a) Supérieure ou égale à 200 t/j
 
 </td>
       <td>
@@ -8270,7 +8276,7 @@ a) supérieure à 200 t/j
 </td>
       <td>
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) Supérieure à 50 t/j, mais inférieure à 200 t/j
 
 </td>
       <td>
@@ -8440,7 +8446,7 @@ La capacité totale des vases d'extraction destinés à la distillation étant :
       <td>
 
 1. Supérieure à 50 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -8463,7 +8469,7 @@ A
 
 2. Supérieure ou égale à 6 m
           <sup>3</sup>, mais inférieure ou égale à 50 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -8871,7 +8877,7 @@ Le volume susceptible d'être stocké étant :
       <td>
 
 a) Supérieur ou égal à 1 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -8894,7 +8900,7 @@ A
 
 b) Supérieure ou égal à 100 m
           <sup>3</sup>, mais inférieur à 1 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -8955,7 +8961,7 @@ d'être stocké étant :
       <td>
 
 a) supérieur ou égal à 2 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -8978,7 +8984,7 @@ A
 
 b) supérieur ou égal à 200 m
           <sup>3</sup>, mais inférieur à 2 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -9015,7 +9021,7 @@ D
       <td>
 
 a) supérieur ou égal à 10 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -9038,7 +9044,7 @@ A
 
 b) supérieur ou égal à 1 000 m
           <sup>3</sup>, mais inférieur à 10 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -9094,11 +9100,10 @@ Quelle que soit la capacité
 </td>
       <td>
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou
+Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou
 commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une
-autorisation de mise sur le marché conformément à la loi n
-          <sup>o </sup>92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur
-le marché
+autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues
+par cette autorisation de mise sur le marché
 
 </td>
       <td>
@@ -9167,10 +9172,9 @@ A
     <tr>
       <td>
 
-Les organismes génétiquement modifiés visés sont ceux définis par la loi n
-          <sup>o </sup>92.654 du 13 juillet 1992 et par le décret n
-          <sup>o </sup>93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de
-classement des organismes génétiquement modifiés en groupe I et II
+Les organismes génétiquement modifiés visés sont ceux définis par la loi n° 92-654 du 13 juillet 1992 et par le décret n°
+93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes
+génétiquement modifiés en groupe I et II
 
 </td>
       <td>
@@ -9187,7 +9191,7 @@ classement des organismes génétiquement modifiés en groupe I et II
     <tr>
       <td>
 
-On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un
+On entend par mise en oeuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un
 processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours
 desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
 
@@ -9211,7 +9215,7 @@ desquelles des organismes génétiquement modifiés sont cultivés, utilisés, s
 </td>
       <td>
 
-Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
 
 </td>
       <td>
@@ -9392,7 +9396,7 @@ phytosanitaires, etc.) usés ou non ;
       <td>
 
 1. la superficie de l'installation hors espaces verts étant supérieure à 3 500 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -9415,7 +9419,7 @@ A
 
 2. la superficie de l'installation hors espaces verts étant supérieure à 100 m
           <sup>2</sup>, mais inférieure ou égale à 3 500 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -9474,7 +9478,7 @@ Le volume susceptible d'être entreposé étant :
       <td>
 
 1. Supérieur ou égal à 1 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -9497,7 +9501,7 @@ A
 
 2. Supérieur ou égal à 200 m
           <sup>3</sup>, mais inférieur à 1 000 m
-          <sup>3</sup>
+          <sup>3 </sup>
 
 </td>
       <td>
@@ -9758,29 +9762,19 @@ A
 
 Installations de traitement aérobie (compostage ou stabilisation
 
-biologique) de déchets non dangereux ou matière végétale
+biologique) de déchets non dangereux ou matière végétale brute,
 
-brute, ayant le cas échéant subi une étape de méthanisation
-
-</td>
-      <td align="left">
+ayant le cas échéant subi une étape de méthanisation
 
 </td>
       <td align="left">
-
-</td>
-      <td align="left">
-
-</td>
-      <td align="left">
-
-</td>
-    </tr>
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 1. Compostage de matière végétale brute, effluents d'élevage,
 
@@ -9788,27 +9782,17 @@ matières stercoraires :
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
+      </td><td>
 
-</td>
-      <td>
+a) La quantité de matières traitées étant supérieure ou égale
 
-a) La quantité de matières traitées étant supérieure ou égale à
-
-30 t/j
+à 30 t/j
 
 </td>
       <td>
@@ -9822,21 +9806,15 @@ A
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
+      </td><td>
 
-</td>
-      <td>
+b) La quantité de matières traitées étant supérieure ou égale à
 
-b) La quantité de matières traitées étant supérieure ou égale
-
-à 3 t/j et inférieure à 30 t/j
+3 t/j et inférieure à 30 t/j
 
 </td>
       <td>
@@ -9845,51 +9823,31 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
+      </td><td>
+
+2. Compostage de la fraction fermentescible des ordures
+
+ménagères (FFOM), de denrées végétales déclassées, de rebuts
+
+de fabrication de denrées alimentaires végétales, de boues de station d'épuration des eaux urbaines, de papeteries,
+d'industries
+
+agroalimentaires, seuls ou en mélange avec des déchets végétaux ou des effluents d'élevages ou des matières stercoraires :
 
 </td>
       <td>
-
-2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de
-fabrication
-
-de denrées alimentaires végétales, de boues de station d'épuration
-
-des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls
-
-ou en mélange avec des déchets végétaux ou des effluents d'élevages
-
-ou des matières stercoraires :
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 a) La quantité de matières traitées étant supérieure ou égale
 
@@ -9910,24 +9868,22 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
+      <td>
+      </td><td>
 
 b) La quantité de matières traitées étant supérieure ou égale
 
-à 2 t/j
-
-et inférieure à 20 t/j
+à 2 t/j et inférieure à 20 t/j
 
 </td>
-      <td align="left">
+      <td>
 
 D
 
 </td>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
+      <td>
+      </td><td>
+      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -9969,9 +9925,9 @@ d'épuration urbaines
       <td>
       </td><td>
 
-1. Méthanisation de matière végétale brute, effluents d'élevage,
+1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, déchets végétaux d'industries
 
-matières stercoraires, déchets végétaux d'industries agroalimentaires :
+agroalimentaires :
 
 </td>
       <td>
@@ -9980,26 +9936,26 @@ matières stercoraires, déchets végétaux d'industries agroalimentaires :
       </td><td>
     </td></tr>
     <tr>
-      <td>
-      </td><td>
+      <td align="left">
+      </td><td align="left">
 
 a) La quantité de matières traitées étant supérieure ou égale
 
 à 30 t/j
 
 </td>
-      <td>
+      <td align="left">
 
 A
 
 </td>
-      <td>
+      <td align="left">
 
 2
 
 </td>
-      <td>
-      </td><td>
+      <td align="left">
+      </td><td align="left">
     </td></tr>
     <tr>
       <td>
@@ -10019,11 +9975,7 @@ DC
     </td></tr>
     <tr>
       <td>
-      </td><td>
-
-2. Méthanisation d'autres déchets non dangereux
-
-</td>
+      </td><td>2. Méthanisation d'autres déchets non dangereux</td>
       <td>
 
 A
@@ -10045,13 +9997,13 @@ A
 </td>
       <td align="left">
 
-Installations mettant en œuvre d'autres traitements
+Installations mettant en œuvre d'autres traitements biologiques de
 
-biologiques de déchets non dangereux que ceux mentionnés
+déchets non dangereux que ceux mentionnés aux rubriques
 
-aux rubriques 2780 et 2781 à l'exclusion des installations
+2780 et 2781 à l'exclusion des installations réglementées au
 
-réglementées au titre d'une autre législation
+titre d'une autre législation
 
 </td>
       <td align="left">
@@ -10478,7 +10430,7 @@ D
       <td>
 
 Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10
-          <sup>5</sup> Pa.
+          <sup>5 </sup>Pa.
 
 </td>
       <td>
@@ -10631,7 +10583,7 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
     <tr>
       <td>
 
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé :
+1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
 
 </td>
       <td>
@@ -10713,10 +10665,10 @@ D
     <tr>
       <td>
 
-Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers
-d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ;
-tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs
-thermiques.
+Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au
+travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à
+celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les
+échangeurs thermiques.
 
 </td>
       <td>
@@ -10814,7 +10766,7 @@ Ateliers de réparation et d'entretien de véhicules et engins à moteur, y comp
       <td>
 
 a) La surface de l'atelier étant supérieure à 5 000 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -10843,7 +10795,7 @@ A
 
 b) La surface de l'atelier étant supérieure à 2 000 m
           <sup>2</sup>, mais inférieure ou égale à 5 000 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -11150,7 +11102,7 @@ a) supérieure ou égale à 5 t/j
 </td>
       <td>
 
-supérieure ou égale à 1 t/j et inférieure à 5 t/j
+supérieure ou égale à 1 t /j et inférieure à 5 t/j
 
 </td>
       <td>
@@ -11181,7 +11133,7 @@ supérieure ou égale à 250 kg/j et inférieure à 1 t/j
     <tr>
       <td>
 
-b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
+b) supérieure à 10 kg /j, mais inférieure ou égale à 100 kg/j
 
 </td>
       <td>
@@ -11200,7 +11152,7 @@ DC
     <tr>
       <td>
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
 susceptible d'être mise en œuvre est :
 
 </td>
@@ -11264,14 +11216,14 @@ DC
     <tr>
       <td>
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en
-tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point
-éclair inférieur à 55 
-          <sup>o</sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
+Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant
+compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair
+inférieur à 55 
+          <sup>o </sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
 à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 
           <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées
 d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement
-sera égale à : Q = A + B/2.
+sera égale à : Q = A + B / 2.
 
 </td>
       <td>
@@ -11328,7 +11280,7 @@ Traitement et développement des surfaces photosensibles à base argentique, la 
       <td>
 
 a) supérieure à 20 000 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -11351,7 +11303,7 @@ A
 
 b) supérieure à 2 000 m
           <sup>2</sup>, mais inférieure ou égale à 20 000 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -11387,8 +11339,8 @@ DC
     <tr>
       <td>
 
-a) supérieure à 50 000 m
-          <sup>2</sup>
+a) supérieure à 50 000 m 
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -11411,7 +11363,7 @@ A
 
 b) supérieure à 5 000 m
           <sup>2</sup>, mais inférieure ou égale à 50 000 m
-          <sup>2</sup>
+          <sup>2 </sup>
 
 </td>
       <td>
@@ -11435,6 +11387,15 @@ DC
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°79-1109 du 20 décembre 1979 - art. 1 (V)
+  - Loi n°92-654 du 13 juillet 1992 (Ab)
+  - Décret n°93-744 du 29 mars 1993 (Ab)
+  - Décret n°2001-592 du 5 juillet 2001 - art. 6 (Ab)
+  - Loi n°2006-686 du 13 juin 2006 - art. 28 (V)
+  - Code de la santé publique - art. L1333-4 (V)
+
 _Modifié par_:
 
-  - Décret n°2009-1341 du 29 octobre 2009 - art.
+  - Décret n°2009-1573 du 16 décembre 2009 - art.
