@@ -21,8 +21,8 @@
 ┃ rales) du code forestier.                       │ mune est inférieur à 10 %.                                              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 5° Travaux d'hydraulique agricole mentionnés du │ Travaux d'un montant au moins égal à 1 900 000 €, ce seuil étant        ┃
-┃ 2° au 7° de l'article  L. 151-36 du code rural. │ abaissé à :                                                             ┃
-┃                                                 ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2° au 7° de l'article  L. 151-36 du code rural  │ abaissé à :                                                             ┃
+┃ et de la pêche maritime                         ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃                                                 │ a) 950 000 euros lorsque ces travaux sont entrepris en tout ou partie : ┃
 ┃                                                 ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃                                                 │ - dans les zones de montagne visées aux articles 3 et 4 de la loi n°    ┃
@@ -251,7 +251,8 @@
 ┃ sant l'énergie éolienne.                        │ dont la hauteur du mât dépasse 50 mètres                                ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 35° Premiers boisements soumis à l'autorisation │ Premiers boisements d'un seul tenant portant sur une superficie d'au    ┃
-┃ de l'article L. 126-1 du code rural.            │ moins 25 hectares.                                                      ┃
+┃ de l'article L. 126-1 du code rural et de la    │ moins 25 hectares.                                                      ┃
+┃ pêche maritime.                                 │                                                                         ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 36° Projets d'affectation de terres incultes ou │ Projets portant sur une superficie d'au moins 50 hectares.              ┃
 ┃ d'étendues semi-naturelles à l'exploitation     │                                                                         ┃
@@ -286,7 +287,3 @@ _Cite_:
   - Code de l'environnement - art. L321-2 (V)
   - Code de l'environnement - art. R421-19 (V)
   - Code de l'aviation civile - art. R227-7 (V)
-
-_Modifié par_:
-
-  - Décret n°2009-1414 du 19 novembre 2009 - art. 6
