@@ -181,7 +181,7 @@ déchets non dangereux inertes pulvérulents, la capacité de stockage étant :
     <tr>
       <td valign="top" width="437">
 
-1. supérieure à 25 000 m³
+1. supérieure à 25 000 m³ 
           <sup>
         </sup>
 
@@ -753,7 +753,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-a) supérieure à 500 kg / j 
+a) supérieure à 500 kg/j 
 
 </td>
       <td valign="top" width="32">
@@ -1907,7 +1907,7 @@ nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
     <tr>
       <td valign="top" width="437">
 
-1. Lorsqu'il y a mise en oeuvre de cadmium 
+1. Lorsqu'il y a mise en œuvre de cadmium 
 
 </td>
       <td valign="top" width="32">
@@ -1934,7 +1934,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
 cuves de traitement étant : 
 
 </td>
@@ -3269,10 +3269,9 @@ A
     <tr>
       <td valign="top" width="437">
 
-Les organismes génétiquement modifiés visés sont ceux définis par la loi n
-          <sup>o </sup>92-654 du 13 juillet 1992 et par le décret n
-          <sup>o </sup>93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de
-classement des organismes génétiquement modifiés en groupe I et II 
+Les organismes génétiquement modifiés visés sont ceux définis par la loi n° 92-654 du 13 juillet 1992 et par le décret n°
+93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes
+génétiquement modifiés en groupe I et II 
 
 </td>
       <td valign="top" width="32">
@@ -3908,12 +3907,12 @@ DC
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top">
+      <td rowspan="5" valign="top">
 
 2717 
 
 </td>
-      <td valign="top" width="437">
+      <td rowspan="3" valign="top" width="437">
 
 Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses
 mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313,
@@ -3927,7 +3926,39 @@ mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion d
 
 </td>
       <td valign="top" width="155">
-      </td><td valign="top" width="26">
+
+La quantité susceptible d'être présente étant :
+
+</td>
+      <td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"> </td>
+      <td align="left" valign="top"> </td>
+      <td align="left" valign="top">
+
+1. Supérieure ou égale à 50 t
+
+</td>
+      <td align="left" valign="top">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td>
+
+2. Inférieure à 50 t
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
@@ -3977,7 +4008,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top">
+      <td rowspan="8" valign="top">
 
 2718
 
@@ -4054,6 +4085,62 @@ DC
 </td>
       <td valign="top" width="155">
       </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. La quantité de déchets susceptible d'être présente dans l'installation étant :
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+a) Supérieure ou égale à 50 t
+
+</td>
+      <td align="left" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+b) Supérieure ou égale à 1 t et inférieure à 50 t
+
+</td>
+      <td align="left" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. Non soumis à la taxe
+
+</td>
+      <td>
+
+-
 
 </td>
     </tr>
@@ -4179,7 +4266,7 @@ La capacité de traitement étant :
     <tr>
       <td valign="top" width="437">
 
-La capacité de traitement étant supérieure à 500 kg / j 
+La capacité de traitement étant supérieure à 500 kg/j 
 
 </td>
       <td valign="top" width="32">
@@ -4194,7 +4281,7 @@ A
 </td>
       <td valign="top" width="155">
 
-a) supérieure à 50 t / j 
+a) supérieure à 50 t/j 
 
 </td>
       <td valign="top" width="26">
@@ -4213,7 +4300,7 @@ a) supérieure à 50 t / j
 </td>
       <td valign="top" width="155">
 
-b) supérieure à 10 t / j, mais inférieure ou égale à 50 t / j 
+b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j 
 
 </td>
       <td valign="top" width="26">
@@ -4384,7 +4471,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top">
+      <td rowspan="5" valign="top">
 
 2760 
 
@@ -4449,6 +4536,38 @@ A
 </td>
     </tr>
     <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant
+supérieure ou égale à 25 000 t
+
+</td>
+      <td align="center" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25
+000 t
+
+</td>
+      <td align="center" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
       <td rowspan="5" valign="top">
 
 2770 
@@ -4475,7 +4594,7 @@ dangereuses mentionnées à l'article R. 511-10 du code de l'environnement.
       <td valign="top" width="437">
 
 1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement. 
+l'article R. 511-10 du code de l'environnement : 
 
 </td>
       <td valign="top" width="32">
@@ -4509,6 +4628,8 @@ AS
       <td valign="top" width="155">
       </td><td valign="top" width="26">
 
+10
+
 </td>
     </tr>
     <tr>
@@ -4531,13 +4652,15 @@ A
       <td valign="top" width="155">
       </td><td valign="top" width="26">
 
+6
+
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
 2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement. 
+l'article R. 511-10 du code de l'environnement quelle que soit la quantité de déchets destinés à être traités. 
 
 </td>
       <td valign="top" width="32">
@@ -4552,6 +4675,8 @@ A
 </td>
       <td valign="top" width="155">
       </td><td valign="top" width="26">
+
+6
 
 </td>
     </tr>
@@ -4578,6 +4703,50 @@ A
 </td>
       <td valign="top" width="155">
       </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+La capacité de traitement étant :
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. Supérieure ou égale à 3 t/h
+
+</td>
+      <td>
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. Inférieure à 3 t/h
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
@@ -4626,7 +4795,7 @@ brute, ayant le cas échéant subi une étape de méthanisation
       <td valign="top">
       </td><td valign="top" width="437">
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t / j 
+a) La quantité de matières traitées étant supérieure ou égale à 30 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -4648,7 +4817,7 @@ A
       <td valign="top">
       </td><td valign="top" width="437">
 
-b) La quantité de matières traitées étant supérieure ou égale à 3 t / j et inférieure à 30 t / j 
+b) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -4688,7 +4857,7 @@ agroalimentaires, seuls ou en mélange avec des déchets végétaux ou des efflu
       <td valign="top">
       </td><td valign="top" width="437">
 
-a) La quantité de matières traitées étant supérieure ou égale à 20 t / j 
+a) La quantité de matières traitées étant supérieure ou égale à 20 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -4710,7 +4879,7 @@ A
       <td valign="top">
       </td><td valign="top" width="437">
 
-b) La quantité de matières traitées étant supérieure ou égale à 2 t / j et inférieure à 20 t / j 
+b) La quantité de matières traitées étant supérieure ou égale à 2 t/j et inférieure à 20 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -4745,6 +4914,62 @@ A
 </td>
       <td valign="top" width="155">
       </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. Non soumis à la taxe
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. La quantité de matières et déchets traités étant :
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+a) Supérieure ou égale à 50 t/j
+
+</td>
+      <td>
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>b) Inférieure à 50 t/j </td>
+      <td>
+
+1
 
 </td>
     </tr>
@@ -4794,7 +5019,7 @@ agroalimentaires :
       <td valign="top">
       </td><td valign="top" width="437">
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t / j 
+a) La quantité de matières traitées étant supérieure ou égale à 30 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -4816,7 +5041,7 @@ A
       <td valign="top">
       </td><td valign="top" width="437">
 
-b) La quantité de matières traitées étant inférieure à 30 t / j 
+b) La quantité de matières traitées étant inférieure à 30 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -4909,7 +5134,7 @@ rubriques 1313, 2720, 2760 et 2770.
       <td valign="top" width="437">
 
 1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement. 
+l'article R. 511-10 du code de l'environnement : 
 
 </td>
       <td valign="top" width="32">
@@ -4943,6 +5168,8 @@ AS
       <td valign="top" width="155">
       </td><td valign="top" width="26">
 
+10
+
 </td>
     </tr>
     <tr>
@@ -4965,13 +5192,15 @@ A
       <td valign="top" width="155">
       </td><td valign="top" width="26">
 
+6
+
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
 2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à
-l'article R. 511-10 du code de l'environnement. 
+l'article R. 511-10 du code de l'environnement, quelle que soit la quantité de déchets destinés à être traités. 
 
 </td>
       <td valign="top" width="32">
@@ -4987,10 +5216,12 @@ A
       <td valign="top" width="155">
       </td><td valign="top" width="26">
 
+6
+
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top">
+      <td rowspan="8" valign="top">
 
 2791 
 
@@ -5066,6 +5297,62 @@ DC
 </td>
       <td valign="top" width="155">
       </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. La capacité de traitement étant :
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+a) Supérieure ou égale à 50 t/j
+
+</td>
+      <td align="left" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
+
+</td>
+      <td align="left" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. Non soumis à la taxe
+
+</td>
+      <td>
+
+-
 
 </td>
     </tr>
@@ -5284,7 +5571,7 @@ DC
       <td valign="top" width="437">
 
 B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique
-maximale de l'installation est supérieure à 0, 1 MW 
+maximale de l'installation est supérieure à 0,1 MW 
 
 </td>
       <td valign="top" width="32">
@@ -5490,7 +5777,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
       <td valign="top" width="437">
 
 Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
-          <sup>o </sup>C) est : 
+          <sup>o</sup>C) est : 
 
 </td>
       <td valign="top" width="32">
@@ -5806,7 +6093,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-2. Lorsque l'installation est du type "circuit primaire fermé"
+2. Lorsque l'installation est du type "circuit primaire fermé" 
 
 </td>
       <td valign="top" width="32">
@@ -6036,7 +6323,7 @@ DC
 </td>
       <td valign="top" width="155">
 
-supérieure ou égale à 12, 5 t, mais inférieure à 50 t 
+supérieure ou égale à 12,5 t, mais inférieure à 50 t 
 
 </td>
       <td valign="top" width="26">
@@ -6547,3 +6834,9 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux
 rubriques 2770 et 2771.
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-419 du 28 avril 2010 - art.
+  - Décret n°2010-576 du 31 mai 2010 - art. (V)
