@@ -753,7 +753,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-a) supérieure à 500 kg/j 
+a) supérieure à 500 kg / j 
 
 </td>
       <td valign="top" width="32">
@@ -1934,8 +1934,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
-cuves de traitement étant : 
+2. Procédés utilisant des liquides (sans mise en œuvre
 
 </td>
       <td valign="top" width="32">
@@ -2912,7 +2911,7 @@ Le volume susceptible d'être stocké étant :
     <tr>
       <td valign="top" width="437">
 
-1. Supérieur ou égal à 40 000 m³ ; 
+1. Supérieur ou égal à 40 000 m ³ ; 
           <sup>
         </sup>
 
@@ -2935,7 +2934,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ; 
+2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ; 
           <sup>
         </sup>
 
@@ -2956,7 +2955,7 @@ E
     <tr>
       <td valign="top" width="437">
 
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
+3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
 
 </td>
       <td valign="top" width="32">
@@ -3016,7 +3015,7 @@ d'être stocké étant :
     <tr>
       <td valign="top" width="437">
 
-a) Supérieur ou égal à 45 000 m³ ; 
+a) Supérieur ou égal à 45 000 m ³ ; 
           <sup>
         </sup>
 
@@ -3039,7 +3038,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ; 
+b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ; 
           <sup>
         </sup>
 
@@ -3060,7 +3059,7 @@ E
     <tr>
       <td valign="top" width="437">
 
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
+c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
 
 </td>
       <td valign="top" width="32">
@@ -3096,7 +3095,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-a) Supérieur ou égal à 80 000 m³ ; 
+a) Supérieur ou égal à 80 000 m ³ ; 
           <sup>
         </sup>
 
@@ -3119,7 +3118,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ; 
+b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ; 
           <sup>
         </sup>
 
@@ -3140,7 +3139,7 @@ E
     <tr>
       <td valign="top" width="437">
 
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
+c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
 
 </td>
       <td valign="top" width="32">
@@ -3198,9 +3197,8 @@ Quelle que soit la capacité
 
 Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou
 commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une
-autorisation de mise sur le marché conformément à la loi n
-          <sup>o </sup>92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur
-le marché 
+autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues
+par cette autorisation de mise sur le marché 
 
 </td>
       <td valign="top" width="32">
@@ -3935,14 +3933,10 @@ La quantité susceptible d'être présente étant :
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top">
-
-1. Supérieure ou égale à 50 t
-
-</td>
-      <td align="left" valign="top">
+      <td> </td>
+      <td> </td>
+      <td>1. Supérieure ou égale à 50 t</td>
+      <td>
 
 10
 
@@ -3951,11 +3945,7 @@ La quantité susceptible d'être présente étant :
     <tr>
       <td> </td>
       <td> </td>
-      <td>
-
-2. Inférieure à 50 t
-
-</td>
+      <td>2. Inférieure à 50 t</td>
       <td>
 
 3
@@ -4100,30 +4090,22 @@ DC
       <td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-a) Supérieure ou égale à 50 t
-
-</td>
-      <td align="left" valign="top">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>a) Supérieure ou égale à 50 t</td>
+      <td>
 
 6
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-b) Supérieure ou égale à 1 t et inférieure à 50 t
-
-</td>
-      <td align="left" valign="top">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>b) Supérieure ou égale à 1 t et inférieure à 50 t</td>
+      <td>
 
 3
 
@@ -4133,11 +4115,7 @@ b) Supérieure ou égale à 1 t et inférieure à 50 t
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-2. Non soumis à la taxe
-
-</td>
+      </td><td>2. Non soumis à la taxe</td>
       <td>
 
 -
@@ -4539,12 +4517,8 @@ A
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant
-supérieure ou égale à 25 000 t
-
-</td>
+      </td><td>1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de
+l'installation étant supérieure ou égale à 25 000 t</td>
       <td align="center" valign="top">
 
 6
@@ -4555,12 +4529,8 @@ supérieure ou égale à 25 000 t
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25
-000 t
-
-</td>
+      </td><td>2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant
+inférieure à 25 000 t</td>
       <td align="center" valign="top">
 
 3
@@ -4711,11 +4681,7 @@ A
       </td><td>
       </td><td>
       </td><td>
-      </td><td>
-
-La capacité de traitement étant :
-
-</td>
+      </td><td>La capacité de traitement étant :</td>
       <td>
     </td></tr>
     <tr>
@@ -4723,11 +4689,7 @@ La capacité de traitement étant :
       </td><td>
       </td><td>
       </td><td>
-      </td><td>
-
-1. Supérieure ou égale à 3 t/h
-
-</td>
+      </td><td>1. Supérieure ou égale à 3 t/h</td>
       <td>
 
 6
@@ -4739,11 +4701,7 @@ La capacité de traitement étant :
       </td><td>
       </td><td>
       </td><td>
-      </td><td>
-
-2. Inférieure à 3 t/h
-
-</td>
+      </td><td>2. Inférieure à 3 t/h</td>
       <td>
 
 3
@@ -4922,11 +4880,7 @@ A
       </td><td>
       </td><td>
       </td><td>
-      </td><td>
-
-1. Non soumis à la taxe
-
-</td>
+      </td><td>1. Non soumis à la taxe</td>
       <td>
 
 -
@@ -4938,11 +4892,7 @@ A
       </td><td>
       </td><td>
       </td><td>
-      </td><td>
-
-2. La quantité de matières et déchets traités étant :
-
-</td>
+      </td><td>2. La quantité de matières et déchets traités étant :</td>
       <td>
     </td></tr>
     <tr>
@@ -4950,11 +4900,7 @@ A
       </td><td>
       </td><td>
       </td><td>
-      </td><td>
-
-a) Supérieure ou égale à 50 t/j
-
-</td>
+      </td><td>a) Supérieure ou égale à 50 t/j</td>
       <td>
 
 6
@@ -4981,8 +4927,8 @@ a) Supérieure ou égale à 50 t/j
 </td>
       <td valign="top" width="437">
 
-Installations de méthanisation de déchets non dangereux ou matière végétale brute à l'exclusion des installations de stations
-d'épuration urbaines 
+Installations de méthanisation de déchets non dangereux ou matière végétale brute, à l'exclusion des installations de
+méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 </td>
       <td valign="top" width="32">
@@ -5000,8 +4946,8 @@ d'épuration urbaines
       <td valign="top">
       </td><td valign="top" width="437">
 
-1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, déchets végétaux d'industries
-agroalimentaires : 
+1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux
+d'industries agroalimentaires :
 
 </td>
       <td valign="top" width="32">
@@ -5019,7 +4965,7 @@ agroalimentaires :
       <td valign="top">
       </td><td valign="top" width="437">
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t/j 
+a) La quantité de matières traitées étant supérieure ou égale à 50 t/j 
 
 </td>
       <td valign="top" width="32">
@@ -5041,12 +4987,12 @@ A
       <td valign="top">
       </td><td valign="top" width="437">
 
-b) La quantité de matières traitées étant inférieure à 30 t/j 
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j
 
 </td>
       <td valign="top" width="32">
 
-DC
+E
 
 </td>
       <td valign="top" width="29">
@@ -5057,6 +5003,18 @@ DC
 
 </td>
     </tr>
+    <tr>
+      <td>
+      </td><td>c) La quantité de matières traitées étant inférieure à 30 t/j </td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td valign="top">
       </td><td valign="top" width="437">
@@ -5304,38 +5262,26 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-1. La capacité de traitement étant :
-
-</td>
+      </td><td>1. La capacité de traitement étant :</td>
       <td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-a) Supérieure ou égale à 50 t/j
-
-</td>
-      <td align="left" valign="top">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>a) Supérieure ou égale à 50 t/j</td>
+      <td>
 
 6
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
-
-</td>
-      <td align="left" valign="top">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j</td>
+      <td>
 
 3
 
@@ -5345,11 +5291,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-2. Non soumis à la taxe
-
-</td>
+      </td><td>2. Non soumis à la taxe</td>
       <td>
 
 -
@@ -5437,14 +5379,14 @@ DC
 </td>
     </tr>
     <tr>
-      <td rowspan="14" valign="top" width="21">
+      <td rowspan="15" valign="top" width="21">
 
 2910 
 
 </td>
       <td valign="top" width="437">
 
-Combustion à l'exclusion des installations visées par les rubriques 167C et 322 B4 (3).
+Combustion à l'exclusion des installations visées par les rubriques 2770 et 2271.
 
 </td>
       <td valign="top" width="32">
@@ -5464,7 +5406,7 @@ Combustion à l'exclusion des installations visées par les rubriques 167C et 32
 A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul
 domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de
 la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de
-combustion, des matières entrantes, si la puissance thermique maximale de l'installation est : 
+combustion, des matières entrantes, si la puissance thermique maximale de l'installation est :
 
 </td>
       <td valign="top" width="32">
@@ -5486,7 +5428,7 @@ consommée par seconde), étant :
     <tr>
       <td valign="top" width="437">
 
-1. supérieure ou égale à 20 MW 
+1. Supérieure ou égale à 20 MW 
 
 </td>
       <td valign="top" width="32">
@@ -5551,7 +5493,7 @@ supérieure ou égale à 20 MW, mais inférieure à 50 MW
     <tr>
       <td valign="top" width="437">
 
-2. supérieure à 2 MW, mais inférieure à 20 MW 
+2. Supérieure à 2 MW, mais inférieure à 20 MW 
 
 </td>
       <td valign="top" width="32">
@@ -5568,12 +5510,8 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="437">
-
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique
-maximale de l'installation est supérieure à 0,1 MW 
-
-</td>
+      <td valign="top" width="437">B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A
+et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW</td>
       <td valign="top" width="32">
 
 A
@@ -5654,8 +5592,8 @@ c) supérieure ou égale à 4 MW mais inférieure à 50 MW
     <tr>
       <td valign="top" width="437">
 
-C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation (s) classée (s) sous la rubrique 2781-1
-et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW :
+C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la
+puissance thermique maximale de l'installation est supérieure à 0,1 MW :
 
 </td>
       <td valign="top" width="32">
@@ -5672,8 +5610,8 @@ et si la puissance thermique maximale de l'installation est supérieure à 0,1 M
     <tr>
       <td valign="top" width="437">
 
-1. lorsque le biogaz est produit par une installation soumise à autorisation ou par plusieurs installations soumises à
-déclaration au titre de la rubrique 2781-1
+1. Lorsque le biogaz est produit par une installation soumise à autorisation, ou par plusieurs installations classées au
+titre de la rubrique 2781-1
 
 </td>
       <td valign="top" width="32">
@@ -5694,12 +5632,12 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
+2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1
 
 </td>
       <td valign="top" width="32">
 
-DC
+E
 
 </td>
       <td valign="top" width="29">
@@ -5711,16 +5649,26 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="437">
+      <td>3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1</
+td>
+      <td>
 
-Nota. 
+DC
 
-1. La puissance thermique maximale est définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td valign="top" width="437">Nota :
+
+La puissance thermique maximale est définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être
 consommée par seconde. 
 
-2. La biomasse, au sens du A, de la rubrique 2910, se présente à l'état naturel et n'est ni imprégnée ni revêtue d'une
-substance quelconque. Elle inclut le bois sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de
-poussières de ponçage ou de chutes issues de l'industrie du bois, de sa transformation ou de son artisanat.
+La biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et n'est ni imprégnée ni revêtue d'une substance
+quelconque. Elle inclut le bois sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de poussières de
+ponçage ou de chutes issues de l'industrie du bois, de sa transformation ou de son artisanat.
 
 </td>
       <td valign="top" width="32">
@@ -5777,7 +5725,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
       <td valign="top" width="437">
 
 Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
-          <sup>o</sup>C) est : 
+          <sup>o </sup>C) est : 
 
 </td>
       <td valign="top" width="32">
@@ -5876,7 +5824,7 @@ D
 </td>
       <td valign="top" width="437">
 
-Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10
+Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10 
           <sup>5 </sup>Pa. 
 
 </td>
@@ -6838,5 +6786,4 @@ rubriques 2770 et 2771.
 
 _Modifié par_:
 
-  - Décret n°2010-419 du 28 avril 2010 - art.
-  - Décret n°2010-576 du 31 mai 2010 - art. (V)
+  - Décret n°2010-875 du 26 juillet 2010 - art. 1
