@@ -1721,7 +1721,7 @@ a) supérieure ou égale à 200 t
     <tr>
       <td valign="top" width="433">
 
-b) supérieure à 1,5 t, mais inférieure à 200 t 
+b) supérieure à 1, 5 t, mais inférieure à 200 t 
 
 </td>
       <td valign="top" width="31">
@@ -1736,7 +1736,7 @@ A
 </td>
       <td valign="top" width="148">
 
-b) supérieure à 1,5 t, mais inférieure à 200 t 
+b) supérieure à 1, 5 t, mais inférieure à 200 t 
 
 </td>
       <td valign="top" width="33">
@@ -1748,7 +1748,7 @@ b) supérieure à 1,5 t, mais inférieure à 200 t
     <tr>
       <td valign="top" width="433">
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t 
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t 
 
 </td>
       <td valign="top" width="31">
@@ -6212,7 +6212,7 @@ A
 </td>
       <td valign="top" width="148">
 
-b) Supérieure à 100 kg, mais inférieure à 10 t 
+b) Supérieure ou égale à 100 kg, mais inférieure à 10 t 
 
 </td>
       <td valign="top" width="33">
@@ -6224,7 +6224,7 @@ b) Supérieure à 100 kg, mais inférieure à 10 t
     <tr>
       <td valign="top" width="433">
 
-c) Inférieure à 100 kg 
+c) Inférieure à 100 kg
 
 </td>
       <td valign="top" width="31">
@@ -6236,14 +6236,7 @@ DC
 
 </td>
       <td valign="top" width="148">
-
-c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et les fabrications sur sites d'explosifs destinées
-à prévenir les avalanches de montagne : non soumis à la taxe
-
-</td>
-      <td valign="top" width="33">
-
--
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -6253,8 +6246,8 @@ c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et 
 La quantité totale de matière active susceptible d'être présente dans l'installation étant (4) :</td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
+      </td><td>3. La quantité totale de matière active susceptible d'être présente dans l'installation étant :</td>
+      <td>
     </td></tr>
     <tr>
       <td>a) Supérieure ou égale à 100 kg</td>
@@ -6269,8 +6262,16 @@ A
 
 </td>
       <td>
-      </td><td>
-    </td></tr>
+
+a) Supérieure ou égale à 100 kg
+
+</td>
+      <td>
+
+6
+
+</td>
+    </tr>
     <tr>
       <td>b) Inférieure à 100 kg</td>
       <td>
@@ -6738,4 +6739,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-875 du 26 juillet 2010 - art. 1
+  - Décret n°2010-1173 du 5 octobre 2010 - art.
