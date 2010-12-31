@@ -753,7 +753,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-a) supérieure à 500 kg / j 
+a) supérieure à 500 kg/j 
 
 </td>
       <td valign="top" width="32">
@@ -1934,7 +1934,8 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Procédés utilisant des liquides (sans mise en œuvre
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
+cuves de traitement étant : 
 
 </td>
       <td valign="top" width="32">
@@ -2020,7 +2021,7 @@ DC
     <tr>
       <td valign="top" width="437">
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium 
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium 
 
 </td>
       <td valign="top" width="32">
@@ -2357,20 +2358,26 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td rowspan="3" valign="top" width="21">
 
 2630 
 
 </td>
       <td valign="top" width="437">
 
-Détergents et savons (fabrication industrielle de ou à base de) 
+Détergents et savons (fabrication de ou à base de) : 
+
+1. Fabrication industrielle par transformation chimique 
 
 </td>
       <td valign="top" width="32">
 
+A
+
 </td>
       <td valign="top" width="29">
+
+3
 
 </td>
       <td valign="top" width="155">
@@ -2381,24 +2388,7 @@ Détergents et savons (fabrication industrielle de ou à base de)
     <tr>
       <td valign="top" width="437">
 
-La capacité de production étant : 
-
-</td>
-      <td valign="top" width="32">
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-a) supérieure ou égale à 5 t/j 
+2. Autres fabrications industrielles 
 
 </td>
       <td valign="top" width="32">
@@ -2412,20 +2402,16 @@ A
 
 </td>
       <td valign="top" width="155">
-
-a) La capacité de production étant supérieure ou égale à 5 t/j 
-
-</td>
-      <td valign="top" width="26">
-
-2
+      </td><td valign="top" width="26">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
-b) supérieure ou égale à 1 t/j, mais inférieure à 5 t/j 
+3. Fabrications non industrielles 
+
+La capacité de production étant supérieure ou égale à 1 t/ j 
 
 </td>
       <td valign="top" width="32">
@@ -2911,7 +2897,7 @@ Le volume susceptible d'être stocké étant :
     <tr>
       <td valign="top" width="437">
 
-1. Supérieur ou égal à 40 000 m ³ ; 
+1. Supérieur ou égal à 40 000 m³ ; 
           <sup>
         </sup>
 
@@ -2934,7 +2920,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ; 
+2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ; 
           <sup>
         </sup>
 
@@ -2955,7 +2941,7 @@ E
     <tr>
       <td valign="top" width="437">
 
-3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
+3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 </td>
       <td valign="top" width="32">
@@ -3015,7 +3001,7 @@ d'être stocké étant :
     <tr>
       <td valign="top" width="437">
 
-a) Supérieur ou égal à 45 000 m ³ ; 
+a) Supérieur ou égal à 45 000 m³ ; 
           <sup>
         </sup>
 
@@ -3038,7 +3024,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ; 
+b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ; 
           <sup>
         </sup>
 
@@ -3059,7 +3045,7 @@ E
     <tr>
       <td valign="top" width="437">
 
-c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
+c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
 
 </td>
       <td valign="top" width="32">
@@ -3095,7 +3081,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-a) Supérieur ou égal à 80 000 m ³ ; 
+a) Supérieur ou égal à 80 000 m³ ; 
           <sup>
         </sup>
 
@@ -3118,7 +3104,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ; 
+b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ; 
           <sup>
         </sup>
 
@@ -3139,7 +3125,7 @@ E
     <tr>
       <td valign="top" width="437">
 
-c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
+c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
 
 </td>
       <td valign="top" width="32">
@@ -3571,7 +3557,7 @@ Le volume susceptible d'être entreposé étant :
     <tr>
       <td valign="top" width="437">
 
-1. Supérieur ou égal à 1 000 m ³ 
+1. Supérieur ou égal à 1 000 m³ 
           <sup>
         </sup>
 
@@ -3933,9 +3919,9 @@ La quantité susceptible d'être présente étant :
 </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td>1. Supérieure ou égale à 50 t</td>
+      <td>
+      </td><td>
+      </td><td>1. Supérieure ou égale à 50 t</td>
       <td>
 
 10
@@ -3943,9 +3929,9 @@ La quantité susceptible d'être présente étant :
 </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td>2. Inférieure à 50 t</td>
+      <td>
+      </td><td>
+      </td><td>2. Inférieure à 50 t</td>
       <td>
 
 3
@@ -5005,7 +4991,11 @@ E
     </tr>
     <tr>
       <td>
-      </td><td>c) La quantité de matières traitées étant inférieure à 30 t/j </td>
+      </td><td>
+
+c) La quantité de matières traitées étant inférieure à 30 t/j 
+
+</td>
       <td>
 
 DC
@@ -5510,8 +5500,12 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="437">B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A
-et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW</td>
+      <td valign="top" width="437">
+
+B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique
+maximale de l'installation est supérieure à 0,1 MW
+
+</td>
       <td valign="top" width="32">
 
 A
@@ -5649,19 +5643,24 @@ E
 </td>
     </tr>
     <tr>
-      <td>3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1</
-td>
-      <td>
+      <td align="left" valign="top">
+
+3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
+
+</td>
+      <td align="left" valign="top">
 
 DC
 
 </td>
-      <td>
-      </td><td>
-      </td><td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="437">Nota :
+      <td valign="top" width="437">
+
+Nota :
 
 La puissance thermique maximale est définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être
 consommée par seconde. 
@@ -5724,7 +5723,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
     <tr>
       <td valign="top" width="437">
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25
           <sup>o </sup>C) est : 
 
 </td>
@@ -5799,7 +5798,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25
           <sup>o </sup>C) est supérieure à 250 l.
 
 </td>
@@ -5817,49 +5816,16 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="21">
+      <td valign="top" width="21">
 
 2920 
 
 </td>
       <td valign="top" width="437">
 
-Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10 
-          <sup>5 </sup>Pa. 
-
-</td>
-      <td valign="top" width="32">
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-1. comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant : 
-
-</td>
-      <td valign="top" width="32">
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-a) supérieure à 300 kW 
+Installation de compression fonctionnant à des pressions effectives supérieures à 10
+          <sup>5</sup> Pa et comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant
+supérieure à 10 MW 
 
 </td>
       <td valign="top" width="32">
@@ -5870,82 +5836,6 @@ A
       <td valign="top" width="29">
 
 1
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-b) supérieure à 20 kW, mais inférieure ou égale à 300 kW 
-
-</td>
-      <td valign="top" width="32">
-
-DC
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-2. dans tous les autres cas : 
-
-</td>
-      <td valign="top" width="32">
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-a) supérieure à 500 kW 
-
-</td>
-      <td valign="top" width="32">
-
-A
-
-</td>
-      <td valign="top" width="29">
-
-1
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-b) supérieure à 50 kW, mais inférieure ou égale à 500 kW 
-
-</td>
-      <td valign="top" width="32">
-
-D
-
-</td>
-      <td valign="top" width="29">
 
 </td>
       <td valign="top" width="155">
@@ -6452,7 +6342,7 @@ de produits susceptible d'être mise en œuvre est :
 </td>
       <td valign="top" width="155">
 
-2. La quantité maximale de produits susceptible d'être mise en œuvre est : 
+2. La quantité maximale de produits susceptible d'être mise en oeuvre est : 
 
 </td>
       <td valign="top" width="26">
@@ -6547,7 +6437,7 @@ DC
       <td valign="top" width="437">
 
 3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
-susceptible d'être mise en œuvre est : 
+susceptible d'être mise en oeuvre est : 
 
 </td>
       <td valign="top" width="32">
@@ -6612,12 +6502,12 @@ DC
 
 Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en
 tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point
-éclair inférieur à 55 
-          <sup>o</sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
-à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 
-          <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées
-d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement
-sera égale à : Q = A + B/2. 
+éclair inférieur à 55
+          <sup>o </sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
+à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55
+          <sup>o </sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont
+affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le
+classement sera égale à : Q = A + B/2. 
 
 </td>
       <td valign="top" width="32">
@@ -6777,7 +6667,7 @@ DC
 (1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
 périodique prévu par l'article L. 512-11 du code de l'environnement. 
 
-(2) Rayon d'affichage en kilomètres.
+(2) Rayon d'affichage en kilomètres. 
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux
 rubriques 2770 et 2771.
@@ -6786,4 +6676,4 @@ rubriques 2770 et 2771.
 
 _Modifié par_:
 
-  - Décret n°2010-875 du 26 juillet 2010 - art. 1
+  - Décret n°2010-1700 du 30 décembre 2010 - art.

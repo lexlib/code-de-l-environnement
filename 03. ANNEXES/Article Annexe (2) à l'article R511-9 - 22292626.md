@@ -187,7 +187,7 @@ est :
     <tr>
       <td valign="top" width="433">
 
-- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;
+- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0, 4 % de substances combustibles ;
 
 </td>
       <td valign="top" width="31">
@@ -204,7 +204,7 @@ est :
     <tr>
       <td valign="top" width="433">
 
-- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles. 
+- supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances combustibles. 
 
 </td>
       <td valign="top" width="31">
@@ -431,8 +431,8 @@ DC
 </td>
       <td valign="top" width="433">
 
-Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n
-          <sup>o </sup>2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme
+Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n°
+          <sup> </sup>2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme
 française équivalente NF U 42-001 (stockage de) : 
 
 </td>
@@ -524,7 +524,7 @@ dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
       <td valign="top" width="433">
 
 II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais composé contient du nitrate d'ammonium avec
-du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
+du phosphate et /ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
 </td>
       <td valign="top" width="31">
@@ -1339,7 +1339,7 @@ rubriques de la nomenclature ;
     <tr>
       <td valign="top" width="433">
 
-Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1, 5
+Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1,5
 bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit la température 
 
 </td>
@@ -2747,7 +2747,7 @@ A
     <tr>
       <td valign="top" width="433">
 
-b) représentant une capacité équivalente totale supérieure à 10 m³ mais inférieure ou égale à 100 m ³
+b) représentant une capacité équivalente totale supérieure à 10 m³ mais inférieure ou égale à 100 m³
           <sup> </sup>
 
 </td>
@@ -2951,7 +2951,7 @@ DC
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="21">
+      <td rowspan="3" valign="top" width="21">
 
 1434 
 
@@ -2961,40 +2961,10 @@ DC
 Liquides inflammables (installation de remplissage ou de distribution, à l'exception des stations-service visées à la
 rubrique 1435) : 
 
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
 1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum équivalent de
-l'installation, pour les liquides inflammables de la catégorie de référence (coefficient 1 étant) : 
+l'installation, pour les liquides inflammables de la catégorie de référence (coefficient 1) étant : 
 
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-a) supérieur ou égal à 20 m³/h 
+a) Supérieur ou égal à 20 m³/h 
 
 </td>
       <td valign="top" width="31">
@@ -3015,7 +2985,7 @@ A
     <tr>
       <td valign="top" width="433">
 
-b) supérieur ou égal à 1 m³/h, mais inférieur à 20 m³/h 
+b) Supérieur ou égal à 1 m³/h mais inférieur à 20 m³/h 
 
 </td>
       <td valign="top" width="31">
@@ -3034,7 +3004,7 @@ DC
     <tr>
       <td valign="top" width="433">
 
-2. installations de chargement ou de déchargement desservant un dépôt de liquides inflammables soumis à autorisation 
+2. Installations de chargement ou de déchargement desservant un stockage de liquides inflammables soumis à autorisation 
 
 </td>
       <td valign="top" width="31">
@@ -4245,3 +4215,8 @@ b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1700 du 30 décembre 2010 - art.
