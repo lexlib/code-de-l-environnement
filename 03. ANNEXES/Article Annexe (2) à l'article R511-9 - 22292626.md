@@ -30,9 +30,9 @@
 ┃      │ d'ammonium est :                                             │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ - comprise entre 24,5 % et 28 % en poids et qui contiennent  │       │        │                            │       ┃
-┃      │ au plus 0,4 % de substances combustibles ;                   │       │        │                            │       ┃
+┃      │ au plus 0, 4 % de substances combustibles ;                  │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ - supérieure à 28 % en poids et qui contiennent au plus 0,2  │       │        │                            │       ┃
+┃      │ - supérieure à 28 % en poids et qui contiennent au plus 0, 2 │       │        │                            │       ┃
 ┃      │ % de substances combustibles.                                │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │ 1. La quantité totale sus- │       ┃
@@ -66,7 +66,7 @@
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1331 │ Engrais solides simples et composés à base de nitrate d'am-  │       │        │                            │       ┃
 ┃      │ monium correspondant aux spécifications du règlement euro-   │       │        │                            │       ┃
-┃      │ péen n o 2003/2003 du Parlement européen et du Conseil du 13 │       │        │                            │       ┃
+┃      │ péen n° 2003/2003 du Parlement européen et du Conseil du 13  │       │        │                            │       ┃
 ┃      │ octobre 2003 relatif aux engrais ou à la norme française     │       │        │                            │       ┃
 ┃      │ équivalente NF U 42-001 (stockage de) :                      │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
@@ -93,8 +93,8 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ II.-Engrais simples et composés solides à base de nitrate    │       │        │                            │       ┃
 ┃      │ d'ammonium (un engrais composé contient du nitrate d'ammo-   │       │        │                            │       ┃
-┃      │ nium avec du phosphate et/ou de la potasse) dans lesquels la │       │        │                            │       ┃
-┃      │ teneur en azote due au nitrate d'ammonium est :              │       │        │                            │       ┃
+┃      │ nium avec du phosphate et /ou de la potasse) dans lesquels   │       │        │                            │       ┃
+┃      │ la teneur en azote due au nitrate d'ammonium est :           │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ - supérieure à 24,5 % en poids, et qui sont conformes aux    │       │        │                            │       ┃
 ┃      │ exigences de l'annexe III-2 (*) du règlement européen (**) ; │       │        │                            │       ┃
@@ -251,8 +251,8 @@
 ┃      │ d'autres rubriques de la nomenclature ;                      │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ Les gaz sont maintenus liquéfiés à une température telle que │       │        │ La quantité totale suscep- │       ┃
-┃      │ la pression absolue de vapeur correspondante n'excède pas 1, │       │        │ tible d'être présente dans │       ┃
-┃      │ 5 bar (stockages réfrigérés ou cryogéniques) ou sous pres-   │       │        │ l'installation étant :     │       ┃
+┃      │ la pression absolue de vapeur correspondante n'excède pas    │       │        │ tible d'être présente dans │       ┃
+┃      │ 1,5 bar (stockages réfrigérés ou cryogéniques) ou sous pres- │       │        │ l'installation étant :     │       ┃
 ┃      │ sion quelle que soit la température                          │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 1. La quantité totale susceptible d'être présente dans       │ AS    │ 4      │ 1. supérieure ou égale à   │ 6     ┃
@@ -501,7 +501,7 @@
 ┃      │ 100 m³                                                       │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ b) représentant une capacité équivalente totale supérieure à │ DC    │        │                            │       ┃
-┃      │ 10 m³ mais inférieure ou égale à 100 m ³                     │       │        │                            │       ┃
+┃      │ 10 m³ mais inférieure ou égale à 100 m³                      │       │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1433 │ Liquides inflammables (installations de mélange ou d'emploi  │       │        │                            │       ┃
 ┃      │ de)                                                          │       │        │                            │       ┃
@@ -536,21 +536,18 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ b) supérieur à 1 t, mais inférieure à 10 t                   │ DC    │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1434 │ Liquides inflammables (installation de remplissage ou de     │       │        │                            │       ┃
+┃ 1434 │ Liquides inflammables (installation de remplissage ou de     │ A     │ 1      │                            │       ┃
 ┃      │ distribution, à l'exception des stations-service visées à la │       │        │                            │       ┃
-┃      │ rubrique 1435) :                                             │       │        │                            │       ┃
+┃      │ rubrique 1435) : 1. Installations de chargement de véhicules │       │        │                            │       ┃
+┃      │ citernes, de remplissage de récipients mobiles, le débit     │       │        │                            │       ┃
+┃      │ maximum équivalent de l'installation, pour les liquides in-  │       │        │                            │       ┃
+┃      │ flammables de la catégorie de référence (coefficient 1)      │       │        │                            │       ┃
+┃      │ étant : a) Supérieur ou égal à 20 m³/h                       │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 1. Installations de chargement de véhicules citernes, de     │       │        │                            │       ┃
-┃      │ remplissage de récipients mobiles, le débit maximum équi-    │       │        │                            │       ┃
-┃      │ valent de l'installation, pour les liquides inflammables de  │       │        │                            │       ┃
-┃      │ la catégorie de référence (coefficient 1 étant) :            │       │        │                            │       ┃
+┃      │ b) Supérieur ou égal à 1 m³/h mais inférieur à 20 m³/h       │ DC    │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ a) supérieur ou égal à 20 m³/h                               │ A     │ 1      │                            │       ┃
-┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ b) supérieur ou égal à 1 m³/h, mais inférieur à 20 m³/h      │ DC    │        │                            │       ┃
-┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2. installations de chargement ou de déchargement desservant │ A     │ 1      │                            │       ┃
-┃      │ un dépôt de liquides inflammables soumis à autorisation      │       │        │                            │       ┃
+┃      │ 2. Installations de chargement ou de déchargement desservant │ A     │ 1      │                            │       ┃
+┃      │ un stockage de liquides inflammables soumis à autorisation   │       │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1435 │ Stations-service : installations, ouvertes ou non au public, │       │        │                            │       ┃
 ┃      │ où les carburants sont transférés de réservoirs de stockage  │       │        │                            │       ┃
@@ -730,3 +727,8 @@
 </pre>
 
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1700 du 30 décembre 2010 - art.
