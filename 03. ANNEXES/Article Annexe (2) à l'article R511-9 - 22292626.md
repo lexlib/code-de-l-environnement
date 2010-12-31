@@ -1,6 +1,6 @@
 # Article Annexe (2) à l'article R511-9
 
-<table border="1" align="center" cellpadding="0" cellspacing="0">
+<table border="1" cellspacing="0" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td width="21" rowspan="2">
@@ -47,38 +47,38 @@ Coef.
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="21" valign="top">
+      <td valign="top" rowspan="4" width="21">
 
 1321 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Substances et préparations explosibles (emploi ou stockage de) à l'exclusion des poudres et explosifs et des substances
 visées explicitement ou par famille par d'autres rubriques. 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 La quantité susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
@@ -91,7 +91,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. supérieure à 10 t 
 
@@ -101,7 +101,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 5
 
@@ -111,24 +111,24 @@ AS
 1. supérieure à 10 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2. supérieure à 500 kg, mais inférieure ou égale à 10 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 5
 
@@ -145,12 +145,12 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="13" width="21">
+      <td width="21" rowspan="13" valign="top">
 
 1330 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Nitrate d'ammonium (stockage de). 
 
@@ -158,56 +158,22 @@ Nitrate d'ammonium (stockage de).
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. Nitrate d'ammonium et préparations à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium
 est :
 
 </td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles. 
-
-</td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td valign="top" width="34">
@@ -220,6 +186,40 @@ est :
     </tr>
     <tr>
       <td width="433" valign="top">
+
+- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0, 4 % de substances combustibles ;
+
+</td>
+      <td valign="top" width="31">
+
+</td>
+      <td width="34" valign="top">
+
+</td>
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td width="433" valign="top">
+
+- supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances combustibles. 
+
+</td>
+      <td width="31" valign="top">
+
+</td>
+      <td width="34" valign="top">
+
+</td>
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="433">
 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
@@ -230,7 +230,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 1. La quantité totale susceptible d'être présente dans l'installation étant : 
 
@@ -240,12 +240,12 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 a) supérieure ou égale à 2 500 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 AS
 
@@ -255,7 +255,7 @@ AS
 6
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 a) supérieure ou égale à 2 500 t 
 
@@ -267,7 +267,7 @@ a) supérieure ou égale à 2 500 t
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 b) supérieure ou égale à 350 t, mais inférieure à 2 500 t 
 
@@ -277,24 +277,24 @@ b) supérieure ou égale à 350 t, mais inférieure à 2 500 t
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 3
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 b) supérieure à 350 t, mais inférieure à 2 500 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 3
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 c) Supérieure ou égale à 100 t, mais inférieure à 350 t 
 
@@ -304,7 +304,7 @@ c) Supérieure ou égale à 100 t, mais inférieure à 350 t
 DC
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
@@ -313,18 +313,18 @@ DC
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 2. Solutions chaudes de nitrates d'ammonium dont la concentration en nitrate d'ammonium est supérieure à 80 % en poids. 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 2. La quantité totale susceptible d'être présente dans l'installation étant : 
 
@@ -342,7 +342,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
@@ -351,7 +351,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 a) Supérieure ou égale à 2 500 t 
 
@@ -361,7 +361,7 @@ a) Supérieure ou égale à 2 500 t
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 6
 
@@ -398,7 +398,7 @@ A
 b) supérieure à 350 t, mais inférieure à 2 500 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 3
 
@@ -415,10 +415,10 @@ c) Supérieure ou égale à 100 t, mais inférieure à 350 t
 DC
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
@@ -429,10 +429,10 @@ DC
 1331 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
-Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n
-          <sup>o </sup>2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme
+Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n°
+          <sup> </sup>2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme
 française équivalente NF U 42-001 (stockage de) : 
 
 </td>
@@ -443,7 +443,7 @@ française équivalente NF U 42-001 (stockage de) :
 
 </td>
       <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -455,27 +455,27 @@ contient du nitrate d'ammonium avec du phosphate et/ou de la potasse) dans lesqu
 d'ammonium est :
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 - de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
@@ -496,26 +496,26 @@ au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement 
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon le test en auge défini dans le cadre de
 l'Organisation des Nations unies (ONU) (voir Recommandations des Nations unies relatives au transport des marchandises
 dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2). 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td width="33" valign="top">
 
 </td>
@@ -524,7 +524,24 @@ dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
       <td valign="top" width="433">
 
 II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais composé contient du nitrate d'ammonium avec
-du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
+du phosphate et /ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
+
+</td>
+      <td width="31" valign="top">
+
+</td>
+      <td width="34" valign="top">
+
+</td>
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="433">
+
+- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen (**) ;
 
 </td>
       <td valign="top" width="31">
@@ -533,24 +550,7 @@ du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au nitrat
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
-- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen (**) ;
-
-</td>
-      <td width="31" valign="top">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
@@ -562,25 +562,25 @@ du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au nitrat
 exigences de l'annexe III-2 (*) du règlement européen. 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 La quantité totale d'engrais répondant à au moins un des deux critères I ou II ci-dessus susceptible d'être présente dans
 l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
@@ -597,17 +597,17 @@ l'installation étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 a) Supérieure ou égale à 5 000 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 4
 
@@ -617,14 +617,14 @@ AS
 a) supérieure ou égale à 5 000 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 b) Supérieure ou égale à 1 250 t, mais inférieure à 5 000 t 
 
@@ -644,7 +644,7 @@ A
 b) supérieure à 1 250 t mais inférieure à 5 000 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 3
 
@@ -656,26 +656,6 @@ b) supérieure à 1 250 t mais inférieure à 5 000 t
 c) Supérieure ou égale à 500 t, mais inférieure à 1 250 t 
 
 </td>
-      <td width="31" valign="top">
-
-DC
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-d) Inférieure à 500 t comportant une quantité en vrac d'engrais, dont la teneur en azote due au nitrate d'ammonium est
-supérieure à 28 % en poids, supérieure ou égale à 250 t 
-
-</td>
       <td valign="top" width="31">
 
 DC
@@ -684,6 +664,45 @@ DC
       <td width="34" valign="top">
 
 </td>
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td width="433" valign="top">
+
+d) Inférieure à 500 t comportant une quantité en vrac d'engrais, dont la teneur en azote due au nitrate d'ammonium est
+supérieure à 28 % en poids, supérieure ou égale à 250 t 
+
+</td>
+      <td width="31" valign="top">
+
+DC
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="433" valign="top">
+
+III.-Engrais simples et composés solides à base de nitrate d'ammonium ne répondant pas aux critères I ou II (engrais simples
+et engrais composés non susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur en azote due au
+nitrate d'ammonium est inférieure à 24,5 %). 
+
+</td>
+      <td valign="top" width="31">
+
+</td>
+      <td valign="top" width="34">
+
+</td>
       <td width="148" valign="top">
       </td><td valign="top" width="33">
 
@@ -692,34 +711,15 @@ DC
     <tr>
       <td valign="top" width="433">
 
-III.-Engrais simples et composés solides à base de nitrate d'ammonium ne répondant pas aux critères I ou II (engrais simples
-et engrais composés non susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur en azote due au
-nitrate d'ammonium est inférieure à 24,5 %). 
-
-</td>
-      <td width="31" valign="top">
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
 La quantité totale d'engrais susceptible d'être présente dans l'installation étant supérieure ou égale à 1 250 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 DC
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
@@ -735,7 +735,7 @@ Note-1. Concernant les engrais azotes simples et les engrais composés azotés b
 nitrates (ex : urée) ne sont pas comptabilisés. 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td width="34" valign="top">
@@ -753,25 +753,7 @@ nitrates (ex : urée) ne sont pas comptabilisés.
 commerciaux. 
 
 </td>
-      <td width="31" valign="top">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
-(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe
-III du règlement européen n° 2003/2003. 
-
-</td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
@@ -784,6 +766,24 @@ III du règlement européen n° 2003/2003.
     </tr>
     <tr>
       <td valign="top" width="433">
+
+(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe
+III du règlement européen n° 2003/2003. 
+
+</td>
+      <td valign="top" width="31">
+
+</td>
+      <td width="34" valign="top">
+
+</td>
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="433" valign="top">
 
 (**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à base de nitrate d'ammonium dans lesquels la
 teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées sont du type
@@ -833,13 +833,13 @@ européen n° 2003/2003 ou à la norme française équivalente NF U 42-001 (stoc
 Cette rubrique s'applique :
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -866,7 +866,7 @@ parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 - aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure
 à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
@@ -878,7 +878,7 @@ parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331
       <td width="31" valign="top">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -887,7 +887,7 @@ parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
@@ -895,7 +895,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
@@ -903,7 +903,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
@@ -918,12 +918,12 @@ a) supérieure ou égale à 50 t
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 6
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 a) supérieure ou égale à 50 t 
 
@@ -935,22 +935,22 @@ a) supérieure ou égale à 50 t
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 b) supérieure ou égale à 10 t mais inférieure à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 3
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 b) supérieure ou égale à 10 t mais inférieure à 50 t 
 
@@ -971,19 +971,19 @@ en azote du règlement européen n° 2003/2003.
 l'annexe III du règlement européen n° 2003/2003. 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td width="21" rowspan="4" valign="top">
 
 1410 
 
@@ -1001,8 +1001,8 @@ par d'autres rubriques.
       <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -1012,23 +1012,23 @@ par d'autres rubriques.
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. supérieure ou égale à 50 t 
 
@@ -1038,12 +1038,12 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 AS
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 4
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 1. supérieure ou égale à 200 t 
 
@@ -1075,32 +1075,32 @@ A
 2. inférieure à 200 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top" rowspan="10">
+      <td valign="top" rowspan="10" width="21">
 
 1411 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Gazomètres et réservoirs de gaz comprimés renfermant des gaz inflammables (à l'exclusion des gaz visés explicitement par
 d'autres rubriques) 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -1110,7 +1110,7 @@ d'autres rubriques)
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
@@ -1121,12 +1121,12 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1. Pour le gaz naturel : 
 
@@ -1134,7 +1134,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
@@ -1147,7 +1147,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 a) supérieure ou égale à 200 t 
 
@@ -1189,7 +1189,7 @@ A
 2
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 b) supérieure ou égale à 10 t, mais inférieure à 200 t 
 
@@ -1201,7 +1201,7 @@ b) supérieure ou égale à 10 t, mais inférieure à 200 t
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 c) supérieure ou égale à 1 t, mais inférieure à 10 t 
 
@@ -1214,13 +1214,13 @@ D
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2. Pour les autres gaz : 
 
@@ -1228,15 +1228,15 @@ D
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 2. Pour les autres gaz 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
@@ -1246,12 +1246,12 @@ D
 a) supérieure ou égale à 50 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 4
 
@@ -1273,17 +1273,17 @@ a) supérieure ou égale à 50 t
 b) supérieure ou égale à 10 t, mais inférieure à 50 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 2
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 b) supérieure ou égale à 10 t, mais inférieure à 50 t 
 
@@ -1308,13 +1308,13 @@ D
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="6" width="21">
+      <td width="21" valign="top" rowspan="6">
 
 1412 
 
@@ -1328,7 +1328,7 @@ rubriques de la nomenclature ;
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -1339,14 +1339,14 @@ rubriques de la nomenclature ;
     <tr>
       <td valign="top" width="433">
 
-Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1, 5
+Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1,5
 bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit la température 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
@@ -1354,17 +1354,17 @@ bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 200 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
@@ -1374,12 +1374,12 @@ AS
 4
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 1. supérieure ou égale à 200 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 6
 
@@ -1391,10 +1391,10 @@ AS
 2. La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
@@ -1403,22 +1403,22 @@ AS
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 a) supérieure ou égale à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 2
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 2. supérieure ou égale à 50 t, mais inférieure à 200 t 
 
@@ -1430,7 +1430,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 b) supérieure à 6 t, mais inférieure à 50 t 
 
@@ -1444,17 +1444,17 @@ DC
 
 </td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td width="21" valign="top" rowspan="4">
 
 1413 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoirs alimentant des moteurs, ou autres appareils,
 de véhicules ou engins de transport fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le débit
@@ -1464,16 +1464,16 @@ total en sortie du système de compression étant :
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. Supérieur ou égal à 2 000 m³/h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t 
 
@@ -1483,18 +1483,18 @@ total en sortie du système de compression étant :
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 1
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 2. Supérieur ou égal à 80 m³/h, mais inférieur à 2 000 m³/h, ou si la masse de gaz contenu dans l'installation est supérieure
 à 1 t 
@@ -1514,7 +1514,7 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa. 
 
@@ -1522,16 +1522,16 @@ Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="21">
+      <td width="21" rowspan="4" valign="top">
 
 1414 
 
@@ -1544,16 +1544,16 @@ Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. installations de remplissage de bouteilles ou conteneurs 
 
@@ -1563,7 +1563,7 @@ Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 1
 
@@ -1573,19 +1573,19 @@ A
 1. 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 2. installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
@@ -1601,7 +1601,7 @@ A
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 3. installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes
 de sécurité (jauges et soupapes) 
@@ -1612,32 +1612,32 @@ de sécurité (jauges et soupapes)
 DC
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="21" rowspan="4">
+      <td width="21" valign="top" rowspan="4">
 
 1415 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Hydrogène (fabrication industrielle de) 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -1648,7 +1648,7 @@ Hydrogène (fabrication industrielle de)
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
@@ -1669,7 +1669,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
@@ -1684,7 +1684,7 @@ AS
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 10
 
@@ -1718,12 +1718,12 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="21">
+      <td valign="top" width="21" rowspan="5">
 
 1416 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Hydrogène (stockage ou emploi de l') 
 
@@ -1731,7 +1731,7 @@ Hydrogène (stockage ou emploi de l')
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
@@ -1756,7 +1756,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 1. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 50 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
@@ -1766,25 +1766,25 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 2
 
 </td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2. supérieure ou égale à 1 t, mais inférieure à 50 t 
 
@@ -1794,12 +1794,12 @@ AS
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 2
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -1824,45 +1824,45 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="6" width="21" valign="top">
+      <td width="21" rowspan="6" valign="top">
 
 1417 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Acétylène (fabrication de l') par action de l'eau sur le carbure de calcium 
 
 </td>
-      <td valign="top" width="31">
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td width="148" valign="top">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-1. Pour l'obtention d'acétylène dissous, la quantité susceptible d'être présente dans l'installation étant : 
-
-</td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td width="433" valign="top">
+
+1. Pour l'obtention d'acétylène dissous, la quantité susceptible d'être présente dans l'installation étant : 
+
+</td>
+      <td width="31" valign="top">
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td width="148" valign="top">
 
 1. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 50 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
@@ -1877,7 +1877,7 @@ a) supérieure ou égale à 50 t
 AS
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 2
 
@@ -1895,53 +1895,29 @@ AS
 b) inférieure à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 2
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2,5 × 10
           <sup>5</sup> Pa 
 
 </td>
-      <td valign="top" width="31">
-
-A
-
-</td>
-      <td valign="top" width="34">
-
-1
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
-3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à 2,5 × 10
-          <sup>5</sup> Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15
-          <sup>o </sup>C et à la pression de 10
-          <sup>5</sup> Pa) est supérieure à 1 200 l 
-
-</td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
@@ -1957,7 +1933,31 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="21" valign="top">
+      <td valign="top" width="433">
+
+3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à 2,5 × 10
+          <sup>5</sup> Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15
+          <sup>o </sup>C et à la pression de 10
+          <sup>5</sup> Pa) est supérieure à 1 200 l 
+
+</td>
+      <td valign="top" width="31">
+
+A
+
+</td>
+      <td valign="top" width="34">
+
+1
+
+</td>
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="21" rowspan="5" valign="top">
 
 1418 
 
@@ -1973,40 +1973,40 @@ Acétylène (stockage ou emploi de l')
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 2
 
@@ -2016,7 +2016,7 @@ AS
 1. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 50 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 6
 
@@ -2039,7 +2039,7 @@ A
 
 </td>
       <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -2054,7 +2054,7 @@ A
 D
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
@@ -2063,12 +2063,12 @@ D
 </td>
     </tr>
     <tr>
-      <td width="21" rowspan="10" valign="top">
+      <td rowspan="10" width="21" valign="top">
 
 1419 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Oxyde d'éthylène ou de propylène (fabrication, stockage ou emploi de l') 
 
@@ -2076,7 +2076,7 @@ Oxyde d'éthylène ou de propylène (fabrication, stockage ou emploi de l')
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
@@ -2090,7 +2090,7 @@ Oxyde d'éthylène ou de propylène (fabrication, stockage ou emploi de l')
 A. Fabrication 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
@@ -2101,7 +2101,7 @@ A. Fabrication
 A. La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 </td>
     </tr>
@@ -2117,8 +2117,8 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -2128,7 +2128,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
@@ -2138,12 +2138,12 @@ AS
 6
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 10
 
@@ -2155,12 +2155,12 @@ AS
 2. inférieure à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 3
 
@@ -2177,23 +2177,23 @@ A
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 B. Stockage ou emploi 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 B. La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 </td>
     </tr>
@@ -2203,7 +2203,7 @@ B. La quantité totale susceptible d'être présente dans l'installation étant 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td valign="top" width="34">
@@ -2215,12 +2215,12 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1. supérieure ou égale à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 AS
 
@@ -2242,12 +2242,12 @@ AS
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2. supérieure ou égale à 5 t, mais inférieure à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
@@ -2257,12 +2257,12 @@ A
 2
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 2. supérieure ou égale à 5 t, mais inférieure à 50 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 3
 
@@ -2279,21 +2279,21 @@ A
 D
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="21">
+      <td width="21" rowspan="4" valign="top">
 
 1420 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Amines inflammables liquéfiées (emploi ou stockage d') : 
 
@@ -2314,7 +2314,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 200 t 
 
@@ -2324,7 +2324,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 4
 
@@ -2334,7 +2334,7 @@ AS
 1. supérieure ou égale à 200 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 6
 
@@ -2346,12 +2346,12 @@ AS
 2. La quantité totale susceptible d'être présente dans l'installation étant supérieure à 200 kg, mais inférieure à 200 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 2
 
@@ -2368,12 +2368,12 @@ A
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 3. La quantité totale susceptible d'être présente dans l'installation étant inférieure ou égale à 200 kg 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 D
 
@@ -2387,24 +2387,24 @@ D
 </td>
     </tr>
     <tr>
-      <td width="21" rowspan="13" valign="top">
+      <td valign="top" rowspan="13" width="21">
 
 1430 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Liquides inflammables (définition), à l'exclusion des alcools de bouche, eaux de vie et autres boissons alcoolisées 
 
 </td>
-      <td rowspan="13" valign="top" width="31">
+      <td rowspan="13" width="31" valign="top">
 
 </td>
-      <td rowspan="13" valign="top" width="34">
+      <td width="34" rowspan="13" valign="top">
 
 </td>
-      <td rowspan="13" valign="top" width="148">
-      </td><td width="33" rowspan="13" valign="top">
+      <td valign="top" rowspan="13" width="148">
+      </td><td valign="top" width="33" rowspan="13">
 
 </td>
     </tr>
@@ -2418,7 +2418,7 @@ spécifications administratives éventuellement applicables.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Le régime de classement d'une installation est déterminé en fonction de la capacité totale équivalente exprimée en capacité
 équivalente à celle d'un liquide inflammable de la 1ère catégorie, selon la formule : 
@@ -2426,7 +2426,7 @@ Le régime de classement d'une installation est déterminé en fonction de la ca
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 C équivalente totale = 10A + B + C/5 + D/15 
 
@@ -2440,7 +2440,7 @@ où
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 A représente la capacité relative aux liquides extrêmement inflammables (coefficient 10) : oxyde d'éthyle, et tout liquide
 dont le point d'éclair est inférieur à 0
@@ -2470,7 +2470,7 @@ C représente la capacité relative aux liquides inflammables de 2ème catégori
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 D représente la capacité relative aux liquides peu inflammables (coefficient 1/15) : fuels (ou mazout) lourds tels qu'ils
 sont définis par les spécifications administratives 
@@ -2493,7 +2493,7 @@ sont assimilés à des liquides inflammables de la catégorie présente la plus 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Si des liquides sont contenus dans des réservoirs en fosse ou en double enveloppe avec système de détection de fuite ou
 assimilés, les coefficients visés à la rubrique 1430 sont divisés par 5 
@@ -2501,7 +2501,7 @@ assimilés, les coefficients visés à la rubrique 1430 sont divisés par 5
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Hors les produits extrêmement inflammables, les liquides inflammables réchauffés dans leur masse à une température supérieure
 à leur point d'éclair sont assimilés à des liquides inflammables de 1ère catégorie. 
@@ -2509,7 +2509,7 @@ Hors les produits extrêmement inflammables, les liquides inflammables réchauff
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top">
+      <td valign="top" width="21">
 
 1431 
 
@@ -2529,7 +2529,7 @@ A
 3
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 Quelle que soit la capacité 
 
@@ -2541,12 +2541,12 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td rowspan="9" valign="top" width="21">
+      <td valign="top" rowspan="9" width="21">
 
 1432 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Liquides inflammables (stockage en réservoirs manufacturés de). 
 
@@ -2554,16 +2554,16 @@ Liquides inflammables (stockage en réservoirs manufacturés de).
       <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1. Lorsque la quantité stockée de liquides inflammables visés à la rubrique 1430 susceptible d'être présente est : 
 
@@ -2574,7 +2574,7 @@ Liquides inflammables (stockage en réservoirs manufacturés de).
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 1. Lorsque la quantité stockée de liquides inflammables visés à la rubrique 1430 susceptible d'être présente est : 
 
@@ -2594,7 +2594,7 @@ a) Supérieure ou égale à 50 t pour la catégorie A
 AS
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 4
 
@@ -2604,7 +2604,7 @@ AS
 a) supérieure à 50 t pour la catégorie A 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 6
 
@@ -2645,7 +2645,7 @@ point éclair est inférieur à 55
           <sup>o </sup>C (carburants d'aviation compris) 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 AS
 
@@ -2655,7 +2655,7 @@ AS
 4
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes dont le point éclair
 est inférieur à 55
@@ -2686,38 +2686,38 @@ AS
 4
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique
 et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou égal à 55
           <sup>o </sup>C 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 2. stockage de liquides inflammables visés à la rubrique 1430 : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 2. Stockage de liquides inflammables visés à la rubrique 1430 représentant une capacité équivalente totale supérieure à 100
 m³ 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 3
 
@@ -2729,7 +2729,7 @@ m³
 a) représentant une capacité équivalente totale supérieure à 100 m³ 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
@@ -2739,7 +2739,7 @@ A
 2
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
@@ -2747,13 +2747,35 @@ A
     <tr>
       <td width="433" valign="top">
 
-b) représentant une capacité équivalente totale supérieure à 10 m³ mais inférieure ou égale à 100 m ³
+b) représentant une capacité équivalente totale supérieure à 10 m³ mais inférieure ou égale à 100 m³
           <sup> </sup>
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 DC
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="9" width="21" valign="top">
+
+1433 
+
+</td>
+      <td valign="top" width="433">
+
+Liquides inflammables (installations de mélange ou d'emploi de) 
+
+</td>
+      <td valign="top" width="31">
 
 </td>
       <td width="34" valign="top">
@@ -2765,14 +2787,9 @@ DC
 </td>
     </tr>
     <tr>
-      <td rowspan="9" valign="top" width="21">
-
-1433 
-
-</td>
       <td valign="top" width="433">
 
-Liquides inflammables (installations de mélange ou d'emploi de) 
+A. Installations de simple mélange à froid : 
 
 </td>
       <td width="31" valign="top">
@@ -2781,25 +2798,8 @@ Liquides inflammables (installations de mélange ou d'emploi de)
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-A. Installations de simple mélange à froid : 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -2810,7 +2810,7 @@ Lorsque la quantité totale équivalente de liquides inflammables de la catégor
 rubrique 1430) susceptible d'être présente est : 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
@@ -2829,7 +2829,7 @@ rubrique 1430) susceptible d'être présente est supérieure à 50 t
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 a) supérieur à 50 t 
 
@@ -2839,13 +2839,13 @@ a) supérieur à 50 t
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 2
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -2855,7 +2855,7 @@ A
 b) supérieur à 5 t, mais inférieure à 50 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 DC
 
@@ -2877,10 +2877,10 @@ B. Autres installations
       <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -2898,7 +2898,7 @@ rubrique 1430) susceptible d'être présente est :
       <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 B. Lorsque la quantité totale équivalente de liquides inflammables de la catégorie de référence (coefficient 1 visé par la
 rubrique 1430) susceptible d'être présente est supérieure à 10 t 
@@ -2937,7 +2937,7 @@ A
 b) supérieur à 1 t, mais inférieure à 10 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 DC
 
@@ -2946,12 +2946,12 @@ DC
 
 </td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="21" rowspan="5">
+      <td width="21" rowspan="3" valign="top">
 
 1434 
 
@@ -2961,40 +2961,10 @@ DC
 Liquides inflammables (installation de remplissage ou de distribution, à l'exception des stations-service visées à la
 rubrique 1435) : 
 
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
 1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum équivalent de
-l'installation, pour les liquides inflammables de la catégorie de référence (coefficient 1 étant) : 
+l'installation, pour les liquides inflammables de la catégorie de référence (coefficient 1) étant : 
 
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-a) supérieur ou égal à 20 m³/h 
+a) Supérieur ou égal à 20 m³/h 
 
 </td>
       <td valign="top" width="31">
@@ -3007,7 +2977,7 @@ A
 1
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td width="33" valign="top">
 
 </td>
@@ -3015,7 +2985,7 @@ A
     <tr>
       <td valign="top" width="433">
 
-b) supérieur ou égal à 1 m³/h, mais inférieur à 20 m³/h 
+b) Supérieur ou égal à 1 m³/h mais inférieur à 20 m³/h 
 
 </td>
       <td valign="top" width="31">
@@ -3023,26 +2993,26 @@ b) supérieur ou égal à 1 m³/h, mais inférieur à 20 m³/h
 DC
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
       <td width="433" valign="top">
 
-2. installations de chargement ou de déchargement desservant un dépôt de liquides inflammables soumis à autorisation 
+2. Installations de chargement ou de déchargement desservant un stockage de liquides inflammables soumis à autorisation 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 1
 
@@ -3053,33 +3023,15 @@ A
 </td>
     </tr>
     <tr>
-      <td width="21" rowspan="5" valign="top">
+      <td width="21" valign="top" rowspan="5">
 
 1435 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Stations-service : installations, ouvertes ou non au public, où les carburants sont transférés de réservoirs de stockage
 fixes dans les réservoirs à carburant de véhicules à moteur, de bateaux ou d'aéronefs. 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
-Le volume annuel de carburant (liquides inflammables visés à la rubrique 1430 de la catégorie de référence [coefficient 1]
-distribué étant : 
 
 </td>
       <td width="31" valign="top">
@@ -3090,6 +3042,24 @@ distribué étant :
 </td>
       <td width="148" valign="top">
       </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="433">
+
+Le volume annuel de carburant (liquides inflammables visés à la rubrique 1430 de la catégorie de référence [coefficient 1]
+distribué étant : 
+
+</td>
+      <td width="31" valign="top">
+
+</td>
+      <td width="34" valign="top">
+
+</td>
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -3109,13 +3079,13 @@ A
 1
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2. Supérieur à 3 500 m³ mais inférieur ou égal à 8 000 m³ ; 
 
@@ -3125,21 +3095,21 @@ A
 E
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 3. Supérieur à 100 m³ mais inférieur ou égal à 3 500 m³. 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 DC
 
@@ -3153,23 +3123,23 @@ DC
 </td>
     </tr>
     <tr>
-      <td width="21" rowspan="5" valign="top">
+      <td valign="top" width="21" rowspan="5">
 
 1450 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Solides facilement inflammables à l'exclusion des substances visées explicitement par d'autres rubriques 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td width="33" valign="top">
 
 </td>
@@ -3180,17 +3150,17 @@ Solides facilement inflammables à l'exclusion des substances visées explicitem
 1. fabrication industrielle 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 1
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 1. Quelle que soit la capacité 
 
@@ -3202,45 +3172,45 @@ A
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 2. emploi ou stockage : la quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 2. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 1 t 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 a) supérieure ou égale à 1 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 1
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td width="33" valign="top">
 
 </td>
@@ -3251,31 +3221,7 @@ A
 b) supérieure à 50 kg, mais inférieure à 1 t 
 
 </td>
-      <td width="31" valign="top">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td width="21" valign="top">
-
-1455 
-
-</td>
-      <td width="433" valign="top">
-
-Carbure de calcium (stockage) lorsque la quantité susceptible d'être présente dans l'installation est supérieure à 3 t 
-
-</td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 D
 
@@ -3283,8 +3229,32 @@ D
       <td width="34" valign="top">
 
 </td>
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="21">
+
+1455 
+
+</td>
+      <td valign="top" width="433">
+
+Carbure de calcium (stockage) lorsque la quantité susceptible d'être présente dans l'installation est supérieure à 3 t 
+
+</td>
+      <td valign="top" width="31">
+
+D
+
+</td>
+      <td valign="top" width="34">
+
+</td>
       <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -3308,7 +3278,7 @@ présente nomenclature, des bâtiments destinés exclusivement au remisage des v
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
@@ -3325,8 +3295,8 @@ Le volume des entrepôts étant :
       <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -3346,7 +3316,7 @@ A
 1
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
@@ -3366,7 +3336,7 @@ E
 
 </td>
       <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -3376,7 +3346,7 @@ E
 3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³. 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 DC
 
@@ -3384,7 +3354,7 @@ DC
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
@@ -3395,7 +3365,7 @@ DC
 1511 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Entrepôts frigorifiques, à l'exception des dépôts utilisés au stockage de catégories de matières, produits ou substances
 relevant, par ailleurs, de la présente nomenclature. 
@@ -3404,11 +3374,11 @@ relevant, par ailleurs, de la présente nomenclature.
       <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -3421,47 +3391,28 @@ Le volume susceptible d'être stocké étant :
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1. Supérieur ou égal à 150 000 m³ ; 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 1
-
-</td>
-      <td width="148" valign="top">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-2. Supérieur ou égal à 50 000 m³ mais inférieur à 150 000 m³ ; 
-
-</td>
-      <td width="31" valign="top">
-
-E
-
-</td>
-      <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -3471,6 +3422,25 @@ E
     </tr>
     <tr>
       <td width="433" valign="top">
+
+2. Supérieur ou égal à 50 000 m³ mais inférieur à 150 000 m³ ; 
+
+</td>
+      <td valign="top" width="31">
+
+E
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td valign="top" width="148">
+      </td><td width="33" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="433">
 
 3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³. 
 
@@ -3480,16 +3450,16 @@ E
 DC
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td rowspan="4" width="21" valign="top">
 
 1520 
 
@@ -3497,6 +3467,23 @@ DC
       <td width="433" valign="top">
 
 Houille, coke, lignite, charbon de bois, goudron, asphalte, brais et matières bitumineuses (dépôts de) 
+
+</td>
+      <td valign="top" width="31">
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="433">
+
+La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
       <td width="31" valign="top">
@@ -3511,24 +3498,7 @@ Houille, coke, lignite, charbon de bois, goudron, asphalte, brais et matières b
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
-
-La quantité totale susceptible d'être présente dans l'installation étant : 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. supérieure ou égale à 500 t 
 
@@ -3538,7 +3508,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 1
 
@@ -3559,16 +3529,16 @@ A
 D
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="21" valign="top">
+      <td valign="top" width="21" rowspan="4">
 
 1521 
 
@@ -3580,19 +3550,19 @@ induction, immersion traitement et revêtement de surface, etc., à l'exclusion 
 routiers 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
@@ -3600,7 +3570,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -3609,17 +3579,17 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1. supérieure ou égale à 20 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 1
 
@@ -3643,7 +3613,7 @@ D
       <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td width="33" valign="top">
 
 </td>
@@ -3659,7 +3629,7 @@ D
 Soufre (fabrication industrielle, fusion et distillation, emploi et stockage) 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
@@ -3671,7 +3641,7 @@ Soufre (fabrication industrielle, fusion et distillation, emploi et stockage)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 A. Fabrication industrielle, transformation et distillation. La quantité totale susceptible d'être présente dans
 l'installation étant supérieure ou égale à 2,5 t 
@@ -3687,7 +3657,7 @@ A
 2
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 A. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à
 
@@ -3701,7 +3671,7 @@ A. La quantité totale susceptible d'être présente dans l'installation étant 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 B. Fusion. Le fondoir ayant une capacité supérieure ou égale à 1 t 
 
@@ -3714,7 +3684,7 @@ D
       <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 B. Non soumis à la taxe 
 
@@ -3724,7 +3694,7 @@ B. Non soumis à la taxe
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 C. Emploi et stockage 
 
@@ -3732,7 +3702,7 @@ C. Emploi et stockage
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
@@ -3741,12 +3711,12 @@ C. Emploi et stockage
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1. Soufre solide pulvérulent dont l'énergie minimale d'inflammation est inférieure ou égale à 100 mJ.
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td width="34" valign="top">
@@ -3762,24 +3732,24 @@ C. La quantité totale susceptible d'être présente dans l'installation étant 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 a) supérieure ou égale à 2,5 t 
 
@@ -3789,7 +3759,7 @@ a) supérieure ou égale à 2,5 t
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 2
 
@@ -3806,12 +3776,12 @@ A
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 b) supérieure ou égale à 500 kg, mais inférieure à 2,5 t 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 D
 
@@ -3831,10 +3801,10 @@ D
 l'installation étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td width="148" valign="top">
@@ -3848,7 +3818,7 @@ l'installation étant :
 a) supérieure ou égale à 500 t 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
@@ -3870,7 +3840,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 b) supérieure ou égale à 50 t, mais inférieure à 500 t 
 
@@ -3880,16 +3850,16 @@ b) supérieure ou égale à 50 t, mais inférieure à 500 t
 D
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="21">
+      <td rowspan="4" width="21" valign="top">
 
 1525 
 
@@ -3899,41 +3869,41 @@ D
 Dépôts d'allumettes chimiques à l'exception de celles non dites de sûreté qui sont visées à la rubrique 1450 
 
 </td>
-      <td width="31" valign="top">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td width="148" valign="top">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
-La quantité totale susceptible d'être présente dans l'installation étant : 
-
-</td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="433">
 
-1. supérieure 500 m³ 
+La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
       <td valign="top" width="31">
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td width="433" valign="top">
+
+1. supérieure 500 m³ 
+
+</td>
+      <td width="31" valign="top">
 
 A
 
@@ -3943,7 +3913,7 @@ A
 1
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td width="33" valign="top">
 
 </td>
@@ -3960,11 +3930,11 @@ A
 D
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -3983,7 +3953,7 @@ Papiers, cartons ou matériaux combustibles analogues, y compris les produits fi
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
@@ -3992,18 +3962,18 @@ Papiers, cartons ou matériaux combustibles analogues, y compris les produits fi
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Le volume susceptible d'être stocké étant : 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -4014,7 +3984,7 @@ Le volume susceptible d'être stocké étant :
 1. Supérieur à 50 000 m³ ; 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
@@ -4025,7 +3995,7 @@ A
 
 </td>
       <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -4035,7 +4005,7 @@ A
 2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ ; 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 E
 
@@ -4049,7 +4019,7 @@ E
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
 
@@ -4063,12 +4033,12 @@ D
 
 </td>
       <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top">
+      <td valign="top" width="21">
 
 1531 
 
@@ -4079,15 +4049,15 @@ Stockages, par voie humide (immersion ou aspersion), de bois non traité chimiqu
 1 000 m³ 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 D
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
       </td><td width="33" valign="top">
 
 </td>
@@ -4098,13 +4068,13 @@ D
 1532 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Bois sec ou matériaux combustibles analogues, y compris les produits finis conditionnés (dépôt de), à l'exception des
 établissements recevant du public. 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
@@ -4124,16 +4094,16 @@ Le volume susceptible d'être stocké étant :
       <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 1. Supérieur à 20 000 m³ ; 
 
@@ -4148,7 +4118,7 @@ A
 1
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td width="33" valign="top">
 
 </td>
@@ -4159,12 +4129,12 @@ A
 2. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 D
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -4178,14 +4148,14 @@ D
 1610 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Acide chlorhydrique, acide formique à plus de 50 % en poids d'acide, acide nitrique à moins de 70 %, acide phosphorique,
 acide sulfurique, monoxyde d'azote, dioxyde d'azote à moins de 1 %, dioxyde de soufre à moins de 20 %, anhydride phosphorique
 (fabrication industrielle de) quelle que soit la capacité de production 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
@@ -4195,12 +4165,12 @@ A
 3
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
 
 La capacité de production étant : 
 
 </td>
-      <td width="33" valign="top">
+      <td valign="top" width="33">
 
 </td>
     </tr>
@@ -4209,26 +4179,26 @@ La capacité de production étant :
       </td><td width="31" valign="top">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top">
+      <td valign="top" width="148">
 
 a) supérieure ou égale à 100 t/j 
 
 </td>
-      <td valign="top" width="33">
+      <td width="33" valign="top">
 
 6
 
 </td>
     </tr>
     <tr>
-      <td width="433" valign="top">
-      </td><td valign="top" width="31">
+      <td valign="top" width="433">
+      </td><td width="31" valign="top">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -4245,3 +4215,8 @@ b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1700 du 30 décembre 2010 - art.

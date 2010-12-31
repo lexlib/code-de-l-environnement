@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table align="center" cellpadding="0" border="1" cellspacing="0">
+<table border="1" cellspacing="0" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -80,16 +80,10 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
@@ -123,13 +117,9 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="10">
 
@@ -180,12 +170,8 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -272,12 +258,8 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -348,13 +330,9 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="7">
 
@@ -414,9 +392,7 @@ B. Emploi ou stockage de lessives de
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -704,9 +680,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -853,9 +827,7 @@ B. Emploi ou stockage
 
 </td>
       <td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1073,9 +1045,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 1. supérieure ou égale à 200 t
 
@@ -1117,12 +1087,8 @@ Bovins (activité d'élevage, transit, vente, etc. de).
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1197,9 +1163,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1239,9 +1203,7 @@ A
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1254,9 +1216,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1271,9 +1231,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1290,13 +1248,9 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
@@ -1346,16 +1300,10 @@ Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou e
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
@@ -1389,9 +1337,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1477,13 +1423,9 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="16">
 
@@ -1586,13 +1528,11 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
     <tr>
       <td>
 
-1. caille = 0, 125
+1. caille = 0,125
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -1603,7 +1543,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
     <tr>
       <td>
 
-2. pigeon, perdrix = 0, 25
+2. pigeon, perdrix = 0,25
 
 </td>
       <td>
@@ -1614,13 +1554,11 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
-3. coquelet = 0, 75
+3. coquelet = 0,75
 
 </td>
       <td>
@@ -1631,13 +1569,11 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
-4. poulet léger = 0, 85
+4. poulet léger = 0,85
 
 </td>
       <td>
@@ -1672,7 +1608,7 @@ canard colvert = 1
     <tr>
       <td>
 
-6. poulet lourd = 1, 15
+6. poulet lourd = 1,15
 
 </td>
       <td>
@@ -1706,7 +1642,7 @@ canard colvert = 1
     <tr>
       <td>
 
-8. dinde légère = 2, 20
+8. dinde légère = 2,20
 
 </td>
       <td>
@@ -1740,7 +1676,7 @@ canard colvert = 1
     <tr>
       <td>
 
-10. dinde lourde = 3, 50
+10. dinde lourde = 3,50
 
 </td>
       <td>
@@ -1809,9 +1745,7 @@ D
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td rowspan="3">
 
@@ -1827,9 +1761,7 @@ Carnassiers à fourrure (établissements d'élevage, vente, transit, etc., d'ani
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1867,13 +1799,9 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="4">
 
@@ -1915,9 +1843,7 @@ A
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1930,9 +1856,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -1944,9 +1868,7 @@ Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -1973,9 +1895,7 @@ Piscicultures
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -2005,9 +1925,7 @@ A
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -2224,7 +2142,7 @@ Engrais, amendements et supports de culture (fabrication des) à partir de mati�
     <tr>
       <td>
 
-1. Lorsque la capacité de production est supérieure ou égale à 10 t / j
+1. Lorsque la capacité de production est supérieure ou égale à 10 t/j
 
 </td>
       <td>
@@ -2245,7 +2163,7 @@ A
     <tr>
       <td>
 
-2. Lorsque la capacité de production est supérieure à 1 t / j et inférieure à 10 t / j
+2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10 t/j
 
 </td>
       <td>
@@ -2254,9 +2172,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -2287,7 +2203,7 @@ exploitation agricole
     <tr>
       <td>
 
-Le dépôt étant supérieur à 200 m ³
+Le dépôt étant supérieur à 200 m³
 
 </td>
       <td>
@@ -2315,20 +2231,14 @@ Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
-1. Supérieure ou égale à 500 m ³
+1. Supérieure ou égale à 500 m³
 
 </td>
       <td>
@@ -2343,13 +2253,11 @@ A
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
-2. Supérieure à 100 m ³ mais inférieure à 500 m³
+2. Supérieure à 100 m³ mais inférieure à 500 m³
 
 </td>
       <td>
@@ -2377,9 +2285,7 @@ Etablissements de fabrication et dépôts de tabac
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -2394,12 +2300,8 @@ La quantité totale susceptible d'être emmagasinée étant :
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -2456,12 +2358,8 @@ Abattage d'animaux
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -2568,9 +2466,7 @@ D
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td rowspan="4">
 
@@ -2628,15 +2524,15 @@ a) supérieure à 200 t / j
 </td>
     </tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
 
 b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 </td>
-      <td align="left">
+      <td>
 
 1
 
@@ -3105,41 +3001,11 @@ D
 </td>
       <td>
 
-Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation des)
+Production par distillation d'alcools de bouche d'origine agricole
 
-</td>
-      <td>
+La capacité de production exprimée en équivalent alcool pur étant :
 
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-La capacité de production exprimée en alcool absolu étant :
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. supérieure à 500 l/j
+1. Supérieure à 1 300 hl/ j
 
 </td>
       <td>
@@ -3149,7 +3015,7 @@ A
 </td>
       <td>
 
-1
+3
 
 </td>
       <td>
@@ -3166,12 +3032,49 @@ A
     <tr>
       <td>
 
-2. supérieure à 50 l/j, mais inférieure ou égale à 500 l/j
+2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Supérieure à 0,5 hl/ j et inférieure ou égale à 30 hl/ j
 
 </td>
       <td>
 
 D
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/ j de
+capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
+
+</td>
+      <td>
 
 </td>
       <td>
@@ -3296,12 +3199,8 @@ La capacité de production étant :
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -3345,9 +3244,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -3410,7 +3307,7 @@ A
 </td>
       <td>
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+1. La capacité de l'installation étant supérieure à 50 000 hl / an
 
 </td>
       <td>
@@ -3453,9 +3350,7 @@ Alcools de bouche d'origine agricole, eaux de vie et liqueurs (stockage des)
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -3548,9 +3443,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -3872,9 +3765,7 @@ lavage, etc.)
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3882,9 +3773,7 @@ La quantité de fibres susceptible d'être traitée étant :
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -4028,9 +3917,7 @@ Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécaniq
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -4050,9 +3937,7 @@ D
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -4166,29 +4051,14 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td rowspan="3">
 
 2340
 
 </td>
       <td>
 
-Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
+Blanchisserie, laverie de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345.
 
 La capacité de lavage de linge étant :
 
@@ -4207,28 +4077,22 @@ La capacité de lavage de linge étant :
     <tr>
       <td>
 
-1. supérieure à 5 t/j
+1. Supérieure à 5 t/ j
 
 </td>
       <td>
 
-A
-
-</td>
-      <td>
-
-1
+E
 
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
-2. supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
+2. Supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/ j
 
 </td>
       <td>
@@ -4359,7 +4223,9 @@ La capacité de production étant :
     </tr>
     <tr>
       <td>
-      </td><td>
+
+</td>
+      <td>
 
 </td>
       <td>
@@ -4407,9 +4273,7 @@ Teinture et pigmentation de peaux
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -4810,9 +4674,7 @@ Charbon de bois (fabrication du)
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -4911,9 +4773,7 @@ Préparation de la pâte à papier
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -5555,12 +5415,8 @@ Carrières (exploitation de).
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
 
 </td>
@@ -5654,12 +5510,8 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
 
 2. Sans objet
 
@@ -5759,8 +5611,8 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets
 d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour
-l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m
-          <sup>2 </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
+l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m2
+          <sup> </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
 
 </td>
       <td>
@@ -5788,9 +5640,7 @@ A
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 a) supérieure ou égale à 500 000 t/an
 
@@ -5844,10 +5694,9 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans
 but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie
-d'extraction est inférieure à 500 m
-          <sup>2</sup> et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale
-d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres
-champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
+d'extraction est inférieure à 500 m2 et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la
+quantité totale d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans
+ses propres champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
 
 </td>
       <td>
@@ -5922,7 +5771,7 @@ avec leurs matériaux d'origine.
       <td>
 
 lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et
-lorsque la quantité de matériaux à extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction n'excède
+lorsque la quantité de matériaux à extraire est inférieure à 100 m ³ par an et que la quantité totale d'extraction n'excède
 pas 500 m³
 
 </td>
@@ -5947,9 +5796,7 @@ DC
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -5973,3 +5820,7 @@ _Cite_:
   - Loi n°2006-686 du 13 juin 2006 - art. 28
   - Code de la santé publique - art. L1333-4
   - Code de l'environnement - art. L512-11
+
+_Modifié par_:
+
+  - Décret n°2010-1700 du 30 décembre 2010 - art.
