@@ -288,6 +288,71 @@ D
 </td>
     </tr>
     <tr>
+      <td>
+
+</td>
+      <td>
+
+Installation de production de béton prêt à l'emploi équipée d'un dispositif
+
+d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
+
+visées par la rubrique 2522. La capacité de malaxage étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2518
+
+</td>
+      <td>a) Supérieure à 3 m
+        <sup>3</sup>
+      </td>
+      <td>
+
+E
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Inférieure ou égale à 3 m
+          <sup>3</sup>
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
       <td rowspan="3" valign="top" width="21">
 
 2520 
@@ -456,15 +521,15 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="21">
+      <td rowspan="4" valign="top" width="21">
 
 2522 
 
 </td>
       <td valign="top" width="437">
 
-Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton, agglomérés, etc., la puissance installée du
-matériel vibrant étant : 
+Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de
+vibration, étant :
 
 </td>
       <td valign="top" width="32">
@@ -481,17 +546,15 @@ matériel vibrant étant :
     <tr>
       <td valign="top" width="437">
 
-1. supérieure à 200 kW 
+a) Supérieure à 400 kW 
 
 </td>
       <td valign="top" width="32">
 
-A
+E
 
 </td>
       <td valign="top" width="29">
-
-1
 
 </td>
       <td valign="top" width="155">
@@ -502,7 +565,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW 
+b) Supérieure à 40 kW, mais inférieure ou égale à 400 kW 
 
 </td>
       <td valign="top" width="32">
@@ -518,6 +581,17 @@ D
 
 </td>
     </tr>
+    <tr>
+      <td>
+
+Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td valign="top" width="21">
 
@@ -753,7 +827,7 @@ D
     <tr>
       <td valign="top" width="437">
 
-a) supérieure à 500 kg/j 
+a) supérieure à 500 kg / j 
 
 </td>
       <td valign="top" width="32">
@@ -3504,7 +3578,7 @@ A
 </td>
       <td valign="top" width="32">
 
-<sup>D</sup>
+D
 
 </td>
       <td valign="top" width="29">
@@ -3606,7 +3680,8 @@ D
       <td valign="top" width="437">
 
 Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de
-transport hors d'usage, la surface étant supérieure à 50 m².
+transport hors d'usage, la surface étant supérieure à 50 m
+          <sup>2</sup>.
 
 </td>
       <td valign="top" width="32">
@@ -3921,7 +3996,11 @@ La quantité susceptible d'être présente étant :
     <tr>
       <td>
       </td><td>
-      </td><td>1. Supérieure ou égale à 50 t</td>
+      </td><td>
+
+1. Supérieure ou égale à 50 t
+
+</td>
       <td>
 
 10
@@ -3931,7 +4010,11 @@ La quantité susceptible d'être présente étant :
     <tr>
       <td>
       </td><td>
-      </td><td>2. Inférieure à 50 t</td>
+      </td><td>
+
+2. Inférieure à 50 t
+
+</td>
       <td>
 
 3
@@ -4503,8 +4586,12 @@ A
       <td>
       </td><td>
       </td><td>
-      </td><td>1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de
-l'installation étant supérieure ou égale à 25 000 t</td>
+      </td><td>
+
+1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant
+supérieure ou égale à 25 000 t
+
+</td>
       <td align="center" valign="top">
 
 6
@@ -4515,8 +4602,12 @@ l'installation étant supérieure ou égale à 25 000 t</td>
       <td>
       </td><td>
       </td><td>
-      </td><td>2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant
-inférieure à 25 000 t</td>
+      </td><td>
+
+2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25
+000 t
+
+</td>
       <td align="center" valign="top">
 
 3
@@ -4667,7 +4758,11 @@ A
       </td><td>
       </td><td>
       </td><td>
-      </td><td>La capacité de traitement étant :</td>
+      </td><td>
+
+La capacité de traitement étant :
+
+</td>
       <td>
     </td></tr>
     <tr>
@@ -4878,7 +4973,11 @@ A
       </td><td>
       </td><td>
       </td><td>
-      </td><td>2. La quantité de matières et déchets traités étant :</td>
+      </td><td>
+
+2. La quantité de matières et déchets traités étant :
+
+</td>
       <td>
     </td></tr>
     <tr>
@@ -5252,7 +5351,11 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>1. La capacité de traitement étant :</td>
+      </td><td>
+
+1. La capacité de traitement étant :
+
+</td>
       <td>
     </td></tr>
     <tr>
@@ -6342,7 +6445,7 @@ de produits susceptible d'être mise en œuvre est :
 </td>
       <td valign="top" width="155">
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est : 
+2. La quantité maximale de produits susceptible d'être mise en œuvre est : 
 
 </td>
       <td valign="top" width="26">
@@ -6436,8 +6539,8 @@ DC
     <tr>
       <td valign="top" width="437">
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
-susceptible d'être mise en oeuvre est : 
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
+susceptible d'être mise en œuvre est : 
 
 </td>
       <td valign="top" width="32">
@@ -6676,4 +6779,4 @@ rubriques 2770 et 2771.
 
 _Modifié par_:
 
-  - Décret n°2010-1700 du 30 décembre 2010 - art.
+  - Décret n°2011-842 du 15 juillet 2011 - art.
