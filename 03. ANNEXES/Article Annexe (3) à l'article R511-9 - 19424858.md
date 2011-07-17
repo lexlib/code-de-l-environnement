@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table border="1" cellspacing="0" align="center" cellpadding="0">
+<table align="center" cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -468,9 +468,7 @@ D
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -648,20 +646,20 @@ a) supérieure ou égal à 10
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
+      <td align="left">
+      </td><td align="left">
 
 </td>
-      <td>
+      <td align="left">
 
 </td>
-      <td>
+      <td align="left">
 
 b) supérieure ou égal à 10
           <sup>4</sup>
 
 </td>
-      <td>
+      <td align="left">
 
 1
 
@@ -1076,14 +1074,14 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="12">
+      <td rowspan="14">
 
 2101
 
 </td>
       <td>
 
-Bovins (activité d'élevage, transit, vente, etc. de).
+Bovins (activité d'élevage, transit, vente, etc., de)
 
 </td>
       <td>
@@ -1096,8 +1094,11 @@ Bovins (activité d'élevage, transit, vente, etc. de).
     <tr>
       <td>
 
-1. élevage de veaux de boucherie et / ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence
-simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
+1. Elevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de
+
+bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion
+
+des rassemblements occasionnels :
 
 </td>
       <td>
@@ -1114,7 +1115,7 @@ simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occa
     <tr>
       <td>
 
-a) plus de 400 animaux
+a) Plus de 400 animaux
 
 </td>
       <td>
@@ -1135,7 +1136,7 @@ A
     <tr>
       <td>
 
-b) de 201 à 400 animaux
+b) De 201 à 400 animaux
 
 </td>
       <td>
@@ -1154,7 +1155,7 @@ DC
     <tr>
       <td>
 
-c) de 50 à 200 animaux
+c) De 50 à 200 animaux
 
 </td>
       <td>
@@ -1171,7 +1172,7 @@ D
     <tr>
       <td>
 
-2. élevage de vaches laitières et / ou mixtes :
+2. Elevage de vaches laitières (c'est-à-dire dont le lait est, au moins en partie, destiné à la consommation humaine) :
 
 </td>
       <td>
@@ -1188,7 +1189,7 @@ D
     <tr>
       <td>
 
-a) plus de 100 vaches
+a) Plus de 200 vaches
 
 </td>
       <td>
@@ -1207,27 +1208,12 @@ A
     <tr>
       <td>
 
-b) de 50 à 100 vaches
+b) De 151 à 200 vaches
 
 </td>
       <td>
 
-D
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. élevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
-
-</td>
-      <td>
+E
 
 </td>
       <td>
@@ -1239,7 +1225,22 @@ D
     <tr>
       <td>
 
-à partir de 100 vaches
+c) De 101 à 150 vaches
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+d) De 50 à 100 vaches
 
 </td>
       <td>
@@ -1254,7 +1255,37 @@ D
     <tr>
       <td>
 
-4. transit et vente de bovins, y compris les marchés et centres d'allotement, lorsque la présence des animaux est inférieure
+3. Elevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+- à partir de 100 vaches
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Transit et vente de bovins, y compris les marchés et centres d'allotement, lorsque la présence des animaux est inférieure
 ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 </td>
@@ -1272,7 +1303,7 @@ ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
     <tr>
       <td>
 
-Capacité égale ou supérieure à 50 places
+- capacité égale ou supérieure à 50 places
 
 </td>
       <td>
@@ -1602,9 +1633,7 @@ canard colvert = 1
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1693,7 +1722,7 @@ canard colvert = 1
     <tr>
       <td>
 
-11. palmipèdes gras en gavage = 7
+11; palmipèdes gras en gavage = 7
 
 </td>
       <td>
@@ -2388,7 +2417,7 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
     <tr>
       <td>
 
-1. supérieur à 5 t / j
+1. supérieur à 5 t/j
 
 </td>
       <td>
@@ -2403,7 +2432,7 @@ A
 </td>
       <td>
 
-a) supérieur à 100 t / j
+a) supérieur à 100 t/j
 
 </td>
       <td>
@@ -2422,7 +2451,7 @@ a) supérieur à 100 t / j
 </td>
       <td>
 
-b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
+b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 
 </td>
       <td>
@@ -2441,7 +2470,7 @@ b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
 </td>
       <td>
 
-c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
+c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
 
 </td>
       <td>
@@ -2453,7 +2482,7 @@ c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
     <tr>
       <td>
 
-2. supérieur à 500 kg / j, mais inférieur ou égal à 5 t / j
+2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
 
 </td>
       <td>
@@ -2499,7 +2528,7 @@ entrant étant :
     <tr>
       <td>
 
-1. supérieure à 10 t / j
+1. supérieure à 10 t/j
 
 </td>
       <td>
@@ -2514,7 +2543,7 @@ A
 </td>
       <td>
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 </td>
       <td>
@@ -2524,15 +2553,15 @@ a) supérieure à 200 t / j
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
-      <td>
+      <td align="left">
 
 1
 
@@ -2541,7 +2570,7 @@ b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
     <tr>
       <td>
 
-2. supérieure à 2 t / j, mais inférieure ou égale à 10 t / j
+2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
 
 </td>
       <td>
@@ -2605,7 +2634,7 @@ La quantité de produits entrant étant :
     <tr>
       <td>
 
-1. supérieure à 2 t / j
+1. supérieure à 2 t/j
 
 </td>
       <td>
@@ -2620,7 +2649,7 @@ A
 </td>
       <td>
 
-a) supérieure à 250 t / j
+a) supérieure à 250 t/j
 
 </td>
       <td>
@@ -2639,7 +2668,7 @@ a) supérieure à 250 t / j
 </td>
       <td>
 
-b) supérieure à 10 t / j, mais inférieure ou égale à 250 t / j
+b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
 
 </td>
       <td>
@@ -2651,7 +2680,7 @@ b) supérieure à 10 t / j, mais inférieure ou égale à 250 t / j
     <tr>
       <td>
 
-2. supérieure à 500 kg / j, mais inférieure ou égale à 2 t / j
+2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
 
 </td>
       <td>
@@ -2707,7 +2736,7 @@ La capacité de production étant :
 </td>
       <td>
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 </td>
       <td>
@@ -2726,7 +2755,7 @@ a) supérieure à 200 t / j
 </td>
       <td>
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
       <td>
@@ -2775,7 +2804,7 @@ La capacité de production étant :
 </td>
       <td>
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 </td>
       <td>
@@ -2794,7 +2823,7 @@ a) supérieure à 200 t / j
 </td>
       <td>
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
       <td>
@@ -2830,7 +2859,7 @@ La capacité journalière de traitement exprimée en litre de lait ou équivalen
     <tr>
       <td>
 
-1. supérieure à 70 000 l / j
+1. supérieure à 70 000 l/j
 
 </td>
       <td>
@@ -3307,7 +3336,7 @@ A
 </td>
       <td>
 
-1. La capacité de l'installation étant supérieure à 50 000 hl / an
+1. La capacité de l'installation étant supérieure à 50 000 hl/an
 
 </td>
       <td>
@@ -4600,7 +4629,7 @@ D
 </td>
       <td>
 
-Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
 
 </td>
       <td>
@@ -4645,8 +4674,8 @@ A
       <td>
 
 2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants
-consommée étant supérieure à 25 t / an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure
-à 1 000 l
+consommée étant supérieure à 25 t/an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à
+1 000 l
 
 </td>
       <td>
@@ -4724,7 +4753,7 @@ carbonisation étant :
     <tr>
       <td>
 
-a) supérieure à 100 m ³
+a) supérieure à 100 m³
 
 </td>
       <td>
@@ -4745,7 +4774,7 @@ A
     <tr>
       <td>
 
-b) inférieure ou égale à 100 m ³
+b) inférieure ou égale à 100 m³
 
 </td>
       <td>
@@ -5694,9 +5723,10 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans
 but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie
-d'extraction est inférieure à 500 m2 et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la
-quantité totale d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans
-ses propres champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
+d'extraction est inférieure à 500 m
+          <sup>2</sup> et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale
+d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres
+champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public
 
 </td>
       <td>
@@ -5771,7 +5801,7 @@ avec leurs matériaux d'origine.
       <td>
 
 lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et
-lorsque la quantité de matériaux à extraire est inférieure à 100 m ³ par an et que la quantité totale d'extraction n'excède
+lorsque la quantité de matériaux à extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction n'excède
 pas 500 m³
 
 </td>
@@ -5823,4 +5853,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-1700 du 30 décembre 2010 - art.
+  - Décret n°2011-842 du 15 juillet 2011 - art.
