@@ -247,7 +247,7 @@ capacité de stockage étant :
     <tr>
       <td valign="top" width="437">
 
-1. supérieure à 75 000 m³ 
+1. supérieure à 75 000 m ³ 
           <sup>
         </sup>
 
@@ -293,11 +293,8 @@ D
 </td>
       <td>
 
-Installation de production de béton prêt à l'emploi équipée d'un dispositif
-
-d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
-
-visées par la rubrique 2522. La capacité de malaxage étant :
+Installation de production de béton prêt à l'emploi équipée d'un dispositif d'alimentation en liants hydrauliques mécanisé, à
+l'exclusion des installations visées par la rubrique 2522. La capacité de malaxage étant :
 
 </td>
       <td>
@@ -311,9 +308,7 @@ visées par la rubrique 2522. La capacité de malaxage étant :
 2518
 
 </td>
-      <td>a) Supérieure à 3 m
-        <sup>3</sup>
-      </td>
+      <td>a) Supérieure à 3 m3</td>
       <td>
 
 E
@@ -327,8 +322,7 @@ E
       <td>
       </td><td>
 
-b) Inférieure ou égale à 3 m
-          <sup>3</sup>
+b) Inférieure ou égale à 3 m3
 
 </td>
       <td>
@@ -2008,7 +2002,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
+2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
 cuves de traitement étant : 
 
 </td>
@@ -2095,7 +2089,7 @@ DC
     <tr>
       <td valign="top" width="437">
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium 
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium 
 
 </td>
       <td valign="top" width="32">
@@ -2605,7 +2599,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
     <tr>
       <td valign="top" width="437">
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre
+1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre
 installation 
 
 </td>
@@ -3680,8 +3674,7 @@ D
       <td valign="top" width="437">
 
 Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de
-transport hors d'usage, la surface étant supérieure à 50 m
-          <sup>2</sup>.
+transport hors d'usage, la surface étant supérieure à 50 m².
 
 </td>
       <td valign="top" width="32">
@@ -4173,7 +4166,11 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>b) Supérieure ou égale à 1 t et inférieure à 50 t</td>
+      </td><td>
+
+b) Supérieure ou égale à 1 t et inférieure à 50 t
+
+</td>
       <td>
 
 3
@@ -5496,10 +5493,10 @@ Combustion à l'exclusion des installations visées par les rubriques 2770 et 22
     <tr>
       <td valign="top" width="437">
 
-A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul
-domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de
-la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de
-combustion, des matières entrantes, si la puissance thermique maximale de l'installation est :
+A. - Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du
+fioul domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres
+rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange
+avec les gaz de combustion, des matières entrantes, si la puissance thermique maximale de l'installation est : 
 
 </td>
       <td valign="top" width="32">
@@ -5605,8 +5602,8 @@ DC
     <tr>
       <td valign="top" width="437">
 
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique
-maximale de l'installation est supérieure à 0,1 MW
+B. - Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique
+maximale de l'installation est supérieure à 0,1 MW 
 
 </td>
       <td valign="top" width="32">
@@ -5689,8 +5686,8 @@ c) supérieure ou égale à 4 MW mais inférieure à 50 MW
     <tr>
       <td valign="top" width="437">
 
-C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la
-puissance thermique maximale de l'installation est supérieure à 0,1 MW :
+C. - Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si
+la puissance thermique maximale de l'installation est supérieure à 0,1 MW : 
 
 </td>
       <td valign="top" width="32">
@@ -5708,7 +5705,7 @@ puissance thermique maximale de l'installation est supérieure à 0,1 MW :
       <td valign="top" width="437">
 
 1. Lorsque le biogaz est produit par une installation soumise à autorisation, ou par plusieurs installations classées au
-titre de la rubrique 2781-1
+titre de la rubrique 2781-1 
 
 </td>
       <td valign="top" width="32">
@@ -5729,7 +5726,7 @@ A
     <tr>
       <td valign="top" width="437">
 
-2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1
+2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1 
 
 </td>
       <td valign="top" width="32">
@@ -5746,31 +5743,29 @@ E
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
 3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 DC
 
 </td>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td>
+      </td><td>
+      </td><td>
     </td></tr>
     <tr>
-      <td valign="top" width="437">
-
-Nota :
+      <td valign="top" width="437">Nota : 
 
 La puissance thermique maximale est définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être
 consommée par seconde. 
 
 La biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et n'est ni imprégnée ni revêtue d'une substance
 quelconque. Elle inclut le bois sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de poussières de
-ponçage ou de chutes issues de l'industrie du bois, de sa transformation ou de son artisanat.
+ponçage ou de chutes issues de l'industrie du bois, de sa transformation ou de son artisanat. 
 
 </td>
       <td valign="top" width="32">
@@ -6539,8 +6534,8 @@ DC
     <tr>
       <td valign="top" width="437">
 
-3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
-susceptible d'être mise en œuvre est : 
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
+susceptible d'être mise en oeuvre est : 
 
 </td>
       <td valign="top" width="32">
@@ -6606,9 +6601,9 @@ DC
 Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en
 tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point
 éclair inférieur à 55
-          <sup>o </sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
-à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55
-          <sup>o </sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont
+          <sup>o</sup> C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
+à base de liquides inflammables de 2 e catégorie (point éclair supérieur ou égal à 55
+          <sup>o</sup> C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont
 affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le
 classement sera égale à : Q = A + B/2. 
 
@@ -6764,6 +6759,92 @@ DC
 
 </td>
     </tr>
+    <tr>
+      <td align="left" valign="top">
+
+2980
+
+</td>
+      <td align="left" valign="top">
+
+Installation terrestre de production d'électricité à partir de l'énergie mécanique du vent et regroupant un ou plusieurs
+aérogénérateurs : 
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+1. Comprenant au moins un aérogénérateur dont le mât a une hauteur supérieure ou égale à 50 m 
+
+</td>
+      <td align="left" valign="top">
+
+A
+
+</td>
+      <td align="left" valign="top">
+
+6
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+2. Comprenant uniquement des aérogénérateurs dont le mât a une hauteur inférieure à 50 m et au moins un aérogénérateur dont
+le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissance totale installée : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+a) Supérieure ou égale à 20 MW 
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+6
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Inférieure à 20 MW 
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -6779,4 +6860,4 @@ rubriques 2770 et 2771.
 
 _Modifié par_:
 
-  - Décret n°2011-842 du 15 juillet 2011 - art.
+  - Décret n°2011-984 du 23 août 2011 - art.
