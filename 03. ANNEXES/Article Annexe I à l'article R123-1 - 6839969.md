@@ -247,9 +247,6 @@
 ┃                                                 │ c) terrains aménagés pour la pratique de sports ou loisirs motorisés    ┃
 ┃                                                 │ dont l'emprise totale est supérieure à 4 hectares.                      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 34° Travaux d'installation des ouvrages utili-  │ Travaux d'installation des ouvrages de production d'énergie éolienne    ┃
-┃ sant l'énergie éolienne.                        │ dont la hauteur du mât dépasse 50 mètres                                ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 35° Premiers boisements soumis à l'autorisation │ Premiers boisements d'un seul tenant portant sur une superficie d'au    ┃
 ┃ de l'article L. 126-1 du code rural et de la    │ moins 25 hectares.                                                      ┃
 ┃ pêche maritime.                                 │                                                                         ┃
@@ -271,19 +268,27 @@
 
 _Cite_:
 
-  - Loi n°65-498 du 29 juin 1965 (V)
-  - Décret n°65-881 du 18 octobre 1965 - art. 1 (V)
-  - Loi n°85-30 du 9 janvier 1985 - art. 3 (M)
-  - Décret n°2006-649 du 2 juin 2006 (V)
-  - Décret n°2007-830 du 11 mai 2007 (V)
-  - Code rural - art. L126-1 (V)
-  - Code forestier - art. L311-1 (V)
-  - Code forestier - art. L312-1 (V)
-  - Code forestier - art. R412-19 (V)
-  - Code de la santé publique - art. R1416-3 (M)
-  - Code de l'urbanisme - art. L146-4 (V)
-  - Code de l'urbanisme - art. L146-6 (V)
-  - Code de l'environnement - art. L123-1 (V)
-  - Code de l'environnement - art. L321-2 (V)
-  - Code de l'environnement - art. R421-19 (V)
-  - Code de l'aviation civile - art. R227-7 (V)
+  - Loi n°65-498 du 29 juin 1965
+  - Décret n°65-881 du 18 octobre 1965 - art. 1
+  - Loi n°85-30 du 9 janvier 1985 - art. 3
+  - Décret n°2006-649 du 2 juin 2006
+  - Décret n°2007-830 du 11 mai 2007
+  - Code rural - art. L126-1
+  - Code forestier - art. L311-1
+  - Code forestier - art. L312-1
+  - Code forestier - art. R412-19
+  - Code de la santé publique - art. R1416-3
+  - Code de l'urbanisme - art. L146-4
+  - Code de l'urbanisme - art. L146-6
+  - Code de l'environnement - art. L123-1
+  - Code de l'environnement - art. L321-2
+  - Code de l'environnement - art. R421-19
+  - Code de l'aviation civile - art. R227-7
+
+_Modifié par_:
+
+  - Décret n°2011-984 du 23 août 2011 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2011-2018 du 29 décembre 2011 - art. 2
