@@ -247,7 +247,7 @@ capacité de stockage étant :
     <tr>
       <td valign="top" width="437">
 
-1. supérieure à 75 000 m ³ 
+1. supérieure à 75 000 m³ 
           <sup>
         </sup>
 
@@ -308,7 +308,9 @@ l'exclusion des installations visées par la rubrique 2522. La capacité de mala
 2518
 
 </td>
-      <td>a) Supérieure à 3 m3</td>
+      <td>a) Supérieure à 3 m
+        <sup>3</sup>
+      </td>
       <td>
 
 E
@@ -322,7 +324,8 @@ E
       <td>
       </td><td>
 
-b) Inférieure ou égale à 3 m3
+b) Inférieure ou égale à 3 m
+          <sup>3</sup>
 
 </td>
       <td>
@@ -1975,7 +1978,7 @@ nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
     <tr>
       <td valign="top" width="437">
 
-1. Lorsqu'il y a mise en œuvre de cadmium 
+1. Lorsqu'il y a mise en oeuvre de cadmium 
 
 </td>
       <td valign="top" width="32">
@@ -2089,7 +2092,7 @@ DC
     <tr>
       <td valign="top" width="437">
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium 
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium 
 
 </td>
       <td valign="top" width="32">
@@ -2448,8 +2451,10 @@ A
 3
 
 </td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
+      <td valign="top" width="155">1. Quelle que soit la capacité </td>
+      <td valign="top" width="26">
+
+6
 
 </td>
     </tr>
@@ -2469,8 +2474,12 @@ A
 2
 
 </td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
+      <td valign="top" width="155">2. Quelle que soit la capacité 
+
+</td>
+      <td valign="top" width="26">
+
+2
 
 </td>
     </tr>
@@ -2599,7 +2608,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
     <tr>
       <td valign="top" width="437">
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre
+1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre
 installation 
 
 </td>
@@ -3249,7 +3258,7 @@ Quelle que soit la capacité
 </td>
       <td valign="top" width="437">
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou
+Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou
 commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une
 autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues
 par cette autorisation de mise sur le marché 
@@ -4166,11 +4175,7 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-b) Supérieure ou égale à 1 t et inférieure à 50 t
-
-</td>
+      </td><td>b) Supérieure ou égale à 1 t et inférieure à 50 t</td>
       <td>
 
 3
@@ -5359,7 +5364,11 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>a) Supérieure ou égale à 50 t/j</td>
+      </td><td>
+
+a) Supérieure ou égale à 50 t/j
+
+</td>
       <td>
 
 6
@@ -5370,7 +5379,11 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j</td>
+      </td><td>
+
+b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
+
+</td>
       <td>
 
 3
@@ -5381,7 +5394,11 @@ DC
       <td>
       </td><td>
       </td><td>
-      </td><td>2. Non soumis à la taxe</td>
+      </td><td>
+
+2. Non soumis à la taxe
+
+</td>
       <td>
 
 -
@@ -6535,7 +6552,7 @@ DC
       <td valign="top" width="437">
 
 3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
-susceptible d'être mise en oeuvre est : 
+susceptible d'être mise en œuvre est : 
 
 </td>
       <td valign="top" width="32">
@@ -6598,11 +6615,11 @@ DC
     <tr>
       <td valign="top" width="437">
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en
+Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en
 tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point
 éclair inférieur à 55
           <sup>o</sup> C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
-à base de liquides inflammables de 2 e catégorie (point éclair supérieur ou égal à 55
+à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55
           <sup>o</sup> C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont
 affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le
 classement sera égale à : Q = A + B/2. 
@@ -6860,4 +6877,4 @@ rubriques 2770 et 2771.
 
 _Modifié par_:
 
-  - Décret n°2011-984 du 23 août 2011 - art.
+  - Décret n°2011-1563 du 17 novembre 2011 - art.
