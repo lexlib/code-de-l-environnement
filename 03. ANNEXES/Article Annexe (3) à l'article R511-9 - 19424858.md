@@ -646,20 +646,20 @@ a) supérieure ou égal à 10
 </td>
     </tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
+      <td>
+      </td><td>
 
 </td>
-      <td align="left">
+      <td>
 
 </td>
-      <td align="left">
+      <td>
 
 b) supérieure ou égal à 10
           <sup>4</sup>
 
 </td>
-      <td align="left">
+      <td>
 
 1
 
@@ -1722,7 +1722,7 @@ canard colvert = 1
     <tr>
       <td>
 
-11; palmipèdes gras en gavage = 7
+11. palmipèdes gras en gavage = 7
 
 </td>
       <td>
@@ -2417,7 +2417,7 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
     <tr>
       <td>
 
-1. supérieur à 5 t/j
+1. supérieur à 5 t / j
 
 </td>
       <td>
@@ -2432,7 +2432,7 @@ A
 </td>
       <td>
 
-a) supérieur à 100 t/j
+a) supérieur à 100 t / j
 
 </td>
       <td>
@@ -2451,7 +2451,7 @@ a) supérieur à 100 t/j
 </td>
       <td>
 
-b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
+b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
 
 </td>
       <td>
@@ -2470,7 +2470,7 @@ b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 </td>
       <td>
 
-c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
+c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
 
 </td>
       <td>
@@ -2482,7 +2482,7 @@ c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
     <tr>
       <td>
 
-2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
+2. supérieur à 500 kg / j, mais inférieur ou égal à 5 t / j
 
 </td>
       <td>
@@ -2528,7 +2528,7 @@ entrant étant :
     <tr>
       <td>
 
-1. supérieure à 10 t/j
+1. supérieure à 10 t / j
 
 </td>
       <td>
@@ -2543,7 +2543,7 @@ A
 </td>
       <td>
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 </td>
       <td>
@@ -2558,7 +2558,7 @@ a) supérieure à 200 t/j
       </td><td align="left">
       </td><td align="left">
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 </td>
       <td align="left">
@@ -2570,7 +2570,7 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
     <tr>
       <td>
 
-2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
+2. supérieure à 2 t / j, mais inférieure ou égale à 10 t / j
 
 </td>
       <td>
@@ -2594,7 +2594,7 @@ DC
 </td>
       <td>
 
-Alimentaires (préparation ou conservation de produits) d'origine animale, par découpage, cuisson, appertisation, surgélation,
+Préparation ou conservation de produits alimentaires d'origine animale, par découpage, cuisson, appertisation, surgélation,
 congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du
 lait et des corps gras, mais y compris les aliments pour les animaux de compagnie.
 
@@ -2613,13 +2613,17 @@ lait et des corps gras, mais y compris les aliments pour les animaux de compagni
     <tr>
       <td>
 
-La quantité de produits entrant étant :
+A. - Installations dont les activités sont classées au titre de la rubrique 3642
 
 </td>
       <td>
 
+A
+
 </td>
       <td>
+
+3
 
 </td>
       <td>
@@ -2634,17 +2638,13 @@ La quantité de produits entrant étant :
     <tr>
       <td>
 
-1. supérieure à 2 t/j
+B. - Autres installations que celles visées au A, la quantité de produits entrant étant :
 
 </td>
       <td>
 
-A
-
 </td>
       <td>
-
-1
 
 </td>
       <td>
@@ -2660,7 +2660,28 @@ a) supérieure à 250 t/j
     </tr>
     <tr>
       <td>
+
+- supérieure à 2 t/j
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
       </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+- supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
+
+</td>
+      <td>
+
+D
 
 </td>
       <td>
@@ -2674,25 +2695,6 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
       <td>
 
 1
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
 
 </td>
     </tr>
@@ -2736,7 +2738,7 @@ La capacité de production étant :
 </td>
       <td>
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 </td>
       <td>
@@ -2755,7 +2757,7 @@ a) supérieure à 200 t/j
 </td>
       <td>
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 </td>
       <td>
@@ -2804,7 +2806,7 @@ La capacité de production étant :
 </td>
       <td>
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 </td>
       <td>
@@ -2823,7 +2825,7 @@ a) supérieure à 200 t/j
 </td>
       <td>
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 </td>
       <td>
@@ -2859,7 +2861,7 @@ La capacité journalière de traitement exprimée en litre de lait ou équivalen
     <tr>
       <td>
 
-1. supérieure à 70 000 l/j
+1. supérieure à 70 000 l / j
 
 </td>
       <td>
@@ -3336,7 +3338,7 @@ A
 </td>
       <td>
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+1. La capacité de l'installation étant supérieure à 50 000 hl / an
 
 </td>
       <td>
@@ -3625,7 +3627,7 @@ D
 </td>
       <td>
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 </td>
       <td>
@@ -4184,7 +4186,7 @@ A
     <tr>
       <td>
 
-2. supérieure à 0, 5 kg et inférieure ou égale à 50 kg
+2. supérieure à 0,5 kg et inférieure ou égale à 50 kg
 
 </td>
       <td>
@@ -4629,7 +4631,7 @@ D
 </td>
       <td>
 
-Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
 
 </td>
       <td>
@@ -5640,8 +5642,8 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets
 d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour
-l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m2
-          <sup> </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
+l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m
+          <sup>2</sup> ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
 
 </td>
       <td>
@@ -5853,4 +5855,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2011-842 du 15 juillet 2011 - art.
+  - Décret n°2012-384 du 20 mars 2012 - art. 1

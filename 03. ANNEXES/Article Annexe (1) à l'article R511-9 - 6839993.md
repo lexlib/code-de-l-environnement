@@ -281,8 +281,12 @@ Le classement des préparations ou mélanges dangereux résulte :
 </td>
     </tr>
     <tr>
-      <td>Les préparations ou mélanges dangereux sont classés suivant les dispositions de l'arrêté du 9 novembre 2004 modifié
-relatif à la classification, l'étiquetage et l'emballage des préparations dangereuses.</td>
+      <td>
+
+Les préparations ou mélanges dangereux sont classés suivant les dispositions de l'arrêté du 9 novembre 2004 modifié relatif à
+la classification, l'étiquetage et l'emballage des préparations dangereuses.
+
+</td>
     </tr>
     <tr>
       <td valign="top" width="433">
@@ -310,8 +314,10 @@ concentration.
 </td>
     </tr>
     <tr>
-      <td>Pour ses propriétés environnementales, une préparation ou un mélange dangereux pour l'environnement est classé par
-son fabricant : 
+      <td>
+
+Pour ses propriétés environnementales, une préparation ou un mélange dangereux pour l'environnement est classé par son
+fabricant : 
 
 - soit, par des essais effectués directement sur la préparation ou le mélange en appliquant les méthodes du règlement n°
 440/2008 susmentionné ; 
@@ -1353,6 +1359,192 @@ D
 </td>
     </tr>
     <tr>
+      <td align="left" rowspan="12" valign="top">
+
+1132
+
+</td>
+      <td align="left" valign="top">
+
+Toxiques présentant des risques d'effets graves pour la santé en cas d'exposition prolongée (fabrication industrielle, emploi
+ou stockage de substances et mélanges).
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td>
+
+A. - Fabrication industrielle
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+B. - Emploi ou stockage
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Substances et mélanges solides ; la quantité totale susceptible d'être présente dans l'installation étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieure ou égale à 50 t
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+1
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Substances et mélanges liquides ; la quantité totale susceptible d'être présente dans l'installation étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieure ou égale à 10 t
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+1
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieure ou égale à 1 t, mais inférieure à 10 t
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Gaz ou gaz liquéfiés ; la quantité totale susceptible d'être présente dans l'installation étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieure ou égale à 2 t
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
       <td rowspan="4" valign="top" width="21">
 
 1135 
@@ -1364,9 +1556,7 @@ Ammoniac (fabrication industrielle de l')
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
+      </td><td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -3269,33 +3459,33 @@ La quantité totale de l'une de ces substances et mélanges en contenant suscept
       </td><td align="left" valign="top">
 
 1. La quantité totale de l'un de ces produits (à des concentrations en poids supérieures à 5 %) susceptible d'être présente
-dans l'installation étant :
+dans l'installation étant : 
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
 a) Supérieure ou égale à 2 t 
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 AS
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 6
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 a) supérieure ou égale à 2 t 
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 10
 
@@ -3359,9 +3549,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3390,27 +3578,29 @@ a) supérieure ou égale à 10 kg
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 b) Supérieure ou égale à 2 kg, mais inférieure à 10 kg 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 3
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 b) supérieure ou égale à 2 kg, mais inférieure à 10 kg 
 
 </td>
-      <td align="center">6
+      <td align="left" valign="top">
+
+6
 
 </td>
     </tr>
@@ -3445,9 +3635,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 </td>
       <td>3. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3527,9 +3715,7 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 </td>
       <td>4. La quantité totale susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3654,7 +3840,11 @@ A
 3
 
 </td>
-      <td>b) supérieure ou égale à 200 kg, mais inférieure à 1 t </td>
+      <td>
+
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t 
+
+</td>
       <td align="center">6
 
 </td>
@@ -3732,7 +3922,11 @@ A
 3
 
 </td>
-      <td>b) supérieure ou égale à 200 kg, mais inférieure à 1 t</td>
+      <td>
+
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+</td>
       <td align="center">6
 
 </td>
@@ -3772,9 +3966,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3791,7 +3983,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 2 t </td>
+      <td>
+
+a) supérieure ou égale à 2 t 
+
+</td>
       <td>
 
 10
@@ -3848,7 +4044,11 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
       <td>
 
 </td>
-      <td>8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : </td>
+      <td>
+
+8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : 
+
+</td>
       <td align="center">
 
 </td>
@@ -3869,7 +4069,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 20 t </td>
+      <td>
+
+a) supérieure ou égale à 20 t 
+
+</td>
       <td>
 
 10
@@ -3892,7 +4096,11 @@ A
 3
 
 </td>
-      <td>b) supérieure ou égale à 10 t, mais inférieure à 20 t </td>
+      <td>
+
+b) supérieure ou égale à 10 t, mais inférieure à 20 t 
+
+</td>
       <td align="center">6
 
 </td>
@@ -3926,7 +4134,11 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
       <td>
 
 </td>
-      <td>9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : </td>
+      <td>
+
+9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : 
+
+</td>
       <td align="center">
 
 </td>
@@ -3947,7 +4159,11 @@ AS
 6 
 
 </td>
-      <td>a) supérieure ou égale à 50 t </td>
+      <td>
+
+a) supérieure ou égale à 50 t 
+
+</td>
       <td>
 
 10
@@ -4097,9 +4313,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
       <td>
 
 </td>
-      <td>
-
-11. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+      <td>11. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 </td>
       <td align="center">
@@ -5016,7 +5230,7 @@ A
 
 Organohalogénés (emploi ou stockage de liquides) pour la mise en solution, l'extraction, etc., à l'exclusion du nettoyage à
 sec visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 et des substances
-ou mélanges classés dans une rubriques comportant un seuil AS. 
+ou mélanges classés dans une rubriques comportant un seuil AS.
 
 </td>
       <td valign="top" width="31">
@@ -5027,13 +5241,11 @@ ou mélanges classés dans une rubriques comportant un seuil AS.
 </td>
       <td valign="top" width="148">
       </td><td valign="top" width="33">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td align="left" valign="top">
 
-La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant : 
+La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
 
 </td>
       <td align="left" valign="top">
@@ -5073,19 +5285,15 @@ a) supérieure ou égale à 25 000 l
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
 
 b) supérieure ou égale à 5 000 l, mais inférieure à 25 000 l 
 
 </td>
-      <td align="left" valign="top">
-
-1
-
-</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td valign="top" width="433">
@@ -5536,9 +5744,13 @@ substances visées nominativement ou par famille par d'autres rubriques :
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">1. Fabrication.
+      <td align="left" valign="top">
 
-La quantité totale susceptible d'être présente dans l'installation étant :</td>
+1. Fabrication.
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+</td>
       <td align="left" valign="top">
       </td><td align="left" valign="top">
       </td><td align="left" valign="top">
@@ -5549,23 +5761,27 @@ La quantité totale susceptible d'être présente dans l'installation étant :</
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 a) Supérieure ou égale à 200 t 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 AS
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 6
 
 </td>
-      <td>a) supérieure ou égale à 200 t </td>
-      <td>
+      <td align="left" valign="top">
+
+a) supérieure ou égale à 200 t 
+
+</td>
+      <td align="left" valign="top">
 
 10
 
@@ -5677,9 +5893,7 @@ D
 
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -6735,9 +6949,7 @@ c) Inférieure à 100 kg
 </td>
       <td valign="top" width="31">
 
-DC
-
-</td>
+DC</td>
       <td valign="top" width="34">
 
 </td>
@@ -6783,21 +6995,17 @@ a) Supérieure ou égale à 100 kg
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-
-b) Inférieure à 100 kg
-
-</td>
-      <td align="left" valign="top">
+      <td>b) Inférieure à 100 kg</td>
+      <td>
 
 DC
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 </td>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td>
+      </td><td>
     </td></tr>
     <tr>
       <td valign="top" width="433">
@@ -6971,9 +7179,7 @@ DC
       </td><td>
     </td></tr>
     <tr>
-      <td valign="top" width="433">
-
-Nota : 
+      <td valign="top" width="433">Nota : 
 
 (1) Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et
 en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation
@@ -7255,4 +7461,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1563 du 17 novembre 2011 - art.
+  - Décret n°2012-384 du 20 mars 2012 - art. 1
