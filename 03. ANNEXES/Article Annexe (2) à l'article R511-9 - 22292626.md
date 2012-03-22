@@ -30,9 +30,9 @@
 ┃      │ d'ammonium est :                                             │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ - comprise entre 24,5 % et 28 % en poids et qui contiennent  │       │        │                            │       ┃
-┃      │ au plus 0, 4 % de substances combustibles ;                  │       │        │                            │       ┃
+┃      │ au plus 0,4 % de substances combustibles ;                   │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ - supérieure à 28 % en poids et qui contiennent au plus 0, 2 │       │        │                            │       ┃
+┃      │ - supérieure à 28 % en poids et qui contiennent au plus 0,2  │       │        │                            │       ┃
 ┃      │ % de substances combustibles.                                │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │ 1. La quantité totale sus- │       ┃
@@ -73,7 +73,7 @@
 ┃      │ I.-Engrais composés à base de nitrate d'ammonium suscep-     │       │        │                            │       ┃
 ┃      │ tibles de subir une décomposition auto-entretenue (un en-    │       │        │                            │       ┃
 ┃      │ grais composé contient du nitrate d'ammonium avec du phos-   │       │        │                            │       ┃
-┃      │ phate et/ou de la potasse) dans lesquels la teneur en azote  │       │        │                            │       ┃
+┃      │ phate et/ ou de la potasse) dans lesquels la teneur en azote │       │        │                            │       ┃
 ┃      │ due au nitrate d'ammonium est :                              │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ - de 15,75 % en poids ou moins sans limitation de teneur en  │       │        │                            │       ┃
@@ -93,7 +93,7 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ II.-Engrais simples et composés solides à base de nitrate    │       │        │                            │       ┃
 ┃      │ d'ammonium (un engrais composé contient du nitrate d'ammo-   │       │        │                            │       ┃
-┃      │ nium avec du phosphate et /ou de la potasse) dans lesquels   │       │        │                            │       ┃
+┃      │ nium avec du phosphate et/ ou de la potasse) dans lesquels   │       │        │                            │       ┃
 ┃      │ la teneur en azote due au nitrate d'ammonium est :           │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ - supérieure à 24,5 % en poids, et qui sont conformes aux    │       │        │                            │       ┃
@@ -137,7 +137,7 @@
 ┃      │ (ex : ammonitrates). En conséquence, les engrais azotés non  │       │        │                            │       ┃
 ┃      │ à base de nitrates (ex : urée) ne sont pas comptabilisés.    │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2.L'identification d'un engrais à base de nitrate peut se    │       │        │                            │       ┃
+┃      │ 2. L'identification d'un engrais à base de nitrate peut se   │       │        │                            │       ┃
 ┃      │ faire par la mention de l'azote nitrique dans les documents  │       │        │                            │       ┃
 ┃      │ commerciaux.                                                 │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
@@ -149,7 +149,7 @@
 ┃      │ grais solides simples à base de nitrate d'ammonium dans les- │       │        │                            │       ┃
 ┃      │ quels la teneur en azote due au nitrate d'ammonium est com-  │       │        │                            │       ┃
 ┃      │ prise entre 24,5 % et 28 % et les matières inertes ajoutées  │       │        │                            │       ┃
-┃      │ sont du type dolomie, calcaire et/ou carbonate de calcium    │       │        │                            │       ┃
+┃      │ sont du type dolomie, calcaire et/ ou carbonate de calcium   │       │        │                            │       ┃
 ┃      │ dont la pureté est d'au moins 90 %.                          │       │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1332 │ Nitrate d'ammonium : matières hors spécifications ou pro-    │       │        │                            │       ┃
@@ -637,41 +637,51 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. supérieure ou égale à 2 t, mais inférieure à 20 t         │ D     │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1523 │ Soufre (fabrication industrielle, fusion et distillation,    │       │        │                            │       ┃
-┃      │ emploi et stockage)                                          │       │        │                            │       ┃
+┃ 1523 │ Soufre et mélanges à teneur en soufre supérieure à 70 % (fa- │       │        │                            │       ┃
+┃      │ brication industrielle, fusion, distillation, emploi, sto-   │       │        │                            │       ┃
+┃      │ ckage)                                                       │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ A. Fabrication industrielle, transformation et distillation. │ A     │ 2      │ A. La quantité totale sus- │ 3     ┃
-┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │ ceptible d'être présente   │       ┃
-┃      │ tallation étant supérieure ou égale à 2,5 t                  │       │        │ dans l'installation étant  │       ┃
+┃      │ A.1. Fabrication industrielle de soufre                      │ A     │ 2      │ A. La quantité totale sus- │ 3     ┃
+┃      │                                                              │       │        │ ceptible d'être présente   │       ┃
+┃      │                                                              │       │        │ dans l'installation étant  │       ┃
 ┃      │                                                              │       │        │ supérieure ou égale à 2,5  │       ┃
 ┃      │                                                              │       │        │ t                          │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ B. Fusion. Le fondoir ayant une capacité supérieure ou égale │ D     │        │ B. Non soumis à la taxe    │       ┃
-┃      │ à 1 t                                                        │       │        │                            │       ┃
+┃      │ A.2. Transformation ou distillation de soufre                │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ C. Emploi et stockage                                        │       │        │                            │       ┃
+┃      │ La quantité totale susceptible d'être présente dans l'ins-   │ A     │ 2      │                            │       ┃
+┃      │ tallation étant supérieure ou égale à 2,5 t                  │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 1. Soufre solide pulvérulent dont l'énergie minimale d'in-   │       │        │ C. La quantité totale sus- │       ┃
-┃      │ flammation est inférieure ou égale à 100 mJ.                 │       │        │ ceptible d'être présente   │       ┃
-┃      │                                                              │       │        │ dans l'installation        │       ┃
+┃      │ B. - Fusion de soufre.                                       │       │        │ B. Non soumis à la taxe    │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ Le fondoir ayant une capacité supérieure ou égale à 1 t      │ D     │        │                            │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ C. - Stockage ou emploi de soufre et mélanges à teneur en    │       │        │                            │       ┃
+┃      │ soufre supérieure à 70 %.                                    │       │        │                            │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ 1. Stockage en vrac ou emploi de produits pulvérulents dont  │       │        │ C. La quantité totale sus- │       ┃
+┃      │ l'énergie minimale d'inflammation est inférieure ou égale à  │       │        │ ceptible d'être présente   │       ┃
+┃      │ 100 mJ.                                                      │       │        │ dans l'installation        │       ┃
 ┃      │                                                              │       │        │ étant :                    │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │                            │       ┃
 ┃      │ tallation étant :                                            │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ a) supérieure ou égale à 2,5 t                               │ A     │ 2      │ 1. supérieure ou égal à    │ 3     ┃
+┃      │ a) Supérieure ou égale à 2,5 t                               │ A     │ 2      │ 1. supérieure ou égal à    │ 3     ┃
 ┃      │                                                              │       │        │ 2,5 t                      │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ b) supérieure ou égale à 500 kg, mais inférieure à 2,5 t     │ D     │        │                            │       ┃
+┃      │ b) Supérieure ou égale à 500 kg, mais inférieure à 2,5 t     │ D     │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2. Soufre solide autre que celui cité en C1 et soufre sous   │       │        │                            │       ┃
-┃      │ forme liquide. La quantité totale susceptible d'être pré-    │       │        │                            │       ┃
-┃      │ sente dans l'installation étant :                            │       │        │                            │       ┃
+┃      │ 2. Stockage ou emploi de produits autres que ceux cités en   │       │        │                            │       ┃
+┃      │ C.1.                                                         │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ a) supérieure ou égale à 500 t                               │ A     │ 2      │ 2. supérieure ou égale à   │ 3     ┃
+┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │                            │       ┃
+┃      │ tallation étant :                                            │       │        │                            │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ a) Supérieure ou égale à 500 t                               │ A     │ 2      │ 2. supérieure ou égale à   │ 3     ┃
 ┃      │                                                              │       │        │ 500 t                      │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ b) supérieure ou égale à 50 t, mais inférieure à 500 t       │ D     │        │                            │       ┃
+┃      │ b) Supérieure ou égale à 50 t, mais inférieure à 500 t       │ D     │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1525 │ Dépôts d'allumettes chimiques à l'exception de celles non    │       │        │                            │       ┃
 ┃      │ dites de sûreté qui sont visées à la rubrique 1450           │       │        │                            │       ┃
@@ -731,4 +741,4 @@
 
 _Modifié par_:
 
-  - Décret n°2010-1700 du 30 décembre 2010 - art.
+  - Décret n°2012-384 du 20 mars 2012 - art. 1
