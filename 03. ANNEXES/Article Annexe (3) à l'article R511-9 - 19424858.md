@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellspacing="0" align="center" border="1" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -549,7 +549,7 @@ Règles de classement :
       <td>
 
 1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors
-qu'elles sont mises en œuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à
+qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à
 autorisation au titre d'une autre rubrique de la nomenclature.
 
 </td>
@@ -2083,14 +2083,14 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="3">
+      <td rowspan="8">
 
 2160
 
 </td>
       <td>
 
-Silos et installations de stockage de céréales, grains, produits alimentaires ou tout produit organique dégageant des
+Silos et installations de stockage en vrac de céréales, grains, produits alimentaires ou tout produit organique dégageant des
 poussières inflammables, y compris les stockages sous tente ou structure gonflable.
 
 </td>
@@ -2108,17 +2108,26 @@ poussières inflammables, y compris les stockages sous tente ou structure gonfla
     <tr>
       <td>
 
-a) si le volume total de stockage est supérieur à 15 000 m³
+1. Silos plats :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Si le volume total de stockage est supérieur à 15 000 m³
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
-
-3
 
 </td>
       <td>
@@ -2129,7 +2138,7 @@ A
     <tr>
       <td>
 
-b) si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
+b) Si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
 
 </td>
       <td>
@@ -2145,6 +2154,62 @@ DC
 
 </td>
     </tr>
+    <tr>
+      <td>
+
+2. Autres installations :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Si le volume total de stockage est supérieur à 15 000 m³
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Les critères caractérisant les termes silo, silo plat, tente et structure gonflable sont précisés par arrêtés ministériels.
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="3">
 
@@ -2558,7 +2623,7 @@ a) supérieure à 200 t / j
       </td><td align="left">
       </td><td align="left">
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
       <td align="left">
@@ -2583,9 +2648,7 @@ DC
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td rowspan="5">
 
@@ -3117,14 +3180,14 @@ capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capa
 </td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td rowspan="5">
 
 2251
 
 </td>
       <td>
 
-Vins (préparation, conditionnement de)
+Préparation, conditionnement de vins.
 
 </td>
       <td>
@@ -3141,24 +3204,7 @@ Vins (préparation, conditionnement de)
     <tr>
       <td>
 
-La capacité de production étant :
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. supérieure à 20 000 hl/an
+A. Installations dont les activités sont classées au titre de la rubrique 3642.
 
 </td>
       <td>
@@ -3168,7 +3214,37 @@ A
 </td>
       <td>
 
-1
+3
+
+</td>
+      <td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+B. Autres installations que celles visées au A, la capacité de production étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Supérieure à 20 000 hl/ an
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
 
 </td>
       <td>
@@ -3185,7 +3261,7 @@ A
     <tr>
       <td>
 
-2. supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
+2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
 
 </td>
       <td>
@@ -4254,9 +4330,7 @@ La capacité de production étant :
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 </td>
       <td>
@@ -4676,8 +4750,8 @@ A
       <td>
 
 2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants
-consommée étant supérieure à 25 t/an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à
-1 000 l
+consommée étant supérieure à 25 t / an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure
+à 1 000 l
 
 </td>
       <td>
@@ -5435,7 +5509,7 @@ deux.
 </td>
     </tr>
     <tr>
-      <td rowspan="20">
+      <td rowspan="19">
 
 2510
 
@@ -5557,8 +5631,8 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions
 bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
 matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits
-et lorsque la superficie d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à extraire est
-supérieure à 2 000 t
+et lorsque la superficie d'affouillement est supérieure à 1 000 m
+          <sup>2</sup> ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 </td>
       <td>
@@ -5822,17 +5896,6 @@ DC
 
 </td>
     </tr>
-    <tr>
-      <td>
-      </td><td>
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-
-</td>
-    </tr>
   </tbody>
 </table>
 
@@ -5855,4 +5918,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-384 du 20 mars 2012 - art. 1
+  - Décret n°2012-1304 du 26 novembre 2012 - art.
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2012-1304 du 26 novembre 2012, v. init.
