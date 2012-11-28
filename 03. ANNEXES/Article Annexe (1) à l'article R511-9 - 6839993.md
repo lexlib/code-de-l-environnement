@@ -3635,7 +3635,9 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 </td>
       <td>3. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
-    </td></tr>
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -3715,7 +3717,9 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 </td>
       <td>4. La quantité totale susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
-    </td></tr>
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -3966,7 +3970,9 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 </td>
       <td align="center">
-    </td></tr>
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -3983,11 +3989,7 @@ AS
 6
 
 </td>
-      <td>
-
-a) supérieure ou égale à 2 t 
-
-</td>
+      <td>a) supérieure ou égale à 2 t </td>
       <td>
 
 10
@@ -4044,11 +4046,7 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
       <td>
 
 </td>
-      <td>
-
-8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : 
-
-</td>
+      <td>8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
 
 </td>
@@ -4069,11 +4067,7 @@ AS
 6
 
 </td>
-      <td>
-
-a) supérieure ou égale à 20 t 
-
-</td>
+      <td>a) supérieure ou égale à 20 t </td>
       <td>
 
 10
@@ -4096,11 +4090,7 @@ A
 3
 
 </td>
-      <td>
-
-b) supérieure ou égale à 10 t, mais inférieure à 20 t 
-
-</td>
+      <td>b) supérieure ou égale à 10 t, mais inférieure à 20 t </td>
       <td align="center">6
 
 </td>
@@ -4134,11 +4124,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
       <td>
 
 </td>
-      <td>
-
-9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : 
-
-</td>
+      <td>9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
 
 </td>
@@ -4159,11 +4145,7 @@ AS
 6 
 
 </td>
-      <td>
-
-a) supérieure ou égale à 50 t 
-
-</td>
+      <td>a) supérieure ou égale à 50 t </td>
       <td>
 
 10
@@ -4399,12 +4381,8 @@ Oxydes d'azote autres que l'hémioxyde d'azote (emploi ou stockage des)
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="34">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -5230,7 +5208,7 @@ A
 
 Organohalogénés (emploi ou stockage de liquides) pour la mise en solution, l'extraction, etc., à l'exclusion du nettoyage à
 sec visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 et des substances
-ou mélanges classés dans une rubriques comportant un seuil AS.
+ou mélanges classés dans une rubriques comportant un seuil AS. 
 
 </td>
       <td valign="top" width="31">
@@ -5241,18 +5219,20 @@ ou mélanges classés dans une rubriques comportant un seuil AS.
 </td>
       <td valign="top" width="148">
       </td><td valign="top" width="33">
-    </td></tr>
+
+</td>
+    </tr>
     <tr>
       <td align="left" valign="top">
 
-La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
+La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant : 
 
 </td>
       <td align="left" valign="top">
       </td><td align="left" valign="top">
       </td><td align="left" valign="top">
 
-1. La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
+1. La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant : 
 
 </td>
       <td align="left" valign="top">
@@ -5514,14 +5494,15 @@ marché, l'utilisation et l'élimination des PCB et PCT.
 </td>
     </tr>
     <tr>
-      <td rowspan="10" valign="top" width="21">
+      <td rowspan="14" valign="top" width="21">
 
 1185 
 
 </td>
       <td valign="top" width="433">
 
-Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés 
+Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées
+par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage). 
 
 </td>
       <td valign="top" width="31">
@@ -5538,8 +5519,11 @@ Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
     <tr>
       <td valign="top" width="433">
 
-1. Conditionnement de fluides et mise en oeuvre telle que fabrication de mousses, etc. à l'exclusion du nettoyage à sec de
-produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 
+1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la
+rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication industrielle de
+composés organohalogénés, organophosphorés et organostanniques visée par la rubrique 1174, de l'emploi de liquides
+organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute
+tension. 
 
 </td>
       <td valign="top" width="31">
@@ -5556,7 +5540,7 @@ produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, déc
     <tr>
       <td valign="top" width="433">
 
-La quantité de fluide susceptible d'être présente dans l'installation étant : 
+Le volume des équipements susceptibles de contenir des fluides étant : 
 
 </td>
       <td valign="top" width="31">
@@ -5619,8 +5603,7 @@ D
     <tr>
       <td valign="top" width="433">
 
-2. Composants et appareils clos en exploitation, dépôts de produits neufs ou régénérés, à l'exception des appareils de
-compression et de réfrigération visés par la rubrique 2920 
+2. Emploi dans des équipements clos en exploitation. 
 
 </td>
       <td valign="top" width="31">
@@ -5643,10 +5626,13 @@ compression et de réfrigération visés par la rubrique 2920
     <tr>
       <td valign="top" width="433">
 
-La quantité de fluide susceptible d'être présente dans l'installation étant : 
+a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de capacité unitaire supérieure à 2 kg, la quantité
+cumulée de fluide susceptible d'être présente dans l'installation étant supérieure ou égale à 300 kg 
 
 </td>
       <td valign="top" width="31">
+
+DC
 
 </td>
       <td valign="top" width="34">
@@ -5660,7 +5646,8 @@ La quantité de fluide susceptible d'être présente dans l'installation étant 
     <tr>
       <td valign="top" width="433">
 
-a) supérieure à 800 l de capacité unitaire sauf installations d'extinction 
+b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure à
+200 kg 
 
 </td>
       <td valign="top" width="31">
@@ -5679,36 +5666,13 @@ D
     <tr>
       <td valign="top" width="433">
 
-b) supérieure à 200 kg dans les installations d'extinction 
+3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire. 
 
 </td>
       <td valign="top" width="31">
 
-D
-
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-3. Régénération des fluides et recyclage des halons, sur site de traitement 
-
-</td>
-      <td valign="top" width="31">
-
-A
-
-</td>
-      <td valign="top" width="34">
-
-1
 
 </td>
       <td valign="top" width="148">
@@ -5723,7 +5687,77 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="21">
+      <td>
+
+1) Fluides autres que l'hexafluorure de soufre : 
+
+La quantité de fluide susceptible d'être présente dans l'installation étant : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) En récipient de capacité unitaire supérieure ou égale à 400 l 
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400 l 
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2) Cas de l'hexafluorure de soufre : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+La quantité de fluide susceptible d'être présente dans l'installation étant supérieure à 150 kg quel que soit le
+conditionnement 
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="7" valign="top" width="21">
 
 1200 
 
@@ -5733,55 +5767,42 @@ A
 Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que définis à la rubrique 1000 à l'exclusion des
 substances visées nominativement ou par famille par d'autres rubriques :
 
+1. Fabrication.
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
 </td>
       <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
       </td><td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-1. Fabrication.
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-</td>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
 
 1. La quantité totale susceptible d'être présente dans l'installation étant : 
 
 </td>
-      <td align="left" valign="top">
-    </td></tr>
+      <td valign="top" width="33">
+
+</td>
+    </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
 a) Supérieure ou égale à 200 t 
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 AS
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 6
 
 </td>
-      <td align="left" valign="top">
-
-a) supérieure ou égale à 200 t 
-
-</td>
-      <td align="left" valign="top">
+      <td>a) supérieure ou égale à 200 t </td>
+      <td>
 
 10
 
@@ -5975,9 +5996,7 @@ Peroxydes organiques (fabrications des)
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
+      </td><td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -6072,9 +6091,7 @@ Peroxydes organiques (emploi et stockage)
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
+      </td><td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -6261,12 +6278,8 @@ D
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="34">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -6306,13 +6319,9 @@ D
 
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td valign="top" width="433">
 
@@ -6323,9 +6332,7 @@ D
 
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -6949,7 +6956,9 @@ c) Inférieure à 100 kg
 </td>
       <td valign="top" width="31">
 
-DC</td>
+DC
+
+</td>
       <td valign="top" width="34">
 
 </td>
@@ -6995,17 +7004,21 @@ a) Supérieure ou égale à 100 kg
 </td>
     </tr>
     <tr>
-      <td>b) Inférieure à 100 kg</td>
-      <td>
+      <td align="left" valign="top">
+
+b) Inférieure à 100 kg
+
+</td>
+      <td align="left" valign="top">
 
 DC
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 </td>
-      <td>
-      </td><td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="433">
@@ -7179,7 +7192,9 @@ DC
       </td><td>
     </td></tr>
     <tr>
-      <td valign="top" width="433">Nota : 
+      <td valign="top" width="433">
+
+Nota : 
 
 (1) Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et
 en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation
@@ -7233,7 +7248,7 @@ métaux.
     <tr>
       <td valign="top" width="433">
 
-La quantité unitaire étant supérieure à 10 g 
+La quantité unitaire étant supérieure à 10 g
 
 </td>
       <td valign="top" width="31">
@@ -7461,4 +7476,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-384 du 20 mars 2012 - art. 1
+  - Décret n°2012-1304 du 26 novembre 2012 - art.
