@@ -7,17 +7,17 @@
 
 CATÉGORIES D'AMÉNAGEMENTS,
 
-d'ouvrages et de travaux 
+d'ouvrages et de travaux
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 PROJETS
 
-soumis à étude d'impact 
+soumis à étude d'impact
 
 </td>
-      <td align="left" colspan="2" valign="top">
+      <td colspan="2" valign="top" align="left">
 
 PROJETS
 
@@ -27,7 +27,7 @@ de "cas par cas"
 
 en application de l'annexe III
 
-de la directive 85/337/ CE 
+de la directive 85/337/CE 
 
 </td>
     </tr>
@@ -38,10 +38,10 @@ Installations classées pour la protection de l'environnement (ICPE)
 
 </td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 1° Installations classées pour la protection de l'environnement (dans les conditions prévues au titre Ier du livre V du code
 de l'environnement notamment en matière de modification ou d'extension en application du dernier alinéa du II de l'article R.
@@ -67,7 +67,7 @@ Installations nucléaires de base (INB)
 
 </td>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -77,7 +77,7 @@ décrets d'application, notamment en matière de modification ou d'extension en 
 2007-1557 du 2 novembre 2007). 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Installations soumises à une autorisation de création, une autorisation de courte durée, une autorisation de mise à l'arrêt
 définitif et de démantèlement ou une autorisation de mise à l'arrêt définitif et de passage en phase de surveillance. 
@@ -91,8 +91,8 @@ définitif et de démantèlement ou une autorisation de mise à l'arrêt défini
 Installations nucléaires de base secrètes (INBs) 
 
 </td>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -100,7 +100,7 @@ Installations nucléaires de base secrètes (INBs)
 3° Installations nucléaires de base secrètes 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Installations soumises à une autorisation de création ou une autorisation de poursuite d'exploitation de création. 
 
@@ -113,11 +113,11 @@ Installations soumises à une autorisation de création ou une autorisation de p
 Stockage de déchets radioactifs 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 4° Forages nécessaires au stockage de déchets radioactifs. 
 
@@ -128,10 +128,10 @@ a) Forages de plus d'un an effectués pour la recherche des stockages souterrain
 leur profondeur. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 b) Forages pour l'exploitation des stockages souterrains de déchets radioactifs. 
@@ -140,8 +140,8 @@ b) Forages pour l'exploitation des stockages souterrains de déchets radioactifs
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 c) Installation et exploitation des laboratoires souterrains destinés à étudier l'aptitude des formations géologiques
 profondes au stockage souterrain des déchets radioactifs. 
@@ -164,12 +164,12 @@ Infrastructures de transport
 5° Infrastructures ferroviaires. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Voies pour le trafic ferroviaire à grande distance, à l'exclusion des voies de garage. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Autres voies ferroviaires de plus de 500 mètres. 
 
@@ -191,49 +191,49 @@ ouvrages.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 6° Infrastructures routières. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Travaux de création, d'élargissement, ou d'allongement d'autoroutes, voies rapides, y compris échangeurs. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 b) Modification ou extension substantielle d'autoroutes et voies rapides, y compris échangeurs. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 b) Modification ou extension non substantielle d'autoroutes et voies rapides, y compris échangeurs. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td align="left" valign="top">
 
 c) Travaux de création d'une route à 4 voies ou plus, d'allongement, d'alignement et/ ou d'élargissement d'une route
 existante à 2 voies ou moins pour en faire une route à 4 voies ou plus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 d) Toutes autres routes d'une longueur égale ou supérieure à 3 kilomètres. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 d) Toutes routes d'une longueur inférieure à 3 kilomètres. 
 
@@ -242,7 +242,7 @@ d) Toutes routes d'une longueur inférieure à 3 kilomètres.
     <tr>
       <td align="left" valign="top">
       </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 e) Tout giratoire dont l'emprise est supérieure ou égale à 0,4 hectare. 
 
@@ -254,12 +254,12 @@ e) Tout giratoire dont l'emprise est supérieure ou égale à 0,4 hectare.
 7° Ouvrages d'art. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Ponts d'une longueur supérieure à 100 mètres. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Ponts d'une longueur inférieure à 100 mètres. 
 
@@ -272,7 +272,7 @@ a) Ponts d'une longueur inférieure à 100 mètres.
 b) Tunnels et tranchées couvertes d'une longueur supérieure à 300 mètres. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 b) Tunnels et tranchées couvertes d'une longueur inférieure à 300 mètres. 
 
@@ -297,20 +297,20 @@ Toutes modifications ou extensions.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 9° Aéroports et aérodromes. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Toute construction d'un aérodrome ou d'une piste. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 b) Toute modification d'un aérodrome, ou ancien aérodrome, militaire en vue de l'accueil d'une activité aéronautique civile. 
@@ -327,7 +327,7 @@ infrastructures au sens des articles 3 et 4 de l'arrêté du 10 juillet 2006 rel
 certains aérodromes terrestres utilisés par les aéronefs à voilure fixe. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -345,13 +345,13 @@ longueur inférieure à 1 800 mètres.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td valign="top" align="left">
 
 e) Toute construction ou modification d'installations spécifiques aux opérations de dégivrage. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -368,7 +368,7 @@ Milieux aquatiques, littoraux et maritimes
 10° Travaux, ouvrages et aménagements sur le domaine public maritime et sur les cours d'eau. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Voies navigables et ports de navigation intérieure permettant l'accès de bateaux de plus de 1 350 tonnes. 
 
@@ -376,17 +376,17 @@ a) Voies navigables et ports de navigation intérieure permettant l'accès de ba
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td valign="top" align="left">
 
 b) Voies navigables, ouvrages de canalisation, de reprofilage et de régularisation des cours d'eau. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 c) Ports de commerce, quais de chargement et de déchargement reliés à la terre et avant-ports accessibles aux bateaux de plus
 de 1 350 tonnes. 
@@ -401,11 +401,11 @@ de 1 350 tonnes.
 d) Ports et installations portuaires, y compris ports de pêche. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 e) Construction ou extension d'ouvrages et aménagements côtiers destinés à combattre l'érosion ou reconstruction d'ouvrages
 ou aménagements côtiers anciens, et travaux maritimes susceptibles de modifier la côte par la construction, notamment de
@@ -423,7 +423,7 @@ digues, môles, jetées et autres ouvrages de défense contre la mer, d'une empr
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 f) Récupération de terrains sur le domaine public maritime d'une emprise totale égale ou supérieure à 2 000 mètres carrés. 
 
@@ -435,36 +435,36 @@ f) Récupération de terrains sur le domaine public maritime d'une emprise total
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 g) Zones de mouillages et d'équipements légers. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td valign="top" align="left">
 
 h) Travaux de rechargement de plage d'un volume supérieur ou égal à 10 000 mètres cubes. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 h) Travaux de rechargement de plage d'un volume inférieur à 10 000 mètres cubes. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 11° Travaux, ouvrages et aménagements dans les espaces remarquables du littoral et visés au b et au d du R. 146-2 du code de
 l'urbanisme. 
 
 </td>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 Tous travaux, ouvrages ou aménagements. 
 
@@ -477,19 +477,19 @@ Tous travaux, ouvrages ou aménagements.
 
 </td>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 Création, modification ou extension. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 13° Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Assèchement, mise en eau, imperméabilisation, remblais de zones humides ou de marais soumis à autorisation au titre de
 l'article R. 214-1 du code de l'environnement. 
@@ -498,8 +498,8 @@ l'article R. 214-1 du code de l'environnement.
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 b) Réalisation de réseaux de drainage soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement. 
 
@@ -507,29 +507,29 @@ b) Réalisation de réseaux de drainage soumis à autorisation au titre de l'art
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 c) Travaux d'irrigation nécessitant un prélèvement permanent soumis à autorisation au titre de l'article R. 214-1 du code de
 l'environnement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 14° Dispositifs de captage ou de recharge artificielle des eaux souterraines. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Prélèvements permanents issus d'un forage, puits ou ouvrage souterrain dans un système aquifère, à l'exclusion des nappes
 d'accompagnement de cours d'eau, dans sa nappe, par pompage, drainage, dérivation ou tout autre procédé soumis à autorisation
 au titre de l'article R. 214-1 du code de l'environnement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -539,7 +539,7 @@ b) Recharge artificielle des eaux souterraines soumise à autorisation au titre 
 l'environnement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -566,7 +566,7 @@ forêt de protection mentionnés à l'article R. 412-19 du code forestier, à l'
 Tous travaux, ouvrages et aménagements. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -582,16 +582,16 @@ a) Réservoirs de stockage d'eau " sur tour " (château d'eau) d'une capacité �
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 b) Plans d'eau permanents ou non soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td valign="top" align="left">
 
 c) Barrages de retenue et digues de canaux soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement. 
@@ -605,7 +605,7 @@ c) Barrages de retenue et digues de canaux soumis à autorisation au titre de l'
 18° Installation d'aqueducs et de canalisations d'eau potable. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Aqueduc ou canalisation d'eau potable dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou
 égal à 2 000 mètres carrés. 
@@ -619,12 +619,12 @@ Aqueduc ou canalisation d'eau potable dont le produit du diamètre extérieur av
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 19° Ouvrages servant au transfert d'eau. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ouvrage servant au transfert d'eau nécessitant un prélèvement soumis à autorisation au titre de l'article R. 214-1 du code de
 l'environnement. 
@@ -638,7 +638,7 @@ l'environnement.
 20° Installations de traitement des eaux résiduaires. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Stations d'épuration des agglomérations ou dispositifs d'assainissement non collectif soumises à autorisation au titre de
 l'article R. 214-1 du code de l'environnement. 
@@ -648,55 +648,55 @@ l'article R. 214-1 du code de l'environnement.
     </td></tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
 
-b) Stations d'épuration situées dans la bande littorale de cent mètres au sens de l'article L. 146-4-III du code de
-l'urbanisme, dans la bande littorale des cinquante pas au sens des articles L. 156-2 et L. 711-3-III du code de l'urbanisme,
-ou en espace remarquable du littoral au sens de l'article L. 146-6 du code de l'urbanisme. 
+b) Stations d'épuration situées dans la bande littorale de cent mètres prévue au III de l'article L. 146-4 du code de
+l'urbanisme, dans la bande littorale prévue à l'article L. 156-2 de ce code, ou dans un espace remarquable du littoral prévu
+par l'article L. 146-6 du même code. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 21° Extraction de minéraux ou sédiments par dragage marin ou retrait de matériaux lié au curage d'un cours d'eau. 
 
 </td>
       <td align="left" valign="top">
 
-a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de
+a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de
 l'environnement. 
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 b) Entretien de cours d'eau ou de canaux soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 22° Epandages de boues. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Epandages de boues issues du traitement des eaux usées soumis à autorisation au titre de l'article R. 214-1 du code de
 l'environnement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 b) Epandages d'effluents ou de boues autres que ceux visés au a et soumis à autorisation au titre de l'article R. 214-1 du
 code de l'environnement. 
@@ -719,7 +719,7 @@ Forages et mines
 23° Forages. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Travaux de forage d'exploration et d'exploitation minière, à l'exclusion des forages géothermiques de minime importance, des
 forages de moins de 100 mètres de profondeur, et des forages pour étudier la stabilité des sols. 
@@ -728,12 +728,12 @@ forages de moins de 100 mètres de profondeur, et des forages pour étudier la s
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 24° Travaux miniers et de stockage souterrain. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Ouverture de travaux d'exploitation de mines de substances mentionnées à l'article L. 111-1 du code minier ainsi que des
 haldes et terrils non soumis au régime prévu par l'article L. 335-1 du code minier, à l'exception des autorisations
@@ -743,7 +743,7 @@ d'exploitation délivrées dans les départements d'outre-mer au titre de l'arti
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td align="left" valign="top">
 
 b) Ouverture de travaux de recherches de mines autres que les hydrocarbures liquides ou gazeux, lorsqu'il est prévu que les
@@ -762,10 +762,10 @@ c) Ouverture de travaux de recherches et d'exploitation des gîtes géothermique
 minier. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 d) Ouverture de travaux de création et d'aménagement de cavités de stockage souterrain mentionnées à l'article L. 211-2 du
@@ -782,37 +782,37 @@ e) Pour les stockages souterrains, l'ouverture de travaux de forage de puits, à
 contrôle remplissant les conditions prévues au 3° de l'article 4 du décret n° 2006-649. 
 
 </td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-f) Pour les stockages souterrains, les essais d'injection et de soutirage de substances lorsque ceux-ci portent sur des
-quantités qui, dans le décret n° 53-578 du 20 mai 1953 relatif à la nomenclature des établissements dangereux, insalubres ou
-incommodes, nécessitent une autorisation avec possibilité d'institution de servitudes d'utilité publique. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-g) Mise en exploitation d'un stockage souterrain. 
-
-</td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
       </td><td align="left" valign="top">
 
+f) Pour les stockages souterrains, les essais d'injection et de soutirage de substances lorsque ceux-ci portent sur des
+quantités qui, dans le décret n° 53-578 du 20 mai 1953 relatif à la nomenclature des établissements dangereux, insalubres ou
+incommodes, nécessitent une autorisation avec possibilité d'institution de servitudes d'utilité publique. 
+
+</td>
+      <td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
+
+g) Mise en exploitation d'un stockage souterrain. 
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
+
 h) Pour la recherche de formations aptes au stockage géologique de dioxyde de carbone, l'ouverture d'essais d'injection et de
 soutirage. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -825,8 +825,8 @@ domaine public et du plateau continental métropolitains.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 j) Permis exclusifs de carrières. 
 
@@ -839,7 +839,7 @@ j) Permis exclusifs de carrières.
 Energie 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td valign="top" align="left">
     </td></tr>
     <tr>
@@ -848,7 +848,7 @@ Energie
 25° Installations destinées à la production d'énergie hydroélectrique. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Installations d'une puissance maximale brute totale supérieure à 500 kW (sauf modification d'ouvrages existants en lien avec
 la sécurité ou modifiant la puissance dans la limite de 20 % de la puissance initiale, ainsi que des demandes de changement
@@ -856,7 +856,7 @@ de titulaire, des changements de destination de l'énergie ou des avenants ne mo
 fonctionnement des ouvrages). 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Installations d'une puissance maximale brute totale inférieure à 500 kw (sauf modification d'ouvrages existants en lien avec
 la sécurité ou modifiant la puissance dans la limite de 20 % de la puissance initiale, ainsi que des demandes de changement
@@ -889,15 +889,15 @@ Installations d'une puissance égale ou supérieure à 250 kWc.
 Toutes installations. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 28° Ouvrages de transport et de distribution d'énergie électrique. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Construction de lignes aériennes d'une tension égale ou supérieure à 63 kilovolts et d'une longueur de plus de 15
 kilomètres. 
@@ -912,8 +912,8 @@ kilovolts et d'une longueur de plus de 15 kilomètres.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 b) Construction et travaux d'installation concernant les liaisons souterraines d'une tension égale ou supérieure à 225
 kilovolts et d'une longueur de plus de 15 kilomètres. 
@@ -927,7 +927,7 @@ inférieure à 15 kilomètres.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 c) Postes de transformation dont la tension maximale de transformation est égale ou supérieure à 63 kilovolts, à l'exclusion
@@ -942,27 +942,27 @@ des opérations qui n'entraînent pas d'augmentation de la surface foncière des
 29° Canalisations destinées au transport d'eau chaude. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Canalisations dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 5 000 mètres
 carrés. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 30° Canalisations destinées au transport de vapeur d'eau ou d'eau surchauffée. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Canalisations dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 2 000 mètres
 carrés. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -976,7 +976,7 @@ Canalisations dont le produit du diamètre extérieur avant revêtement par la l
 carrés, ou dont la longueur est égale ou supérieure à 2 kilomètres. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -991,7 +991,7 @@ Canalisations dont le produit du diamètre extérieur avant revêtement par la l
 carrés, ou dont la longueur est égale ou supérieure à 5 kilomètres. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Canalisations dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 500 mètres
 carrés ou dont la longueur est égale ou supérieure à 2 kilomètres. 
@@ -999,13 +999,13 @@ carrés ou dont la longueur est égale ou supérieure à 2 kilomètres.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Travaux, ouvrages, aménagements ruraux et urbains 
 
 </td>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -1015,7 +1015,7 @@ du dépôt de la demande, d'un PLU ou d'un document d'urbanisme en tenant lieu o
 l'objet d'une évaluation environnementale permettant l'opération. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Travaux, constructions et aménagements réalisés en une ou plusieurs phases, lorsque l'opération crée une SHON supérieure ou
 égale à 40 000 mètres carrés ou dont le terrain d'assiette couvre une superficie supérieure à 10 hectares. 
@@ -1037,13 +1037,13 @@ hectares et inférieure à 10 hectares et dont la SHON créée est inférieure �
 territoire d'une commune dotée ni d'un PLU ou d'un document d'urbanisme en tenant lieu, ni d'une carte communal. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Travaux, constructions ou aménagements réalisés en une ou plusieurs phases, lorsque l'opération crée une SHON supérieure ou
 égale à 40 000 mètres carrés ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Travaux, constructions ou aménagements réalisés en une ou plusieurs phases, lorsque l'opération : soit crée une SHON
 supérieure ou égale à 3 000 mètres carrés et inférieure à 40 000 mètres carrés et dont le terrain d'assiette ne couvre pas
@@ -1059,7 +1059,7 @@ hectares et inférieure à 10 hectares et dont la SHON créée est inférieure �
 demande, d'une carte communale ou d'un PLU ayant fait l'objet d'une évaluation environnementale permettant l'opération. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Travaux, constructions ou aménagements réalisés en une ou plusieurs phases, lorsque l'opération crée une SHON supérieure ou
 égale à 40 000 mètres carrés ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares. 
@@ -1116,12 +1116,12 @@ mètres carrés et inférieure à 40 000 mètres carrés.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 38° Construction d'équipements culturels, sportifs ou de loisirs. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Equipements culturels, sportifs ou de loisirs susceptibles d'accueillir plus de 5 000 personnes. 
 
@@ -1139,21 +1139,21 @@ Equipements culturels, sportifs ou de loisirs susceptibles d'accueillir plus de 
 du code de l'urbanisme. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tout projet. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 40° Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
       </td><td align="left" valign="top">
 
 Lorsqu'ils sont susceptibles d'accueillir plus de 100 unités dans une commune non dotée, à la date du dépôt de la demande,
@@ -1163,7 +1163,7 @@ d'un plan local d'urbanisme ou d'un plan d'occupation de sols ou d'un document e
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 41° Remontées mécaniques. 
 
@@ -1173,7 +1173,7 @@ d'un plan local d'urbanisme ou d'un plan d'occupation de sols ou d'un document e
 Création, extension ou remplacement d'une remontée mécanique de loisirs transportant plus de 1 500 passagers par heure. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Création, extension ou remplacement d'une remontée mécanique de loisirs transportant moins de 1 500 passagers par heure, à
 l'exclusion des remontées mécaniques démontables et transportables et des tapis roulants visés à l'article L. 342-17-1 du
@@ -1182,7 +1182,7 @@ code du tourisme.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 42° Pistes de ski. 
 
@@ -1200,7 +1200,7 @@ a) Travaux de piste en site vierge d'une superficie de moins de 2 hectares.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 b) Travaux de piste hors site vierge d'une superficie supérieure ou égale à 4 hectares. 
 
@@ -1212,7 +1212,7 @@ b) Travaux de piste hors site vierge d'une superficie de moins de 4 hectares.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 43° Installations d'enneigement. 
 
@@ -1222,20 +1222,20 @@ b) Travaux de piste hors site vierge d'une superficie de moins de 4 hectares.
 a) Installations permettant d'enneiger en site vierge une superficie supérieure à 2 hectares. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Installations permettant d'enneiger en site vierge une superficie inférieure à 2 hectares. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 b) Installations permettant d'enneiger, hors site vierge, une superficie supérieure ou égale à 4 hectares. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 b) Installations permettant d'enneiger, hors site vierge, une superficie inférieure à 4 hectares. 
 
@@ -1248,7 +1248,7 @@ Pour les rubriques 42° et 43°, est considéré comme " site vierge " un site n
 mécaniques ou du fait de la difficulté du relief. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
       </td><td valign="top" align="left">
     </td></tr>
     <tr>
@@ -1269,18 +1269,18 @@ Tous aménagements de moins de 4 hectares.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 45° Terrains de camping et caravaning permanents. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Terrains de camping et de caravaning permettant l'accueil de plus de 200 emplacements de tentes, caravanes ou résidences
 mobiles de loisirs. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Terrains de camping et de caravaning permettant l'accueil de plus de 20 personnes ou de plus de 6 emplacements de tentes,
 caravanes ou résidences mobiles de loisirs, et de moins de 200 emplacements. 
@@ -1288,7 +1288,7 @@ caravanes ou résidences mobiles de loisirs, et de moins de 200 emplacements.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 46° Terrains de golf. 
 
@@ -1305,32 +1305,32 @@ Terrain de golf d'une surface inférieure à 25 hectares situé en secteur sauve
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 47° Opérations autorisées par décret en application de l'alinéa 3 de l'article L. 130-2 du code de l'urbanisme. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Toutes opérations. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 48° Affouillements et exhaussements du sol. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A moins qu'ils ne soient nécessaires à l'exécution d'un permis de construire, les affouillements et exhaussements du sol dont
 la hauteur, s'il s'agit d'un exhaussement, ou la profondeur, dans le cas d'un affouillement, excède deux mètres et qui
 portent sur une superficie égale ou supérieure à deux hectares. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans les secteurs sauvegardés, sites classés ou réserves naturelles, les affouillements ou exhaussements du sol dont la
 hauteur, s'il s'agit d'un exhaussement, ou la profondeur, dans le cas d'un affouillement, excède deux mètres et qui portent
@@ -1339,7 +1339,7 @@ sur une superficie égale ou supérieure à un hectare.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 49° Opérations d'aménagements fonciers agricoles et forestiers visées au 1° de l'article L. 121-1 du code rural, y compris
 leurs travaux connexes. 
@@ -1353,17 +1353,17 @@ Toutes opérations.
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 50° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 a) Projets d'affectation de plus de 20 hectares de terres incultes à l'exploitation agricole intensive. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 a) Projets d'affectation de plus de 4 hectares et de moins de 20 hectares de terres incultes à l'exploitation agricole
 intensive. 
@@ -1371,8 +1371,8 @@ intensive.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
 
 b) Projets d'affectation de plus de 50 hectares d'étendues semi-naturelles à l'exploitation agricole intensive. 
 
@@ -1403,8 +1403,8 @@ même fragmentée, inférieure à 25 hectares.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
 
 b) Défrichements ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux
 en application de l'article R. 363-3 du code forestier. 
@@ -1414,7 +1414,7 @@ en application de l'article R. 363-3 du code forestier.
     </td></tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      </td><td valign="top" align="left">
 
 c) Premiers boisements d'une superficie totale égale ou supérieure à 25 hectares. 
 
@@ -1453,11 +1453,11 @@ _Cite_:
   - Code forestier - art. R*363-3
   - Code forestier - art. R412-19
   - Code du tourisme. - art. L342-17-1
-  - Code de l'environnement - art. L512-7-2 (V)
+  - Code de l'environnement - art. L512-7-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-2019 du 29 décembre 2011 - art.
+  - Décret n°2012-1529 du 28 décembre 2012 - art. 13
 
 _Cité par_:
 
