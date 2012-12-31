@@ -7,14 +7,14 @@
 
 CATÉGORIES D'AMÉNAGEMENTS,
 
-d'ouvrages et de travaux 
+d'ouvrages et de travaux
 
 </td>
       <td align="left" valign="top">
 
 PROJETS
 
-soumis à étude d'impact 
+soumis à étude d'impact
 
 </td>
       <td align="left" colspan="2" valign="top">
@@ -27,7 +27,7 @@ de "cas par cas"
 
 en application de l'annexe III
 
-de la directive 85/337/ CE 
+de la directive 85/337/CE 
 
 </td>
     </tr>
@@ -651,9 +651,9 @@ l'article R. 214-1 du code de l'environnement.
       </td><td align="left" valign="top">
       </td><td align="left" valign="top">
 
-b) Stations d'épuration situées dans la bande littorale de cent mètres au sens de l'article L. 146-4-III du code de
-l'urbanisme, dans la bande littorale des cinquante pas au sens des articles L. 156-2 et L. 711-3-III du code de l'urbanisme,
-ou en espace remarquable du littoral au sens de l'article L. 146-6 du code de l'urbanisme. 
+b) Stations d'épuration situées dans la bande littorale de cent mètres prévue au III de l'article L. 146-4 du code de
+l'urbanisme, dans la bande littorale prévue à l'article L. 156-2 de ce code, ou dans un espace remarquable du littoral prévu
+par l'article L. 146-6 du même code. 
 
 </td>
     </tr>
@@ -665,7 +665,7 @@ ou en espace remarquable du littoral au sens de l'article L. 146-6 du code de l'
 </td>
       <td align="left" valign="top">
 
-a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de
+a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de
 l'environnement. 
 
 </td>
@@ -1453,11 +1453,11 @@ _Cite_:
   - Code forestier - art. R*363-3
   - Code forestier - art. R412-19
   - Code du tourisme. - art. L342-17-1
-  - Code de l'environnement - art. L512-7-2 (V)
+  - Code de l'environnement - art. L512-7-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-2019 du 29 décembre 2011 - art.
+  - Décret n°2012-1529 du 28 décembre 2012 - art. 13
 
 _Cité par_:
 
