@@ -3,9 +3,9 @@
 <table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td rowspan="2" width="21">
+      <td align="center" rowspan="2" valign="middle">
 
-N° 
+N°
 
 </td>
       <td colspan="3" width="498">
@@ -325,11 +325,7 @@ DC
 
 </td>
       <td valign="top" width="148">
-
-2. La quantité totale susceptible d'être présente dans l'installation étant : 
-
-</td>
-      <td valign="top" width="33">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -346,7 +342,11 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td valign="top" width="148">
-      </td><td valign="top" width="33">
+
+2. La quantité totale susceptible d'être présente dans l'installation étant : 
+
+</td>
+      <td valign="top" width="33">
 
 </td>
     </tr>
@@ -432,8 +432,8 @@ DC
       <td valign="top" width="433">
 
 Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n°
-          <sup> </sup>2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme
-française équivalente NF U 42-001 (stockage de) : 
+2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U
+42-001 (stockage de) : 
 
 </td>
       <td valign="top" width="31">
@@ -768,7 +768,7 @@ commerciaux.
       <td valign="top" width="433">
 
 (*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe
-III du règlement européen n° 2003/2003. 
+III du règlement européen no 2003/2003. 
 
 </td>
       <td valign="top" width="31">
@@ -787,7 +787,7 @@ III du règlement européen n° 2003/2003.
 
 (**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à base de nitrate d'ammonium dans lesquels la
 teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées sont du type
-dolomie, calcaire et/ ou carbonate de calcium dont la pureté est d'au moins 90 %. 
+dolomie, calcaire et/ou carbonate de calcium dont la pureté est d'au moins 90 %. 
 
 </td>
       <td valign="top" width="31">
@@ -3107,7 +3107,7 @@ E
     <tr>
       <td valign="top" width="433">
 
-3. Supérieur à 100 m³ mais inférieur ou égal à 3 500 m³. 
+3. Supérieur à 100 m ³ mais inférieur ou égal à 3 500 m ³. 
 
 </td>
       <td valign="top" width="31">
@@ -3659,7 +3659,9 @@ A
 </td>
       <td valign="top" width="148">
 
-A. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 2,5 t 
+A. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à
+
+2,5 t 
 
 </td>
       <td valign="top" width="33">
@@ -4062,7 +4064,7 @@ A
 </td>
       <td valign="top" width="31">
 
-E 
+E
 
 </td>
       <td valign="top" width="34">
@@ -4089,9 +4091,7 @@ D
 </td>
       <td valign="top" width="148">
       </td><td valign="top" width="33">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td valign="top" width="21">
 
@@ -4118,15 +4118,16 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td rowspan="5" valign="top" width="21">
 
 1532 
 
 </td>
       <td valign="top" width="433">
 
-Bois sec ou matériaux combustibles analogues, y compris les produits finis conditionnés (dépôt de), à l'exception des
-établissements recevant du public. 
+Bois ou matériaux combustibles analogues y compris les produits finis conditionnés et les produits ou déchets répondant à la
+définition de la biomasse et visés par la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à l'exception
+des établissements recevant du public.
 
 </td>
       <td valign="top" width="31">
@@ -4160,7 +4161,7 @@ Le volume susceptible d'être stocké étant :
     <tr>
       <td valign="top" width="433">
 
-1. Supérieur à 20 000 m³ ; 
+1. Supérieur à 50 000 m³ 
 
 </td>
       <td valign="top" width="31">
@@ -4181,12 +4182,12 @@ A
     <tr>
       <td valign="top" width="433">
 
-2. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³. 
+2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ 
 
 </td>
       <td valign="top" width="31">
 
-D 
+E 
 
 </td>
       <td valign="top" width="34">
@@ -4197,6 +4198,17 @@ D
 
 </td>
     </tr>
+    <tr>
+      <td>
+
+3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³ 
+
+</td>
+      <td align="center">D</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="3" valign="top" width="21">
 
@@ -4274,4 +4286,4 @@ b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
 
 _Modifié par_:
 
-  - Décret n°2012-384 du 20 mars 2012 - art. 1
+  - Décret n°2013-814 du 11 septembre 2013 - art.
