@@ -48,13 +48,14 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ c) Supérieure ou égale à 100 t, mais inférieure à 350 t      │ DC    │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2. Solutions chaudes de nitrates d'ammonium dont la concen-  │       │        │ 2. La quantité totale sus- │       ┃
-┃      │ tration en nitrate d'ammonium est supérieure à 80 % en       │       │        │ ceptible d'être présente   │       ┃
-┃      │ poids.                                                       │       │        │ dans l'installation        │       ┃
-┃      │                                                              │       │        │ étant :                    │       ┃
+┃      │ 2. Solutions chaudes de nitrates d'ammonium dont la concen-  │       │        │                            │       ┃
+┃      │ tration en nitrate d'ammonium est supérieure à 80 % en       │       │        │                            │       ┃
+┃      │ poids.                                                       │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │                            │       ┃
-┃      │ tallation étant :                                            │       │        │                            │       ┃
+┃      │ La quantité totale susceptible d'être présente dans l'ins-   │       │        │ 2. La quantité totale sus- │       ┃
+┃      │ tallation étant :                                            │       │        │ ceptible d'être présente   │       ┃
+┃      │                                                              │       │        │ dans l'installation        │       ┃
+┃      │                                                              │       │        │ étant :                    │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ a) Supérieure ou égale à 2 500 t                             │ AS    │ 6      │ a) supérieure ou égale à 2 │ 6     ┃
 ┃      │                                                              │       │        │ 500 t                      │       ┃
@@ -143,13 +144,13 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ (*) Annexe III-2 relative à l'essai de détonabilité décrit   │       │        │                            │       ┃
 ┃      │ dans la section 3 (méthode 1, point 3) et la section 4 de    │       │        │                            │       ┃
-┃      │ l'annexe III du règlement européen n° 2003/2003.             │       │        │                            │       ┃
+┃      │ l'annexe III du règlement européen no 2003/2003.             │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ (**) Cette conformité n'est pas exigée dans le cas des en-   │       │        │                            │       ┃
 ┃      │ grais solides simples à base de nitrate d'ammonium dans les- │       │        │                            │       ┃
 ┃      │ quels la teneur en azote due au nitrate d'ammonium est com-  │       │        │                            │       ┃
 ┃      │ prise entre 24,5 % et 28 % et les matières inertes ajoutées  │       │        │                            │       ┃
-┃      │ sont du type dolomie, calcaire et/ ou carbonate de calcium   │       │        │                            │       ┃
+┃      │ sont du type dolomie, calcaire et/ou carbonate de calcium    │       │        │                            │       ┃
 ┃      │ dont la pureté est d'au moins 90 %.                          │       │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1332 │ Nitrate d'ammonium : matières hors spécifications ou pro-    │       │        │                            │       ┃
@@ -562,7 +563,7 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. Supérieur à 3 500 m³ mais inférieur ou égal à 8 000 m³ ;  │ E     │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 3. Supérieur à 100 m³ mais inférieur ou égal à 3 500 m³.     │ DC    │        │                            │       ┃
+┃      │ 3. Supérieur à 100 m ³ mais inférieur ou égal à 3 500 m ³.   │ DC    │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1450 │ Solides facilement inflammables à l'exclusion des substances │       │        │                            │       ┃
 ┃      │ visées explicitement par d'autres rubriques                  │       │        │                            │       ┃
@@ -710,15 +711,19 @@
 ┃      │ non traité chimiquement, la quantité stockée étant supé-     │       │        │                            │       ┃
 ┃      │ rieure à 1 000 m³                                            │       │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1532 │ Bois sec ou matériaux combustibles analogues, y compris les  │       │        │                            │       ┃
-┃      │ produits finis conditionnés (dépôt de), à l'exception des    │       │        │                            │       ┃
-┃      │ établissements recevant du public.                           │       │        │                            │       ┃
+┃ 1532 │ Bois ou matériaux combustibles analogues y compris les pro-  │       │        │                            │       ┃
+┃      │ duits finis conditionnés et les produits ou déchets répon-   │       │        │                            │       ┃
+┃      │ dant à la définition de la biomasse et visés par la rubrique │       │        │                            │       ┃
+┃      │ 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à │       │        │                            │       ┃
+┃      │ l'exception des établissements recevant du public.           │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ Le volume susceptible d'être stocké étant :                  │       │        │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 1. Supérieur à 20 000 m³ ;                                   │ A     │ 1      │                            │       ┃
+┃      │ 1. Supérieur à 50 000 m³                                     │ A     │ 1      │                            │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.  │ D     │        │                            │       ┃
+┃      │ 2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³  │ E     │        │                            │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ 3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³   │ D     │        │                            │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1610 │ Acide chlorhydrique, acide formique à plus de 50 % en poids  │ A     │ 3      │ La capacité de production  │       ┃
 ┃      │ d'acide, acide nitrique à moins de 70 %, acide phosphorique, │       │        │ étant :                    │       ┃
@@ -741,4 +746,4 @@
 
 _Modifié par_:
 
-  - Décret n°2012-384 du 20 mars 2012 - art. 1
+  - Décret n°2013-814 du 11 septembre 2013 - art.
