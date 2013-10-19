@@ -237,8 +237,10 @@ avril 1994 susmentionné.
 </td>
     </tr>
     <tr>
-      <td>Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101,3 kPa à une
-température de 20° C. 
+      <td>
+
+Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101,3 kPa à une température
+de 20° C. 
 
 Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à
 une température de 20° C et à une pression normale de 101,3 kPa. 
@@ -1351,15 +1353,13 @@ D
 
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="12" valign="top">
+      <td align="left" rowspan="13" valign="top">
 
 1132
 
@@ -1393,8 +1393,12 @@ A
 </td>
       <td>
 
+A. Quelle que soit la capacité
+
 </td>
       <td>
+
+6
 
 </td>
     </tr>
@@ -1407,19 +1411,35 @@ B. - Emploi ou stockage
       <td>
       </td><td>
       </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
+
+B. La quantité totale susceptible d'être présente dans l'installation étant :
+
+</td>
       <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 1. Substances et mélanges solides ; la quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+1. Supérieure ou égale à 50 t
+
+</td>
+      <td align="left" valign="top">
+
+2
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -1455,16 +1475,24 @@ D
       </td><td>
     </td></tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 2. Substances et mélanges liquides ; la quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+2. Supérieure ou égale à 10 t
+
+</td>
+      <td align="left" valign="top">
+
+2
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -1508,8 +1536,16 @@ D
       <td>
       </td><td>
       </td><td>
-      </td><td>
-    </td></tr>
+
+3. Supérieure ou égale à 2 t
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -1545,6 +1581,17 @@ D
       </td><td>
     </td></tr>
     <tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+    </tr>
+    <tr>
       <td rowspan="4" valign="top" width="21">
 
 1135 
@@ -1557,9 +1604,7 @@ Ammoniac (fabrication industrielle de l')
 </td>
       <td valign="top" width="31">
       </td><td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -1689,12 +1734,8 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="34">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -1861,9 +1902,7 @@ DC
 
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -1936,7 +1975,7 @@ a) supérieure ou égale à 200 t
     <tr>
       <td valign="top" width="433">
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t 
+b) supérieure à 1,5 t, mais inférieure à 200 t 
 
 </td>
       <td valign="top" width="31">
@@ -1951,7 +1990,7 @@ A
 </td>
       <td valign="top" width="148">
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t 
+b) supérieure à 1,5 t, mais inférieure à 200 t 
 
 </td>
       <td valign="top" width="33">
@@ -1963,7 +2002,7 @@ b) supérieure à 1, 5 t, mais inférieure à 200 t
     <tr>
       <td valign="top" width="433">
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t 
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t 
 
 </td>
       <td valign="top" width="31">
@@ -2812,7 +2851,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 100 kg </td>
+      <td>
+
+a) supérieure ou égale à 100 kg 
+
+</td>
       <td>
         10
       </td>
@@ -3034,7 +3077,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 1 t </td>
+      <td>
+
+a) supérieure ou égale à 1 t 
+
+</td>
       <td>
         10
       </td>
@@ -3105,7 +3152,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 2 t </td>
+      <td>
+
+a) supérieure ou égale à 2 t 
+
+</td>
       <td>
         10
       </td>
@@ -3176,7 +3227,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 20 t </td>
+      <td>
+
+a) supérieure ou égale à 20 t 
+
+</td>
       <td>
         10
       </td>
@@ -3247,7 +3302,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 50 t </td>
+      <td>
+
+a) supérieure ou égale à 50 t 
+
+</td>
       <td>
         10
       </td>
@@ -3306,7 +3365,11 @@ a) Supérieure ou égale à 100 t
 </td>
       <td align="center">AS</td>
       <td align="center">6</td>
-      <td>a) supérieure ou égale à 100 t </td>
+      <td>
+
+a) supérieure ou égale à 100 t 
+
+</td>
       <td>
 
 10
@@ -3380,7 +3443,9 @@ a) Supérieure ou égale à 1 kg
       <td align="center">6
 
 </td>
-      <td>a) supérieure ou égale à 1 kg
+      <td>
+
+a) supérieure ou égale à 1 kg
 
 </td>
       <td>
@@ -3653,23 +3718,29 @@ a) supérieure ou égale à 100 kg
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 b) Supérieure ou égale à 20 kg, mais inférieure à 100 kg 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 3
 
 </td>
-      <td>b) supérieure ou égale à 20 kg, mais inférieure à 100 kg </td>
-      <td align="center">6
+      <td align="left" valign="top">
+
+b) supérieure ou égale à 20 kg, mais inférieure à 100 kg 
+
+</td>
+      <td align="left" valign="top">
+
+6
 
 </td>
     </tr>
@@ -3723,7 +3794,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 150 kg </td>
+      <td>
+
+a) supérieure ou égale à 150 kg 
+
+</td>
       <td>
 
 10
@@ -3731,27 +3806,29 @@ AS
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 b) Supérieure ou égale à 30 kg, mais inférieure à 150 kg 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 3
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 b) supérieure ou égale à 30 kg, mais inférieure à 150 kg 
 
 </td>
-      <td align="center">6
+      <td align="left" valign="top">
+
+6
 
 </td>
     </tr>
@@ -3808,7 +3885,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 1 t </td>
+      <td>
+
+a) supérieure ou égale à 1 t 
+
+</td>
       <td>
 
 10
@@ -3890,7 +3971,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 1 t </td>
+      <td>
+
+a) supérieure ou égale à 1 t 
+
+</td>
       <td>
 
 10
@@ -3913,7 +3998,11 @@ A
 3
 
 </td>
-      <td>b) supérieure ou égale à 200 kg, mais inférieure à 1 t</td>
+      <td>
+
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+</td>
       <td align="center">6
 
 </td>
@@ -3972,7 +4061,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 2 t </td>
+      <td>
+
+a) supérieure ou égale à 2 t 
+
+</td>
       <td>
 
 10
@@ -4031,7 +4124,9 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 </td>
       <td>8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : </td>
       <td align="center">
-    </td></tr>
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -4048,7 +4143,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 20 t </td>
+      <td>
+
+a) supérieure ou égale à 20 t 
+
+</td>
       <td>
 
 10
@@ -4071,7 +4170,11 @@ A
 3
 
 </td>
-      <td>b) supérieure ou égale à 10 t, mais inférieure à 20 t </td>
+      <td>
+
+b) supérieure ou égale à 10 t, mais inférieure à 20 t 
+
+</td>
       <td align="center">6
 
 </td>
@@ -4126,7 +4229,11 @@ AS
 6 
 
 </td>
-      <td>a) supérieure ou égale à 50 t </td>
+      <td>
+
+a) supérieure ou égale à 50 t 
+
+</td>
       <td>
 
 10
@@ -4134,23 +4241,27 @@ AS
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 b) Supérieure ou égale à 5 t, mais inférieure à 50 t 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 3
 
 </td>
-      <td>b) supérieure ou égale à 5 t, mais inférieure à 50 t </td>
-      <td>
+      <td align="left" valign="top">
+
+b) supérieure ou égale à 5 t, mais inférieure à 50 t 
+
+</td>
+      <td align="left" valign="top">
 
 6
 
@@ -4218,27 +4329,29 @@ a) supérieure ou égale à 100 t
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 b) Supérieure ou égale à 10 t, mais inférieure à 100 t 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 3
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 b) supérieure ou égale à 10 t, mais inférieure à 100 t 
 
 </td>
-      <td align="center">6
+      <td align="left" valign="top">
+
+6
 
 </td>
     </tr>
@@ -4327,9 +4440,7 @@ A
 b) supérieure ou égale à 200 g, mais inférieure à 1 kg 
 
 </td>
-      <td align="center">
-
-6
+      <td align="center">6
 
 </td>
     </tr>
@@ -4360,12 +4471,8 @@ Oxydes d'azote autres que l'hémioxyde d'azote (emploi ou stockage des)
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="34">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -4853,12 +4960,8 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="34">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -5212,40 +5315,32 @@ ou mélanges classés dans une rubriques comportant un seuil AS.
     <tr>
       <td align="left" valign="top">
 
-La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
+La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant : 
 
 </td>
       <td align="left" valign="top">
       </td><td align="left" valign="top">
       </td><td align="left" valign="top">
 
-1. La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant : 
+1. La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
 1. Supérieure à 1 500 l
 
 </td>
-      <td align="left" valign="top">
+      <td align="center">A</td>
+      <td align="center">1</td>
+      <td>
 
-A
-
-</td>
-      <td align="left" valign="top">
-
-1
+a) supérieure ou égale à 25 000 l 
 
 </td>
-      <td align="left" valign="top">
-
-a) supérieure ou égale à 25 000 l
-
-</td>
-      <td align="left" valign="top">
+      <td>
 
 4
 
@@ -5504,11 +5599,13 @@ par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à
-sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique
-2564, de la fabrication industrielle de composés organohalogénés, organophosphorés et organostanniques visée par la rubrique
-1174, de l'emploi de liquides organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les
-appareillages de connexion à haute tension. 
+      <td valign="top" width="433">
+
+1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la
+rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication industrielle de
+composés organohalogénés, organophosphorés et organostanniques visée par la rubrique 1174, de l'emploi de liquides
+organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute
+tension. 
 
 </td>
       <td valign="top" width="31">
@@ -5523,23 +5620,19 @@ appareillages de connexion à haute tension.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td align="left" valign="top">
 
 Le volume des équipements susceptibles de contenir des fluides étant : 
 
 </td>
-      <td valign="top" width="31">
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+
+1. Le volume des équipements susceptibles de contenir des fluides étant supérieur à 8 000 l
 
 </td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-
-1. La quantité totale de fluide susceptible d'être présente dans l'installation étant supérieure à 8 000 l 
-
-</td>
-      <td valign="top" width="33">
+      <td align="left" valign="top">
 
 1
 
@@ -5569,7 +5662,7 @@ A
     <tr>
       <td valign="top" width="433">
 
-b) supérieure à 80 l, mais inférieure ou égale à 800 l 
+b) supérieure à 80 l, mais inférieure ou égale à 800 l
 
 </td>
       <td valign="top" width="31">
@@ -5588,7 +5681,7 @@ D
     <tr>
       <td valign="top" width="433">
 
-2. Emploi dans des équipements clos en exploitation. 
+2. Emploi dans des équipements clos en exploitation.
 
 </td>
       <td valign="top" width="31">
@@ -5662,12 +5755,12 @@ D
 </td>
       <td valign="top" width="148">
 
-3. Quelle que soit la capacité 
+3. Non soumis à la taxe. 
 
 </td>
       <td valign="top" width="33">
 
-1
+-
 
 </td>
     </tr>
@@ -5778,9 +5871,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td align="left" valign="top">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -5797,7 +5888,11 @@ AS
 6
 
 </td>
-      <td>a) supérieure ou égale à 200 t </td>
+      <td>
+
+a) supérieure ou égale à 200 t 
+
+</td>
       <td>
 
 10
@@ -5849,11 +5944,13 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 </td>
       <td valign="top" width="33">
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieure ou égale à 200 t
 
 </td>
-    </tr>
-    <tr>
-      <td>a) Supérieure ou égale à 200 t</td>
       <td>
 
 AS
@@ -5864,7 +5961,11 @@ AS
 6 
 
 </td>
-      <td>a) supérieure ou égale à 200 t </td>
+      <td>
+
+a) supérieure ou égale à 200 t 
+
+</td>
       <td>
 
 6
@@ -5910,9 +6011,7 @@ D
 
 </td>
       <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -5994,9 +6093,7 @@ Peroxydes organiques (fabrications des)
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
+      </td><td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
@@ -6091,16 +6188,12 @@ Peroxydes organiques (emploi et stockage)
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
+      </td><td valign="top" width="34">
 
 </td>
       <td valign="top" width="148">
       </td><td valign="top" width="33">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td valign="top" width="433">
 
@@ -6229,9 +6322,7 @@ D
 </td>
       <td valign="top" width="148">
       </td><td valign="top" width="33">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td valign="top" width="433">
 
@@ -6280,12 +6371,8 @@ D
 
 </td>
       <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
+      </td><td valign="top" width="34">
+      </td><td valign="top" width="148">
       </td><td valign="top" width="33">
 
 </td>
@@ -6666,9 +6753,7 @@ D
 </td>
       <td valign="top" width="148">
       </td><td valign="top" width="33">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td valign="top" width="433">
 
@@ -7200,7 +7285,9 @@ DC
       </td><td>
     </td></tr>
     <tr>
-      <td valign="top" width="433">Nota : 
+      <td>
+
+Nota : 
 
 (1) Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et
 en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation
@@ -7217,17 +7304,11 @@ B, C, D, E, F représentant respectivement les quantités relatives aux produits
 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
 
 </td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="2" valign="top" width="21">
 
@@ -7384,4 +7465,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-814 du 11 septembre 2013 - art.
+  - Décret n°2013-932 du 17 octobre 2013 - art. 1
