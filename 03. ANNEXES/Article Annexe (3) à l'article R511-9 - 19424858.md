@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -549,7 +549,7 @@ Règles de classement :
       <td>
 
 1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors
-qu'elles sont mises en œuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à
+qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à
 autorisation au titre d'une autre rubrique de la nomenclature.
 
 </td>
@@ -1793,7 +1793,7 @@ Couvoirs
     <tr>
       <td>
 
-Capacité logeable d'eau moins 100 000 oeufs
+Capacité logeable d'eau moins 100 000 œufs
 
 </td>
       <td>
@@ -2685,7 +2685,7 @@ DC
 2221
 
 </td>
-      <td>
+      <td align="left">
 
 Préparation ou conservation de produits alimentaires d'origine animale, par découpage, cuisson, appertisation, surgélation,
 congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du
@@ -2704,12 +2704,12 @@ lait et des corps gras, mais y compris les aliments pour les animaux de compagni
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left">
 
 A. - Installations dont les activités sont classées au titre de la rubrique 3642
 
 </td>
-      <td>
+      <td align="left">
 
 A
 
@@ -2720,11 +2720,7 @@ A
 
 </td>
       <td>
-
-1. La capacité de production étant :
-
-</td>
-      <td>
+      </td><td>
 
 </td>
     </tr>
@@ -2741,13 +2737,7 @@ B. - Autres installations que celles visées au A, la quantité de produits entr
 
 </td>
       <td>
-
-a) supérieure à 250 t/j
-
-</td>
-      <td>
-
-3
+      </td><td>
 
 </td>
     </tr>
@@ -2781,13 +2771,7 @@ D
 
 </td>
       <td>
-
-b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
-
-</td>
-      <td>
-
-1
+      </td><td>
 
 </td>
     </tr>
@@ -3129,7 +3113,7 @@ Production par distillation d'alcools de bouche d'origine agricole
 
 La capacité de production exprimée en équivalent alcool pur étant :
 
-1. Supérieure à 1 300 hl/ j
+1. Supérieure à 1 300 hl/j
 
 </td>
       <td>
@@ -3156,7 +3140,7 @@ A
     <tr>
       <td>
 
-2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
+2. Supérieure à 30 hl/j et inférieure ou égale à 1 300 hl/j
 
 </td>
       <td>
@@ -3175,7 +3159,7 @@ E
     <tr>
       <td>
 
-3. Supérieure à 0,5 hl/ j et inférieure ou égale à 30 hl/ j
+3. Supérieure à 0,5 hl/j et inférieure ou égale à 30 hl/j
 
 </td>
       <td>
@@ -3194,7 +3178,7 @@ D
     <tr>
       <td>
 
-Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/ j de
+Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/j de
 capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
 
 </td>
@@ -3266,7 +3250,7 @@ B. Autres installations que celles visées au A, la capacité de production éta
     <tr>
       <td>
 
-1. Supérieure à 20 000 hl/ an
+1. Supérieure à 20 000 hl/an
 
 </td>
       <td>
@@ -3278,20 +3262,14 @@ E
 
 </td>
       <td>
-
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
-
-</td>
-      <td>
-
-1
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
+2. Supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
 
 </td>
       <td>
@@ -3419,9 +3397,7 @@ La capacité de production étant :
 
 </td>
       <td>
-
-</td>
-      <td>
+      </td><td>
       </td><td>
 
 </td>
@@ -3544,7 +3520,7 @@ AS
     <tr>
       <td>
 
-2. supérieure ou égale à 500 m ³
+2. supérieure ou égale à 500 m³
 
 </td>
       <td>
@@ -3559,7 +3535,7 @@ A
 </td>
       <td>
 
-2. supérieure ou égale à 500 m ³
+2. supérieure ou égale à 500 m³
 
 </td>
       <td>
@@ -3571,7 +3547,7 @@ A
     <tr>
       <td>
 
-3. supérieure ou égale à 50 m ³
+3. supérieure ou égale à 50 m³
 
 </td>
       <td>
@@ -3733,7 +3709,7 @@ D
 </td>
       <td>
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 </td>
       <td>
@@ -4735,7 +4711,7 @@ D
 </td>
       <td>
 
-Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
 
 </td>
       <td>
@@ -5661,8 +5637,8 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions
 bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
 matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits
-et lorsque la superficie d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à extraire est
-supérieure à 2 000 t
+et lorsque la superficie d'affouillement est supérieure à 1 000 m
+          <sup>2</sup> ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 </td>
       <td>
@@ -5948,4 +5924,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-814 du 11 septembre 2013 - art.
+  - Décret n°2013-932 du 17 octobre 2013 - art. 1
