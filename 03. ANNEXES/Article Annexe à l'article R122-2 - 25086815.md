@@ -5,29 +5,29 @@
     <tr>
       <td align="left" valign="top">
 
-CATÉGORIES D'AMÉNAGEMENTS,
+CATÉGORIES D'AMÉNAGEMENTS, 
 
-d'ouvrages et de travaux
+d'ouvrages et de travaux 
 
 </td>
       <td align="left" valign="top">
 
-PROJETS
+PROJETS 
 
-soumis à étude d'impact
+soumis à étude d'impact 
 
 </td>
       <td align="left" colspan="2" valign="top">
 
-PROJETS
+PROJETS 
 
-soumis à la procédure
+soumis à la procédure 
 
-de "cas par cas"
+de " cas par cas " 
 
-en application de l'annexe III
+en application de l'annexe III 
 
-de la directive 85/337/CE 
+de la directive 85/337/ CE 
 
 </td>
     </tr>
@@ -665,7 +665,7 @@ par l'article L. 146-6 du même code.
 </td>
       <td align="left" valign="top">
 
-a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de
+a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de
 l'environnement. 
 
 </td>
@@ -1397,8 +1397,8 @@ a) Défrichements portant sur une superficie totale, même fragmentée, égale o
 </td>
       <td align="left" valign="top">
 
-a) Défrichements soumis à autorisation au titre de l'article L. 311-2 du code forestier et portant sur une superficie totale,
-même fragmentée, inférieure à 25 hectares. 
+a) Défrichements soumis à autorisation au titre de l' article L. 341-3 du code forestier et portant sur une superficie
+totale, même fragmentée, de plus de 0,5 hectare et inférieure à 25 hectares. 
 
 </td>
     </tr>
@@ -1406,8 +1406,8 @@ même fragmentée, inférieure à 25 hectares.
       <td align="left" valign="top">
       </td><td align="left" valign="top">
 
-b) Défrichements ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux
-en application de l'article R. 363-3 du code forestier. 
+b) Dérogations à l'interdiction générale de défrichement mentionnée à l'article L. 374-1 du code forestier ayant pour objet
+des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux. 
 
 </td>
       <td align="left" valign="top">
@@ -1449,15 +1449,15 @@ _Cite_:
   - Décret n°2006-649 du 2 juin 2006 - art. 4
   - Loi n°2006-686 du 13 juin 2006
   - Décret n°2007-1557 du 2 novembre 2007 - art. 31
-  - Code forestier - art. L311-2
-  - Code forestier - art. R*363-3
   - Code forestier - art. R412-19
   - Code du tourisme. - art. L342-17-1
   - Code de l'environnement - art. L512-7-2
+  - Code forestier (nouveau) - art. L341-3
+  - Code forestier (nouveau) - art. L374-1
 
 _Modifié par_:
 
-  - Décret n°2012-1529 du 28 décembre 2012 - art. 13
+  - Décret n°2013-1030 du 14 novembre 2013 - art. 1
 
 _Cité par_:
 
