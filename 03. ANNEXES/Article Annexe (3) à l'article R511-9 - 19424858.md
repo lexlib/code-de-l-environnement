@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -2590,17 +2590,16 @@ D
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="4">
+      <td rowspan="6">
 
 2220
 
 </td>
       <td>
 
-Alimentaires (préparation ou conservation de produits) d'origine végétale, par cuisson, appertisation, surgélation,
+Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation,
 congélation, lyophilisation, déshydratation, torréfaction, etc., à l'exclusion du sucre, de la fécule, du malt, des huiles,
-et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes, la quantité de produits
-entrant étant :
+et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes.
 
 </td>
       <td>
@@ -2610,18 +2609,14 @@ entrant étant :
 
 </td>
       <td>
-
-1. La capacité de production étant :
-
-</td>
-      <td>
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-1. supérieure à 10 t/j
+A. Installations dont les activités sont classées au titre de la rubrique 3642
 
 </td>
       <td>
@@ -2631,39 +2626,53 @@ A
 </td>
       <td>
 
-1
-
-</td>
-      <td>
-
-a) supérieure à 200 t/j
-
-</td>
-      <td>
-
 3
 
 </td>
+      <td>
+      </td><td>
+
+</td>
     </tr>
     <tr>
+      <td align="left">B. Autres installations que celles visées au A, la quantité de produits entrant étant :
+
+1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an :
+
+a) Supérieure à 20 t/ j
+
+</td>
+      <td align="center">E</td>
       <td align="left">
       </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 </td>
       <td align="left">
-
-1
 
 </td>
     </tr>
+    <tr>
+      <td>b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j</td>
+      <td align="center">D</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>2. Autres installations :
+
+a) Supérieure à 10 t/ j
+
+</td>
+      <td align="center">E</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
-2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 10 t/ j
 
 </td>
       <td>
@@ -5924,4 +5933,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-932 du 17 octobre 2013 - art. 1
+  - Décret n°2013-1205 du 14 décembre 2013 - art.
