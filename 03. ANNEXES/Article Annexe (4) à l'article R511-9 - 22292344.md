@@ -1671,7 +1671,7 @@ DC
 </td>
       <td valign="top" width="437">
 
-Métaux et alliages (travail mécanique des) 
+Travail mécanique des métaux et alliages 
 
 </td>
       <td valign="top" width="32">
@@ -1688,10 +1688,36 @@ Métaux et alliages (travail mécanique des)
     <tr>
       <td valign="top" width="437">
 
-La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant : 
+A. Installations dont les activités sont classées au titre des rubriques 3230-a ou 3230-b 
 
 </td>
       <td valign="top" width="32">
+
+A
+
+</td>
+      <td valign="top" width="29">
+
+3
+
+</td>
+      <td valign="top" width="155">
+      </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="437">
+
+B. Autres installations que celles visées au A, la puissance installée de l'ensemble des machines fixes concourant au
+fonctionnement de l'installation étant : 
+
+1. Supérieure à 1 000 kW 
+
+</td>
+      <td valign="top" width="32">
+
+E
 
 </td>
       <td valign="top" width="29">
@@ -1705,40 +1731,12 @@ La puissance installée de l'ensemble des machines fixes concourant au fonctionn
     <tr>
       <td valign="top" width="437">
 
-1. supérieure à 500 kW 
+2. Supérieure à 150 kW, mais inférieure ou égale à 1 000 kW 
 
 </td>
       <td valign="top" width="32">
 
-A 
-
-</td>
-      <td valign="top" width="29">
-
-2 
-
-</td>
-      <td valign="top" width="155">
-
-1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à
-500 kW 
-
-</td>
-      <td valign="top" width="26">
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-2. supérieure à 50 kW, mais inférieure ou égale à 500 kW 
-
-</td>
-      <td valign="top" width="32">
-
-D 
+DC 
 
 </td>
       <td valign="top" width="29">
@@ -1757,12 +1755,12 @@ D
 </td>
       <td valign="top" width="437">
 
-Métaux et alliages (trempe, recuit ou revenu) 
+Production industrielle par trempe, recuit ou revenu de métaux et alliages 
 
 </td>
       <td valign="top" width="32">
 
-D 
+DC 
 
 </td>
       <td valign="top" width="29">
@@ -1774,37 +1772,28 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td rowspan="2" valign="top" width="21">
 
 2562 
 
 </td>
       <td valign="top" width="437">
 
-Bains de sels fondus (chauffage et traitements industriels par l'intermédiaire de) 
-
-</td>
-      <td valign="top" width="32">
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
+Chauffage et traitement industriels par l'intermédiaire de bains de sels fondus. 
 
 Le volume des bains étant : 
 
+1. Supérieur à 500 l 
+
 </td>
       <td valign="top" width="32">
 
+A
+
 </td>
-      <td valign="top" width="29">
+      <td align="center" valign="top" width="29">
+
+1
 
 </td>
       <td valign="top" width="155">
@@ -1815,28 +1804,7 @@ Le volume des bains étant :
     <tr>
       <td valign="top" width="437">
 
-1. supérieur à 500 l 
-
-</td>
-      <td valign="top" width="32">
-
-A 
-
-</td>
-      <td valign="top" width="29">
-
-1 
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-2. supérieur à 100 l, mais inférieur ou égal à 500 l 
+2. Supérieur à 100 l, mais inférieur ou égal à 500 l 
 
 </td>
       <td valign="top" width="32">
@@ -1853,15 +1821,86 @@ DC
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="21">
+      <td align="left" valign="top">
+
+2563
+
+</td>
+      <td align="left" valign="top">
+
+Nettoyage-dégraissage de surface quelconque, par des procédés utilisant des liquides à base aqueuse ou hydrosolubles à
+l'exclusion des activités de nettoyage-dégraissage associées à du traitement de surface. 
+
+La quantité de produit mise en œuvre dans le procédé étant : 
+
+1. Supérieure à 7 500 l 
+
+</td>
+      <td align="left" valign="top">
+
+E 
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+2. Supérieure à 500 l, mais inférieure ou égale à 7 500 
+
+</td>
+      <td align="center">
+
+DC 
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="9" valign="top" width="21">
 
 2564 
 
 </td>
       <td valign="top" width="437">
 
-Nettoyage, dégraissage, décapage de surfaces (métaux, matières plastiques, etc.) par des procédés utilisant des liquides
-organohalogénés ou des solvants organiques (1). 
+Nettoyage, dégraissage, décapage de surfaces quelconques par des procédés utilisant des liquides organohalogénés ou des
+solvants organiques. 
 
 </td>
       <td valign="top" width="32">
@@ -1878,7 +1917,8 @@ organohalogénés ou des solvants organiques (1).
     <tr>
       <td valign="top" width="437">
 
-Le volume des cuves de traitement étant : 
+A. Pour les liquides organohalogénés ou des solvants organiques volatils (1), le volume équivalent des cuves de traitement
+étant :
 
 </td>
       <td valign="top" width="32">
@@ -1888,18 +1928,14 @@ Le volume des cuves de traitement étant :
 
 </td>
       <td valign="top" width="155">
-
-1. Le volume des cuves de traitement étant : 
-
-</td>
-      <td valign="top" width="26">
+      </td><td valign="top" width="26">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
-1. supérieur à 1 500 l 
+1. Supérieur à 1 500 l 
 
 </td>
       <td valign="top" width="32">
@@ -1913,39 +1949,14 @@ A
 
 </td>
       <td valign="top" width="155">
-
-a) supérieur à 25 000 l 
-
-</td>
-      <td valign="top" width="26">
-
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-      </td><td valign="top" width="32">
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-
-b) supérieur à 5 000 l, mais inférieur ou égal à 25 000 l 
-
-</td>
-      <td valign="top" width="26">
-
-1 
+      </td><td valign="top" width="26">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
-2. supérieur à 200 l, mais inférieur ou égal à 1 500 l 
+2. Supérieur à 200 l, mais inférieur ou égal à 1 500 l 
 
 </td>
       <td valign="top" width="32">
@@ -1964,8 +1975,9 @@ DC
     <tr>
       <td valign="top" width="437">
 
-3. supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants à phrase de risque R 45, R 46, R 49, R 60, R 61 ou
-des solvants halogénés étiquetés R 40 sont utilisés dans une machine non fermée (2) 
+3. Supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants de mentions de danger H340, H350, H350i, H360D ou
+H360F ou à phrases de risque R45, R46, R49, R60, R61 ou des solvants halogénés de mention de danger H341 ou étiquetés R40
+sont utilisés dans une machine non fermée (2) 
 
 </td>
       <td valign="top" width="32">
@@ -1982,13 +1994,23 @@ DC
 </td>
     </tr>
     <tr>
+      <td>B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide (3), le volume des cuves étant
+supérieur à 200 l 
+
+</td>
+      <td align="center">DC</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
       <td valign="top" width="437">
 
-(1) Solvant organique : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à
-une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé
-seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des
-produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant,
-correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur. 
+(1) Solvant organique volatil : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou
+plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières),
+utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières
+premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme
+dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur. 
 
 </td>
       <td valign="top" width="32">
@@ -2021,16 +2043,27 @@ l'aspiration des effluents gazeux.
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="21">
+      <td>(3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute
+ouverture de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de
+remplissage et d'élimination. 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="10" valign="top" width="21">
 
 2565 
 
 </td>
       <td valign="top" width="437">
 
-Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissage, attaque chimique, vibro-abrasion, etc.) de
-surfaces (métaux, matières plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à l'exclusion du
-nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
+Revêtement métallique ou traitement (nettoyage, décapage, conversion dont phosphatation, polissage, attaque chimique, vibro-
+abrasion, etc.) de surfaces quelconques par voie électrolytique ou chimique, à l'exclusion du nettoyage, dégraissage,
+décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage visé par la rubrique 2563. 
 
 </td>
       <td valign="top" width="32">
@@ -2045,9 +2078,45 @@ nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
 </td>
     </tr>
     <tr>
+      <td>
+
+1. Lorsqu'il y a mise en œuvre : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>1. Quelle que soit la capacité</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="437">
 
-1. Lorsqu'il y a mise en œuvre de cadmium 
+a) De cadmium 
+
+</td>
+      <td valign="top" width="32">
+
+A
+
+</td>
+      <td valign="top" width="29">
+
+1
+
+</td>
+      <td valign="top" width="155">
+      </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="437">
+
+b) De cyanures, le volume des cuves étant supérieur à 200 l 
 
 </td>
       <td valign="top" width="32">
@@ -2061,21 +2130,15 @@ A
 
 </td>
       <td valign="top" width="155">
-
-1. Quelle que soit la capacité 
-
-</td>
-      <td valign="top" width="26">
-
-4 
+      </td><td valign="top" width="26">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des
-cuves de traitement étant : 
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le
+volume des cuves de traitement étant : 
 
 </td>
       <td valign="top" width="32">
@@ -2096,17 +2159,17 @@ cuves de traitement étant :
     <tr>
       <td valign="top" width="437">
 
-a) supérieur à 1 500 l 
+a) Supérieur à 1 500 l 
 
 </td>
       <td valign="top" width="32">
 
-A 
+A
 
 </td>
       <td valign="top" width="29">
 
-1 
+1
 
 </td>
       <td valign="top" width="155">
@@ -2116,52 +2179,48 @@ a) supérieur à 25 000 l
 </td>
       <td valign="top" width="26">
 
-4 
+4
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="437">
-      </td><td valign="top" width="32">
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
 
 </td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
+      <td align="left" valign="top">
 
 supérieur à 5 000 l, mais inférieur ou égal à 25 000 l 
 
 </td>
-      <td valign="top" width="26">
+      <td align="left" valign="top">
 
-1 
+1
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l 
+
+</td>
+      <td align="center">
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="437">
 
-b) supérieur à 200 l, mais inférieur ou égal à 1 500 l 
-
-</td>
-      <td valign="top" width="32">
-
-DC 
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium 
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium ou de cyanures 
 
 </td>
       <td valign="top" width="32">
@@ -2197,57 +2256,20 @@ DC
 </td>
     </tr>
     <tr>
-      <td valign="top" width="21">
+      <td rowspan="5" valign="top" width="21">
 
 2566 
 
 </td>
       <td valign="top" width="437">
 
-Métaux (décapage ou nettoyage des) par traitement thermique 
+Nettoyage, décapage des métaux par traitement thermique : 
 
 </td>
       <td valign="top" width="32">
 
-A 
-
 </td>
       <td valign="top" width="29">
-
-1 
-
-</td>
-      <td valign="top" width="155">
-
-Quelle que soit la capacité 
-
-</td>
-      <td valign="top" width="26">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="21">
-
-2567 
-
-</td>
-      <td valign="top" width="437">
-
-Métaux (galvanisation, étamage de) ou revêtement métallique d'un matériau quelconque par immersion ou par pulvérisation de
-métal fondu 
-
-</td>
-      <td valign="top" width="32">
-
-A 
-
-</td>
-      <td valign="top" width="29">
-
-1 
 
 </td>
       <td valign="top" width="155">
@@ -2255,6 +2277,135 @@ A
 
 </td>
     </tr>
+    <tr>
+      <td>
+
+1. La capacité volumique du four étant : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieure à 2 000 l 
+
+</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieure à 500 l, mais inférieure ou égale à 2 000 l 
+
+</td>
+      <td align="center">DC</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>2. En absence de four, la puissance étant supérieure ou égale à 3 000 W 
+
+</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="7" valign="top" width="21">
+
+2567 
+
+</td>
+      <td valign="top" width="437">
+
+Galvanisation, étamage de métaux ou revêtement métallique d'un matériau quelconque par un procédé autre que chimique ou
+électrolytique. 
+
+</td>
+      <td valign="top" width="32">
+
+</td>
+      <td valign="top" width="29">
+
+</td>
+      <td valign="top" width="155">
+      </td><td valign="top" width="26">
+
+</td>
+    </tr>
+    <tr>
+      <td>1. Procédés par immersion dans métal fondu, le volume des cuves étant : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieur à 1 000 l 
+
+</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieur à 100 l, mais inférieur ou égal à 1 000 l 
+
+</td>
+      <td align="center">DC</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Procédés par projection de composés métalliques, la quantité de composés métalliques consommée étant : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieure à 200 kg/ jour 
+
+</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+b) Supérieure à 20 kg/ jour mais inférieure ou égale à 200 kg/ jour 
+
+</td>
+      <td align="center">DC</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="5" valign="top" width="21">
 
@@ -6605,14 +6756,15 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="6" valign="top" width="21">
+      <td rowspan="3" valign="top" width="21">
 
 2921 
 
 </td>
       <td valign="top" width="437">
 
-Refroidissement par dispersion d'eau dans un flux d'air (installations de) 
+Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle
+(installations de) : 
 
 </td>
       <td valign="top" width="32">
@@ -6629,10 +6781,12 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
     <tr>
       <td valign="top" width="437">
 
-1. Lorsque l'installation n'est pas du type circuit primaire fermé : 
+a) La puissance thermique évacuée maximale étant supérieure ou égale à 3 000 kW 
 
 </td>
       <td valign="top" width="32">
+
+E
 
 </td>
       <td valign="top" width="29">
@@ -6646,78 +6800,12 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
     <tr>
       <td valign="top" width="437">
 
-a) la puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW 
+b) La puissance thermique évacuée maximale étant inférieure à 3 000 kW 
 
 </td>
       <td valign="top" width="32">
 
-A 
-
-</td>
-      <td valign="top" width="29">
-
-3 
-
-</td>
-      <td valign="top" width="155">
-
-1. La puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW 
-
-</td>
-      <td valign="top" width="26">
-
-1 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-b) la puissance thermique évacuée maximale étant inférieure à 2 000 kW 
-
-</td>
-      <td valign="top" width="32">
-
-D 
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-2. Lorsque l'installation est du type circuit primaire fermé 
-
-</td>
-      <td valign="top" width="32">
-
-D 
-
-</td>
-      <td valign="top" width="29">
-
-</td>
-      <td valign="top" width="155">
-      </td><td valign="top" width="26">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="437">
-
-Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers
-d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ;
-tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs
-thermiques. 
-
-</td>
-      <td valign="top" width="32">
+DC 
 
 </td>
       <td valign="top" width="29">
@@ -9313,4 +9401,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-932 du 17 octobre 2013 - art. 1
+  - Décret n°2013-1205 du 14 décembre 2013 - art.
