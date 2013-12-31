@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES 
 
-<table align="center" border="1" cellpadding="0" cellspacing="0">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="720">
   <tbody>
     <tr>
       <td rowspan="2" width="21">
@@ -5403,179 +5403,6 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="21">
-
-1180 
-
-</td>
-      <td valign="top" width="433">
-
-Polychlorobiphényles, polychloroterphényles 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-1. Utilisation de composants, appareils et matériels imprégnés contenant plus de 30 l de produits 
-
-</td>
-      <td valign="top" width="31">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-
-1. Non soumis à la taxe
-
-</td>
-      <td valign="top" width="33">
-
--
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-2. Dépôt de composants, d'appareils, de matériels imprégnés usagés ou de produits neufs ou usagés. 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-La quantité totale de produits susceptible d'être présente dans l'installation étant : 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-a) supérieure ou égale à 1 000 l 
-
-</td>
-      <td valign="top" width="31">
-
-A
-
-</td>
-      <td valign="top" width="34">
-
-2
-
-</td>
-      <td valign="top" width="148">
-
-2. Non soumis à la taxe
-
-</td>
-      <td valign="top" width="33">
-
--
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-b) supérieure ou égale à 100 l, mais inférieure à 1 000 l 
-
-</td>
-      <td valign="top" width="31">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-3. Réparation, récupération, maintenance, décontamination (1), démontage de composants, appareils et matériels imprégnés,
-hors du lieu de service lorsque la quantité de produits est supérieure à 50 l 
-
-</td>
-      <td valign="top" width="31">
-
-A
-
-</td>
-      <td valign="top" width="34">
-
-2
-
-</td>
-      <td valign="top" width="148">
-
-3. La quantité totale de produits susceptible d'être présente dans l'installation est supérieure à 50 l 
-
-</td>
-      <td valign="top" width="33">
-
-2
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-(1) La définition de décontamination est celle figurant à l'article 9 du décret du 2 février 1987 relatif à la mise sur le
-marché, l'utilisation et l'élimination des PCB et PCT. 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
       <td rowspan="14" valign="top" width="21">
 
 1185 
@@ -7465,4 +7292,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-932 du 17 octobre 2013 - art. 1
+  - Décret n°2013-1301 du 27 décembre 2013 - art.
