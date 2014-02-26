@@ -1879,7 +1879,7 @@ DC
         </td><td>
       </td></tr>
       <tr>
-        <td rowspan="9" valign="top" width="21">
+        <td rowspan="10" valign="top" width="21">
 
 2564 
 
@@ -2048,6 +2048,13 @@ d'élimination.
         </td><td>
       </td></tr>
       <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
         <td rowspan="10" valign="top" width="21">
 
 2565 
@@ -2072,111 +2079,139 @@ décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage v
 </td>
       </tr>
       <tr>
-        <td>
+        <td valign="top" width="437">
 
 1. Lorsqu'il y a mise en œuvre : 
 
 </td>
-        <td>
-
-A
+        <td valign="top" width="32">
 
 </td>
-        <td>
+        <td valign="top" width="29">
+        </td><td valign="top" width="155">
 
-1
-
-</td>
-        <td>
-
-1. Quelle que soit la capacité 
+1. Quelle que soit la capacité
 
 </td>
-        <td>
+        <td valign="top" width="26">
 
 4
 
 </td>
       </tr>
       <tr>
-        <td>
+        <td valign="top" width="437">
 
-a) De cadmium 
+a) De cadmium
 
 </td>
-        <td>
+        <td valign="top" width="32">
 
 A
 
 </td>
-        <td>
+        <td valign="top" width="29">
 
 1
 
 </td>
-        <td>
-        </td><td>
-      </td></tr>
+        <td valign="top" width="155">
+
+1.a. Lorsqu'il y a mise en œuvre de cadmium 
+
+</td>
+        <td valign="top" width="26">
+
+1
+
+</td>
+      </tr>
       <tr>
-        <td>
+        <td valign="top" width="437">
 
 b) De cyanures, le volume des cuves étant supérieur à 200 l 
 
 </td>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-      </td></tr>
+        <td valign="top" width="32">
+
+A 
+
+</td>
+        <td valign="top" width="29">
+
+1 
+
+</td>
+        <td valign="top" width="155">
+
+1.b. Lorsqu'il y a mise en œuvre de cyanures, le volume des cuves étant supérieur à 200 l 
+
+</td>
+        <td valign="top" width="26">
+
+1
+
+</td>
+      </tr>
       <tr>
-        <td align="left" valign="top">
+        <td valign="top" width="437">
 
 2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le
 volume des cuves de traitement étant : 
 
 </td>
-        <td align="left" valign="top">
-        </td><td align="left" valign="top">
-        </td><td align="left" valign="top">
+        <td valign="top" width="32">
+
+</td>
+        <td valign="top" width="29">
+
+</td>
+        <td valign="top" width="155">
 
 2. Le volume des cuves de traitement étant : 
 
 </td>
-        <td align="left" valign="top">
-      </td></tr>
-      <tr>
-        <td>
-
-a) Supérieur à 1 500 l 
+        <td valign="top" width="26">
 
 </td>
-        <td>
+      </tr>
+      <tr>
+        <td valign="top" width="437">
+
+a) Supérieur à 1 500 l
+
+</td>
+        <td valign="top" width="32">
 
 A
 
 </td>
-        <td>
+        <td valign="top" width="29">
 
 1
 
 </td>
-        <td>a) supérieur à 25 000 l </td>
-        <td>
+        <td valign="top" width="155">
+
+a) supérieur à 25 000 l 
+
+</td>
+        <td valign="top" width="26">
 
 4
 
 </td>
       </tr>
       <tr>
-        <td align="left" valign="top"> </td>
-        <td align="left" valign="top"> </td>
-        <td align="left" valign="top"> </td>
-        <td align="left" valign="top">
+        <td>
+        </td><td>
+        </td><td>
+        </td><td>
 
 supérieur à 5 000 l, mais inférieur ou égal à 25 000 l 
 
 </td>
-        <td align="left" valign="top">
+        <td>
 
 1
 
@@ -2188,7 +2223,11 @@ supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
 b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l 
 
 </td>
-        <td align="center">DC</td>
+        <td align="center">
+
+DC
+
+</td>
         <td>
         </td><td>
         </td><td>
@@ -2261,9 +2300,11 @@ Nettoyage, décapage des métaux par traitement thermique :
 </td>
         <td>
         </td><td>
-        </td><td>
-        </td><td>
-      </td></tr>
+        </td><td>1. La capacité volumique du four étant supérieure à 2 000 l </td>
+        <td align="center">1
+
+</td>
+      </tr>
       <tr>
         <td>
 
@@ -2306,9 +2347,13 @@ A
 1
 
 </td>
-        <td align="left" valign="top">
-        </td><td align="left" valign="top">
-      </td></tr>
+        <td align="left" valign="top">2. Quelle que soit la capacité 
+
+</td>
+        <td align="center" valign="top">1
+
+</td>
+      </tr>
       <tr>
         <td rowspan="7" valign="top" width="21">
 
@@ -7997,9 +8042,13 @@ a) Exploitation de laminoirs à chaud d'une capacité supérieure à 20 tonnes d
         <td align="center">3
 
 </td>
-        <td>
-        </td><td>
-      </td></tr>
+        <td>a. Quelle que soit la capacité
+
+</td>
+        <td align="center">3
+
+</td>
+      </tr>
       <tr>
         <td align="left" valign="top">
 
@@ -8017,9 +8066,13 @@ A
 3
 
 </td>
-        <td align="left" valign="top">
-        </td><td align="left" valign="top">
-      </td></tr>
+        <td align="left" valign="top">b. Quelle que soit la capacité
+
+</td>
+        <td align="center" valign="top">3
+
+</td>
+      </tr>
       <tr>
         <td align="left" valign="top">
 
@@ -9555,4 +9608,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-1301 du 27 décembre 2013 - art.
+  - Décret n°2014-219 du 24 février 2014 - art.
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2014-219  du  - art., v. init.
