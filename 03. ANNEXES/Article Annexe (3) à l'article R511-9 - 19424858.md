@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -502,24 +502,25 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td rowspan="8">
+      <td rowspan="2">
 
 1700
 
 </td>
       <td>
 
-Substances radioactives (définitions et règles de classement des)
+Substances radioactives sous forme non scellée (activités nucléaires mettant en œuvre des) mises en œuvre dans un
+établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
 
 </td>
-      <td rowspan="8">
+      <td rowspan="2">
 
 </td>
-      <td rowspan="8">
+      <td rowspan="2">
 
 </td>
-      <td rowspan="8">
-      </td><td rowspan="8">
+      <td rowspan="2">
+      </td><td rowspan="2">
 
 </td>
     </tr>
@@ -528,99 +529,44 @@ Substances radioactives (définitions et règles de classement des)
 
 Définitions :
 
-</td>
-    </tr>
-    <tr>
-      <td>
+Les termes "substance radioactive", "activité", "radioactivité", "radionucléide", "source radioactive non scellée" et "source
+radioactive scellée" sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
 
-Les termes "substance radioactive", "activité", "radioactivité", "source radioactive non scellée" et "source radioactive
-scellée" sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Règles de classement :
+"Q
+          <sub>NS</sub>" : calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé
+publique pour les substances radioactives non scellées.
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td rowspan="4" align="left">
 
-1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors
-qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à
-autorisation au titre d'une autre rubrique de la nomenclature.
+1716
 
 </td>
-    </tr>
+      <td align="left">
+
+Substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 dès lors que leur
+quantité susceptible d'être présente est supérieure à 10 m
+          <sup>3</sup> et que les conditions d'exemption mentionnés au 1° du I de l'article R. 1333-18 du code de la santé
+publique ne sont pas remplies.
+
+</td>
+      <td align="left">
+
+</td>
+      <td align="left">
+
+</td>
+      <td align="left" rowspan="4">
+      </td><td align="left" rowspan="4">
+    </td></tr>
     <tr>
       <td>
 
-2° A chaque radionucléide est associé un "seuil d'exemption" (en Bq), défini en application de l'article L. 1333-4 du code de
-la santé publique à l'annexe 13-8 de la première partie de ce code.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pour les besoins des présentes règles de classement, la valeur de 1 000 Bq est utilisée pour les radionucléides non
-mentionnés par les dispositions précédentes.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3° Pour une installation dans laquelle un ou plusieurs radionucléides sont utilisés, le rapport Q (sans dimension) est
-calculé d'après la formule :
-
-Q = Σ (Ai / Aexi)
-
-dans laquelle :
-
-Ai représente l'activité totale (en Bq) du radionucléide i
-
-Aexi représente le seuil d'exemption en activité du radionucléide i
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="4">
-
-1715
-
-</td>
-      <td>
-
-Substances radioactives (préparation, fabrication, transformation, conditionnement, utilisation, dépôt, entreposage ou
-stockage de) sous forme de sources radioactives, scellées ou non scellées à l'exclusion des installations mentionnées à la
-rubrique 1735, des installations nucléaires de base mentionnées à l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative
-à la transparence et à la sécurité en matière nucléaire et des installations nucléaires de base secrètes telles que définies
-par l'article 6 du décret n° 2001-592 du 5 juillet 2001.
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-1. Le rapport Q tel que défini au 3°) de la rubrique 1700 de la nomenclature étant :
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. La valeur de Q est égale ou supérieure à 10
-          <sup>4 </sup>
+1. La valeur de Q
+          <sub>NS</sub> est égale ou supérieure à 10
+          <sup>4</sup>
 
 </td>
       <td>
@@ -630,46 +576,15 @@ A
 </td>
       <td>
 
-1
-
-</td>
-      <td>
-
-a) supérieure ou égal à 10
-          <sup>6</sup>
-
-</td>
-      <td>
-
-3
+2
 
 </td>
     </tr>
     <tr>
       <td>
-      </td><td>
 
-</td>
-      <td>
-
-</td>
-      <td>
-
-b) supérieure ou égal à 10
+2. La valeur de QNS est égale ou supérieure à 1 et strictement inférieure à 10
           <sup>4</sup>
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10
-          <sup>4 </sup>
 
 </td>
       <td>
@@ -678,11 +593,20 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Nota
+          _.-_La valeur de Q
+          <sub>NS</sub> porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
+mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
+mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 </td>
-    </tr>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
@@ -942,12 +866,8 @@ La quantité totale susceptible d'être présente dans l'installation étant :
     <tr>
       <td>
       </td><td>
-
-</td>
-      <td>
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
 
 1. supérieure ou égale à 200 t
 
@@ -1094,11 +1014,8 @@ Bovins (activité d'élevage, transit, vente, etc., de)
     <tr>
       <td>
 
-1. Elevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de
-
-bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion
-
-des rassemblements occasionnels :
+1. Elevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence simultanée
+est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 </td>
       <td>
@@ -2662,14 +2579,20 @@ A
 </td>
     </tr>
     <tr>
-      <td align="left">B. Autres installations que celles visées au A, la quantité de produits entrant étant :
+      <td align="left">
+
+B. Autres installations que celles visées au A, la quantité de produits entrant étant :
 
 1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an :
 
 a) Supérieure à 20 t/ j
 
 </td>
-      <td align="center">E</td>
+      <td align="center">
+
+E
+
+</td>
       <td align="left">
       </td><td align="left">
 
@@ -2679,22 +2602,32 @@ a) Supérieure à 20 t/ j
 </td>
     </tr>
     <tr>
-      <td>b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j</td>
+      <td>
+
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
+
+</td>
       <td align="center">D</td>
       <td>
       </td><td>
       </td><td>
     </td></tr>
     <tr>
-      <td>2. Autres installations :
+      <td align="left">
+
+2. Autres installations :
 
 a) Supérieure à 10 t/ j
 
 </td>
-      <td align="center">E</td>
-      <td>
-      </td><td>
-      </td><td>
+      <td align="left">
+
+E
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
     </td></tr>
     <tr>
       <td>
@@ -3456,7 +3389,7 @@ A
 </td>
       <td>
 
-1. La capacité de l'installation étant supérieure à 50 000 hl / an
+1. La capacité de l'installation étant supérieure à 50 000 hl/an
 
 </td>
       <td>
@@ -4661,14 +4594,14 @@ D
 </td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td rowspan="5">
 
 2410
 
 </td>
       <td>
 
-Ateliers ou l'on travaille le bois ou matériaux combustibles analogues
+Ateliers ou l'on travaille le bois ou matériaux combustibles analogues :
 
 </td>
       <td>
@@ -4685,24 +4618,7 @@ Ateliers ou l'on travaille le bois ou matériaux combustibles analogues
     <tr>
       <td>
 
-La puissance installée pour alimenter l'ensemble des machines étant :
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. supérieure à 200 kW
+A. Installations dont les activités sont classées au titre de la rubrique 3610
 
 </td>
       <td>
@@ -4712,7 +4628,23 @@ A
 </td>
       <td>
 
-1
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+B. Autres installations que celles visées au A, la puissance de l'ensemble des machines présentes dans l'installation qui
+concourent au travail du bois ou matériaux combustibles analogues étant :
+
+</td>
+      <td>
+
+</td>
+      <td>
 
 </td>
       <td>
@@ -4723,7 +4655,26 @@ A
     <tr>
       <td>
 
-2. supérieure à 50 kW, mais inférieure ou égale à 200 kW
+1. Supérieure à 250 kW.
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Supérieure à 50 kW, mais inférieure ou égale à 250 kW
 
 </td>
       <td>
@@ -4736,9 +4687,7 @@ D
 </td>
       <td>
       </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td rowspan="3">
 
@@ -5673,7 +5622,9 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions
 bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les
 matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits
-et lorsque la superficie d'affouillement est supérieure à 1 000 m
+et lorsque la superficie d'affouillement est supérieure à
+
+1 000 m
           <sup>2</sup> ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 </td>
@@ -5759,7 +5710,9 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets
 d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour
 l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m² ou lorsque la
-quantité de matériaux à extraire est supérieure à 2 000 t par an
+quantité de matériaux à extraire est supérieure à
+
+2 000 t par an
 
 </td>
       <td>
@@ -5941,6 +5894,11 @@ DC
   </tbody>
 </table>
 
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
+périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
+
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté
 ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces
 deux rubriques.
@@ -5964,4 +5922,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-1301 du 27 décembre 2013 - art.
+  - Décret n°2014-996 du 2 septembre 2014 - art.
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2014-996 du 2 septembre 2014 - art., v. init.
