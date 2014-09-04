@@ -7281,6 +7281,14 @@ b) inférieure ou égale à 10 t
   </tbody>
 </table>
 
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
+périodique prévu par l'article L. 512-11 du code de l'environnement. 
+
+(2) Rayon d'affichage en kilomètres. 
+
+Nota. - Les activités nucléaires visées par la présente nomenclature sont les activités soumises aux rubriques 1716, 1735,
+2797 et 2798.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -7292,4 +7300,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1301 du 27 décembre 2013 - art.
+  - Décret n°2014-996 du 2 septembre 2014 - art. 2
