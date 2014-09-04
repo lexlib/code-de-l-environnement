@@ -1531,95 +1531,146 @@ Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td rowspan="8" valign="top" width="21">
 
 1414 
 
 </td>
-      <td valign="top" width="433">
+      <td>
 
-Gaz inflammables liquéfiés (installation de remplissage ou de distribution de) 
-
-</td>
-      <td valign="top" width="31">
+Gaz inflammables liquéfiés (installation de remplissage ou de chargement ou de déchargement ou de distribution de) 
 
 </td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td valign="top" width="433">
+      <td>1. Installations de remplissage de bouteilles ou conteneurs </td>
+      <td>
 
-1. installations de remplissage de bouteilles ou conteneurs 
-
-</td>
-      <td valign="top" width="31">
-
-A 
+A
 
 </td>
-      <td valign="top" width="34">
+      <td>
 
 1 
 
 </td>
-      <td valign="top" width="148">
+      <td>
 
-1.
-
-</td>
-      <td valign="top" width="33">
-
-4 
+1
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
+      <td>
 
-2. installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation 
-
-</td>
-      <td valign="top" width="31">
-
-A 
-
-</td>
-      <td valign="top" width="34">
-
-1 
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+4
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td align="left" valign="top">
 
-3. installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes
+2. Installations desservant un stockage de gaz inflammable (stockage souterrain compris) : 
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+a. Installations de chargement ou déchargement desservant un stockage de gaz inflammables soumis à autorisation 
+
+</td>
+      <td align="left" valign="top">
+
+A
+
+</td>
+      <td align="left" valign="top">
+
+1
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+b. Autres installations que celles visées au 2. a, lorsque le nombre maximal d'opérations de chargement et de déchargement
+est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine 
+
+</td>
+      <td align="left" valign="top">
+
+A
+
+</td>
+      <td align="left" valign="top">
+
+1
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+c. Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre maximal d'opérations de chargement et de
+déchargement est supérieur ou égal à 2 par jour 
+
+</td>
+      <td align="left" valign="top">
+
+DC
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+3. Installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes
 de sécurité (jauges et soupapes) 
 
 </td>
-      <td valign="top" width="31">
+      <td align="left" valign="top">
 
-DC 
-
-</td>
-      <td valign="top" width="34">
+DC
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+4. Installations de chargement ou de déchargement de citerne à citerne, les citernes étant définies par les réglementations
+relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) 
 
 </td>
-    </tr>
+      <td align="left" valign="top">
+
+A
+
+</td>
+      <td align="left" valign="top">
+
+1
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
       <td rowspan="4" valign="top" width="21">
 
@@ -4282,8 +4333,13 @@ b) supérieure ou égale à 10 t/j, mais inférieure à 100 t/j
   </tbody>
 </table>
 
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
+périodique prévu par l'article L. 512-11 du code de l'environnement. 
+
+(2) Rayon d'affichage en kilomètres.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-814 du 11 septembre 2013 - art.
+  - Décret n°2014-996 du 2 septembre 2014 - art.

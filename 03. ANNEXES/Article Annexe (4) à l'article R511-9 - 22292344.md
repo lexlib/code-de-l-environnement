@@ -1,6 +1,6 @@
 # Article Annexe (4) à l'article R511-9
 
-<table align="center" border="1" cellpadding="0" cellspacing="0" width="699">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="740">
     <tbody>
       <tr>
         <td rowspan="2" width="21">
@@ -597,9 +597,8 @@ D
 </td>
         <td valign="top" width="437">
 
-Installation de fabrication de produits en béton par procédé mécanique. La 
-
-puissance installée du matériel de malaxage et de vibration, étant : 
+Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de
+vibration, étant : 
 
 </td>
         <td valign="top" width="32">
@@ -2048,12 +2047,12 @@ d'élimination.
         </td><td>
       </td></tr>
       <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-      </tr>
+        <td>
+        </td><td>
+        </td><td>
+        </td><td>
+        </td><td>
+      </td></tr>
       <tr>
         <td rowspan="10" valign="top" width="21">
 
@@ -2300,7 +2299,11 @@ Nettoyage, décapage des métaux par traitement thermique :
 </td>
         <td>
         </td><td>
-        </td><td>1. La capacité volumique du four étant supérieure à 2 000 l </td>
+        </td><td>
+
+1. La capacité volumique du four étant supérieure à 2 000 l 
+
+</td>
         <td align="center">1
 
 </td>
@@ -2347,7 +2350,9 @@ A
 1
 
 </td>
-        <td align="left" valign="top">2. Quelle que soit la capacité 
+        <td align="left" valign="top">
+
+2. Quelle que soit la capacité 
 
 </td>
         <td align="center" valign="top">1
@@ -3651,7 +3656,7 @@ manière, à l'exclusion du transport.
 </td>
         <td valign="top" width="437">
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle) 
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle) 
 
 </td>
         <td valign="top" width="32">
@@ -5373,100 +5378,73 @@ b) Inférieure à 50 t/j
 </td>
       </tr>
       <tr>
-        <td rowspan="6" valign="top">
+        <td rowspan="5" valign="top">
 
 2781 
 
 </td>
-        <td valign="top" width="437">
+        <td align="left" valign="top">
 
-Installations de méthanisation de déchets non dangereux ou matière végétale brute, à l'exclusion des installations de
-méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production. 
-
-</td>
-        <td valign="top" width="32">
-
-</td>
-        <td valign="top" width="29">
-
-</td>
-        <td valign="top" width="155">
-        </td><td valign="top" width="26">
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top" width="437">
+Installations de méthanisation de déchets non dangereux ou de matière végétale brute, à l'exclusion des installations de
+méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux
-d'industries agroalimentaires : 
+d'industries agroalimentaires :
 
 </td>
-        <td valign="top" width="32">
-
-</td>
-        <td valign="top" width="29">
-
-</td>
-        <td valign="top" width="155">
-        </td><td valign="top" width="26">
-
-</td>
-      </tr>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+        </td><td align="left" valign="top">
+        </td><td align="left" valign="top">
+      </td></tr>
       <tr>
-        <td valign="top" width="437">
+        <td align="left" valign="top">
 
-a) La quantité de matières traitées étant supérieure ou égale à 50 t/j 
-
-</td>
-        <td valign="top" width="32">
-
-A 
+a) La quantité de matières traitées étant supérieure ou égale à 60 t/ j 
 
 </td>
-        <td valign="top" width="29">
+        <td align="left" valign="top">
 
-2 
-
-</td>
-        <td valign="top" width="155">
-        </td><td valign="top" width="26">
+A
 
 </td>
-      </tr>
+        <td align="left" valign="top">
+
+2
+
+</td>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+      </td></tr>
       <tr>
-        <td valign="top" width="437">
+        <td align="left" valign="top">
 
-b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j 
-
-</td>
-        <td valign="top" width="32">
-
-E 
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/ j et inférieure à 60 t/ j 
 
 </td>
-        <td valign="top" width="29">
+        <td align="left" valign="top">
+
+E
 
 </td>
-        <td valign="top" width="155">
-        </td><td valign="top" width="26">
-
-</td>
-      </tr>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+        </td><td align="left" valign="top">
+      </td></tr>
       <tr>
-        <td>
+        <td align="left" valign="top">
 
-c) La quantité de matières traitées étant inférieure à 30 t/j 
-
-</td>
-        <td>
-
-DC 
+c) La quantité de matières traitées étant inférieure à 30 t/ j
 
 </td>
-        <td>
-        </td><td>
-        </td><td>
+        <td align="left" valign="top">
+
+DC
+
+</td>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+        </td><td align="left" valign="top">
       </td></tr>
       <tr>
         <td valign="top" width="437">
@@ -5476,12 +5454,12 @@ DC
 </td>
         <td valign="top" width="32">
 
-A 
+A
 
 </td>
         <td valign="top" width="29">
 
-2 
+2
 
 </td>
         <td valign="top" width="155">
@@ -5956,21 +5934,21 @@ de découverte).
         </td><td>
       </td></tr>
       <tr>
-        <td>
+        <td align="left" valign="top">
 
 1. Installation de collecte de déchets de produits explosifs (*) apportés par le producteur initial de ces déchets. 
 
 La quantité équivalente totale de matière active (**) susceptible d'être présente dans l'installation étant :
 
 </td>
-        <td>
-        </td><td>
-        </td><td>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+        </td><td align="left" valign="top">
 
 1. Non soumis à la taxe
 
 </td>
-        <td>
+        <td align="left" valign="top">
 
 -
 
@@ -6318,6 +6296,59 @@ DC
 
 </td>
       </tr>
+      <tr>
+        <td align="left" valign="top">
+
+2797
+
+</td>
+        <td align="left" valign="top">
+
+Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de
+particules, secteur médical et activités de traitement des sites pollués par des substances radioactives, dès lors que leur
+quantité susceptible d'être présente est supérieure à 10 m
+            <sup>3</sup> et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de la santé
+publique ne sont pas remplies. 
+
+Les termes "déchets radioactifs" et "gestion des déchets radioactifs" s'entendent au sens de l'article 3 de la directive
+2011/70/EURATOM du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du
+combustible usé et des déchets radioactifs.
+
+</td>
+        <td align="left" valign="top">
+
+A
+
+</td>
+        <td align="left" valign="top">
+
+2
+
+</td>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+      </td></tr>
+      <tr>
+        <td align="left" valign="top">
+
+2798
+
+</td>
+        <td align="left" valign="top">
+
+Installation temporaire de transit de déchets radioactifs issus d'un accident nucléaire ou radiologique, à l'exclusion des
+installations mentionnées à la rubrique 2719. 
+
+</td>
+        <td align="left" valign="top">
+
+D
+
+</td>
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
+        </td><td align="left" valign="top">
+      </td></tr>
       <tr>
         <td rowspan="27" valign="top" width="21">
 
@@ -6822,8 +6853,8 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
       <tr>
         <td valign="top" width="437">
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25
-            <sup>o </sup>C) est : 
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
+            <sup>o</sup>C) est : 
 
 </td>
         <td valign="top" width="32">
@@ -6898,7 +6929,7 @@ D
         <td valign="top" width="437">
 
 Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
-            <sup>o </sup>C) est supérieure à 250 l. 
+            <sup>o</sup>C) est supérieure à 250 l. 
 
 </td>
         <td valign="top" width="32">
@@ -7540,10 +7571,10 @@ DC
 
 Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en
 tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point
-éclair inférieur à 55
-            <sup>o </sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de
-produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55
-            <sup>o </sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont
+éclair inférieur à 55 
+            <sup>o</sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de
+produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 
+            <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont
 affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le
 classement sera égale à : Q = A + B/2.
 
@@ -8325,7 +8356,7 @@ A
         <td align="left" valign="top">
 
 Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de
-grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et/ou dans un four avec une capacité
+grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et dans un four avec une capacité
 supérieure à 4 mètres cubes et une densité d'enfournement de plus de 300 kg/m³ par four 
 
 </td>
@@ -9202,7 +9233,7 @@ A
 </td>
         <td align="left" valign="top">
 
-Traitement et transformation, à l'exclusion du seul conditionnement des matières premières ci-après, qu'elles aient été ou
+Traitement et transformation, à l'exclusion du seul conditionnement, des matières premières ci-après, qu'elles aient été ou
 non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus : 
 
 </td>
@@ -9561,8 +9592,8 @@ A
 </td>
         <td align="left" valign="top">
 
-Traitement des eaux résiduaires dans des installations autonomes relevant des rubriques 2750 ou 2751 et qui sont rejetées par
-une ou plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V
+Traitement des eaux résiduaires dans des installations autonomes relevant de la rubrique 2750 et qui sont rejetées par une ou
+plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V
 
 </td>
         <td align="left" valign="top">
@@ -9589,15 +9620,15 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux
 rubriques 2770 et 2771.
 
-Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté
-ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces
-deux rubriques.
-
 **Nota:**
 
 Décret n° 2013-814 du 11 septembre 2013 art. 4 : La rubrique 2910 dans sa rédaction issue du présent décret entre en vigueur
 le lendemain de la publication de l'arrêté ministériel de prescription générale relatif aux installations relevant du régime
 de l'enregistrement mentionné à son B.
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui  entre en vigueur le jour de la publication de l'arrêté
+ministériel  fixant les prescriptions générales applicables aux installations  relevant du régime de l'enregistrement dans
+ces deux rubriques.
 
 **Liens relatifs à cet article**
 
@@ -9608,8 +9639,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2014-219 du 24 février 2014 - art.
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2014-219  du  - art., v. init.
+  - Décret n°2014-996 du 2 septembre 2014 - art.
+  - Décret n°2014-996 du 2 septembre 2014 - art. 5
