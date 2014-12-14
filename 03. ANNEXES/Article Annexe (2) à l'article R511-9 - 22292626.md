@@ -509,6 +509,8 @@
 ┃      │                                                              │       │        │ point éclair est supérieur │       ┃
 ┃      │                                                              │       │        │ ou égal à 55 o C           │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ e) Supérieure ou égale à 25 000 t pour les fiouls lourds     │ AS    │ 4      │                            │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. stockage de liquides inflammables visés à la rubrique     │       │        │ 2. Stockage de liquides    │ 3     ┃
 ┃      │ 1430 :                                                       │       │        │ inflammables visés à la    │       ┃
 ┃      │                                                              │       │        │ rubrique 1430 représentant │       ┃
@@ -768,4 +770,4 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 _Modifié par_:
 
-  - Décret n°2014-996 du 2 septembre 2014 - art.
+  - Décret n°2014-1501 du 12 décembre 2014 - art.
