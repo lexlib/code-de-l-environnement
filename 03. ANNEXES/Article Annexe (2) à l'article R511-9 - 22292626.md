@@ -2592,7 +2592,7 @@ Quelle que soit la capacité
 </td>
     </tr>
     <tr>
-      <td rowspan="9" valign="top" width="21">
+      <td rowspan="10" valign="top" width="21">
 
 1432 
 
@@ -2749,6 +2749,23 @@ et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur
 6 
 
 </td>
+    </tr>
+    <tr>
+      <td> e) Supérieure ou égale à 25 000 t pour les fiouls lourds 
+
+</td>
+      <td>
+
+AS 
+
+</td>
+      <td>
+
+4 
+
+</td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td valign="top" width="433">
@@ -4342,4 +4359,4 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 _Modifié par_:
 
-  - Décret n°2014-996 du 2 septembre 2014 - art.
+  - Décret n°2014-1501 du 12 décembre 2014 - art.

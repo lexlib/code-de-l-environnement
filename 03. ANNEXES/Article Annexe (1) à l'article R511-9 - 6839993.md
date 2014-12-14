@@ -6700,8 +6700,8 @@ D
 </td>
       <td valign="top" width="433">
 
-Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage,
-assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur)
+Produits explosifs (fabrication, chargement, encartouchage, conditionnement [1] de, études et recherches, essais, montage,
+assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur) 
 
 </td>
       <td valign="top" width="31">
@@ -6718,8 +6718,9 @@ assemblage, mise en liaison électrique ou pyrotechnique de et travail mécaniqu
     <tr>
       <td valign="top" width="433">
 
-1. Fabrication industrielle par transformation chimique de la quantité totale de matière active susceptible d'être présente
-dans l'installation étant (2) : 
+1. Fabrication industrielle par transformation chimique 
+
+La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) : 
 
 </td>
       <td valign="top" width="31">
@@ -6798,9 +6799,9 @@ b) Inférieure à 10 t
 
 2. Autres fabrications (3), chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage,
 assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur, à l'exclusion des opérations effectuées
-sur le lieu d'utilisation en vue de celle-ci.
+sur le lieu d'utilisation en vue de celle-ci. 
 
-La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :
+La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) : 
 
 </td>
       <td valign="top" width="31">
@@ -6931,7 +6932,7 @@ a) Supérieure ou égale à 100 kg
       <td>b) Inférieure à 100 kg</td>
       <td>
 
-DC
+D
 
 </td>
       <td>
@@ -6941,21 +6942,19 @@ DC
       </td><td>
     </td></tr>
     <tr>
-      <td valign="top" width="433">
-
-Nota :
+      <td valign="top" width="433">Nota : 
 
 (1) Les opérations de manipulation, manutention, conditionnement, reconditionnement, mise au détail ou distribution réalisées
-dans les espaces de vente des établissements recevant du public sont exclues.
+dans les espaces de vente des établissements recevant du public sont exclues. 
 
 (2) La quantité de matière active à retenir tient compte des produits intermédiaires, des en-cours et des déchets dont la
-présence dans l'installation s'avère connexe à l'activité de fabrication.
+présence dans l'installation s'avère connexe à l'activité de fabrication. 
 
 (3) Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de
-produits non explosifs ou non prévus pour être explosifs.
+produits non explosifs ou non prévus pour être explosifs. 
 
 (4) La quantité de matière active à prendre en compte est la quantité d'explosif fabriqué susceptible d'être concernée par la
-transmission d'une détonation prenant naissance en son sein.
+transmission d'une détonation prenant naissance en son sein. 
 
 </td>
       <td valign="top" width="31">
@@ -7300,4 +7299,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-996 du 2 septembre 2014 - art. 2
+  - Décret n°2014-1501 du 12 décembre 2014 - art.
