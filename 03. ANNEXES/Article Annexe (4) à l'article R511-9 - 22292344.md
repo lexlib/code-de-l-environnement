@@ -4921,15 +4921,14 @@ A
 </td>
       </tr>
       <tr>
-        <td rowspan="3" valign="top">
+        <td rowspan="4" valign="top">
 
 2760 
 
 </td>
         <td valign="top" width="437">
 
-Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de
-l'article L. 541-30-1 du code de l'environnement. 
+Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 
 
 </td>
         <td valign="top" width="32">
@@ -4952,7 +4951,7 @@ Quels que soient les déchets stockés :
 
 1. Installation de stockage de déchets dangereux ; 
 
-2. Installation de stockage de déchets non dangereux. 
+2. Installation de stockage de déchets non dangereux autres que celles mentionnées au 3. 
 
 </td>
         <td align="left" valign="top">
@@ -4996,6 +4995,13 @@ b) La capacité journalière autorisée étant inférieure à 10 t/j et la capac
 3
 
 </td>
+      </tr>
+      <tr>
+        <td> 3. Installations de stockage de déchets inertes</td>
+        <td> E</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
       </tr>
       <tr>
         <td rowspan="5" valign="top">
@@ -9639,5 +9645,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2014-996 du 2 septembre 2014 - art.
-  - Décret n°2014-996 du 2 septembre 2014 - art. 5
+  - Décret n°2014-1501 du 12 décembre 2014 - art.
