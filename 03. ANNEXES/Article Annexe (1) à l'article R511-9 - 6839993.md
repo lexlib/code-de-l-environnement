@@ -5408,12 +5408,9 @@ A
 1185 
 
 </td>
-      <td valign="top" width="433">
-
-Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées
-par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage). 
-
-</td>
+      <td valign="top" width="433">Gaz à effet de serre fluorés visés à l'annexe du règlement (UE) n° 517/2014 relatif aux
+gaz à effet de serre fluorés et abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone
+visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).</td>
       <td valign="top" width="31">
 
 </td>
@@ -5432,7 +5429,7 @@ par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
 rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication industrielle de
 composés organohalogénés, organophosphorés et organostanniques visée par la rubrique 1174, de l'emploi de liquides
 organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute
-tension. 
+tension.
 
 </td>
       <td valign="top" width="31">
