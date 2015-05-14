@@ -594,7 +594,7 @@ b) Plans d'eau permanents ou non soumis à autorisation au titre de l'article R.
       <td align="left" valign="top">
       </td><td align="left" valign="top">
 
-c) Barrages de retenue et digues de canaux soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement. 
+c) Les barrages de retenues et ouvrages assimilés faisant l'objet d'une autorisation au titre de l'article R. 214-1.
 
 </td>
       <td align="left" valign="top">
@@ -1365,6 +1365,12 @@ Toute création ou extension.
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 31 du décret n° 2015-526 du 12 mai 2015, les dispositions du code de l'environnement dans leur
+rédaction antérieure au 15 mai 2015 modifiées par le présent décret et les textes pris pour leur mise en œuvre restent
+applicables aux demandes d'autorisation d'ouvrages relevant des rubriques 3.2.5.0 et 3.2.6.0 introduites avant cette date.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -1381,7 +1387,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2014-118 du 11 février 2014 - art. 4
+  - Décret n°2015-526 du 12 mai 2015 - art. 10
 
 _Cité par_:
 
