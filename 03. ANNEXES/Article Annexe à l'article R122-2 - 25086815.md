@@ -519,7 +519,8 @@ l'environnement.
     <tr>
       <td align="left" valign="top">
 
-14° Dispositifs de captage ou de recharge artificielle des eaux souterraines. 
+14° Dispositifs de captage ou de recharge artificielle des eaux souterraines, à l'exception des ouvrages de géothermie de
+minime importance. 
 
 </td>
       <td align="left" valign="top">
@@ -722,7 +723,7 @@ Forages et mines
       <td align="left" valign="top">
 
 Forages soumis à autorisation au titre de l'article L. 162-1 du code minier et de l'article 3 du décret n° 2006-649 du 2 juin
-2006 relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains.
+2006 relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains. 
 
 </td>
       <td align="left" valign="top">
@@ -1323,7 +1324,7 @@ a) Défrichements portant sur une superficie totale, même fragmentée, égale o
 </td>
       <td align="left" valign="top">
 
-a) Défrichements soumis à autorisation au titre de l' article L. 341-3 du code forestier et portant sur une superficie
+a) Défrichements soumis à autorisation au titre de l' article L. 341-3 du code forestier  et portant sur une superficie
 totale, même fragmentée, de plus de 0,5 hectare et inférieure à 25 hectares. 
 
 </td>
@@ -1365,18 +1366,10 @@ Toute création ou extension.
   </tbody>
 </table>
 
-**Nota:**
-
-Conformément à l'article 31 du décret n° 2015-526 du 12 mai 2015, les dispositions du code de l'environnement dans leur
-rédaction antérieure au 15 mai 2015 modifiées par le présent décret et les textes pris pour leur mise en œuvre restent
-applicables aux demandes d'autorisation d'ouvrages relevant des rubriques 3.2.5.0 et 3.2.6.0 introduites avant cette date.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°53-578 du 20 mai 1953
-  - Décret n°2006-649 du 2 juin 2006 - art. 4
   - Loi n°2006-686 du 13 juin 2006
   - Décret n°2007-1557 du 2 novembre 2007 - art. 31
   - Code forestier - art. R412-19
@@ -1387,7 +1380,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-526 du 12 mai 2015 - art. 10
+  - Décret n°2015-15 du 8 janvier 2015 - art. 24
 
 _Cité par_:
 
