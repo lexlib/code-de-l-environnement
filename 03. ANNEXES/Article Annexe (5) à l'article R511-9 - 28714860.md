@@ -1,19 +1,19 @@
 # Article Annexe (5) à l'article R511-9
 
-<table border="1" cellspacing="0" align="center" width="740" cellpadding="0">
+<table border="1" align="center" cellpadding="0" cellspacing="0" width="680">
     <tbody>
       <tr>
-        <td width="21" rowspan="2">
+        <td rowspan="2" width="21">
 
 N°
 
 </td>
-        <td width="497" colspan="3">
+        <td colspan="3" width="497">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES 
 
 </td>
-        <td width="181" colspan="2">
+        <td colspan="2" width="181">
 
 B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES 
 
@@ -47,7 +47,7 @@ Coef.
 </td>
       </tr>
       <tr valign="top">
-        <td rowspan="10" align="center">
+        <td align="center" rowspan="10">
 
 4701 
 
@@ -57,10 +57,10 @@ Coef.
 Nitrate d'ammonium.
 
 </td>
-        <td align="center" width="32" valign="top">
-        </td><td valign="top" align="center" width="29">
-        </td><td width="155" valign="top">
-        </td><td valign="top" width="26">
+        <td width="32" valign="top" align="center">
+        </td><td valign="top" width="29" align="center">
+        </td><td valign="top" width="155">
+        </td><td width="26" valign="top">
       </td></tr>
       <tr>
         <td>
@@ -169,7 +169,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 500 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="11">
+        <td rowspan="11" align="center">
 
 4702 
 
@@ -264,19 +264,19 @@ dans l'installation étant :
         </td><td>
       </td></tr>
       <tr>
-        <td align="left" valign="top">a) Supérieure ou égale à 1 250 t </td>
+        <td valign="top" align="left">a) Supérieure ou égale à 1 250 t </td>
         <td valign="top" align="left">
 
 A
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 2 
 
 </td>
-        <td valign="top" align="left">
-        </td><td valign="top" align="left">
+        <td align="left" valign="top">
+        </td><td align="left" valign="top">
       </td></tr>
       <tr>
         <td>
@@ -290,20 +290,20 @@ b) Supérieure ou égale à 500 t, mais inférieure à 1 250 t
         </td><td>
       </td></tr>
       <tr>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 c) Inférieure à 500 t comportant une quantité en vrac d'engrais, dont la teneur en azote due au nitrate d'ammonium est
 supérieure à 28 % en poids, supérieure ou égale à 250 t 
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 DC 
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
         </td><td align="left" valign="top">
-        </td><td align="left" valign="top">
+        </td><td valign="top" align="left">
       </td></tr>
       <tr>
         <td>
@@ -401,12 +401,12 @@ parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 4701,4702-II
         </td><td>
       </td></tr>
       <tr>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 10 t 
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 A 
 
@@ -416,7 +416,7 @@ A
 3
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
         </td><td align="left" valign="top">
       </td></tr>
       <tr>
@@ -543,7 +543,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10 000 t.
 </td>
       </tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4706
 
@@ -790,7 +790,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 100 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4710
 
@@ -858,7 +858,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 25 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4711
 
@@ -925,7 +925,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="3" align="center">
+        <td align="center" rowspan="3">
 
 4712
 
@@ -969,7 +969,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4713
 
@@ -1173,7 +1173,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4716
 
@@ -1241,7 +1241,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 250 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4717 
 
@@ -1273,18 +1273,18 @@ La quantité susceptible d'être présente dans l'installation étant :
 1. Supérieure ou égale à 5 t 
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 A
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 3
 
 </td>
         <td valign="top" align="left">
-        </td><td align="left" valign="top">
+        </td><td valign="top" align="left">
       </td></tr>
       <tr>
         <td>
@@ -1311,16 +1311,16 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4718
 
 </td>
         <td>
 
-Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL et biogaz affiné, lorsqu'il a été traité conformément aux
-normes applicables en matière de biogaz purifié et affiné, en assurant une qualité équivalente à celle du gaz naturel, y
-compris pour ce qui est de la teneur en méthane, et qu'il a une teneur maximale de 1 % en oxygène).
+Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL) et gaz naturel (y compris biogaz affiné, lorsqu'il a été
+traité conformément aux normes applicables en matière de biogaz purifié et affiné, en assurant une qualité équivalente à
+celle du gaz naturel, y compris pour ce qui est de la teneur en méthane, et qu'il a une teneur maximale de 1 % en oxygène). 
 
 </td>
         <td align="center">
@@ -1331,7 +1331,8 @@ compris pour ce qui est de la teneur en méthane, et qu'il a une teneur maximale
       <tr>
         <td>
 
-La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines (strates
+naturelles, aquifères, cavités salines et mines désaffectées) étant : 
 
 </td>
         <td align="center">
@@ -1364,7 +1365,9 @@ La quantité totale susceptible d'être présente dans les installations y compr
 
 </td>
         <td align="center">
-        </td><td>
+
+</td>
+        <td>
         </td><td>
       </td></tr>
       <tr>
@@ -1381,7 +1384,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4719
 
@@ -1517,7 +1520,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4721
 
@@ -1853,7 +1856,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4726
 
@@ -2057,7 +2060,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4729
 
@@ -2191,7 +2194,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4731
 
@@ -2259,7 +2262,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 75 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4732
 
@@ -2292,12 +2295,12 @@ La quantité susceptible d'être présente dans l'installation étant :
 1. Supérieure ou égale à 200 g 
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 A 
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 3
 
@@ -2340,10 +2343,12 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,001 t.
         <td>
 
 Cancérogènes spécifiques suivants ou les mélanges contenant les cancérogènes suivants en concentration supérieure à 5 % en
-poids : 4-aminobiphényle et/ ou ses sels, benzotrichlorure, benzidine et/ ou ses sels, oxyde de bis-(chlorométhyle), oxyde de
+poids : 
+
+4-aminobiphényle et/ ou ses sels, benzotrichlorure, benzidine et/ ou ses sels, oxyde de bis-(chlorométhyle), oxyde de
 chlorométhyle et de méthyle, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, chlorure de diméthylcarbamoyle,
-1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, diméthylnitrosamine, triamide hexaméthylphosphorique, hydrazine, 2
-naphthylamine et/ ou ses sels, 4 nitrodiphényle et 1,3-propanesulfone. 
+1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, diméthylnitrosamine, triamide hexaméthylphosphorique, hydrazine, 2-
+naphthylamine et/ ou ses sels, 4 nitrodiphényle et 1,3-propanesultone.
 
 </td>
         <td align="center">
@@ -2363,17 +2368,17 @@ La quantité susceptible d'être présente dans l'installation étant :
         </td><td>
       </td></tr>
       <tr>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 1. Supérieure ou égale à 400 kg 
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 A 
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 3
 
@@ -2406,17 +2411,18 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="11" align="center">
+        <td align="center" rowspan="11">
 
 4734 
 
 </td>
         <td>
 
-Produits pétroliers spécifiques et carburants de substitution : essences et naphtas ; kérosènes (carburants d'aviation
-compris) ; gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles compris) ; fioul lourd ; carburants
-de substitution pour véhicules, utilisés aux mêmes fins et aux mêmes usages et présentant des propriétés similaires en
-matière d'inflammabilité et de danger pour l'environnement.
+Produits pétroliers spécifiques et carburants de substitution : 
+
+essences et naphtas ; kérosènes (carburants d'aviation compris) ; gazoles (gazole diesel, gazole de chauffage domestique et
+mélanges de gazoles compris) ; fioul lourd ; carburants de substitution pour véhicules, utilisés aux mêmes fins et aux mêmes
+usages et présentant des propriétés similaires en matière d'inflammabilité et de danger pour l'environnement.
 
 </td>
         <td align="center">
@@ -2427,7 +2433,7 @@ matière d'inflammabilité et de danger pour l'environnement.
       <tr>
         <td>
 
-La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines, étant : 
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant : 
 
 </td>
         <td align="center">
@@ -2438,7 +2444,7 @@ La quantité totale susceptible d'être présente dans les installations, y comp
       <tr>
         <td>
 
-1. Pour les cavités souterraines, les stockages enterrés ou en double enveloppe avec système de détection de fuite : 
+1. Pour les cavités souterraines et les stockages enterrés :
 
 </td>
         <td align="center">
@@ -2501,7 +2507,7 @@ c) Supérieure ou égale à 50 t d'essence ou 250 t au total, mais inférieure �
         </td><td>
       </td></tr>
       <tr>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 a) Supérieure ou égale à 1 000 t 
 
@@ -2511,13 +2517,13 @@ a) Supérieure ou égale à 1 000 t
 A
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 2
 
 </td>
         <td align="left" valign="top">
-        </td><td valign="top" align="left">
+        </td><td align="left" valign="top">
       </td></tr>
       <tr>
         <td>
@@ -2673,7 +2679,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4736
 
@@ -2705,7 +2711,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 1. Supérieure ou égale à 5 t
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 A
 
@@ -2715,7 +2721,7 @@ A
 3
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
         </td><td align="left" valign="top">
       </td></tr>
       <tr>
@@ -2745,7 +2751,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4737 
 
@@ -2772,7 +2778,7 @@ La quantité susceptible d'être présente dans l'installation étant :
         </td><td>
       </td></tr>
       <tr>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 1. Supérieure ou égale à 5 t 
 
@@ -2788,7 +2794,7 @@ A
 
 </td>
         <td align="left" valign="top">
-        </td><td align="left" valign="top">
+        </td><td valign="top" align="left">
       </td></tr>
       <tr>
         <td>
@@ -2815,7 +2821,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4738
 
@@ -3090,7 +3096,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4742
 
@@ -3159,7 +3165,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4743
 
@@ -3296,7 +3302,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4745
 
@@ -3365,7 +3371,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="5" align="center">
+        <td align="center" rowspan="5">
 
 4746
 
@@ -3434,7 +3440,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4747
 
@@ -3503,7 +3509,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td align="center" rowspan="5">
+        <td rowspan="5" align="center">
 
 4748 
 
@@ -3536,7 +3542,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 1. Supérieure ou égale à 500 t 
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 A
 
@@ -3618,7 +3624,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="6" align="center">
+        <td align="center" rowspan="6">
 
 4755 
 
@@ -3673,13 +3679,13 @@ a) Supérieure ou égale à 500 m³
 A
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 2
 
 </td>
         <td align="left" valign="top">
-        </td><td align="left" valign="top">
+        </td><td valign="top" align="left">
       </td></tr>
       <tr>
         <td>
@@ -3706,7 +3712,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.
         </td><td>
       </td></tr>
       <tr valign="top">
-        <td rowspan="4" align="center">
+        <td align="center" rowspan="4">
 
 4801 
 
@@ -3764,8 +3770,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
         <td>
 
-Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées
-par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage). 
+Gaz à effet de serre fluorés visés à l'annexe I du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre fluorés et
+abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n°
+1005/2009 (fabrication, emploi, stockage). 
 
 </td>
         <td align="center">
@@ -3777,7 +3784,7 @@ par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
         <td>
 
 1. Fabrication, conditionnement et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits
-textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la
+textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visées par la rubrique 2564, de la
 fabrication en quantité industrielle par transformation chimique ou biologique d'hydrocarbures halogénés visée par la
 rubrique 3410-f et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension. 
 
@@ -3799,12 +3806,12 @@ Le volume des équipements susceptibles de contenir des fluides étant :
         </td><td>
       </td></tr>
       <tr>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
 
 a) Supérieure à 800 l 
 
 </td>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 A
 
@@ -3814,7 +3821,7 @@ A
 1
 
 </td>
-        <td align="left" valign="top">
+        <td valign="top" align="left">
         </td><td valign="top" align="left">
       </td></tr>
       <tr>
@@ -3840,7 +3847,7 @@ b) Supérieure à 80 l, mais inférieure ou égale à 800 l
         </td><td>
       </td></tr>
       <tr>
-        <td valign="top" align="left">
+        <td align="left" valign="top">
 
 a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de capacité unitaire supérieure à 2 kg, la quantité
 cumulée de fluide susceptible d'être présente dans l'installation étant supérieure ou égale à 300 kg 
@@ -3851,8 +3858,8 @@ cumulée de fluide susceptible d'être présente dans l'installation étant sup�
 DC
 
 </td>
-        <td align="left" valign="top">
-        </td><td valign="top" align="left">
+        <td valign="top" align="left">
+        </td><td align="left" valign="top">
         </td><td align="left" valign="top">
       </td></tr>
       <tr>
@@ -3872,7 +3879,7 @@ b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être
       <tr>
         <td>
 
-3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire. 
+3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire.
 
 </td>
         <td align="center">
@@ -3883,8 +3890,8 @@ b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être
       <tr>
         <td>
 
-1. Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation
-étant : 
+1) Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation
+étant :
 
 </td>
         <td align="center">
@@ -3919,7 +3926,7 @@ b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400
       <tr>
         <td>
 
-2. Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant supérieure à
+2) Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant supérieure à
 150 kg quel que soit le conditionnement 
 
 </td>
@@ -3940,6 +3947,10 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2015-1200 du 29 septembre 2015 - art., v. init.
