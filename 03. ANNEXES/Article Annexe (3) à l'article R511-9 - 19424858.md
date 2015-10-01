@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -623,7 +623,7 @@ D
 </td>
       <td>
 
-Volailles, gibier à plumes (activité d'élevage, vente, etc.), à l'exclusion d'activités spécifiques visées à d'autres
+Volailles, gibier à plumes (activité d'élevage, vente, etc., de), à l'exclusion d'activités spécifiques visées à d'autres
 rubriques.
 
 </td>
@@ -654,36 +654,16 @@ A
     <tr>
       <td>
 
-2. Autres installations que celles visées au 1 et détenant un nombre d'animaux-équivalents :
+2. Autres installations que celles visées au 1 et détenant un nombre d'emplacements pour les volailles et gibier à plumes
+supérieur à 30 000
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
-
-3
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-a) Supérieur à 30 000
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-3
 
 </td>
       <td>
@@ -692,7 +672,22 @@ A
     <tr>
       <td>
 
-b) Supérieur à 20 000 mais inférieur ou égal à 30 000
+3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux équivalents :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a. Supérieur à 20 000
 
 </td>
       <td>
@@ -707,7 +702,7 @@ DC
     <tr>
       <td>
 
-c) Supérieur à 5 000 mais inférieur ou égal à 20 000
+b. Supérieur à 5 000 mais inférieur ou égal à 20 000
 
 </td>
       <td>
@@ -722,7 +717,10 @@ D
     <tr>
       <td>
 
-Nota. - Les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents :
+Nota. - Pour le "1" et le "2", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement
+
+Pour le "3", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-
+équivalents :
 
 </td>
       <td>
@@ -733,7 +731,7 @@ Nota. - Les volailles et gibier à plumes sont comptés en utilisant les valeurs
     <tr>
       <td>
 
-Caille = 0,125 ;
+1. Caille = 0,125.
 
 </td>
       <td>
@@ -744,7 +742,7 @@ Caille = 0,125 ;
     <tr>
       <td>
 
-Pigeon, perdrix = 0,25 ;
+2. Pigeon, perdrix = 0,25.
 
 </td>
       <td>
@@ -755,7 +753,7 @@ Pigeon, perdrix = 0,25 ;
     <tr>
       <td>
 
-Coquelet = 0,75 ;
+3. Coquelet = 0,75.
 
 </td>
       <td>
@@ -766,7 +764,7 @@ Coquelet = 0,75 ;
     <tr>
       <td>
 
-Poulet léger = 0,85 ;
+4. Poulet léger = 0,85.
 
 </td>
       <td>
@@ -777,8 +775,8 @@ Poulet léger = 0,85 ;
     <tr>
       <td>
 
-Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade,
-canard colvert = 1 ;
+5. Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade,
+canard colvert = 1.
 
 </td>
       <td>
@@ -789,7 +787,7 @@ canard colvert = 1 ;
     <tr>
       <td>
 
-Poulet lourd = 1,15 ;
+6. Poulet lourd = 1,15.
 
 </td>
       <td>
@@ -800,7 +798,7 @@ Poulet lourd = 1,15 ;
     <tr>
       <td>
 
-Canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ;
+7. Canard à rôtir, canard prêt à gaver, canard reproducteur = 2.
 
 </td>
       <td>
@@ -811,7 +809,7 @@ Canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ;
     <tr>
       <td>
 
-Dinde légère = 2,20 ;
+8. Dinde légère = 2,20.
 
 </td>
       <td>
@@ -822,7 +820,7 @@ Dinde légère = 2,20 ;
     <tr>
       <td>
 
-Dinde médium, dinde reproductrice, oie = 3 ;
+9. Dinde médium, dinde reproductrice, oie = 3.
 
 </td>
       <td>
@@ -833,7 +831,7 @@ Dinde médium, dinde reproductrice, oie = 3 ;
     <tr>
       <td>
 
-Dinde lourde = 3,50 ;
+10. Dinde lourde = 3,50.
 
 </td>
       <td>
@@ -844,7 +842,7 @@ Dinde lourde = 3,50 ;
     <tr>
       <td>
 
-Palmipèdes gras en gavage = 7.
+11. Palmipèdes gras en gavage = 7.
 
 </td>
       <td>
@@ -2660,37 +2658,6 @@ A
     <tr>
       <td rowspan="2">
 
-2320
-
-</td>
-      <td>
-
-Atelier de moulinage
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-La puissance installée pour alimenter l'ensemble des machines étant supérieure à 40 kW
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td rowspan="2">
-
 2321
 
 </td>
@@ -4257,11 +4224,6 @@ Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre e
 ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces
 deux rubriques.
 
-**Nota:**
-
-(1) : Les dispositions de la rubrique 2111 de la nomenclature des installations classées introduites par le décret du 10 août
-2005 sont annulées par la décision du Conseil d'Etat n° 286103 du 23 avril 2009.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -4276,5 +4238,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
-  - Décret n°2014-285 du 3 mars 2014 - art. 1
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
