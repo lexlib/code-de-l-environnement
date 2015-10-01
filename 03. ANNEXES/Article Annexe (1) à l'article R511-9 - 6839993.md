@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES 
 
-<table cellspacing="0" border="1" cellpadding="0" width="720" align="center">
+<table align="center" border="1" width="720" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2" width="21">
@@ -12,7 +12,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 </td>
-      <td width="498" colspan="3">
+      <td colspan="3" width="498">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
@@ -51,12 +51,12 @@ Coef.
 </td>
     </tr>
     <tr>
-      <td width="21" rowspan="3" valign="top">
+      <td rowspan="3" valign="top" width="21">
 
 47 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Aluminium (fabrication du sulfate d') et fabrication d'aluns 
 
@@ -67,8 +67,8 @@ Aluminium (fabrication du sulfate d') et fabrication d'aluns
       <td valign="top" width="34">
 
 </td>
-      <td width="148" valign="top" rowspan="4">
-      </td><td valign="top" rowspan="4" width="33">
+      <td rowspan="4" valign="top" width="148">
+      </td><td width="33" valign="top" rowspan="4">
 
 </td>
     </tr>
@@ -78,7 +78,7 @@ Aluminium (fabrication du sulfate d') et fabrication d'aluns
 1° par le lavage des terres alumineuses grillées 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
@@ -90,7 +90,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2° par l'action de l'acide sulfurique sur la bauxite (voir 2546) 
 
@@ -98,12 +98,12 @@ A
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top">
+      <td valign="top" width="21">
 
 70 
 
@@ -127,39 +127,15 @@ A
     <tr>
       <td width="21" valign="top">
 
-187 
-
-</td>
-      <td width="433" valign="top">
-
-Etamage des glaces (ateliers d') 
-
-</td>
-      <td width="31" valign="top">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td width="21" valign="top">
-
 195 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Ferro-silicium (dépôts de) 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 D
 
@@ -167,13 +143,13 @@ D
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      <td width="148" valign="top">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="21">
+      <td valign="top" rowspan="2" width="21">
 
 1312 
 
@@ -184,10 +160,10 @@ Produits explosifs (mise en œuvre de) à des fins industrielles telles que déc
 métaux. 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
       <td valign="top" width="148">
@@ -211,7 +187,7 @@ A
 3
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td width="33" valign="top">
 
 </td>
@@ -238,5 +214,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
-  - Décret n°2014-285 du 3 mars 2014 - art. 1
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
