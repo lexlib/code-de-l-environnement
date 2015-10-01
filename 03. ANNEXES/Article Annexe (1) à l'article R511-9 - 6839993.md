@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES 
 
-<table align="center" cellpadding="0" cellspacing="0" width="720" border="1">
+<table border="1" width="720" cellspacing="0" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2" width="21">
@@ -12,12 +12,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 </td>
-      <td colspan="3" width="498">
+      <td width="498" colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 </td>
-      <td width="180" colspan="2">
+      <td colspan="2" width="180">
 
 B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
@@ -51,7 +51,7 @@ Coef.
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="21" valign="top">
+      <td valign="top" width="21" rowspan="3">
 
 47 
 
@@ -64,16 +64,16 @@ Aluminium (fabrication du sulfate d') et fabrication d'aluns
       <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td width="148" rowspan="4" valign="top">
-      </td><td width="33" valign="top" rowspan="4">
+      <td valign="top" width="148" rowspan="4">
+      </td><td rowspan="4" valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1° par le lavage des terres alumineuses grillées 
 
@@ -108,7 +108,7 @@ A
 70 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Bains et boues provenant du dérochage des métaux (traitement des) par l'acide nitrique 
 
@@ -121,30 +121,6 @@ A
       <td valign="top" width="34">
 
 0,5
-
-</td>
-    </tr>
-    <tr>
-      <td width="21" valign="top">
-
-187 
-
-</td>
-      <td width="433" valign="top">
-
-Etamage des glaces (ateliers d') 
-
-</td>
-      <td width="31" valign="top">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -173,7 +149,7 @@ D
 </td>
     </tr>
     <tr>
-      <td width="21" rowspan="2" valign="top">
+      <td valign="top" rowspan="2" width="21">
 
 1312 
 
@@ -187,10 +163,10 @@ métaux.
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td width="33" valign="top">
 
 </td>
@@ -206,7 +182,7 @@ La quantité unitaire étant supérieure à 10 g
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 3
 
@@ -238,5 +214,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
-  - Décret n°2014-285 du 3 mars 2014 - art. 1
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
