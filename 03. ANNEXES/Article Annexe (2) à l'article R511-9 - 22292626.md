@@ -24,23 +24,23 @@
 ┃      │ Nota.-Les débits sont exprimés pour une température de gaz de       │       │        │                     │       ┃
 ┃      │ 273,15 K à une pression de 101,325 kPa.                             │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1414 │ Gaz inflammables liquéfiés (installation de remplissage ou de char- │       │        │                     │       ┃
-┃      │ gement ou de déchargement ou de distribution de)                    │       │        │                     │       ┃
+┃ 1414 │ Gaz inflammables liquéfiés (installation de remplissage ou de dis-  │       │        │                     │       ┃
+┃      │ tribution de)                                                       │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 1. Installations de remplissage de bouteilles ou conteneurs         │ A     │ 1      │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. Installations desservant un stockage de gaz inflammable (sto-    │       │        │                     │       ┃
 ┃      │ ckage souterrain compris) :                                         │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ a. Installations de chargement ou déchargement desservant un sto-   │ A     │ 1      │                     │       ┃
-┃      │ ckage de gaz inflammables soumis à autorisation                     │       │        │                     │       ┃
+┃      │ a) Installations de chargement ou déchargement desservant un dépôt  │ A     │ 1      │                     │       ┃
+┃      │ de gaz inflammables soumis à autorisation                           │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ b. Autres installations que celles visées au 2. a, lorsque le       │ A     │ 1      │                     │       ┃
+┃      │ b) Autres installations que celles visées au 2. a, lorsque le       │ A     │ 1      │                     │       ┃
 ┃      │ nombre maximal d'opérations de chargement et de déchargement est    │       │        │                     │       ┃
 ┃      │ supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par se-   │       │        │                     │       ┃
 ┃      │ maine                                                               │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ c. Autres installations que celles visées aux 2. a et 2. b, lorsque │ DC    │        │                     │       ┃
+┃      │ c) Autres installations que celles visées aux 2. a et 2. b, lorsque │ DC    │        │                     │       ┃
 ┃      │ le nombre maximal d'opérations de chargement et de déchargement est │       │        │                     │       ┃
 ┃      │ supérieur ou égal à 2 par jour                                      │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
@@ -49,9 +49,10 @@
 ┃      │ sécurité (jauges et soupapes)                                       │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 4. Installations de chargement ou de déchargement de citerne à ci-  │ A     │ 1      │                     │       ┃
-┃      │ terne, les citernes étant définies par les réglementations rela-    │       │        │                     │       ┃
-┃      │ tives au transport de marchandises dangereuses par voie routière    │       │        │                     │       ┃
-┃      │ (ADR) ou par voie ferroviaire (RID)                                 │       │        │                     │       ┃
+┃      │ terne, à l'exclusion de celles exploitées uniquement à des fins de  │       │        │                     │       ┃
+┃      │ maintenance des citernes, les citernes étant définies par les ré-   │       │        │                     │       ┃
+┃      │ glementations relatives au transport de marchandises dangereuses    │       │        │                     │       ┃
+┃      │ par voie routière (ADR) ou par voie ferroviaire (RID)               │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1421 │ Installation de remplissage d'aérosols inflammables de catégorie 1  │       │        │                     │       ┃
 ┃      │ et 2                                                                │       │        │                     │       ┃
@@ -64,39 +65,40 @@
 ┃      │ liquides inflammables de catégorie 2 et 3, le débit maximal de      │       │        │                     │       ┃
 ┃      │ l'installation étant supérieur ou égal à 100 m ³/ h                 │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1434 │ Liquides inflammables (installation de remplissage ou de distribu-  │       │        │                     │       ┃
-┃      │ tion, à l'exception des stations-service visées à la rubrique       │       │        │                     │       ┃
-┃      │ 1435).                                                              │       │        │                     │       ┃
+┃ 1434 │ Liquides inflammables, liquides combustibles de point éclair com-   │       │        │                     │       ┃
+┃      │ pris entre 60° C et 93° C, fiouls lourds, pétroles bruts (installa- │       │        │                     │       ┃
+┃      │ tion de remplissage ou de distribution, à l'exception des stations- │       │        │                     │       ┃
+┃      │ service visées à la rubrique 1435).                                 │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 1. Installations de chargement de véhicules citernes, de remplis-   │       │        │                     │       ┃
 ┃      │ sage de récipients mobiles, le débit maximum de l'installation      │       │        │                     │       ┃
 ┃      │ étant :                                                             │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ a) Supérieur ou égal à 100 m ³/ h                                   │ A     │ 1      │                     │       ┃
+┃      │ a) Supérieur ou égal à 100 m³/ h                                    │ A     │ 1      │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ b) Supérieur ou égal à 5 m ³/ h, mais inférieur à 100 m ³/ h        │ DC    │        │                     │       ┃
+┃      │ b) Supérieur ou égal à 5 m³/ h, mais inférieur à 100 m³/ h          │ DC    │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. Installations de chargement ou de déchargement desservant un     │ A     │ 1      │                     │       ┃
-┃      │ stockage de liquides inflammables soumis à autorisation             │       │        │                     │       ┃
+┃      │ stockage de ces liquides soumis à autorisation                      │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1435 │ Stations-service : installations, ouvertes ou non au public, où les │       │        │                     │       ┃
 ┃      │ carburants sont transférés de réservoirs de stockage fixes dans les │       │        │                     │       ┃
 ┃      │ réservoirs à carburant de véhicules à moteur, de bateaux ou d'aéro- │       │        │                     │       ┃
 ┃      │ nefs.                                                               │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ Le volume annuel de carburant distribué étant :                     │       │        │                     │       ┃
+┃      │ Le volume annuel de carburant liquide distribué étant :             │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 1. Supérieur à 40 000 m ³                                           │ A     │ 1      │                     │       ┃
+┃      │ 1. Supérieur à 40 000 m³                                            │ A     │ 1      │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2. Supérieur à 20 000 m ³ mais inférieur ou égal à 40 000 m ³       │ E     │        │                     │       ┃
+┃      │ 2. Supérieur à 20 000 m³ mais inférieur ou égal à 40 000 m³         │ E     │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 3. Supérieur à 100 m ³ d'essence ou 500 m ³ au total, mais infé-    │ DC    │        │                     │       ┃
-┃      │ rieur ou égal à 20 000 m ³                                          │       │        │                     │       ┃
+┃      │ 3. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur  │ DC    │        │                     │       ┃
+┃      │ ou égal à 20 000 m³                                                 │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┨
-┃ Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa Es-                ┃
-┃ sence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13 kPa                 ┃
-┃ ou plus, destiné à être utilisé comme carburant pour les véhicules à moteur, excepté le gaz de pétrole li-                ┃
-┃ quéfié (GPL) et les carburants pour l'aviation.                                                                           ┃
+┃ Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.                   ┃
+┃ Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13                   ┃
+┃ kPa ou plus, destiné à être utilisé comme carburant pour les véhicules à moteur, exceptés le gaz de pé-                   ┃
+┃ trole liquéfié (GPL) et les carburants pour l'aviation.                                                                   ┃
 ┠┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┨
 ┃ 1436 │ Liquides combustibles de point éclair compris entre 60° C et 93° C  │       │        │                     │       ┃
 ┃      │ (stockage ou emploi de).                                            │       │        │                     │       ┃
@@ -153,18 +155,6 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.         │ DC    │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1521 │ Goudron, asphalte, brais et matières bitumineuses (traitement ou    │       │        │                     │       ┃
-┃      │ emploi de) distillation, pyrogénation, régénération, etc., induc-   │       │        │                     │       ┃
-┃      │ tion, immersion traitement et revêtement de surface, etc., à l'ex-  │       │        │                     │       ┃
-┃      │ clusion des centrales d'enrobages de matériaux routiers             │       │        │                     │       ┃
-┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ La quantité totale susceptible d'être présente dans l'installation  │       │        │                     │       ┃
-┃      │ étant :                                                             │       │        │                     │       ┃
-┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 1. supérieure ou égale à 20 t                                       │ A     │ 1      │                     │       ┃
-┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃      │ 2. supérieure ou égale à 2 t, mais inférieure à 20 t                │ D     │        │                     │       ┃
-┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1530 │ Papiers, cartons ou matériaux combustibles analogues, y compris les │       │        │                     │       ┃
 ┃      │ produits finis conditionnés (dépôt de), à l'exception des établis-  │       │        │                     │       ┃
 ┃      │ sements recevant du public.                                         │       │        │                     │       ┃
@@ -212,5 +202,4 @@ l'annexe 13-8 de la première partie du code de la santé publique.
 
 _Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
-  - Décret n°2014-285 du 3 mars 2014 - art. 1
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
