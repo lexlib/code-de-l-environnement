@@ -127,30 +127,6 @@ A
     <tr>
       <td valign="top" width="21">
 
-187 
-
-</td>
-      <td valign="top" width="433">
-
-Etamage des glaces (ateliers d') 
-
-</td>
-      <td valign="top" width="31">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="21">
-
 195 
 
 </td>
@@ -238,5 +214,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
-  - Décret n°2014-285 du 3 mars 2014 - art. 1
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
