@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES 
 
-<table border="1" cellpadding="0" cellspacing="0" align="center" width="720">
+<table border="1" width="720" cellpadding="0" align="center" cellspacing="0">
   <tbody>
     <tr>
       <td width="21" rowspan="2">
@@ -12,12 +12,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 </td>
-      <td colspan="3" width="498">
+      <td width="498" colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 </td>
-      <td width="180" colspan="2">
+      <td colspan="2" width="180">
 
 B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
@@ -51,12 +51,12 @@ Coef.
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top" rowspan="3">
+      <td rowspan="3" valign="top" width="21">
 
 47 
 
 </td>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 Aluminium (fabrication du sulfate d') et fabrication d'aluns 
 
@@ -67,18 +67,18 @@ Aluminium (fabrication du sulfate d') et fabrication d'aluns
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" rowspan="4" width="148">
-      </td><td valign="top" width="33" rowspan="4">
+      <td rowspan="4" width="148" valign="top">
+      </td><td rowspan="4" valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1° par le lavage des terres alumineuses grillées 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 A
 
@@ -90,7 +90,7 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2° par l'action de l'acide sulfurique sur la bauxite (voir 2546) 
 
@@ -98,7 +98,7 @@ A
       <td valign="top" width="31">
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 </td>
     </tr>
@@ -108,7 +108,7 @@ A
 70 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
 Bains et boues provenant du dérochage des métaux (traitement des) par l'acide nitrique 
 
@@ -127,17 +127,40 @@ A
     <tr>
       <td valign="top" width="21">
 
-187 
+195 
 
 </td>
-      <td width="433" valign="top">
+      <td valign="top" width="433">
 
-Etamage des glaces (ateliers d') 
+Ferro-silicium (dépôts de) 
 
 </td>
       <td valign="top" width="31">
 
 D
+
+</td>
+      <td valign="top" width="34">
+
+</td>
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="21" valign="top">
+
+1312 
+
+</td>
+      <td width="433" valign="top">
+
+Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de
+métaux. 
+
+</td>
+      <td width="31" valign="top">
 
 </td>
       <td width="34" valign="top">
@@ -149,59 +172,12 @@ D
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top">
-
-195 
-
-</td>
       <td width="433" valign="top">
-
-Ferro-silicium (dépôts de) 
-
-</td>
-      <td width="31" valign="top">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="21" rowspan="2">
-
-1312 
-
-</td>
-      <td valign="top" width="433">
-
-Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de
-métaux. 
-
-</td>
-      <td width="31" valign="top">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td width="148" valign="top">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
 
 La quantité unitaire étant supérieure à 10 g 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
@@ -212,7 +188,7 @@ A
 
 </td>
       <td valign="top" width="148">
-      </td><td valign="top" width="33">
+      </td><td width="33" valign="top">
 
 </td>
     </tr>
@@ -238,5 +214,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-285 du 3 mars 2014 - art.
-  - Décret n°2014-285 du 3 mars 2014 - art. 1
+  - Décret n°2015-1200 du 29 septembre 2015 - art.
