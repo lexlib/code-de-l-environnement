@@ -65,8 +65,8 @@ total en sortie du système de compression étant :
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -86,8 +86,8 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -106,8 +106,8 @@ DC
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -123,8 +123,8 @@ Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -145,8 +145,8 @@ Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -166,8 +166,8 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -183,59 +183,71 @@ A
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td>a) Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation </td>
-      <td>
+      <td align="left" valign="top">
+
+a) Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation 
+
+</td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 1
 
 </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td>b) Autres installations que celles visées au 2. a, lorsque le nombre maximal d'opérations de chargement et de
-déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine </td>
-      <td>
+      <td align="left" valign="top">
+
+b) Autres installations que celles visées au 2.a, lorsque le nombre maximal d'opérations de chargement et de déchargement est
+supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine 
+
+</td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 1
 
 </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td>c) Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre maximal d'opérations de chargement et
-de déchargement est supérieur ou égal à 2 par jour </td>
-      <td>
+      <td align="left" valign="top">
+
+c) Autres installations que celles visées aux 2.a et 2.b, lorsque le nombre maximal d'opérations de chargement et de
+déchargement est supérieur ou égal à 2 par jour 
+
+</td>
+      <td align="left" valign="top">
 
 DC
 
 </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
       <td valign="top" width="433">
 
 3. Installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes
-de sécurité (jauges et soupapes)  
+de sécurité (jauges et soupapes) 
 
 </td>
       <td valign="top" width="31">
@@ -246,75 +258,96 @@ DC
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td>4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées
-uniquement à des fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport
-de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) </td>
-      <td>
+      <td align="left" valign="top">
+
+4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées uniquement à des
+fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport de marchandises
+dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) 
+
+</td>
+      <td align="left" valign="top">
 
 A
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 1
 
 </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr valign="top">
       <td rowspan="3">
         1421
-
-</td>
-      <td>Installation de remplissage d'aérosols inflammables de catégorie 1 et 2
-
-</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
+      </td>
       <td>
+
+Installation de remplissage d'aérosols inflammables de catégorie 1 et 2
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
 
 1. Aérosols inflammables contenant des gaz inflammables de catégorie 1 ou 2 ou des liquides inflammables de catégorie 1.
 
 Lorsque le remplissage dépasse 1 000 unités par jour 
 
 </td>
-      <td align="center">A</td>
-      <td align="center">1</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>2. Aérosols inflammables non visés par le point 1 et contenant des liquides inflammables de catégorie 2 et 3, le
-débit maximal de l'installation étant supérieur ou égal à 100 m ³/ h
+      <td align="left" valign="top">
+
+A
 
 </td>
-      <td align="center">A</td>
-      <td align="center">1 
+      <td align="left" valign="top">
+
+1
 
 </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td valign="top" width="21">
+      <td align="left" valign="top">
+
+2. Aérosols inflammables non visés par le point 1 et contenant des liquides inflammables de catégorie 2 et 3, le débit
+maximal de l'installation étant supérieur ou égal à 100 m³/h
+
+</td>
+      <td align="left" valign="top">
+
+A
+
+</td>
+      <td align="left" valign="top">
+
+1 
+
+</td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td rowspan="5" valign="top" width="21">
 
 1434 
 
 </td>
       <td valign="top" width="433">
 
-Liquides inflammables, liquides combustibles de point éclair compris entre 60° C et 93° C, fiouls lourds, pétroles bruts
+Liquides inflammables, liquides combustibles de point éclair compris entre 60 °C et 93 °C, fiouls lourds, pétroles bruts
 (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435). 
 
 </td>
@@ -324,33 +357,38 @@ Liquides inflammables, liquides combustibles de point éclair compris entre 60°
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td> </td>
-      <td>1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum de
-l'installation étant :</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td>
+
+1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum de
+l'installation étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td> </td>
-      <td>a) Supérieur ou égal à 100 m³/ h </td>
+      <td>
+
+a) Supérieur ou égal à 100 m³/h 
+
+</td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td> </td>
       <td valign="top" width="433">
 
-b) Supérieur ou égal à 5 m³/ h, mais inférieur à 100 m³/ h 
+b) Supérieur ou égal à 5 m³/h, mais inférieur à 100 m³/h 
 
 </td>
       <td valign="top" width="31">
@@ -361,13 +399,12 @@ DC
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td> </td>
       <td valign="top" width="433">
 
 2. Installations de chargement ou de déchargement desservant un stockage de ces liquides soumis à autorisation 
@@ -383,13 +420,13 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="21">
+      <td rowspan="4" valign="top" width="21">
 
 1435 
 
@@ -406,8 +443,8 @@ fixes dans les réservoirs à carburant de véhicules à moteur, de bateaux ou d
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -423,36 +460,15 @@ Le volume annuel de carburant liquide distribué étant :
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="433">
 
-1. Supérieur à 40 000 m³ 
-
-</td>
-      <td valign="top" width="31">
-
-A 
-
-</td>
-      <td valign="top" width="34">
-
-1 
-
-</td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-2. Supérieur à 20 000 m³ mais inférieur ou égal à 40 000 m³ 
+1. Supérieur à 20 000 m³ 
 
 </td>
       <td valign="top" width="31">
@@ -462,16 +478,18 @@ E
 </td>
       <td valign="top" width="34">
 
+- 
+
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="433">
 
-3. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur ou égal à 20 000 m³ 
+23. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur ou égal à 20 000 m³ 
 
 </td>
       <td valign="top" width="31">
@@ -481,15 +499,18 @@ DC
 </td>
       <td valign="top" width="34">
 
+-
+
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td colspan="6">Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325
-kPa. 
+      <td colspan="6">
+
+Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa. 
 
 Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13 kPa ou plus, destiné
 à être utilisé comme carburant pour les véhicules à moteur, exceptés le gaz de pétrole liquéfié (GPL) et les carburants pour
@@ -498,45 +519,66 @@ l'aviation.
 </td>
     </tr>
     <tr valign="top">
-      <td rowspan="4">1436 
+      <td rowspan="4">
+
+1436 
 
 </td>
-      <td>Liquides combustibles de point éclair compris entre 60° C et 93° C (stockage ou emploi de). 
+      <td>
+
+Liquides combustibles de point éclair compris entre 60 °C et 93 °C (stockage ou emploi de). 
 
 </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td>La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines
-étant : </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td>
+
+La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines étant : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td>1. Supérieure ou égale à 1 000 t </td>
-      <td align="center">A 
+      <td>
+
+1. Supérieure ou égale à 1 000 t 
 
 </td>
-      <td align="center">2 
+      <td align="center">
+
+A 
 
 </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td>2. Supérieure ou égale à 100 t mais inférieure à 1 000 t </td>
-      <td align="center">DC
+      <td>
+
+2. Supérieure ou égale à 100 t mais inférieure à 1 000 t 
 
 </td>
-      <td align="center"> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td align="center">
+
+DC
+
+</td>
+      <td align="center">
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr>
       <td rowspan="4" valign="top" width="21">
 
@@ -554,18 +596,22 @@ Solides inflammables (stockage ou emploi de).
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td>La quantité susceptible d'être présente dans l'installation étant : </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td>
+
+La quantité susceptible d'être présente dans l'installation étant : 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr align="center" valign="middle">
       <td align="left" valign="top" width="433">
 
@@ -635,8 +681,8 @@ D
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -660,8 +706,8 @@ présente nomenclature, des bâtiments destinés exclusivement au remisage des v
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -677,8 +723,8 @@ Le volume des entrepôts étant :
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -698,8 +744,8 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -717,8 +763,8 @@ E
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -736,8 +782,8 @@ DC
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -759,8 +805,8 @@ relevant, par ailleurs, de la présente nomenclature.
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -771,13 +817,11 @@ Le volume susceptible d'être stocké étant :
 
 </td>
       <td valign="top" width="31">
+      </td><td valign="top" width="34">
 
 </td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -797,8 +841,8 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -816,8 +860,8 @@ E
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -835,8 +879,8 @@ DC
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -858,8 +902,8 @@ Papiers, cartons ou matériaux combustibles analogues, y compris les produits fi
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -875,8 +919,8 @@ Le volume susceptible d'être stocké étant :
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -896,8 +940,8 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -915,8 +959,8 @@ E
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -934,9 +978,9 @@ D
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33"> </td>
-    </tr>
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
+    </td></tr>
     <tr>
       <td valign="top" width="21">
 
@@ -957,8 +1001,8 @@ D
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -981,8 +1025,8 @@ des établissements recevant du public.
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -998,8 +1042,8 @@ Le volume susceptible d'être stocké étant :
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -1019,8 +1063,8 @@ A
 1 
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -1038,8 +1082,8 @@ E
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148"> </td>
-      <td valign="top" width="33">
+      <td valign="top" width="148">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -1050,10 +1094,10 @@ E
 
 </td>
       <td align="center">D</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -1071,4 +1115,4 @@ l'annexe 13-8 de la première partie du code de la santé publique.
 
 _Modifié par_:
 
-  - Décret n°2015-1200 du 29 septembre 2015 - art.
+  - Décret n°2016-630 du 19 mai 2016 - art.
