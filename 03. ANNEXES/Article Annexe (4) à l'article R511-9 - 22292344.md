@@ -27,7 +27,9 @@ Désignation de la rubrique
 </td>
         <td width="32">
 
-A, E, D, S, C (1) 
+A, E, D, S, C (1)
+
+(a) 
 
 </td>
         <td width="29">
@@ -4386,14 +4388,14 @@ A
 </td>
       </tr>
       <tr>
-        <td rowspan="4" valign="top">
+        <td valign="top">
 
 2771 
 
 </td>
         <td valign="top" width="437">
 
-Installation de traitement thermique de déchets non dangereux. 
+Installation de traitement thermique de déchets non dangereux, à l'exclusion des installations visées à la rubrique 2971 
 
 </td>
         <td valign="top" width="32">
@@ -4409,47 +4411,6 @@ A
         <td valign="top" width="155">
         </td><td valign="top" width="26">
       </td></tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-La capacité de traitement étant : 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-1. Supérieure ou égale à 3 t/h 
-
-</td>
-        <td>
-
-6 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-2. Inférieure à 3 t/h 
-
-</td>
-        <td>
-
-3 
-
-</td>
-      </tr>
       <tr>
         <td rowspan="11" valign="top">
 
@@ -4874,7 +4835,7 @@ A
 </td>
       </tr>
       <tr>
-        <td rowspan="8" valign="top">
+        <td rowspan="4" valign="top">
 
 2791 
 
@@ -4882,7 +4843,7 @@ A
         <td valign="top" width="437">
 
 Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771,
-2780, 2781 et 2782. 
+2780, 2781,2782 et 2971
 
 </td>
         <td valign="top" width="32">
@@ -4932,65 +4893,13 @@ DC
 
 </td>
         <td valign="top" width="29">
-        </td><td valign="top" width="155">
-        </td><td valign="top" width="26">
-      </td></tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-1. La capacité de traitement étant : 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-a) Supérieure ou égale à 50 t/j 
-
-</td>
-        <td>
-
-6 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j 
-
-</td>
-        <td>
-
-3 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-        </td><td>
-        </td><td>
-
-2. Non soumis à la taxe
-
-</td>
-        <td>
 
 -
 
 </td>
-      </tr>
+        <td valign="top" width="155">
+        </td><td valign="top" width="26">
+      </td></tr>
       <tr>
         <td rowspan="4" valign="top">
 
@@ -5065,6 +4974,11 @@ A
 Quantité seuil bas au sens de l'article R. 511-10 : 100 t. 
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement. 
+
+(2) Rayon d'affichage en kilomètres.
 
 </td>
       </tr>
@@ -5413,14 +5327,14 @@ D
         </td><td valign="top" width="26">
       </td></tr>
       <tr>
-        <td rowspan="27" valign="top" width="21">
+        <td rowspan="22" valign="top" width="21">
 
 2910
 
 </td>
         <td valign="top" width="437">
 
-Combustion à l'exclusion des installations visées par les rubriques 2770 et 2771.
+Combustion à l'exclusion des installations visées par les rubriques 2770, 2771 et 2971
 
 </td>
         <td valign="top" width="32">
@@ -5431,23 +5345,20 @@ Combustion à l'exclusion des installations visées par les rubriques 2770 et 27
       <tr>
         <td valign="top" width="437">
 
-A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul
-domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a ou au b (i) ou au b (iv) de la définition de
-biomasse, des produits connexes de scierie issus du b (v) de la définition de biomasse ou lorsque la biomasse est issue de
+A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul
+domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition
+de biomasse, des produits connexes de scierie issus du b) v) de la définition de biomasse ou lorsque la biomasse est issue de
 déchets au sens de l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations visées par d'autres
 rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange
-avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est :
+avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est : 
 
 </td>
         <td valign="top" width="32">
-        </td><td valign="top" width="29">
-        </td><td valign="top" width="155">
-
-A. La puissance thermique nominale de l'installation (fixée et garantie par le constructeur, exprimée en PCI et susceptible
-d'être consommée en marche continue), étant :
 
 </td>
-        <td valign="top" width="26">
+        <td valign="top" width="29">
+        </td><td valign="top" width="155">
+        </td><td valign="top" width="26">
       </td></tr>
       <tr>
         <td valign="top" width="437">
@@ -5466,43 +5377,7 @@ A
 
 </td>
         <td valign="top" width="155">
-
-a) Supérieure à 1 000 MW
-
-</td>
-        <td valign="top" width="26">
-
-10 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top" width="437">
-        </td><td valign="top" width="32">
-        </td><td valign="top" width="29">
-        </td><td valign="top" width="155">
-
-b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
-
-</td>
-        <td valign="top" width="26">
-
-4 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top" width="437">
-        </td><td valign="top" width="32">
-        </td><td valign="top" width="29">
-        </td><td valign="top" width="155">
-
-c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
-
-</td>
-        <td valign="top" width="26">
-
-1 
+        </td><td valign="top" width="26">
 
 </td>
       </tr>
@@ -5514,30 +5389,29 @@ c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
 </td>
         <td valign="top" width="32">
 
-DC 
+DC
 
 </td>
         <td valign="top" width="29">
-        </td><td valign="top" width="155">
+
+-
+
+</td>
+        <td valign="top" width="155">
         </td><td valign="top" width="26">
       </td></tr>
       <tr>
         <td valign="top" width="437">
 
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle
-que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, et si la puissance thermique nominale de
+B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle
+que définie au b) ii) ou au b) iii) ou au b) v) de la définition de biomasse, et si la puissance thermique nominale de
 l'installation est : 
 
 </td>
         <td valign="top" width="32">
         </td><td valign="top" width="29">
         </td><td valign="top" width="155">
-
-B. La puissance thermique nominale de l'installation (fixée et garantie par le constructeur, exprimée en PCI et susceptible
-d'être consommée en marche continue), étant :
-
-</td>
-        <td valign="top" width="26">
+        </td><td valign="top" width="26">
       </td></tr>
       <tr>
         <td valign="top" width="437">
@@ -5556,64 +5430,7 @@ A
 
 </td>
         <td valign="top" width="155">
-
-a) Supérieure à 1 000 MW 
-
-</td>
-        <td valign="top" width="26">
-
-10 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top" width="437">
-        </td><td valign="top" width="32">
-        </td><td valign="top" width="29">
-        </td><td valign="top" width="155">
-
-b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW 
-
-</td>
-        <td valign="top" width="26">
-
-4 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top" width="437">
-        </td><td valign="top" width="32">
-
-E
-
-</td>
-        <td valign="top" width="29">
-        </td><td valign="top" width="155">
-
-c) Supérieure ou égale à 20 MW mais inférieure à 50 MW 
-
-</td>
-        <td valign="top" width="26">
-
-1 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top">
-        </td><td valign="top">
-        </td><td valign="top">
-        </td><td valign="top">
-
-d) Supérieure à 0,1 MW mais inférieure à 20 MW lorsque le combustible utilisé n'est pas de la biomasse telle que définie au b
-(ii) ou au b (iii) ou au b (v) de la définition de biomasse, ou du biogaz autre que celui visé en 2910-C, ou un produit autre
-que biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement
-
-</td>
-        <td valign="top">
-
-1
+        </td><td valign="top" width="26">
 
 </td>
       </tr>
@@ -5637,8 +5454,16 @@ code de l'environnement
 
 </td>
         <td>
-        </td><td>
-        </td><td>
+
+E
+
+</td>
+        <td>
+
+-
+
+</td>
+        <td>
         </td><td>
       </td></tr>
       <tr>
@@ -5704,7 +5529,11 @@ E
 
 </td>
         <td valign="top" width="29">
-        </td><td valign="top" width="155">
+
+-
+
+</td>
+        <td valign="top" width="155">
         </td><td valign="top" width="26">
       </td></tr>
       <tr>
@@ -5719,7 +5548,11 @@ DC
 
 </td>
         <td>
-        </td><td>
+
+-
+
+</td>
+        <td>
         </td><td>
       </td></tr>
       <tr>
@@ -5794,7 +5627,7 @@ ii) Déchets végétaux provenant du secteur industriel de la transformation ali
         <td>
 
 iii) Déchets végétaux fibreux issus de la production de pâte vierge et de la production de papier à partir de pâte, s'ils
-sont co-incinérés sur le lieu de production et si la chaleur produite est valorisée ;
+sont coincinérés sur le lieu de production et si la chaleur produite est valorisée ;
 
 </td>
         <td>
@@ -6639,6 +6472,55 @@ Quelle que soit la capacité
 
 </td>
       </tr>
+      <tr>
+        <td rowspan="3" valign="top">2971</td>
+        <td>
+
+Installation de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles
+solides de récupération dans une installation prévue à cet effet, associés ou non à un autre combustible. 
+
+</td>
+        <td>
+
+</td>
+        <td>
+        </td><td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>1. Installations intégrées dans un procédé industriel de fabrication </td>
+        <td>
+
+A
+
+</td>
+        <td>
+
+2
+
+</td>
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>
+
+2. Autres installations 
+
+</td>
+        <td>
+
+A
+
+</td>
+        <td>
+
+2
+
+</td>
+        <td>
+        </td><td>
+      </td></tr>
       <tr>
         <td rowspan="5" valign="top">
 
@@ -7905,9 +7787,8 @@ cette activité est fixé à 100 tonnes par jour
 </td>
         <td valign="top">
 
-Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de
-l'article L. 541-30-1 du code de l'environnement, recevant plus de 10 tonnes de déchets par jour ou d'une capacité totale
-supérieure à 25 000 tonnes 
+Installation de stockage de déchets autre que celles mentionnées aux rubriques 2720 et 2760-3, recevant plus de 10 tonnes de
+déchets par jour ou d'une capacité totale supérieure à 25 000 tonnes 
 
 </td>
         <td valign="top">
@@ -8245,18 +8126,19 @@ Nota 2. - La présente rubrique ne s'applique pas si la matière première est s
       </td></tr>
       <tr>
         <td>
-        </td><td>
-        </td><td>
+        </td><td>(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par
+l'article L. 512-11 du code de l'environnement. 
+
+(2) Rayon d'affichage en kilomètres.
+
+</td>
+        <td>
         </td><td>
         </td><td>
         </td><td>
       </td></tr>
       <tr>
-        <td valign="top">
-
-3643 
-
-</td>
+        <td>3643</td>
         <td valign="top">
 
 Traitement et transformation du lait exclusivement, la quantité de lait reçue étant supérieure à 200 tonnes par jour (valeur
@@ -8277,11 +8159,7 @@ A
         </td><td valign="top">
       </td></tr>
       <tr>
-        <td valign="top">
-
-3650 
-
-</td>
+        <td>3650</td>
         <td valign="top">
 
 Elimination ou recyclage de carcasses ou de déchets animaux, avec une capacité de traitement supérieure à 10 tonnes par jour 
@@ -8301,11 +8179,7 @@ A
         </td><td valign="top">
       </td></tr>
       <tr>
-        <td rowspan="4" valign="top">
-
-3660 
-
-</td>
+        <td rowspan="3">3660</td>
         <td valign="top">
 
 Elevage intensif de volailles ou de porcs : 
@@ -8365,7 +8239,8 @@ A
         </td><td>
       </td></tr>
       <tr>
-        <td valign="top">
+        <td>
+        </td><td valign="top">
 
 Nota. - Par "volailles", on entend : les poulets, poules, dindes, pintades, canards, oies, cailles, pigeons, faisans et
 perdrix, élevés ou détenus en captivité en vue de leur reproduction, de la production de viande ou d'œufs de consommation ou
@@ -10178,9 +10053,7 @@ DC
 
 </td>
         <td align="center" valign="middle">
-
-</td>
-        <td>
+        </td><td>
         </td><td>
       </td></tr>
       <tr>
@@ -11825,6 +11698,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 (1) A : autorisation, E : enregistrement, D : déclaration, S: servitude d'utilité publique, C : soumis au contrôle périodique
 prévu par l'article L. 512-11 du code de l'environnement. 
 
+(a) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement. 
+
 (2) Rayon d'affichage en kilomètres. 
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux
@@ -11849,8 +11725,4 @@ de l'enregistrement mentionné à son B.
 
 _Modifié par_:
 
-  - Décret n°2015-1200 du 29 septembre 2015 - art.
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2015-1200 du 29 septembre 2015 - art., v. init.
+  - Décret n°2016-630 du 19 mai 2016 - art.
