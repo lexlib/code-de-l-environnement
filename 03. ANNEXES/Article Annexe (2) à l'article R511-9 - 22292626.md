@@ -64,10 +64,11 @@
 ┃      │ liquides inflammables de catégorie 2 et 3, le débit maximal de      │       │        │                     │       ┃
 ┃      │ l'installation étant supérieur ou égal à 100 m³/h                   │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
-┃ 1434 │ Liquides inflammables, liquides combustibles de point éclair com-   │       │        │                     │       ┃
-┃      │ pris entre 60 °C et 93 °C, fiouls lourds, pétroles bruts (installa- │       │        │                     │       ┃
-┃      │ tion de remplissage ou de distribution, à l'exception des stations- │       │        │                     │       ┃
-┃      │ service visées à la rubrique 1435).                                 │       │        │                     │       ┃
+┃ 1434 │ Liquides inflammables, liquides de point éclair compris entre 60° C │       │        │                     │       ┃
+┃      │ et 93° C (1), fiouls lourds et pétroles bruts, à l'exception des    │       │        │                     │       ┃
+┃      │ liquides mentionnés à la rubrique 4755 et des autres boissons al-   │       │        │                     │       ┃
+┃      │ coolisées (installation de remplissage ou de distribution, à l'ex-  │       │        │                     │       ┃
+┃      │ ception des stations-service visées à la rubrique 1435).            │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 1. Installations de chargement de véhicules citernes, de remplis-   │       │        │                     │       ┃
 ┃      │ sage de récipients mobiles, le débit maximum de l'installation      │       │        │                     │       ┃
@@ -79,6 +80,10 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. Installations de chargement ou de déchargement desservant un     │ A     │ 1      │                     │       ┃
 ┃      │ stockage de ces liquides soumis à autorisation                      │       │        │                     │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ (1) A l'exception de ceux ayant donné des résultats négatifs à une  │       │        │                     │       ┃
+┃      │ épreuve de combustion entretenue reconnue par le ministre chargé    │       │        │                     │       ┃
+┃      │ des installations classées.                                         │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1435 │ Stations-service : installations, ouvertes ou non au public, où les │       │        │                     │       ┃
 ┃      │ carburants sont transférés de réservoirs de stockage fixes dans les │       │        │                     │       ┃
@@ -91,14 +96,16 @@
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 23. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur │ DC    │ -      │                     │       ┃
 ┃      │ ou égal à 20 000 m³                                                 │       │        │                     │       ┃
-┠┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┨
-┃ Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.                   ┃
-┃ Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13                   ┃
-┃ kPa ou plus, destiné à être utilisé comme carburant pour les véhicules à moteur, exceptés le gaz de pé-                   ┃
-┃ trole liquéfié (GPL) et les carburants pour l'aviation.                                                                   ┃
-┠┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┨
-┃ 1436 │ Liquides combustibles de point éclair compris entre 60 °C et 93 °C  │       │        │                     │       ┃
-┃      │ (stockage ou emploi de).                                            │       │        │                     │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ Nota. - Les débits sont exprimés pour une température de gaz de     │       │        │                     │       ┃
+┃      │ 273,15 K à une pression de 101,325 kPa. Essence : tout dérivé du    │       │        │                     │       ┃
+┃      │ pétrole, avec ou sans additif d'une pression de vapeur saturante à  │       │        │                     │       ┃
+┃      │ 20° C de 13 kPa ou plus, destiné à être utilisé comme carburant     │       │        │                     │       ┃
+┃      │ pour les véhicules à moteur, exceptés le gaz de pétrole liquéfié    │       │        │                     │       ┃
+┃      │ (GPL) et les carburants pour l'aviation.                            │       │        │                     │       ┃
+┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃ 1436 │ Liquides de point éclair compris entre 60 °C et 93 °C (1), à l'ex-  │       │        │                     │       ┃
+┃      │ ception des boissons alcoolisées (stockage ou emploi de).           │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ La quantité totale susceptible d'être présente dans les installa-   │       │        │                     │       ┃
 ┃      │ tions, y compris dans les cavités souterraines étant :              │       │        │                     │       ┃
@@ -106,6 +113,10 @@
 ┃      │ 1. Supérieure ou égale à 1 000 t                                    │ A     │ 2      │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃      │ 2. Supérieure ou égale à 100 t mais inférieure à 1 000 t            │ DC    │        │                     │       ┃
+┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
+┃      │ (1) A l'exception de ceux ayant donné des résultats négatifs à une  │       │        │                     │       ┃
+┃      │ épreuve de combustion entretenue reconnue par le ministre chargé    │       │        │                     │       ┃
+┃      │ des installations classées.                                         │       │        │                     │       ┃
 ┠┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
 ┃ 1450 │ Solides inflammables (stockage ou emploi de).                       │       │        │                     │       ┃
 ┃      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┨
@@ -190,13 +201,12 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
-Nota.-La valeur de Q
-  <sub>NS</sub> porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées
-à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à
-l'annexe 13-8 de la première partie du code de la santé publique.
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
+mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
+mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-630 du 19 mai 2016 - art.
+  - Décret n°2016-1661 du 5 décembre 2016 - art.
