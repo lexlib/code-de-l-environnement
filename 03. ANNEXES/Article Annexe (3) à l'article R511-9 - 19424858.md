@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -138,7 +138,7 @@ D
 </td>
       <td>
 
-Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en oeuvre dans un
+Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en œuvre dans un
 établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
 
 Définitions :
@@ -146,9 +146,8 @@ Définitions :
 Les termes "substance radioactive", "activité", "radioactivité", "radionucléide", "source radioactive non scellée" et "source
 radioactive scellée" sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
 
-"Q
-          <sub>NS</sub>": calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé
-publique pour les substances radioactives non scellées.
+"QNS": calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé publique pour les
+substances radioactives non scellées.
 
 </td>
       <td>
@@ -184,9 +183,7 @@ publique ne sont pas remplies.
     <tr>
       <td>
 
-1. La valeur de Q
-          <sub>NS</sub> est égale ou supérieure à 10
-          <sup>4</sup>
+1. La valeur de QNS est égale ou supérieure à 104
 
 </td>
       <td>
@@ -203,9 +200,7 @@ A
     <tr>
       <td>
 
-2. La valeur de Q
-          <sub>NS</sub> est égale ou supérieure à 1 et strictement inférieure à 10
-          <sup>4</sup>
+2. La valeur de QNS est égale ou supérieure à 1 et strictement inférieure à 104
 
 </td>
       <td>
@@ -220,9 +215,7 @@ D
     <tr>
       <td>
 
-Nota
-          _.-_La valeur de Q
-          <sub>NS</sub> porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
 mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
 mentionnées à l'annexe 13-8 de la première partie du code de la santé publique
 
@@ -266,14 +259,14 @@ La quantité étant supérieure ou égale à 1 tonne
 </td>
     </tr>
     <tr>
-      <td rowspan="14">
+      <td rowspan="13">
 
 2101
 
 </td>
       <td>
 
-Bovins (activité d'élevage, transit, vente, etc., de)
+Bovins (activité d'élevage, transit, vente, etc. de).
 
 </td>
       <td>
@@ -296,7 +289,7 @@ est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
     <tr>
       <td>
 
-a) Plus de 400 animaux
+a) Plus de 800 animaux
 
 </td>
       <td>
@@ -315,12 +308,12 @@ A
     <tr>
       <td>
 
-b) De 201 à 400 animaux
+b) De 401 à 800 animaux
 
 </td>
       <td>
 
-DC
+E
 
 </td>
       <td>
@@ -330,7 +323,7 @@ DC
     <tr>
       <td>
 
-c) De 50 à 200 animaux
+c) De 50 à 400 animaux
 
 </td>
       <td>
@@ -356,7 +349,7 @@ D
     <tr>
       <td>
 
-a) Plus de 200 vaches
+a) Plus de 400 vaches
 
 </td>
       <td>
@@ -375,7 +368,7 @@ A
     <tr>
       <td>
 
-b) De 151 à 200 vaches
+b) De 151 à 400 vaches
 
 </td>
       <td>
@@ -390,22 +383,7 @@ E
     <tr>
       <td>
 
-c) De 101 à 150 vaches
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-d) De 50 à 100 vaches
+c) De 50 à 150 vaches
 
 </td>
       <td>
@@ -424,21 +402,19 @@ D
 
 </td>
       <td>
-      </td><td>
+
+</td>
+      <td>
       </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-- à partir de 100 vaches
+A partir de 100 vaches
 
 </td>
-      <td>
-
-D
-
-</td>
+      <td align="center">D</td>
       <td>
       </td><td>
       </td><td>
@@ -451,21 +427,19 @@ ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 </td>
       <td>
-      </td><td>
+
+</td>
+      <td>
       </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-- capacité égale ou supérieure à 50 places
+Capacité égale ou supérieure à 50 places
 
 </td>
-      <td>
-
-D
-
-</td>
+      <td align="center">D</td>
       <td>
       </td><td>
       </td><td>
@@ -616,14 +590,14 @@ D
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="18">
+      <td rowspan="5">
 
 2111
 
 </td>
       <td>
 
-Volailles, gibier à plumes (activité d'élevage, vente, etc., de), à l'exclusion d'activités spécifiques visées à d'autres
+Volailles, gibier à plumes (activité d'élevage, vente, etc. de), à l'exclusion d'activités spécifiques visées à d'autres
 rubriques.
 
 </td>
@@ -672,181 +646,35 @@ E
     <tr>
       <td>
 
-3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux équivalents :
+3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux-équivalents supérieur à 5 000
 
 </td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-a. Supérieur à 20 000
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-b. Supérieur à 5 000 mais inférieur ou égal à 20 000
-
-</td>
-      <td>
+      <td align="center">
 
 D
 
 </td>
       <td>
-      </td><td>
+
+</td>
+      <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-Nota. - Pour le "1" et le "2", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement
-
-Pour le "3", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-
-équivalents :
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Caille = 0,125.
+Nota. - Pour le "1." et le "2.", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement.
+Pour le "3.", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-
+équivalents : caille = 0,125 ; pigeon, perdrix = 0,25 ; coquelet = 0,75 ; poulet léger = 0,85 ; poule, poulet standard,
+poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ; poulet
+lourd = 1,15 ; canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ; dinde légère = 2,20 ; dinde médium, dinde
+reproductrice, oie = 3 ; dinde lourde = 3,50 ; palmipèdes gras en gavage = 7.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Pigeon, perdrix = 0,25.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Coquelet = 0,75.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Poulet léger = 0,85.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade,
-canard colvert = 1.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-6. Poulet lourd = 1,15.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-7. Canard à rôtir, canard prêt à gaver, canard reproducteur = 2.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-8. Dinde légère = 2,20.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-9. Dinde médium, dinde reproductrice, oie = 3.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-10. Dinde lourde = 3,50.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-11. Palmipèdes gras en gavage = 7.
-
-</td>
-      <td>
-      </td><td>
       </td><td>
       </td><td>
     </td></tr>
@@ -4215,10 +4043,9 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
-Nota.-La valeur de Q
-  <sub>NS</sub> porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées
-à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à
-l'annexe 13-8 de la première partie du code de la santé publique.
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
+mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
+mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté
 ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces
@@ -4238,4 +4065,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-1200 du 29 septembre 2015 - art.
+  - Décret n°2016-1661 du 5 décembre 2016 - art.
