@@ -285,18 +285,18 @@ A
       </td><td align="left" valign="top">
     </td></tr>
     <tr valign="top">
-      <td rowspan="3">
+      <td align="left" rowspan="3" valign="top">
         1421
       </td>
-      <td>
+      <td align="left" valign="top">
 
 Installation de remplissage d'aérosols inflammables de catégorie 1 et 2
 
 </td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -340,15 +340,16 @@ A
       </td><td align="left" valign="top">
     </td></tr>
     <tr>
-      <td rowspan="5" valign="top" width="21">
+      <td rowspan="6" valign="top" width="21">
 
 1434 
 
 </td>
       <td valign="top" width="433">
 
-Liquides inflammables, liquides combustibles de point éclair compris entre 60 °C et 93 °C, fiouls lourds, pétroles bruts
-(installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435). 
+Liquides inflammables, liquides de point éclair compris entre 60° C et 93° C (1), fiouls lourds et pétroles bruts, à
+l'exception des liquides mentionnés à la rubrique 4755 et des autres boissons alcoolisées (installation de remplissage ou de
+distribution, à l'exception des stations-service visées à la rubrique 1435). 
 
 </td>
       <td valign="top" width="31">
@@ -366,7 +367,7 @@ Liquides inflammables, liquides combustibles de point éclair compris entre 60 �
       <td>
 
 1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum de
-l'installation étant :
+l'installation étant : 
 
 </td>
       <td>
@@ -426,7 +427,19 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="21">
+      <td>
+
+(1) A l'exception de ceux ayant donné des résultats négatifs à une épreuve de combustion entretenue reconnue par le ministre
+chargé des installations classées. 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="5" valign="top" width="21">
 
 1435 
 
@@ -508,7 +521,7 @@ DC
 </td>
     </tr>
     <tr>
-      <td colspan="6">
+      <td>
 
 Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa. 
 
@@ -517,16 +530,20 @@ Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vape
 l'aviation.
 
 </td>
-    </tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
     <tr valign="top">
-      <td rowspan="4">
+      <td rowspan="5">
 
 1436 
 
 </td>
       <td>
 
-Liquides combustibles de point éclair compris entre 60 °C et 93 °C (stockage ou emploi de). 
+Liquides de point éclair compris entre 60 °C et 93 °C (1), à l'exception des boissons alcoolisées (stockage ou emploi de). 
 
 </td>
       <td>
@@ -576,6 +593,18 @@ DC
 
 </td>
       <td align="center">
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+(1) A l'exception de ceux ayant donné des résultats négatifs à une épreuve de combustion entretenue reconnue par le ministre
+chargé des installations classées. 
+
+</td>
+      <td>
+      </td><td>
       </td><td>
       </td><td>
     </td></tr>
@@ -1106,13 +1135,12 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
-Nota.-La valeur de Q
-  <sub>NS</sub> porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées
-à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à
-l'annexe 13-8 de la première partie du code de la santé publique.
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
+mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
+mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-630 du 19 mai 2016 - art.
+  - Décret n°2016-1661 du 5 décembre 2016 - art.
