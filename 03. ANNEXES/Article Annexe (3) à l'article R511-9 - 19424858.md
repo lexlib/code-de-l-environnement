@@ -3993,8 +3993,8 @@ D
     <tr>
       <td>
 
-- à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise
-en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
+- à la restauration des monuments historiques classés ou inscrits ou des immeubles situés dans le périmètre d'un site
+patrimonial remarquable.
 
 </td>
       <td>
@@ -4065,4 +4065,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-1661 du 5 décembre 2016 - art.
+  - Décret n°2017-456 du 29 mars 2017 - art. 8
