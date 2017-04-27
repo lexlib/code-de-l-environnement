@@ -35,19 +35,21 @@ Installations classées pour la protection de l'environnement (ICPE)
 </td>
     </tr>
     <tr>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
-1. Installations classées pour la protection de l'environnement (dans les conditions et formes prévues au titre Ier du livre
-V du code de l'environnement).</td>
+1. Installations classées pour la protection de l'environnement</td>
       <td align="left">
 
-a) Installations mentionnées à l' article L. 515-28 du code de l'environnement .</td>
-      <td rowspan="6" align="left">
+a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.</td>
+      <td align="left" rowspan="6">
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
 b) Autres installations classées pour la protection de l'environnement soumises à enregistrement (pour ces installations,
 l'examen au cas par cas est réalisé dans les conditions et formes prévues à l'article L. 512-7-2 du code de l'environnement).
+
+c) Extensions inférieures à 25 ha des carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature
+des ICPE
 
 </td>
     </tr>
@@ -60,7 +62,7 @@ b) Installations mentionnées à l'article L. 515-32 du code de l'environnement.
       <td align="left">
 
 c) Carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des installations classées pour la
-protection de l'environnement.</td>
+protection de l'environnement et leurs extensions supérieures ou égales à 25 ha.</td>
     </tr>
     <tr>
       <td align="left">
@@ -72,23 +74,17 @@ protection de l'environnement.</td>
       <td align="left">
 
 e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à
-l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement.
-
-f) Stockage de pétrole, de produits pétrochimiques ou de produits chimiques soumis à autorisation mentionnées par les
-rubriques 4000 à 4999 de la nomenclature des installations classées pour la protection de l'environnement et d'une capacité
-de 200 000 tonnes ou plus.
-
-</td>
+l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement.</td>
     </tr>
     <tr>
       <td align="left">
 
-g) Stockage géologique de CO
+f) Stockage géologique de CO
         <sub>2</sub> soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour
 la protection de l'environnement.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Installations nucléaires de base (INB)
 
@@ -107,7 +103,7 @@ définitif et de démantèlement ou une autorisation de mise à l'arrêt défini
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Installations nucléaires de base secrètes (INBS)
 
@@ -123,7 +119,10 @@ Installations soumises à une autorisation de création ou une autorisation de p
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" rowspan="3">
+      <td colspan="3" align="center">Stockage de déchets radioactifs</td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="left">
 
 4. Forages nécessaires au stockage de déchets radioactifs.</td>
       <td align="left">
@@ -146,7 +145,7 @@ profondes au stockage souterrain des déchets radioactifs.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Infrastructures de transport
 
@@ -363,7 +362,7 @@ Création de récifs artificiels.</td>
       <td align="left" rowspan="3">
 
 16. Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres.</td>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
       </td><td align="left">
 
 a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage de terres, sur une superficie supérieure ou
@@ -478,7 +477,7 @@ ou à l'écoulement des crues, entraînant une différence de niveau supérieure
 ligne d'eau entre l'amont et l'aval du barrage ou de l'installation.
 
 e) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les systèmes d'endiguement
-au sens de l' article R. 562-13 du code de l'environnement .
+au sens de l'article R. 562-13 du code de l'environnement.
 
 f) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les aménagements
 hydrauliques au sens de l'article R. 562-18 du code de l'environnement.
@@ -496,7 +495,7 @@ Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par
         <sup>2</sup>.</td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 23. Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux au sens de la directive 2000/60/ CE.
 
@@ -575,7 +574,7 @@ dont le volume maximal in situ dragué au cours de douze mois consécutifs est s
 figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m
           <sup>3</sup>.
 
-b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l' article L. 215-14 du code de
+b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'article L. 215-14 du code de
 l'environnement réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :
 
 - supérieure à 2 000 m
@@ -587,7 +586,7 @@ l'environnement réalisé par le propriétaire riverain, le volume des sédiment
 </td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 26. Stockage et épandages de boues et d'effluents.</td>
       <td rowspan="2" align="left">
@@ -605,7 +604,7 @@ b) Epandages d'effluents ou de boues relevant de l'article R. 214-1 du même cod
 m3/ an ou DBO5 supérieure à 5 t/ an.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 FORAGES ET MINES
 
@@ -641,9 +640,10 @@ a) Forages pour l'approvisionnement en eau d'une profondeur supérieure ou égal
 b) Ouverture de travaux d'exploration de mines par forages de moins de 100 mètres de profondeur sous forme de campagne de
 forages.
 
-c) Ouverture de travaux de puits de contrôle.
+c) Ouverture de travaux de puits de contrôle pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides,
+liquéfiés ou gazeux, de produits chimiques à destination industrielle.
 
-d) Autres forages en profondeur.
+d) Autres forages en profondeur de plus de 100 m.
 
 </td>
     </tr>
@@ -692,7 +692,7 @@ Ouverture de travaux de recherche de mines non mentionnés précédemment, lorsq
 humides ou des marais.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Energie
 
@@ -818,7 +818,7 @@ Canalisations dont le produit du diamètre extérieur avant revêtement par la l
 carrés ou dont la longueur est égale ou supérieure à 2 kilomètres.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Travaux, ouvrages, aménagements ruraux et urbains
 
@@ -845,7 +845,7 @@ créée est inférieure à 40 000 m
         <sup>2</sup>.</td>
     </tr>
     <tr>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Les composantes d'un projet donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone
 d'aménagement concerté ne sont pas concernées par la présente rubrique si le projet dont elles font partie fait l'objet d'une
@@ -865,7 +865,7 @@ Villages de vacances et aménagements associés dont les travaux créent une sur
         <sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs.</td>
@@ -880,10 +880,10 @@ a) Aires de stationnement ouvertes au public de 50 unités et plus.</td>
 b) Dépôts de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs de 50 unités et plus.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 42. Terrains de camping et caravanage.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 Terrains de camping et de caravanage permettant l'accueil de plus de 200 emplacements de tentes, caravanes, résidences
 mobiles de loisirs ou d'habitations légères de loisirs.</td>
@@ -907,7 +907,7 @@ a) Création de remontées mécaniques ou téléphériques transportant plus de 
       <td align="left">
 
 a) Remontées mécaniques ou téléphériques transportant moins de 1 500 passagers par heure à l'exclusion des remontées
-mécaniques démontables et transportables et des tapis roulants mentionnés à l' article L. 342-17-1 du code du tourisme .</td>
+mécaniques démontables et transportables et des tapis roulants mentionnés à l'article L. 342-17-1 du code du tourisme.</td>
     </tr>
     <tr>
       <td align="left">
@@ -933,9 +933,9 @@ superficie inférieure à 4 hectares hors site vierge.</td>
     </tr>
     <tr>
       <td align="left">
-      </td><td align="left" colspan="2">
+      </td><td colspan="2" align="left">
 
-Pour la rubrique 44, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques
+Pour la rubrique 43, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques
 ou du fait de la difficulté du relief.</td>
     </tr>
     <tr>
@@ -945,8 +945,7 @@ ou du fait de la difficulté du relief.</td>
       <td align="left">
       </td><td align="left">
 
-a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés d'une emprise supérieure ou égale à 4
-hectares. (1)
+a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés.
 
 b) Parcs d'attractions à thème et attractions fixes.
 
@@ -970,7 +969,7 @@ Toutes opérations.</td>
       <td align="left" rowspan="2">
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
       </td><td align="left">
 
 a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exploitation agricole intensive.</td>
@@ -981,7 +980,7 @@ a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exp
 b) Projets d'affectation de plus de 4 hectares d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
     </tr>
     <tr>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
 
 47. Premiers boisements et déboisements en vue de la reconversion de sols.</td>
       <td align="left">
@@ -1045,7 +1044,7 @@ la publication de la présente ordonnance ;
 - aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
 disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. "
 
-<font color="#000000">(1) Conseil d’Etat, décision n° </font>
+(1) Conseil d’Etat, décision n° 
   <font color="#000000">404391</font>
   <font color="#000000">du 8 décembre 2017 (</font>
   <font color="#000000">ECLI:FR:CECHR:2017:404391.20171208), Art. 1 : </font>
@@ -1075,7 +1074,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-1110 du 11 août 2016 - art.
+  - Décret n°2017-626 du 25 avril 2017 - art. 3
 
 _Cité par_:
 
