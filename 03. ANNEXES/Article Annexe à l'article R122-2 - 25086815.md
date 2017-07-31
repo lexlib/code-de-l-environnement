@@ -41,7 +41,7 @@ Installations classées pour la protection de l'environnement (ICPE)
       <td align="left">
 
 a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.</td>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
@@ -79,12 +79,12 @@ l'engraissement, vaches laitières) de la nomenclature des installations classé
     <tr>
       <td align="left">
 
-f) Stockage géologique de CO
-        <sub>2</sub> soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour
+f) Stockage géologique de CO 
+        <sub>2 </sub>soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour
 la protection de l'environnement.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Installations nucléaires de base (INB)
 
@@ -122,7 +122,7 @@ Installations soumises à une autorisation de création ou une autorisation de p
       <td align="center" colspan="3">Stockage de déchets radioactifs</td>
     </tr>
     <tr>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
 
 4. Forages nécessaires au stockage de déchets radioactifs.</td>
       <td align="left">
@@ -174,7 +174,7 @@ b) Construction de gares et haltes, plates-formes et de terminaux intermodaux.
 6. Infrastructures routières (les ponts, tunnels et tranchées couvertes supportant des infrastructures routières doivent être
 étudiés au titre de cette rubrique).
 
-On entend par "route" une voie destinée à la circulation des véhicules à moteur, à l'exception des pistes cyclables, des
+On entend par " route " une voie destinée à la circulation des véhicules à moteur, à l'exception des pistes cyclables, des
 voies vertes et des voies destinées aux engins d'exploitation et d'entretien des parcelles.
 
 </td>
@@ -227,7 +227,7 @@ b) Gares de tramways, de métros aériens et souterrains, de funiculaires.</td>
 
 8. Aérodromes.
 
-On entend par "aérodrome" : un aérodrome qui correspond à la définition donnée par la convention de Chicago de 1944
+On entend par " aérodrome " : un aérodrome qui correspond à la définition donnée par la convention de Chicago de 1944
 constituant l'Organisation de l'aviation civile internationale (annexe 14).
 
 </td>
@@ -246,7 +246,7 @@ Milieux aquatiques, littoraux et maritimes
 </td>
     </tr>
     <tr>
-      <td rowspan="4" align="left">
+      <td align="left" rowspan="4">
 
 9. Infrastructures portuaires, maritimes et fluviales.</td>
       <td align="left">
@@ -298,8 +298,8 @@ d'un cours d'eau sur une longueur de cours d'eau supérieure ou égale à 100 m 
 
 - installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les
 frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans
-le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m
-          <sup>2</sup> de frayères ;
+le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m 
+          <sup>2 </sup>de frayères ;
 
 - installations, ouvrages, travaux ou activités conduisant à la dérivation d'un cours d'eau sur une longueur supérieure ou
 égale à 100 m.
@@ -362,7 +362,7 @@ Création de récifs artificiels.</td>
       <td align="left" rowspan="3">
 
 16. Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres.</td>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
       </td><td align="left">
 
 a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage de terres, sur une superficie supérieure ou
@@ -377,8 +377,8 @@ humides ou de marais, la zone asséchée ou mise en eau étant d'une surface sup
     <tr>
       <td align="left">
 
-c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m
-        <sup>3</sup>/h dans une zone où des mesures permanentes de répartition quantitative ont été instituées.</td>
+c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m 
+        <sup>3</sup>/ h dans une zone où des mesures permanentes de répartition quantitative ont été instituées.</td>
     </tr>
     <tr>
       <td align="left">
@@ -399,18 +399,18 @@ instituées ont prévu l'abaissement des seuils.
 
 c) Dispositifs de captage des eaux souterraines en nappe d'accompagnement :
 
-- d'une capacité totale maximale supérieure ou égale à 1 000 m
-          <sup>3</sup>/heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du
+- d'une capacité totale maximale supérieure ou égale à 1 000 m 
+          <sup>3</sup>/ heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du
 plan d'eau ;
 
 - lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle.
 Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement
-supérieure à 80 m
+supérieure à 80 m 
           <sup>3</sup>/ heure.
 
 d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont
-prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m
-          <sup>3</sup>/heure.
+prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m 
+          <sup>3</sup>/ heure.
 
 </td>
     </tr>
@@ -421,8 +421,8 @@ prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou 
       <td align="left">
       </td><td align="left">
 
-Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m
-        <sup>3</sup> par heure d'eau de mer.</td>
+Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m 
+        <sup>3 </sup>par heure d'eau de mer.</td>
     </tr>
     <tr>
       <td align="left">
@@ -431,8 +431,8 @@ Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m
       <td align="left">
       </td><td align="left">
 
-Rejet en mer dont le débit est supérieur ou égal à 30 m
-        <sup>3</sup>/h.</td>
+Rejet en mer dont le débit est supérieur ou égal à 30 m 
+        <sup>3</sup>/ h.</td>
     </tr>
     <tr>
       <td align="left">
@@ -452,8 +452,8 @@ forêt de protection, à l'exclusion des travaux de recherche.</td>
       <td align="left">
 
 Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume
-d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m
-          <sup>3</sup> ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.
+d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m 
+          <sup>3 </sup>ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.
 
 </td>
       <td align="left">
@@ -462,14 +462,14 @@ Barrages et autres installations destinées à retenir les eaux ou à les stocke
 précédente :
 
 a) Barrages de classes B et C pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker
-est inférieur à 1 million de m
+est inférieur à 1 million de m 
           <sup>3</sup>.
 
 b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un
-volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m
+volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m 
           <sup>3</sup>.
 
-c) Réservoirs de stockage d'eau "sur tour" (château d'eau) d'une capacité égale ou supérieure à 1 000 m
+c) Réservoirs de stockage d'eau " sur tour " (château d'eau) d'une capacité égale ou supérieure à 1 000 m 
           <sup>3</sup>.
 
 d) Installations et ouvrages destinés à retenir les eaux ou à les stocker, constituant un obstacle à la continuité écologique
@@ -491,11 +491,11 @@ hydrauliques au sens de l'article R. 562-18 du code de l'environnement.
       <td align="left">
       </td><td align="left">
 
-Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 2 000 m
+Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 2 000 m 
         <sup>2</sup>.</td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 23. Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux au sens de la directive 2000/60/ CE.
 
@@ -505,26 +505,26 @@ Dans les deux cas, les transvasements d'eau potable amenée par canalisation son
       <td align="left">
 
 a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à
-prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m
+prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m 
         <sup>3</sup>.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne
-précédente dont le débit est supérieur ou égal à 1 m³/s.</td>
+précédente dont le débit est supérieur ou égal à 1 m ³/ s.</td>
     </tr>
     <tr>
       <td align="left">
 
 b) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le
-débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m
-        <sup>3</sup> et que le volume des eaux transvasées dépasse 5 % de ce débit.</td>
+débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m 
+        <sup>3 </sup>et que le volume des eaux transvasées dépasse 5 % de ce débit.</td>
     </tr>
     <tr>
       <td align="left">
 
 24. Système de collecte et de traitement des eaux résiduaires.
 
-On entend par "un équivalent habitant (EH)" : la charge organique biodégradable ayant une demande biochimique d'oxygène en
+On entend par " un équivalent habitant (EH) " : la charge organique biodégradable ayant une demande biochimique d'oxygène en
 cinq jours (DB05) de 60 grammes d'oxygène par jour.
 
 </td>
@@ -563,30 +563,30 @@ figurent :
 
 i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une
 zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est
-supérieur ou égal à 50 000 m
-          <sup>3</sup> ;
+supérieur ou égal à 50 000 m 
+          <sup>3 </sup>;
 
 ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines
-dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m
-          <sup>3</sup> ;
+dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m 
+          <sup>3 </sup>;
 
 - dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y
-figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m
+figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m 
           <sup>3</sup>.
 
 b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'article L. 215-14 du code de
 l'environnement réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :
 
-- supérieure à 2 000 m
-          <sup>3</sup> ;
+- supérieure à 2 000 m 
+          <sup>3 </sup>;
 
-- inférieure ou égal à 2 000 m
-          <sup>3</sup> dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.
+- inférieure ou égal à 2 000 m 
+          <sup>3 </sup>dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 26. Stockage et épandages de boues et d'effluents.</td>
       <td rowspan="2" align="left">
@@ -736,7 +736,7 @@ Eolienne en mer.</td>
 Toute autre installation.</td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 32. Construction de lignes électriques aériennes en haute et très haute tension.</td>
       <td rowspan="2" align="left">
@@ -818,7 +818,7 @@ Canalisations dont le produit du diamètre extérieur avant revêtement par la l
 carrés ou dont la longueur est égale ou supérieure à 2 kilomètres.</td>
     </tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Travaux, ouvrages, aménagements ruraux et urbains
 
@@ -832,16 +832,16 @@ construire, ou à une procédure de zone d'aménagement concerté.</td>
       <td align="left">
 
 Travaux, constructions et opérations constitués ou en création qui créent une surface de plancher supérieure ou égale à 40
-000 m
-        <sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares.</td>
+000 m 
+        <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares.</td>
       <td align="left">
 
 Travaux, constructions et opérations d'aménagement constitués ou en création qui soit crée une surface de plancher supérieure
-ou égale à 10 000 m
-        <sup>2</sup> et inférieure à 40 000 m
-        <sup>2</sup> et dont le terrain d'assiette ne couvre pas une superficie supérieure ou égale à 10 hectares, soit
+ou égale à 10 000 m 
+        <sup>2 </sup>et inférieure à 40 000 m 
+        <sup>2 </sup>et dont le terrain d'assiette ne couvre pas une superficie supérieure ou égale à 10 hectares, soit
 couvre un terrain d'assiette d'une superficie supérieure ou égale à 5 ha et inférieure à 10 ha et dont la surface de plancher
-créée est inférieure à 40 000 m
+créée est inférieure à 40 000 m 
         <sup>2</sup>.</td>
     </tr>
     <tr>
@@ -857,19 +857,19 @@ d'aménagement concerté ne sont pas concernées par la présente rubrique si le
 40. Villages de vacances et aménagements associés.</td>
       <td align="left">
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m
-        <sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares.</td>
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m 
+        <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares.</td>
       <td align="left">
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m
-        <sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m 
+        <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td align="left">
 
 a) Aires de stationnement ouvertes au public de 50 unités et plus.</td>
@@ -883,7 +883,7 @@ b) Dépôts de véhicules et garages collectifs de caravanes ou de résidences m
       <td align="left" rowspan="2">
 
 42. Terrains de camping et caravanage.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 Terrains de camping et de caravanage permettant l'accueil de plus de 200 emplacements de tentes, caravanes, résidences
 mobiles de loisirs ou d'habitations légères de loisirs.</td>
@@ -898,7 +898,7 @@ de loisirs ou d'habitations légères de loisirs.</td>
 b) Aires naturelles de camping et de caravanage permettant l'accueil de 7 à 30 emplacements de tentes, caravanes.</td>
     </tr>
     <tr>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
 
 43. Pistes de ski, remontées mécaniques et aménagements associés.</td>
       <td align="left">
@@ -935,8 +935,10 @@ superficie inférieure à 4 hectares hors site vierge.</td>
       <td align="left">
       </td><td colspan="2" align="left">
 
-Pour la rubrique 43, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques
-ou du fait de la difficulté du relief.</td>
+Pour la rubrique 43, est considéré comme " site vierge " un site non accessible gravitairement depuis les remontées
+mécaniques ou du fait de la difficulté du relief, ou accessible gravitairement depuis les remontées mécaniques mais ne
+revenant pas gravitairement sur une piste de ski ou un départ de remontée mécanique du même domaine skiable au sens de
+l'article R. 122-10 du code de l'urbanisme. (1)</td>
     </tr>
     <tr>
       <td align="left">
@@ -951,7 +953,7 @@ b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (1)
+d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)
 
 </td>
     </tr>
@@ -969,7 +971,7 @@ Toutes opérations.</td>
       <td rowspan="2" align="left">
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td align="left">
 
 a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exploitation agricole intensive.</td>
@@ -1044,7 +1046,9 @@ la publication de la présente ordonnance ;
 - aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
 disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. "
 
-(1) Conseil d’Etat, décision n° 
+(1) Au lieu de lire " R. 122-10 ", il convient de lire " R. 122-4 ".
+
+(2) Conseil d’Etat, décision n° 
   <font color="#000000">404391</font>
   <font color="#000000">du 8 décembre 2017 (</font>
   <font color="#000000">ECLI:FR:CECHR:2017:404391.20171208), Art. 1 : </font>
@@ -1062,6 +1066,7 @@ _Cite_:
   - Code du tourisme. - art. L342-17-1
   - Code de l'urbanisme
   - Code de l'urbanisme - art. L121-16
+  - Code de l'urbanisme - art. R122-4 (VD)
   - Code de l'environnement - art. L215-14
   - Code de l'environnement - art. L512-7-2
   - Code de l'environnement - art. L515-28
@@ -1074,7 +1079,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-626 du 25 avril 2017 - art. 3
+  - Décret n°2017-1039 du 10 mai 2017 - art. 8
 
 _Cité par_:
 
