@@ -2,193 +2,95 @@
 
 NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
-DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES 
+DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table border="1" align="center" width="720" cellpadding="0" cellspacing="0">
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td width="21" rowspan="2">
+      <td rowspan="2">
 
 N°
 
 </td>
-      <td colspan="3" width="498">
+      <td colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 </td>
-      <td colspan="2" width="180">
+      <td colspan="2">
 
 B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 </td>
     </tr>
     <tr>
-      <td width="433">
+      <td>
 
 Désignation de la rubrique
 
 </td>
-      <td width="31">
+      <td>
 
 A, E, D, S, C (1)
 
 </td>
-      <td width="34">
+      <td>
 
 Rayon (2)
 
 </td>
-      <td width="148">
+      <td>
 
 Capacité de l'activité
 
 </td>
-      <td width="33">
+      <td>
 
 Coef.
 
 </td>
     </tr>
     <tr>
-      <td width="21" valign="top" rowspan="3">
+      <td rowspan="2">
 
-47 
-
-</td>
-      <td width="433" valign="top">
-
-Aluminium (fabrication du sulfate d') et fabrication d'aluns 
+1312
 
 </td>
-      <td valign="top" width="31">
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td width="148" valign="top" rowspan="4">
-      </td><td width="33" valign="top" rowspan="4">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="433">
-
-1° par le lavage des terres alumineuses grillées 
-
-</td>
-      <td valign="top" width="31">
-
-A
-
-</td>
-      <td width="34" valign="top">
-
-0,5
-
-</td>
-    </tr>
-    <tr>
-      <td width="433" valign="top">
-
-2° par l'action de l'acide sulfurique sur la bauxite (voir 2546) 
-
-</td>
-      <td valign="top" width="31">
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="21" valign="top">
-
-70 
-
-</td>
-      <td width="433" valign="top">
-
-Bains et boues provenant du dérochage des métaux (traitement des) par l'acide nitrique 
-
-</td>
-      <td valign="top" width="31">
-
-A
-
-</td>
-      <td valign="top" width="34">
-
-0,5
-
-</td>
-    </tr>
-    <tr>
-      <td width="21" valign="top">
-
-195 
-
-</td>
-      <td width="433" valign="top">
-
-Ferro-silicium (dépôts de) 
-
-</td>
-      <td valign="top" width="31">
-
-D
-
-</td>
-      <td width="34" valign="top">
-
-</td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="21" rowspan="2">
-
-1312 
-
-</td>
-      <td valign="top" width="433">
+      <td>
 
 Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de
-métaux. 
+métaux.
 
 </td>
-      <td width="31" valign="top">
+      <td>
 
 </td>
-      <td valign="top" width="34">
+      <td>
 
 </td>
-      <td width="148" valign="top">
-      </td><td width="33" valign="top">
+      <td>
+      </td><td>
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td>
 
-La quantité unitaire étant supérieure à 10 g 
+La quantité unitaire étant supérieure à 10 g
 
 </td>
-      <td width="31" valign="top">
+      <td>
 
 A
 
 </td>
-      <td width="34" valign="top">
+      <td>
 
 3
 
 </td>
-      <td width="148" valign="top">
-      </td><td valign="top" width="33">
+      <td>
+      </td><td>
 
 </td>
     </tr>
@@ -196,9 +98,9 @@ A
 </table>
 
 (1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
-périodique prévu par l'article L. 512-11 du code de l'environnement. 
+périodique prévu par l'article L. 512-11 du code de l'environnement.
 
-(2) Rayon d'affichage en kilomètres. 
+(2) Rayon d'affichage en kilomètres.
 
 Nota.-Les activités nucléaires visées par la présente nomenclature sont les activités soumises aux rubriques 1716, 1735, 2797
 et 2798.
@@ -214,4 +116,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1200 du 29 septembre 2015 - art.
+  - Décret n°2017-1595 du 21 novembre 2017 - art. (V)
+  - Décret n°2017-1595 du 21 novembre 2017 - art. 1
