@@ -35,13 +35,13 @@ Installations classées pour la protection de l'environnement (ICPE)
 </td>
     </tr>
     <tr>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
 1. Installations classées pour la protection de l'environnement</td>
       <td align="left">
 
 a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.</td>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
@@ -84,7 +84,7 @@ f) Stockage géologique de CO
 la protection de l'environnement.</td>
     </tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Installations nucléaires de base (INB)
 
@@ -103,7 +103,7 @@ définitif et de démantèlement ou une autorisation de mise à l'arrêt défini
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Installations nucléaires de base secrètes (INBS)
 
@@ -145,7 +145,7 @@ profondes au stockage souterrain des déchets radioactifs.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Infrastructures de transport
 
@@ -204,7 +204,7 @@ c) Construction de pistes cyclables et voies vertes de plus de 10 km.
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 7. Transports guidés de personnes (les ponts, tunnels et tranchées couvertes supportant des transports guidés de personnes
 doivent être étudiés au titre de cette rubrique).</td>
@@ -239,7 +239,7 @@ Construction d'aérodromes dont la piste de décollage et d'atterrissage a une l
 Construction d'aérodromes non mentionnés à la colonne précédente.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Milieux aquatiques, littoraux et maritimes
 
@@ -362,7 +362,7 @@ Création de récifs artificiels.</td>
       <td rowspan="3" align="left">
 
 16. Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres.</td>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
       </td><td align="left">
 
 a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage de terres, sur une superficie supérieure ou
@@ -586,7 +586,7 @@ l'environnement réalisé par le propriétaire riverain, le volume des sédiment
 </td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 26. Stockage et épandages de boues et d'effluents.</td>
       <td align="left" rowspan="2">
@@ -604,7 +604,7 @@ b) Epandages d'effluents ou de boues relevant de l'article R. 214-1 du même cod
 m3/ an ou DBO5 supérieure à 5 t/ an.</td>
     </tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 FORAGES ET MINES
 
@@ -692,7 +692,7 @@ Ouverture de travaux de recherche de mines non mentionnés précédemment, lorsq
 humides ou des marais.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Energie
 
@@ -736,10 +736,10 @@ Eolienne en mer.</td>
 Toute autre installation.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 32. Construction de lignes électriques aériennes en haute et très haute tension.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 Construction de lignes électriques aériennes de très haute tension (HTB 2 et 3) et d'une longueur égale ou supérieure à 15
 km.</td>
@@ -818,14 +818,14 @@ Canalisations dont le produit du diamètre extérieur avant revêtement par la l
 carrés ou dont la longueur est égale ou supérieure à 2 kilomètres.</td>
     </tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Travaux, ouvrages, aménagements ruraux et urbains
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 39. Travaux, constructions et opérations d'aménagement y compris ceux donnant lieu à un permis d'aménager, un permis de
 construire, ou à une procédure de zone d'aménagement concerté.</td>
@@ -865,7 +865,7 @@ Villages de vacances et aménagements associés dont les travaux créent une sur
         <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs.</td>
@@ -883,7 +883,7 @@ b) Dépôts de véhicules et garages collectifs de caravanes ou de résidences m
       <td align="left" rowspan="2">
 
 42. Terrains de camping et caravanage.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 Terrains de camping et de caravanage permettant l'accueil de plus de 200 emplacements de tentes, caravanes, résidences
 mobiles de loisirs ou d'habitations légères de loisirs.</td>
@@ -953,7 +953,7 @@ b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)
+d) Autres équipements sportifs ou de loisirs et aménagements associés.
 
 </td>
     </tr>
@@ -971,7 +971,7 @@ Toutes opérations.</td>
       <td rowspan="2" align="left">
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
       </td><td align="left">
 
 a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exploitation agricole intensive.</td>
@@ -1079,7 +1079,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1039 du 10 mai 2017 - art. 8
+  - Décision n°404391 du 8 décembre 2017, v. init.
 
 _Cité par_:
 
