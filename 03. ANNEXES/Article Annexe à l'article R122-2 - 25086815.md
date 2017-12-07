@@ -35,13 +35,13 @@ Installations classées pour la protection de l'environnement (ICPE)
 </td>
     </tr>
     <tr>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
 1. Installations classées pour la protection de l'environnement</td>
       <td align="left">
 
 a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.</td>
-      <td align="left" rowspan="6">
+      <td rowspan="6" align="left">
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
@@ -119,7 +119,7 @@ Installations soumises à une autorisation de création ou une autorisation de p
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">Stockage de déchets radioactifs</td>
+      <td align="center" colspan="3">Stockage de déchets radioactifs</td>
     </tr>
     <tr>
       <td align="left" rowspan="3">
@@ -145,7 +145,7 @@ profondes au stockage souterrain des déchets radioactifs.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Infrastructures de transport
 
@@ -204,7 +204,7 @@ c) Construction de pistes cyclables et voies vertes de plus de 10 km.
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 7. Transports guidés de personnes (les ponts, tunnels et tranchées couvertes supportant des transports guidés de personnes
 doivent être étudiés au titre de cette rubrique).</td>
@@ -239,14 +239,14 @@ Construction d'aérodromes dont la piste de décollage et d'atterrissage a une l
 Construction d'aérodromes non mentionnés à la colonne précédente.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Milieux aquatiques, littoraux et maritimes
 
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="4">
+      <td rowspan="4" align="left">
 
 9. Infrastructures portuaires, maritimes et fluviales.</td>
       <td align="left">
@@ -507,7 +507,7 @@ Dans les deux cas, les transvasements d'eau potable amenée par canalisation son
 a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à
 prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m 
         <sup>3</sup>.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne
 précédente dont le débit est supérieur ou égal à 1 m ³/ s.</td>
@@ -589,7 +589,7 @@ l'environnement réalisé par le propriétaire riverain, le volume des sédiment
       <td align="left" rowspan="2">
 
 26. Stockage et épandages de boues et d'effluents.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td align="left">
 
 a) Plan d'épandage de boues relevant de l'article R. 214-1 du même code et comprenant l'ensemble des installations liées à
@@ -604,7 +604,7 @@ b) Epandages d'effluents ou de boues relevant de l'article R. 214-1 du même cod
 m3/ an ou DBO5 supérieure à 5 t/ an.</td>
     </tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 FORAGES ET MINES
 
@@ -736,7 +736,7 @@ Eolienne en mer.</td>
 Toute autre installation.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 32. Construction de lignes électriques aériennes en haute et très haute tension.</td>
       <td rowspan="2" align="left">
@@ -865,7 +865,7 @@ Villages de vacances et aménagements associés dont les travaux créent une sur
         <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs.</td>
@@ -898,7 +898,7 @@ de loisirs ou d'habitations légères de loisirs.</td>
 b) Aires naturelles de camping et de caravanage permettant l'accueil de 7 à 30 emplacements de tentes, caravanes.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
 
 43. Pistes de ski, remontées mécaniques et aménagements associés.</td>
       <td align="left">
@@ -953,7 +953,7 @@ b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)
+d) Autres équipements sportifs ou de loisirs et aménagements associés.
 
 </td>
     </tr>
@@ -968,7 +968,7 @@ Toutes opérations.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
       <td align="left" rowspan="2">
@@ -982,7 +982,7 @@ a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exp
 b) Projets d'affectation de plus de 4 hectares d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
     </tr>
     <tr>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
 
 47. Premiers boisements et déboisements en vue de la reconversion de sols.</td>
       <td align="left">
@@ -1079,7 +1079,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1039 du 10 mai 2017 - art. 8
+  - Décision n°404391 du 8 décembre 2017, v. init.
 
 _Cité par_:
 
