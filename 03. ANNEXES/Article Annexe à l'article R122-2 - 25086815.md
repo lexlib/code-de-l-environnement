@@ -953,7 +953,7 @@ b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)
+d) Autres équipements sportifs ou de loisirs et aménagements associés.
 
 </td>
     </tr>
@@ -1079,7 +1079,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1039 du 10 mai 2017 - art. 8
+  - Décision n°404391 du 8 décembre 2017, v. init.
 
 _Cité par_:
 
