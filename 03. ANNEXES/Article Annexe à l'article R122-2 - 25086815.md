@@ -35,13 +35,13 @@ Installations classées pour la protection de l'environnement (ICPE)
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="6">
+      <td rowspan="6" align="left">
 
 1. Installations classées pour la protection de l'environnement</td>
       <td align="left">
 
 a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.</td>
-      <td align="left" rowspan="6">
+      <td rowspan="6" align="left">
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
@@ -103,7 +103,7 @@ définitif et de démantèlement ou une autorisation de mise à l'arrêt défini
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Installations nucléaires de base secrètes (INBS)
 
@@ -119,7 +119,7 @@ Installations soumises à une autorisation de création ou une autorisation de p
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">Stockage de déchets radioactifs</td>
+      <td align="center" colspan="3">Stockage de déchets radioactifs</td>
     </tr>
     <tr>
       <td rowspan="3" align="left">
@@ -145,7 +145,7 @@ profondes au stockage souterrain des déchets radioactifs.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Infrastructures de transport
 
@@ -246,7 +246,7 @@ Milieux aquatiques, littoraux et maritimes
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="4">
+      <td rowspan="4" align="left">
 
 9. Infrastructures portuaires, maritimes et fluviales.</td>
       <td align="left">
@@ -359,10 +359,10 @@ Tous travaux, ouvrages ou aménagements.</td>
 Création de récifs artificiels.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
 
 16. Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres.</td>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
       </td><td align="left">
 
 a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage de terres, sur une superficie supérieure ou
@@ -507,7 +507,7 @@ Dans les deux cas, les transvasements d'eau potable amenée par canalisation son
 a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à
 prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m 
         <sup>3</sup>.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne
 précédente dont le débit est supérieur ou égal à 1 m ³/ s.</td>
@@ -586,7 +586,7 @@ l'environnement réalisé par le propriétaire riverain, le volume des sédiment
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 26. Stockage et épandages de boues et d'effluents.</td>
       <td rowspan="2" align="left">
@@ -845,7 +845,7 @@ créée est inférieure à 40 000 m
         <sup>2</sup>.</td>
     </tr>
     <tr>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Les composantes d'un projet donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone
 d'aménagement concerté ne sont pas concernées par la présente rubrique si le projet dont elles font partie fait l'objet d'une
@@ -865,11 +865,11 @@ Villages de vacances et aménagements associés dont les travaux créent une sur
         <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td align="left">
 
 a) Aires de stationnement ouvertes au public de 50 unités et plus.</td>
@@ -898,7 +898,7 @@ de loisirs ou d'habitations légères de loisirs.</td>
 b) Aires naturelles de camping et de caravanage permettant l'accueil de 7 à 30 emplacements de tentes, caravanes.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
 
 43. Pistes de ski, remontées mécaniques et aménagements associés.</td>
       <td align="left">
@@ -933,7 +933,7 @@ superficie inférieure à 4 hectares hors site vierge.</td>
     </tr>
     <tr>
       <td align="left">
-      </td><td colspan="2" align="left">
+      </td><td align="left" colspan="2">
 
 Pour la rubrique 43, est considéré comme " site vierge " un site non accessible gravitairement depuis les remontées
 mécaniques ou du fait de la difficulté du relief, ou accessible gravitairement depuis les remontées mécaniques mais ne
@@ -953,7 +953,7 @@ b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)
+d) Autres équipements sportifs ou de loisirs et aménagements associés.
 
 </td>
     </tr>
@@ -968,7 +968,7 @@ Toutes opérations.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
       <td align="left" rowspan="2">
@@ -1079,7 +1079,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1039 du 10 mai 2017 - art. 8
+  - Décision n°404391 du 8 décembre 2017, v. init.
 
 _Cité par_:
 
