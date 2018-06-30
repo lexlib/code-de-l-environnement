@@ -1,6 +1,8 @@
 # Article Annexe (4) à l'article R511-9
 
-<table cellspacing="0" cellpadding="0" border="1" align="center">
+Annexe (4) à l'article R511-9
+
+<table border="1" cellpadding="0" cellspacing="0" align="center">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -4289,44 +4291,6 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="4">2794</td>
-      <td>Installation de broyage de déchets végétaux non dangereux.</td>
-      <td>
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>La quantité de déchets traités étant :</td>
-      <td>
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>1. Supérieure ou égale à 30 t/ j</td>
-      <td align="center">E</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>2. Supérieure ou égale à 5 t/ j, mais inférieure à 30 t/ j</td>
-      <td align="center">D</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="6">Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
-
-Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
-
-Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-</td>
-    </tr>
-    <tr>
       <td rowspan="11">
 
 2793
@@ -4529,6 +4493,44 @@ B, C, D, E, F représentant respectivement les quantités relatives aux déchets
 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.</td>
     </tr>
     <tr>
+      <td rowspan="4">2794</td>
+      <td>Installation de broyage de déchets végétaux non dangereux.</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>La quantité de déchets traités étant :</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>1. Supérieure ou égale à 30 t/ j</td>
+      <td align="center">E</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>2. Supérieure ou égale à 5 t/ j, mais inférieure à 30 t/ j</td>
+      <td align="center">D</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="6">Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
+
+Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+</td>
+    </tr>
+    <tr>
       <td rowspan="4">
 
 2795
@@ -4591,7 +4593,7 @@ DC
       </td><td>
     </td></tr>
     <tr>
-      <td>
+      <td rowspan="4">
 
 2797
 
@@ -4599,27 +4601,49 @@ DC
       <td>
 
 Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de
-particules, secteur médical et activités de traitement des sites pollués par des substances radioactives, dès lors que leur
-quantité susceptible d'être présente est supérieure à 10 m
-          <sup>3</sup> et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de la santé
-publique ne sont pas remplies.
-
-Les termes "déchets radioactifs" et "gestion des déchets radioactifs" s'entendent au sens de l'article 3 de la directive
-2011/70/EURATOM du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du
-combustible usé et des déchets radioactifs.
+particules et secteur médical, dès lors que leur quantité susceptible d'être présente est supérieure à 10 m3 et que les
+conditions d'exemption mentionnées au 1° du I de l'article R. 1333-106 du code de la santé publique ne sont pas remplies.
 
 </td>
       <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
 
-A
+1. Activités de gestion de déchets radioactifs hors stockage (tri, entreposage, traitement …)
+
+</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Installations de stockage de déchets pouvant contenir des substances radioactives autres que celles d'origine naturelle ou
+des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaines de l'uranium et du
+thorium est supérieure à 20 Bq/ g
+
+</td>
+      <td align="center">A</td>
+      <td align="center">2</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Nota.-Les termes " déchets radioactifs " et " gestion des déchets radioactifs " sont définis à l'article L. 542-1-1 du code
+de l'environnement.
 
 </td>
       <td>
-
-2
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -11022,4 +11046,4 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2018-458 du 6 juin 2018 - art.
+  - Décret n°2018-434 du 4 juin 2018 - art.
