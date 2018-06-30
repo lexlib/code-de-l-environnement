@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -138,16 +138,19 @@ D
 </td>
       <td>
 
-Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en œuvre dans un
-établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
+Substances radioactives sous forme non scellée ou substances radioactives d'origine naturelle mises en œuvre dans un
+établissement industriel ou commercial, à l'exception des accélérateurs de particules et du secteur médical soumis aux
+dispositions du code de santé publique.
 
 Définitions :
 
-Les termes " substance radioactive ", " activité ", " radioactivité ", " radionucléide ", " source radioactive non scellée "
-et " source radioactive scellée " sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
+- Les termes substance radioactive et déchet radioactif sont définis à l'article L. 542-1-1 du code de l'environnement ;
 
-" QNS " : calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé publique pour les
-substances radioactives non scellées.
+- Les termes substance radioactive d'origine naturelle , activité , radioactivité , radionucléide et source radioactive
+scellée sont définis dans l'annexe 13-7 de la première partie du code de la santé publique ;
+
+- QNS : calcul du coefficient Q tel que défini à l'article R. 1333-106 du code de la santé publique pour les substances
+radioactives non scellées uniquement.
 
 </td>
       <td>
@@ -156,39 +159,31 @@ substances radioactives non scellées.
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="4">
+      <td>
 
 1716
 
 </td>
       <td>
 
-Substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 dès lors que leur
-quantité susceptible d'être présente est supérieure à 10 m 
-          <sup>3 </sup>et que les conditions d'exemption mentionnés au 1° du I de l'article R. 1333-18 du code de la santé
-publique ne sont pas remplies.
+Substances radioactives mentionnées à la rubrique 1700, autres que celles mentionnées à la rubrique 1735, dont la quantité
+totale est supérieure à 1 tonne et pour lesquelles les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-106
+du code de la santé publique ne sont pas remplies.
 
-</td>
-      <td>
+1. Les substances radioactives ne sont pas uniquement d'origine naturelle et la valeur de QNS est égale ou supérieure à 104.
 
-</td>
-      <td>
+2. Les substances radioactives sont uniquement d'origine naturelle ou la valeur de QNS est égale ou supérieure à 1 et
+strictement inférieure à 104.
 
-</td>
-      <td rowspan="4">
-      </td><td rowspan="4">
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. La valeur de QNS est égale ou supérieure à 104
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
+mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation
 
 </td>
       <td>
 
 A
+
+D
 
 </td>
       <td>
@@ -196,31 +191,8 @@ A
 2
 
 </td>
-    </tr>
-    <tr>
       <td>
-
-2. La valeur de QNS est égale ou supérieure à 1 et strictement inférieure à 104
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td rowspan="2">
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
-mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
-mentionnées à l'annexe 13-8 de la première partie du code de la santé publique
-
-</td>
-      <td>
+      </td><td>
 
 </td>
     </tr>
@@ -232,9 +204,9 @@ mentionnées à l'annexe 13-8 de la première partie du code de la santé publiq
 </td>
       <td>
 
-Substances radioactives (dépôt, entreposage ou stockage de) sous forme de résidus solides de minerai d'uranium, de thorium ou
-de radium, ainsi que leurs produits de traitement ne contenant pas d'uranium enrichi en isotope 235 et dont la quantité
-totale est supérieure à 1 tonne
+Substances radioactives (dépôt, entreposage ou stockage de) sous forme de résidus de traitement de minerais d'uranium ou de
+thorium contenant des radionucléides naturels des chaînes de l'uranium ou du thorium et boues issues du traitement des eaux
+d'exhaure, sans enrichissement en uranium 235 et dont la quantité totale est supérieure à 1 tonne.
 
 </td>
       <td>
@@ -3524,13 +3496,11 @@ du code de l'environnement.
 
 _Modifié par_:
 
-  - Décret n°2017-1595 du 21 novembre 2017 - art. (V)
-  - Décret n°2017-1595 du 21 novembre 2017 - art. 1
-  - Décret n°2017-1595 du 21 novembre 2017 - art. 2
+  - Décret n°2018-434 du 4 juin 2018 - art.
 
 _Cite_:
 
-  - Code minier - art. 130 (M)
-  - Code de la santé publique - art. R1333-18 (M)
-  - Code de l'environnement - art. L512-11 (M)
-  - Code de l'environnement - art. R413-6 (M)
+  - Code minier - art. 130
+  - Code de la santé publique - art. R1333-18
+  - Code de l'environnement - art. L512-11
+  - Code de l'environnement - art. R413-6
