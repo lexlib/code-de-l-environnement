@@ -1,6 +1,6 @@
 # Article Annexe (4) à l'article R511-9
 
-<table align="center" border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" border="1" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -184,7 +184,7 @@ déchets non dangereux inertes pulvérulents, la capacité de transit étant :
     <tr>
       <td>
 
-1. Supérieure à 25 000 m³
+1. supérieure à 25 000 m³
 
 </td>
       <td>
@@ -212,15 +212,15 @@ D
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="3">
+      <td rowspan="4">
 
 2517
 
 </td>
       <td>
 
-Station de transit, regroupement ou tri de produits minéraux ou de déchets non dangereux inertes autres que ceux visés par
-d'autres rubriques, la superficie de l'aire de transit étant :
+Station de transit de produits minéraux ou de déchets non dangereux inertes autres que ceux visés par d'autres rubriques, la
+superficie de l'aire de transit étant :
 
 </td>
       <td>
@@ -231,8 +231,31 @@ d'autres rubriques, la superficie de l'aire de transit étant :
     <tr>
       <td>
 
-1. Supérieure à 10 000 m
+1. supérieure à 30 000 m
           <sup>2</sup>
+          <sup> </sup>
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Supérieure à 10 000 m
+          <sup>2</sup>
+          <sup> </sup>mais inférieure ou égale à 30 000 m
+          <sup>2</sup>.
 
 </td>
       <td>
@@ -241,19 +264,13 @@ E
 
 </td>
       <td>
-
--
-
-</td>
-      <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-2. Supérieure à 5 000 m
-          <sup>2</sup>, mais inférieure ou égale à 10 000 m
-          <sup>2</sup>
+3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m²
 
 </td>
       <td>
@@ -261,8 +278,8 @@ E
 D
 
 </td>
-      <td align="center">-</td>
       <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2829,15 +2846,14 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="7">
+      <td rowspan="10">
 
 2710
 
 </td>
       <td>
 
-Installation de collecte de déchets apportés par le producteur initial de ces déchets, à l'exclusion des installations visées
-à la rubrique 2719.
+Installations de collecte de déchets apportés par le producteur initial de ces déchets.
 
 </td>
       <td>
@@ -2848,7 +2864,18 @@ Installation de collecte de déchets apportés par le producteur initial de ces 
     <tr>
       <td>
 
-1. Dans le cas de déchets dangereux, la quantité de déchets susceptibles d'être présents dans l'installation étant :
+1. Collecte de déchets dangereux :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+La quantité de déchets susceptibles d'être présents dans l'installation étant :
 
 </td>
       <td>
@@ -2862,53 +2889,103 @@ Installation de collecte de déchets apportés par le producteur initial de ces 
 a) Supérieure ou égale à 7 t
 
 </td>
-      <td align="center">A</td>
-      <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
       <td>
 
-b) Supérieure ou égale à 1 t, mais inférieure à 7 t
+A
 
 </td>
-      <td align="center">DC</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
       <td>
 
-2. Dans le cas de déchets non dangereux, le volume de déchets susceptibles d'être présents dans l'installation étant :
+1
 
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
 
-a) Supérieur ou égal à 300 m
-          <sup>3</sup>
+b) Supérieure ou égale à 1 t et inférieure à 7 t
 
 </td>
-      <td align="center">E</td>
-      <td align="center">-</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Collecte de déchets non dangereux :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Le volume de déchets susceptibles d'être présents dans l'installation étant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieur ou égal à 600 m³
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+1
+
+</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>b) Supérieur ou égal à 100 m
-        <sup>3</sup>, mais inférieur à 300 m
-        <sup>3</sup>
-      </td>
-      <td align="center">DC</td>
-      <td align="center">-</td>
       <td>
+
+b) Supérieur ou égal à 300 m³ et inférieur à 600 m³
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+c) Supérieur ou égal à 100 m³ et inférieur à 300 m³
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2919,8 +2996,7 @@ a) Supérieur ou égal à 300 m
 </td>
       <td>
 
-Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de déchets d'équipements électriques et
-électroniques, à l'exclusion des installations visées à la rubrique 2719.
+Installations de transit, regroupement ou tri de déchets d'équipements électriques et électroniques.
 
 </td>
       <td>
@@ -2942,18 +3018,17 @@ Le volume susceptible d'être entreposé étant :
     <tr>
       <td>
 
-1. Supérieur ou égal à 1 000 m
-          <sup>3</sup>
+1. Supérieur ou égal à 1 000 m³
 
 </td>
       <td>
 
-E
+A
 
 </td>
       <td>
 
--
+1
 
 </td>
       <td>
@@ -2962,9 +3037,7 @@ E
     <tr>
       <td>
 
-2. Supérieur ou égal à 100 m
-          <sup>3</sup>, mais inférieur à 1 000 m
-          <sup>3</sup>
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³
 
 </td>
       <td>
@@ -2972,12 +3045,12 @@ E
 DC
 
 </td>
-      <td align="center">-</td>
       <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="6">
+      <td rowspan="5">
 
 2712
 
@@ -2985,7 +3058,7 @@ DC
       <td>
 
 Installation d'entreposage, dépollution, démontage ou découpage de véhicules hors d'usage ou de différents moyens de
-transports hors d'usage, à l'exclusion des installations visées à la rubrique 2719.
+transports hors d'usage.
 
 </td>
       <td>
@@ -2996,21 +3069,18 @@ transports hors d'usage, à l'exclusion des installations visées à la rubrique
     <tr>
       <td>
 
-1. Dans le cas de véhicules terrestres hors d'usage, la surface de l'installation étant supérieure ou égale à 100 m
-          <sup>2</sup>
+1. Dans le cas de véhicules terrestres hors d'usage, la surface de l'installation étant :
 
 </td>
-      <td align="center">E</td>
-      <td align="center">-</td>
       <td>
+      </td><td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-2. Dans le cas d'autres moyens de transports hors d'usage autres que ceux visés aux 1 et 3, la surface de l'installation
-étant supérieure ou égale à 50 m
-          <sup>2</sup>
+a) supérieure ou égale à 30 000 m²
 
 </td>
       <td>
@@ -3027,8 +3097,11 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td>3. Dans le cas des déchets issus de bateaux de plaisance ou de sport tels que définis à l'article R. 543-297 du
-code de l'environnement :</td>
+      <td>
+
+b) Supérieure ou égale à 100 m² et inférieure à 30 000 m²
+
+</td>
       <td>
 
 E
@@ -3041,27 +3114,19 @@ E
     <tr>
       <td>
 
-a) Pour l'entreposage, la surface de l'installation étant supérieure à 150 m
-          <sup>2</sup>
+2. Dans le cas d'autres moyens de transports hors d'usage, la surface de l'installation étant supérieure ou égale à 50 m²
 
 </td>
       <td>
 
-E
+A
 
 </td>
       <td>
 
--
+2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>b) Pour la dépollution, le démontage ou le découpage</td>
-      <td align="center">E</td>
-      <td align="center">-</td>
       <td>
       </td><td>
     </td></tr>
@@ -3073,9 +3138,9 @@ E
 </td>
       <td>
 
-Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de métaux ou de déchets de métaux non
-dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des installations visées aux
-rubriques 2710, 2711, 2712 et 2719.
+Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de
+déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710, 2711 et
+2712.
 
 </td>
       <td>
@@ -3097,18 +3162,17 @@ La surface étant :
     <tr>
       <td>
 
-1. Supérieure ou égale à 1 000 m
-          <sup>2</sup>
+1. Supérieure ou égale à 1 000 m² ;
 
 </td>
       <td>
 
-E
+A
 
 </td>
       <td>
 
--
+1
 
 </td>
       <td>
@@ -3117,9 +3181,7 @@ E
     <tr>
       <td>
 
-2. Supérieure ou égale à 100 m
-          <sup>2</sup>, mais inférieure à 1 000 m
-          <sup>2</sup>
+2. Supérieure ou égale à 100 m² et inférieure à 1 000 m².
 
 </td>
       <td>
@@ -3127,8 +3189,8 @@ E
 D
 
 </td>
-      <td align="center">-</td>
       <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3139,8 +3201,8 @@ D
 </td>
       <td>
 
-Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de déchets non dangereux de papiers,
-cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des installations visées aux rubriques 2710, 2711 et 2719.
+Installation de transit, regroupement ou tri de déchets non dangereux de papiers/cartons, plastiques, caoutchouc, textiles,
+bois à l'exclusion des activités visées aux rubriques 2710 et 2711.
 
 </td>
       <td>
@@ -3162,18 +3224,17 @@ Le volume susceptible d'être présent dans l'installation étant :
     <tr>
       <td>
 
-1. Supérieur ou égal à 1 000 m
-          <sup>3</sup>
+1. Supérieur ou égal à 1 000 m³ ;
 
 </td>
       <td>
 
-E
+A
 
 </td>
       <td>
 
--
+1
 
 </td>
       <td>
@@ -3182,9 +3243,7 @@ E
     <tr>
       <td>
 
-2. Supérieur ou égal à 100 m
-          <sup>3</sup>, mais inférieur à 1 000 m
-          <sup>3</sup>
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 </td>
       <td>
@@ -3192,8 +3251,8 @@ E
 D
 
 </td>
-      <td align="center">-</td>
       <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3225,8 +3284,8 @@ D
 </td>
       <td>
 
-Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de déchets non dangereux non inertes à
-l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719.
+Installation de transit, regroupement ou tri de déchets non dangereux non inertes à l'exclusion des installations visées aux
+rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719.
 
 </td>
       <td>
@@ -3248,18 +3307,17 @@ Le volume susceptible d'être présent dans l'installation étant :
     <tr>
       <td>
 
-1. Supérieur ou égal à 1 000 m
-          <sup>3</sup>
+1. Supérieur ou égal à 1 000 m³ ;
 
 </td>
       <td>
 
-E
+A
 
 </td>
       <td>
 
--
+1
 
 </td>
       <td>
@@ -3268,9 +3326,7 @@ E
     <tr>
       <td>
 
-2. Supérieur ou égal à 100 m
-          <sup>3</sup>, mais inférieur à 1 000 m
-          <sup>3</sup>
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 </td>
       <td>
@@ -3278,20 +3334,99 @@ E
 DC
 
 </td>
-      <td align="center">-</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="5">
+
+2717
+
+</td>
+      <td>
+
+Installations de transit, regroupement ou tri de déchets contenant des substances ou mélanges dangereux mentionnés à
+l'article R. 511-10, à l'exclusion des installations visées aux rubriques 2710,2711,2712,2719 et 2793
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="3">
+      <td>
+
+La quantité des substances ou mélanges dangereux susceptible d'être présente dans l'installation étant supérieures ou égales
+aux seuils A des rubriques d'emploi ou de stockage de ces substances ou mélanges.
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+La quantité susceptible d'être présente étant :
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. Supérieure ou égale à 50 t
+
+</td>
+      <td>
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. Inférieure à 50 t
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="8">
 
 2718
 
 </td>
       <td>
 
-Installation de transit, regroupement ou tri de déchets dangereux, à l'exclusion des installations visées aux rubriques 2710,
-2711, 2712, 2719, 2792 et 2793.
+Installation de transit, regroupement ou tri de déchets dangereux ou de déchets contenant les substances dangereuses ou
+préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées
+aux rubriques 2710, 2711, 2712, 2717, 2719 et 2793.
 
 </td>
       <td>
@@ -3302,28 +3437,104 @@ Installation de transit, regroupement ou tri de déchets dangereux, à l'exclusi
     <tr>
       <td>
 
-1. La quantité de déchets dangereux susceptible d'être présente dans l'installation étant supérieure ou égale à 1 t ou la
-quantité de substances dangereuses ou de mélanges dangereux, mentionnés à l'article R. 511-10 du code de l'environnement,
-susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils A des rubriques d'emploi ou de stockage
-de ces substances ou mélanges
+La quantité de déchets susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td align="center">A</td>
-      <td align="center">2</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Supérieure ou égale à 1 t ;
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-2. Autres cas
+2. Inférieure à 1 t.
 
 </td>
-      <td align="center">DC</td>
+      <td>
+
+DC
+
+</td>
       <td>
       </td><td>
       </td><td>
     </td></tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+1. La quantité de déchets susceptible d'être présente dans l'installation étant :
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+a) Supérieure ou égale à 50 t
+
+</td>
+      <td>
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+b) Supérieure ou égale à 1 t et inférieure à 50 t
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+2. Non soumis à la taxe
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -3476,8 +3687,8 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts
 associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de
 l'article R. 541-8 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités
-sont visées par les rubriques 2101 à 2150, 2170, 2210, 2221, 2230, 2240, 2350, 2690, 2740, 2780, 2781, 3532, 3630, 3641,
-3642, 3643 et 3660 de la présente nomenclature :
+sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et 3660
+de la présente nomenclature :
 
 </td>
       <td>
@@ -3531,7 +3742,7 @@ td>
 </td>
       <td>
 
-Incinération de cadavres d'animaux.
+Incinération de cadavres d'animaux de compagnie
 
 </td>
       <td>
@@ -3642,18 +3853,22 @@ A
 </td>
       <td>
 
-Installation de stockage de déchets, à l'exclusion des installations visées à la rubrique 2720 :
+Installation de stockage de déchets autres que celles mentionnées à la rubrique 2720
 
 </td>
       <td>
       </td><td>
       </td><td>
-      </td><td>
+
+Quels que soient les déchets stockés :
+
+</td>
+      <td>
     </td></tr>
     <tr>
       <td>
 
-1. Installation de stockage de déchets dangereux autre que celle mentionnée au 4
+1. Installations de stockage de déchets dangereux autres que celles mentionnées au 4
 
 </td>
       <td>
@@ -3667,7 +3882,12 @@ A
 
 </td>
       <td>
-      </td><td>
+
+a) La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant
+supérieure ou égale à 25 000 t
+
+</td>
+      <td>
 
 6
 
@@ -3676,7 +3896,7 @@ A
     <tr>
       <td>
 
-2. Installation de stockage de déchets non dangereux autre que celle mentionnée au 3 :
+2. Installations de stockage de déchets non dangereux autres que celles mentionnées au 3
 
 </td>
       <td>
@@ -3690,7 +3910,12 @@ A
 
 </td>
       <td>
-      </td><td>
+
+b) La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25
+000 t
+
+</td>
+      <td>
 
 3
 
@@ -3699,7 +3924,7 @@ A
     <tr>
       <td>
 
-3. Installation de stockage de déchets inertes
+3. Installations de stockage de déchets inertes.
 
 </td>
       <td>
@@ -3714,7 +3939,7 @@ E
     <tr>
       <td>
 
-4. Installation de stockage temporaire de déchets de mercure métallique
+4. Installations de stockage temporaire de déchets de mercure métallique
 
 </td>
       <td>
@@ -3733,11 +3958,25 @@ A
     <tr>
       <td>
 
-Pour la rubrique 2760-4 :
+Pour la rubrique 2760-4 : Quantité seuil bas au sens de l'article R. 511-10 : 50 t. Quantité seuil haut au sens de l'article
+R. 511-10 : 200 t.
 
-Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="5">
 
-Quantité seuil haut au sens de l'article R. 511-10 : 200 t
+2770
+
+</td>
+      <td>
+
+Installations de traitement thermique de déchets dangereux ou de déchets contenant des substances ou mélanges dangereux
+mentionnés à l'article R. 511-10, à l'exclusion des installations visées à la rubrique 2793.
 
 </td>
       <td>
@@ -3748,21 +3987,67 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t
     <tr>
       <td>
 
-2770
+1. Déchets destinés à être traités contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10
 
 </td>
       <td>
 
-Installation de traitement thermique de déchets dangereux, à l'exclusion des installations visées aux rubriques 2792 et 2793
-et des installations de combustion consommant comme déchets uniquement des déchets répondant à la définition de biomasse au
-sens de la rubrique 2910.
+A
 
 </td>
-      <td align="center">A</td>
-      <td align="center">2</td>
+      <td>
+
+2
+
+</td>
       <td>
       </td><td>
     </td></tr>
+    <tr>
+      <td>
+
+2. Déchets destinés à être traités ne contenant pas de substances ou mélanges dangereux mentionnés à l'article R. 511-10
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+      </td><td>
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+6
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -3771,9 +4056,7 @@ sens de la rubrique 2910.
 </td>
       <td>
 
-Installation de traitement thermique de déchets non dangereux, à l'exclusion des installations visées à la rubrique 2971 et
-des installations consommant comme déchets uniquement des déchets répondant à la définition de biomasse au sens de la
-rubrique 2910.
+Installation de traitement thermique de déchets non dangereux, à l'exclusion des installations visées à la rubrique 2971
 
 </td>
       <td>
@@ -3790,14 +4073,14 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="12">
+      <td rowspan="11">
 
 2780
 
 </td>
       <td>
 
-Installation de compostage de déchets non dangereux ou de matière végétale, ayant, le cas échéant, subi une étape de
+Installations de compostage de déchets non dangereux ou de matière végétale, ayant, le cas échéant, subi une étape de
 méthanisation.
 
 </td>
@@ -3832,77 +4115,7 @@ méthanisation.
     <tr>
       <td>
 
-a) La quantité de matières traitées étant supérieure ou égale à 75 t/j
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-b) La quantité de matières traitées étant supérieure ou égale à 30 t/j, mais inférieure à 75 t/j
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-c) La quantité de matières traitées étant supérieure ou égale à 3 t/j, mais inférieure à 30 t/j
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Compostage de fraction fermentescible de déchets triés à la source ou sur site, de boues de station d'épuration des eaux
-urbaines, de boues de station d'épuration des eaux de papeteries, de boues de station d'épuration des eaux d'industries
-agroalimentaires, seules ou en mélange avec des déchets admis dans une installation relevant de la rubrique 2780-1 :
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-
-2. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-a) La quantité de matières traitées étant supérieure ou égale à 75 t/j
+a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
 
 </td>
       <td>
@@ -3921,7 +4134,7 @@ A
     <tr>
       <td>
 
-b) La quantité de matières traitées étant supérieure ou égale à 20 t/j, mais inférieure à 75 t/j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j
 
 </td>
       <td>
@@ -3929,22 +4142,97 @@ b) La quantité de matières traitées étant supérieure ou égale à 20 t/j, m
 E
 
 </td>
-      <td align="center">-</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+c) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Compostage de fraction fermentescible de déchets triés à la source ou sur site, de boues de station d'épuration des eaux
+urbaines, de papeteries, d'industries agroalimentaires, seuls ou en mélange avec des déchets admis dans une installation
+relevant de la rubrique 2780-1 :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+
+2. Non soumis à la taxe
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+a) La quantité de matières traitées étant supérieure ou égale à 20 t/j
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>c) La quantité de matières traitées étant supérieure ou égale à 2 t/j, mais inférieure à 20 t/j</td>
-      <td align="center">D</td>
-      <td align="center">-</td>
       <td>
+
+b) La quantité de matières traitées étant supérieure ou égale à 2 t/j et inférieure à 20 t/j
+
+</td>
+      <td>
+
+D
+
+</td>
+      <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
-      <td>3. Compostage d'autres déchets :</td>
       <td>
-      </td><td>
-      </td><td>
+
+3. Compostage d'autres déchets
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+      <td>
 
 3. La quantité de matières et déchets traités étant :
 
@@ -3952,10 +4240,10 @@ E
       <td>
     </td></tr>
     <tr>
-      <td>a) La quantité de matières traitées étant supérieure ou égale à 75 t/j</td>
-      <td align="center">A</td>
-      <td align="center">3</td>
       <td>
+      </td><td>
+      </td><td>
+      </td><td>
 
 a) Supérieure ou égale à 50 t/j
 
@@ -3967,10 +4255,10 @@ a) Supérieure ou égale à 50 t/j
 </td>
     </tr>
     <tr>
-      <td>b) La quantité de matières traitées étant inférieure à 75 t/j</td>
-      <td align="center">E</td>
-      <td align="center">-</td>
       <td>
+      </td><td>
+      </td><td>
+      </td><td>
 
 b) Inférieure à 50 t/j
 
@@ -3982,66 +4270,20 @@ b) Inférieure à 50 t/j
 </td>
     </tr>
     <tr>
-      <td rowspan="7">
+      <td rowspan="4">
 
 2781
 
 </td>
       <td>
 
-Installation de méthanisation de déchets non dangereux ou de matière végétale brute, à l'exclusion des installations de
-méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production :
+Installations de méthanisation de déchets non dangereux ou de matière végétale brute, à l'exclusion des installations de
+méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux
 d'industries agroalimentaires :
 
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>a) La quantité de matières traitées étant supérieure ou égale à 100 t/j</td>
-      <td align="center">A</td>
-      <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-b) La quantité de matières traitées étant supérieure ou égale à 30 t/ j, mais inférieure à 100 t/ j
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-c) La quantité de matières traitées étant inférieure à 30 t/j
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Méthanisation d'autres déchets non dangereux :
+_a) _La quantité de matières traitées étant supérieure ou égale à 60 t/j
 
 </td>
       <td>
@@ -4058,18 +4300,51 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td>a) La quantité de matières traitées étant supérieure ou égale à 100 t/j</td>
-      <td align="center">A</td>
-      <td align="center">2</td>
       <td>
+
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 60 t/j
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-b) La quantité de matières traitées étant inférieure à 100 t/j</td>
-      <td align="center">E</td>
-      <td align="center">-</td>
+c) La quantité de matières traitées étant inférieure à 30 t/j
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Méthanisation d'autres déchets non dangereux
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
       <td>
       </td><td>
     </td></tr>
@@ -4140,22 +4415,86 @@ b) Inférieure à 50 t/j
 </td>
     </tr>
     <tr>
-      <td>
+      <td rowspan="5">
 
 2790
 
 </td>
       <td>
 
-Installation de traitement de déchets dangereux, à l'exclusion des installations visées aux rubriques 2711, 2720, 2760, 2770,
-2792, 2793 et 2795.
+Installations de traitement de déchets dangereux ou de déchets contenant des substances ou mélanges dangereux mentionnés à
+l'article R. 511-10, à l'exclusion des installations visées aux rubriques 2720,2760,2770 et 2793.
 
 </td>
-      <td align="center">A</td>
-      <td align="center">2</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Déchets destinés à être traités contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
       <td>
       </td><td>
     </td></tr>
+    <tr>
+      <td>
+
+2. Déchets destinés à être traités ne contenant pas de substances ou mélanges dangereux mentionnés à l'article R. 511-10
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+2
+
+</td>
+      <td>
+      </td><td>
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+6
+
+</td>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -4164,8 +4503,8 @@ Installation de traitement de déchets dangereux, à l'exclusion des installatio
 </td>
       <td>
 
-Installation de traitement de déchets non dangereux, à l'exclusion des installations visées aux rubriques 2515, 2711, 2713,
-2714, 2716, 2720, 2760, 2771, 2780, 2781, 2782, 2794, 2795 et 2971.
+Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771,
+2780, 2781,2782 et 2971
 
 </td>
       <td>
@@ -4187,7 +4526,7 @@ La quantité de déchets traités étant :
     <tr>
       <td>
 
-1. Supérieure ou égale à 10 t/j
+1. Supérieure ou égale à 10 t/j ;
 
 </td>
       <td>
@@ -4206,7 +4545,7 @@ A
     <tr>
       <td>
 
-2. Inférieure à 10 t/j
+2. Inférieure à 10 t/j.
 
 </td>
       <td>
@@ -4289,40 +4628,16 @@ A
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="4">2794</td>
-      <td>Installation de broyage de déchets végétaux non dangereux.</td>
-      <td>
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>La quantité de déchets traités étant :</td>
-      <td>
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>1. Supérieure ou égale à 30 t/ j</td>
-      <td align="center">E</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>2. Supérieure ou égale à 5 t/ j, mais inférieure à 30 t/ j</td>
-      <td align="center">D</td>
-      <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
       <td colspan="6">Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
 
 Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
 
 </td>
     </tr>
@@ -4599,27 +4914,43 @@ DC
       <td>
 
 Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de
-particules, secteur médical et activités de traitement des sites pollués par des substances radioactives, dès lors que leur
-quantité susceptible d'être présente est supérieure à 10 m
-          <sup>3</sup> et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de la santé
+particules et secteur médical, dès lors que leur quantité susceptible d'être présente est supérieure à 10 m
+          <sup>3</sup> et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-106 du code de la santé
 publique ne sont pas remplies.
 
-Les termes "déchets radioactifs" et "gestion des déchets radioactifs" s'entendent au sens de l'article 3 de la directive
-2011/70/EURATOM du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du
-combustible usé et des déchets radioactifs.
-
 </td>
       <td>
-
-A
-
-</td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
       <td>
+      </td><td>
 
-2
-
-</td>
+1. Activités de gestion de déchets radioactifs hors stockage (tri, entreposage, traitement …)</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
       <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>2. Installations de stockage de déchets pouvant contenir des substances radioactives autres que celles
+d'origine naturelle ou des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaines
+de l'uranium et du thorium est supérieure à 20 Bq/ g</td>
+      <td align="center">A</td>
+      <td align="center">2</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>Nota.-Les termes déchets radioactifs et gestion des déchets radioactifs sont définis à l'article L. 542-1-1 du
+code de l'environnement.</td>
+      <td align="center">
+      </td><td align="center">
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -11022,4 +11353,4 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2018-458 du 6 juin 2018 - art.
+  - Décret n°2018-434 du 4 juin 2018 - art.
