@@ -1,65 +1,65 @@
 # Article Annexe de l'article R221-29
 
-<table width="680" align="center" border="1">
+<table border="1" align="center">
   <tbody>
     <tr>
       <td>
 
-SUBSTANCE 
+SUBSTANCE
 
 </td>
       <td>
 
-CHEMICAL ABSTRACTS 
+CHEMICAL ABSTRACTS
 
-Service (CAS) 
+Service (CAS)
 
 </td>
       <td colspan="2">
 
-VALEUR-GUIDE POUR L'AIR INTÉRIEUR 
+VALEUR-GUIDE POUR L'AIR INTÉRIEUR
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Formaldéhyde 
-
-</td>
-      <td valign="top" align="left">
-
-50-00-0 
+Formaldéhyde
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-30 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2015 
+50-00-0
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-10 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2023 
+30 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2015
+
+</td>
+      <td align="left">
+
+10 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2023
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Benzène 
-
-</td>
-      <td align="left" valign="top">
-
-71-43-2 
+Benzène
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-5 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2013 
+71-43-2
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+5 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2013
+
+</td>
+      <td align="left">
 
 2 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2016
 
@@ -68,8 +68,39 @@ Benzène
   </tbody>
 </table>
 
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+SUBSTANCE</th>
+      <th>
+
+CHEMICAL ABSTRACTS Service (CAS)</th>
+      <th>
+
+NIVEAU DE REFERENCE
+
+POUR LE RADON DANS LES BATIMENTS</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Radon</td>
+      <td align="center">
+
+10043-92-2</td>
+      <td align="center">
+
+300 Bq. m
+        <sup>-3</sup>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1727 du 2 décembre 2011 - art. 1
+  - Décret n°2018-434 du 4 juin 2018 - art.
