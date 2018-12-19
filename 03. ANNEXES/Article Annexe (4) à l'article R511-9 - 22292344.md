@@ -2,7 +2,7 @@
 
 Annexe (4) à l'article R511-9
 
-<table cellpadding="0" align="center" cellspacing="0" border="1">
+<table cellpadding="0" align="center" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -4668,14 +4668,16 @@ D
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="22">
+      <td rowspan="16">
 
 2910
 
 </td>
       <td>
 
-Combustion à l'exclusion des installations visées par les rubriques 2770, 2771 et 2971
+Combustion à l'exclusion des activités visées par les rubriques 2770,2771,2971 ou 2931 et des installations classées au titre
+de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la
+cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
 
 </td>
       <td>
@@ -4686,12 +4688,11 @@ Combustion à l'exclusion des installations visées par les rubriques 2770, 2771
     <tr>
       <td>
 
-A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul
-domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition
-de biomasse, des produits connexes de scierie issus du b) v) de la définition de biomasse ou lorsque la biomasse est issue de
-déchets au sens de l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations visées par d'autres
-rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange
-avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est :
+A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du
+fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la
+définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v)
+de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement,
+ou du biogaz provenant d'installations classées sous la rubrique 2781-1, si la puissance thermique nominale est :
 
 </td>
       <td>
@@ -4704,17 +4705,17 @@ avec les gaz de combustion, des matières entrantes, si la puissance thermique n
     <tr>
       <td>
 
-1. Supérieure ou égale à 20 MW
+1. Supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-3
+-
 
 </td>
       <td>
@@ -4725,7 +4726,7 @@ A
     <tr>
       <td>
 
-2. Supérieure à 2 MW, mais inférieure à 20 MW
+2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW
 
 </td>
       <td>
@@ -4744,9 +4745,8 @@ DC
     <tr>
       <td>
 
-B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle
-que définie au b) ii) ou au b) iii) ou au b) v) de la définition de biomasse, et si la puissance thermique nominale de
-l'installation est :
+B. Lorsque sont consommés seuls ou en mélange des produits différents de ceux visés en A, ou de la biomasse telle que définie
+au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse :
 
 </td>
       <td>
@@ -4757,17 +4757,19 @@ l'installation est :
     <tr>
       <td>
 
-1. Supérieure ou égale à 20 MW
+1. Uniquement de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse, le biogaz
+autre que celui visé en 2910-A, ou un produit autre que la biomasse issu de déchets au sens de l'article L. 541-4-3 du code
+de l'environnement, avec une puissance thermique nominale supérieure ou égale à 1 MW, mais inférieure à 50 MW
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-3
+-
 
 </td>
       <td>
@@ -4778,134 +4780,30 @@ A
     <tr>
       <td>
 
-2. Supérieure à 0,1 MW mais inférieure à 20 MW :
+2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale supérieure ou égale
+à 0,1 MW, mais inférieure à 50 MW
 
 </td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, ou de
-biogaz autre que celui visé en 2910-C, ou de produit autre que biomasse issu de déchets au sens de l'article L. 541-4-3 du
-code de l'environnement
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
-
--
-
-</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-b) Dans les autres cas
+La puissance thermique nominale correspond à la somme des puissances thermiques des appareils de combustion pouvant
+fonctionner simultanément sur le site. Ces puissances sont fixées et garanties par le constructeur, exprimées en pouvoir
+calorifique inférieur et susceptibles d'être consommées en marche continue.
 
 </td>
       <td>
 
-A
-
 </td>
       <td>
 
-3
-
 </td>
       <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la
-puissance thermique nominale de l'installation est supérieure à 0,1 MW :
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Lorsque le biogaz est produit par une installation soumise à autorisation ou par plusieurs installations classées au titre
-de la rubrique 2781-1
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-3
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
-
--
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-
--
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-La puissance thermique nominale correspond à la puissance thermique fixée et garantie par le constructeur exprimée en pouvoir
-calorifique inférieur et susceptible d'être consommée en marche continue.
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4915,8 +4813,12 @@ On entend par "biomasse", au sens de la rubrique 2910 :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
+
+</td>
+      <td>
+
+</td>
+      <td>
       </td><td>
     </td></tr>
     <tr>
@@ -4938,8 +4840,12 @@ b) Les déchets ci-après :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
+
+</td>
+      <td>
+
+</td>
+      <td>
       </td><td>
     </td></tr>
     <tr>
@@ -4949,8 +4855,12 @@ i) Déchets végétaux agricoles et forestiers ;
 
 </td>
       <td>
-      </td><td>
-      </td><td>
+
+</td>
+      <td>
+
+</td>
+      <td>
       </td><td>
     </td></tr>
     <tr>
@@ -4961,7 +4871,9 @@ ii) Déchets végétaux provenant du secteur industriel de la transformation ali
 </td>
       <td>
       </td><td>
-      </td><td>
+
+</td>
+      <td>
       </td><td>
     </td></tr>
     <tr>
@@ -4990,9 +4902,9 @@ iv) Déchets de liège ;
     <tr>
       <td>
 
-v) Déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou
-des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris
-notamment les déchets de bois de ce type provenant de déchets de construction ou de démolition.
+v) Déchets de bois, à l'exception des déchets de bois susceptibles de contenir des composés organiques halogénés ou des
+métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement tels que les déchets
+de bois de ce type provenant de déchets de construction ou de démolition.
 
 </td>
       <td>
@@ -11046,4 +10958,4 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2018-434 du 4 juin 2018 - art.
+  - Décret n°2018-704 du 3 août 2018 - art.
