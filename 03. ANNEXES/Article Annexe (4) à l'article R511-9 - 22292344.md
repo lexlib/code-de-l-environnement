@@ -2,7 +2,7 @@
 
 Annexe (4) à l'article R511-9
 
-<table cellpadding="0" align="center" cellspacing="0" border="1">
+<table cellpadding="0" cellspacing="0" align="center" border="1">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -13,11 +13,6 @@ N°
       <td colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
-
-</td>
-      <td colspan="2">
-
-B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 </td>
     </tr>
@@ -39,74 +34,40 @@ A, E, D, S, C (1)
 Rayon (2)
 
 </td>
-      <td>
-
-Capacité de l'activité
-
-</td>
-      <td>
-
-Coef.
-
-</td>
     </tr>
     <tr>
-      <td rowspan="7">
+      <td rowspan="6">
 
 2515
 
 </td>
       <td>
 
-1. Installations de broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage, mélange de pierres,
-cailloux, minerais et autres produits minéraux naturels ou artificiels ou de déchets non dangereux inertes, autres que celles
-visées par d'autres rubriques et par la sous-rubrique 2515-2.
+1. Installations de broyage, concassage, criblage, ensachage, pulvérisation, lavage, nettoyage, tamisage, mélange de pierres,
+cailloux, minerais et autres produits minéraux naturels ou artificiels ou de déchets non dangereux inertes, en vue de la
+production de matériaux destinés à une utilisation, à l'exclusion de celles classées au titre d'une autre rubrique ou de la
+sous-rubrique 2515-2.
 
-La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation
+La puissance maximale de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation,
 étant :
 
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
 
-a) Supérieure à 550 kW
+a) Supérieure à 200 kW
 
 </td>
-      <td align="center">A</td>
-      <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-b) Supérieure à 200 kW, mais inférieure ou égale à 550 kW
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
-
--
-
-</td>
-      <td>
-      </td><td>
-
-</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td>
 
-c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW
+b) Supérieure à 40 kW, mais inférieure ou égale à 200 kW
 
 </td>
       <td>
@@ -114,9 +75,9 @@ c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW
 D
 
 </td>
-      <td align="center">-</td>
       <td>
-      </td><td>
+
+-
 
 </td>
     </tr>
@@ -127,14 +88,14 @@ D
 naturels ou artificiels ou de déchets non dangereux inertes extraits ou produits sur le site de l'installation, fonctionnant
 sur une période unique d'une durée inférieure ou égale à six mois.
 
-La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation
+La puissance maximale de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation,
 étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
-      </td><td>
+
+</td>
+      <td align="center">
     </td></tr>
     <tr>
       <td>
@@ -142,15 +103,9 @@ La puissance maximum de l'ensemble des machines fixes pouvant concourir simultan
 a) Supérieure à 350 kW
 
 </td>
-      <td>
-
-E
-
-</td>
+      <td align="center">E</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -163,9 +118,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -180,8 +133,6 @@ déchets non dangereux inertes pulvérulents, la capacité de transit étant :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -195,8 +146,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -210,8 +159,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="3">
@@ -226,8 +173,6 @@ d'autres rubriques, la superficie de l'aire de transit étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -247,9 +192,7 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -264,9 +207,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -280,8 +221,6 @@ l'exclusion des installations visées par la rubrique 2522. La capacité de mala
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -297,8 +236,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -313,8 +250,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -323,8 +258,6 @@ Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -348,43 +281,17 @@ A
 1
 
 </td>
+    </tr>
+    <tr>
       <td>
-
-La capacité de production étant :
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
     </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-a) supérieure à 100 t/j
-
-</td>
-      <td>
-
-5
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-b) inférieure ou égale à 100 t/j mais supérieure à 20 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td rowspan="5">
 
@@ -397,8 +304,6 @@ Enrobage au bitume de matériaux routiers (centrale d')
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -417,9 +322,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -427,8 +330,6 @@ A
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -447,9 +348,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -462,8 +361,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -475,13 +372,11 @@ D
 
 Installation de fabrication de produits en béton par procédé mécanique
 
-La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation
-étant :
+La puissance maximum de l'ensemble du matériel de malaxage et de vibration pouvant concourir simultanément au fonctionnement
+de l'installation étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -496,9 +391,7 @@ E
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -511,9 +404,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -521,8 +412,6 @@ Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -546,16 +435,6 @@ A
 2
 
 </td>
-      <td>
-
-La capacité de production étant supérieure à 20 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
     </tr>
     <tr>
       <td rowspan="2">
@@ -571,8 +450,6 @@ polissage de).
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -587,9 +464,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="7">
 
@@ -603,8 +478,6 @@ Verre (fabrication et travail du), la capacité de production des fours de fusio
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -614,17 +487,7 @@ Verre (fabrication et travail du), la capacité de production des fours de fusio
 </td>
       <td>
       </td><td>
-      </td><td>
-
-1. La capacité de production des fours de fusion et de ramollissement étant supérieure à 5 t/j
-
-</td>
-      <td>
-
-2
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -641,9 +504,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -656,8 +517,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -667,17 +526,7 @@ D
 </td>
       <td>
       </td><td>
-      </td><td>
-
-2. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -694,9 +543,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -709,8 +556,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -725,8 +570,6 @@ Verre ou cristal (travail chimique du)
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -735,8 +578,6 @@ Le volume maximum de produit de traitement susceptible d'être présent dans l'i
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -755,9 +596,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -770,8 +609,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="2">
@@ -785,8 +622,6 @@ Houille, minerais, minéraux ou résidus métallurgiques (lavoirs à)
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -803,16 +638,6 @@ A
       <td>
 
 2
-
-</td>
-      <td>
-
-La capacité de traitement étant supérieure à 100 t/j
-
-</td>
-      <td>
-
-6
 
 </td>
     </tr>
@@ -838,10 +663,6 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -865,9 +686,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -888,27 +707,17 @@ La capacité de production étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>a) Supérieure à 2t/j</td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>b) Supérieure à 100 kg/j mais inférieure ou égale à 2t/j</td>
       <td align="center">DC</td>
       <td>
-      </td><td>
-      </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -931,12 +740,6 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-
-5
-
-</td>
     </tr>
     <tr>
       <td rowspan="7">
@@ -951,8 +754,6 @@ Fonderie (fabrication de produits moulés) de plomb et alliages contenant du plo
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -961,8 +762,6 @@ La capacité de production étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -981,58 +780,22 @@ A
 2
 
 </td>
+    </tr>
+    <tr>
       <td>
-
-1. La capacité de production étant :
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
     </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-a) supérieure à 2 t/j
-
-</td>
-      <td>
-
-6
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-b) supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
-
-</td>
-      <td>
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-c) supérieure à 100 kg/j, mais inférieure ou égale à 500 kg/j
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1045,8 +808,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="6">
@@ -1061,8 +822,6 @@ Fonderie (fabrication de produits moulés) de métaux et alliages ferreux
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1071,8 +830,6 @@ La capacité de production étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1091,43 +848,17 @@ A
 2
 
 </td>
+    </tr>
+    <tr>
       <td>
-
-1. La capacité de production étant :
-
-</td>
-      <td>
+      </td><td>
+      </td><td>
     </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-a) supérieure à 200 t/j
-
-</td>
-      <td>
-
-4
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1140,8 +871,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -1157,8 +886,6 @@ Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux (�
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1167,8 +894,6 @@ La capacité de production étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1187,16 +912,6 @@ A
 2
 
 </td>
-      <td>
-
-1. La capacité de production étant supérieure à 50 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
     </tr>
     <tr>
       <td>
@@ -1210,8 +925,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -1225,8 +938,6 @@ Travail mécanique des métaux et alliages, à l'exclusion des activités class�
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1246,9 +957,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1265,10 +974,6 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -1282,9 +987,7 @@ DC
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1302,8 +1005,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="3">
@@ -1322,9 +1023,7 @@ Le volume des bains étant :
       </td><td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1341,9 +1040,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1356,8 +1053,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1375,8 +1070,6 @@ La quantité de produit mise en œuvre dans le procédé étant :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1391,8 +1084,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1407,8 +1098,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="9">
@@ -1424,8 +1113,6 @@ solvants organiques.
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1435,8 +1122,6 @@ A. Pour les liquides organohalogénés ou des solvants organiques volatils (1), 
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1455,9 +1140,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1470,8 +1153,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1487,8 +1168,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1502,8 +1181,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1517,8 +1194,6 @@ dissolvant, dispersant, correcteur de viscosité, correcteur de tension superfic
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1528,8 +1203,6 @@ l'aspiration des effluents gazeux.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1541,8 +1214,6 @@ d'élimination.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1560,8 +1231,6 @@ décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage v
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1571,17 +1240,7 @@ décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage v
 </td>
       <td>
       </td><td>
-      </td><td>
-
-1. Quelle que soit la capacité
-
-</td>
-      <td>
-
-4
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1591,16 +1250,6 @@ a) De cadmium
       <td>
 
 A
-
-</td>
-      <td>
-
-1
-
-</td>
-      <td>
-
-1.a. Lorsqu'il y a mise en œuvre de cadmium
 
 </td>
       <td>
@@ -1625,16 +1274,6 @@ A
 1
 
 </td>
-      <td>
-
-1.b. Lorsqu'il y a mise en œuvre de cyanures, le volume des cuves étant supérieur à 200 l
-
-</td>
-      <td>
-
-1
-
-</td>
     </tr>
     <tr>
       <td>
@@ -1645,12 +1284,6 @@ volume des cuves de traitement étant :
 </td>
       <td>
       </td><td>
-      </td><td>
-
-2. Le volume des cuves de traitement étant :
-
-</td>
-      <td>
     </td></tr>
     <tr>
       <td>
@@ -1668,32 +1301,12 @@ A
 1
 
 </td>
-      <td>
-
-a) supérieur à 25 000 l
-
-</td>
-      <td>
-
-4
-
-</td>
     </tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1706,8 +1319,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1721,8 +1332,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1736,8 +1345,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5">
@@ -1752,11 +1359,7 @@ Nettoyage, décapage des métaux par traitement thermique :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1765,17 +1368,7 @@ Nettoyage, décapage des métaux par traitement thermique :
 </td>
       <td>
       </td><td>
-      </td><td>
-
-1. La capacité volumique du four étant supérieure à 2 000 l
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1792,9 +1385,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1807,8 +1398,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1819,16 +1408,6 @@ DC
       <td>
 
 A
-
-</td>
-      <td>
-
-1
-
-</td>
-      <td>
-
-2. Quelle que soit la capacité
 
 </td>
       <td>
@@ -1855,9 +1434,7 @@ Galvanisation, étamage de métaux ou revêtement métallique d'un matériau que
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1865,8 +1442,6 @@ Galvanisation, étamage de métaux ou revêtement métallique d'un matériau que
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1885,9 +1460,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1900,8 +1473,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1910,8 +1481,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1930,9 +1499,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1945,8 +1512,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5">
@@ -1961,8 +1526,6 @@ Email
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1971,8 +1534,6 @@ Email
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -1991,9 +1552,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2006,8 +1565,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2021,8 +1578,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="2">
@@ -2038,8 +1593,6 @@ gravure, dépolissage, décapage, grainage, à l'exclusion des activités visée
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2054,9 +1607,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -2074,10 +1625,6 @@ Détergents et savons (fabrication de ou à base de) à l'exclusion des activit�
       <td>
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -2089,10 +1636,6 @@ La capacité de production étant :
 
 </td>
       <td>
-
-</td>
-      <td>
-      </td><td>
 
 </td>
     </tr>
@@ -2112,16 +1655,12 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
       </td><td>b) Supérieure ou égale à 1 t/ j mais inférieure ou égale à 50 t/ j</td>
       <td align="center">D</td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -2136,8 +1675,6 @@ Parfums, huiles essentielles (extraction par la vapeur des) contenus dans les pl
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2146,8 +1683,6 @@ La capacité totale des vases d'extraction destinés à la distillation étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2166,9 +1701,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2176,8 +1709,6 @@ A
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2196,8 +1727,6 @@ La quantité de matière fabriquée ou utilisée étant :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2215,10 +1744,6 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -2228,9 +1753,7 @@ b) Supérieure ou égale à 200 kg/j, mais inférieure à 2 t/j
 </td>
       <td align="center">D</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -2247,8 +1770,6 @@ La capacité de production étant :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>a) Supérieure à 10 t/j</td>
@@ -2262,19 +1783,11 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>b) Supérieure à 1t/j, mais inférieure ou égale à 10 t/j</td>
       <td align="center">D</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td rowspan="8">
@@ -2289,8 +1802,6 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2300,8 +1811,6 @@ segmentation à chaud, vulcanisation, etc.), la quantité de matière susceptibl
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2313,16 +1822,6 @@ a) Supérieure ou égale à 70 t/ j
       <td>
 
 A
-
-</td>
-      <td>
-
-1
-
-</td>
-      <td>
-
-1. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j
 
 </td>
       <td>
@@ -2343,8 +1842,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2358,8 +1855,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2369,8 +1864,6 @@ d'être traitée étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2385,17 +1878,7 @@ E
 
 </td>
       <td>
-      </td><td>
-
-2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -2408,8 +1891,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5">
@@ -2424,8 +1905,6 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2434,8 +1913,6 @@ Le volume susceptible d'être stocké étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2454,9 +1931,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2469,8 +1944,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2484,8 +1957,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="9">
@@ -2501,8 +1972,6 @@ caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de) :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2512,8 +1981,6 @@ d'être stocké étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2532,9 +1999,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2547,8 +2012,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2562,8 +2025,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2572,8 +2033,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2592,9 +2051,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2607,8 +2064,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2622,8 +2077,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2646,16 +2099,6 @@ A
 1
 
 </td>
-      <td>
-
-Quelle que soit la capacité
-
-</td>
-      <td>
-
-6
-
-</td>
     </tr>
     <tr>
       <td rowspan="5">
@@ -2673,8 +2116,6 @@ cette autorisation de mise sur le marché.
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2688,17 +2129,7 @@ D
 
 </td>
       <td>
-      </td><td>
-
-1. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -2711,17 +2142,7 @@ A
 
 </td>
       <td>
-      </td><td>
-
-2. Quelle que soit la capacité
-
-</td>
-      <td>
-
-8
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -2730,8 +2151,6 @@ l'exclusion des organismes visés à l'article D. 531-2 du même code.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2744,8 +2163,6 @@ manière, à l'exclusion du transport.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2769,16 +2186,6 @@ A
 4
 
 </td>
-      <td>
-
-Quelle que soit la capacité
-
-</td>
-      <td>
-
-8
-
-</td>
     </tr>
     <tr>
       <td rowspan="3">
@@ -2793,8 +2200,6 @@ Produits opothérapiques (préparation de)
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2808,8 +2213,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2827,9 +2230,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="7">
 
@@ -2844,8 +2245,6 @@ Installation de collecte de déchets apportés par le producteur initial de ces 
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2854,8 +2253,6 @@ Installation de collecte de déchets apportés par le producteur initial de ces 
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2866,9 +2263,7 @@ a) Supérieure ou égale à 7 t
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2877,9 +2272,7 @@ b) Supérieure ou égale à 1 t, mais inférieure à 7 t
 </td>
       <td align="center">DC</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2887,8 +2280,6 @@ b) Supérieure ou égale à 1 t, mais inférieure à 7 t
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2900,9 +2291,7 @@ a) Supérieur ou égal à 300 m
 </td>
       <td align="center">E</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>b) Supérieur ou égal à 100 m
         <sup>3</sup>, mais inférieur à 300 m
@@ -2910,9 +2299,7 @@ a) Supérieur ou égal à 300 m
       </td>
       <td align="center">DC</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -2927,8 +2314,6 @@ Installation de transit, regroupement, tri ou préparation en vue de la réutili
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2937,8 +2322,6 @@ Le volume susceptible d'être entreposé étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -2958,9 +2341,7 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2975,9 +2356,7 @@ DC
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="6">
 
@@ -2992,8 +2371,6 @@ transports hors d'usage, à l'exclusion des installations visées à la rubrique
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3004,9 +2381,7 @@ transports hors d'usage, à l'exclusion des installations visées à la rubrique
 </td>
       <td align="center">E</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3025,9 +2400,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>3. Dans le cas des déchets issus de bateaux de plaisance ou de sport tels que définis à l'article R. 543-297 du
 code de l'environnement :</td>
@@ -3037,8 +2410,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3057,16 +2428,12 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>b) Pour la dépollution, le démontage ou le découpage</td>
       <td align="center">E</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -3082,8 +2449,6 @@ rubriques 2710, 2711, 2712 et 2719.
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3092,8 +2457,6 @@ La surface étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3113,9 +2476,7 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3130,9 +2491,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -3147,8 +2506,6 @@ cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des installations
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3157,8 +2514,6 @@ Le volume susceptible d'être présent dans l'installation étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3178,9 +2533,7 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3195,9 +2548,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3216,8 +2567,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -3233,8 +2582,6 @@ l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3243,8 +2590,6 @@ Le volume susceptible d'être présent dans l'installation étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3264,9 +2609,7 @@ E
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3281,9 +2624,7 @@ DC
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -3298,8 +2639,6 @@ Installation de transit, regroupement ou tri de déchets dangereux, à l'exclusi
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3312,9 +2651,7 @@ de ces substances ou mélanges
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3323,8 +2660,6 @@ de ces substances ou mélanges
 </td>
       <td align="center">DC</td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3344,8 +2679,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="3">
@@ -3361,8 +2694,6 @@ solution ou en suspension).
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3381,9 +2712,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3400,9 +2729,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -3418,12 +2745,6 @@ peaux, laines brutes, laines en suint, à l'exclusion des activités visées par
 </td>
       <td>
       </td><td>
-      </td><td>
-
-La capacité de traitement étant :
-
-</td>
-      <td>
     </td></tr>
     <tr>
       <td>
@@ -3441,34 +2762,14 @@ A
 5
 
 </td>
-      <td>
-
-a) supérieure à 50 t/j
-
-</td>
-      <td>
-
-8
-
-</td>
     </tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
-
-</td>
-      <td>
-
-2
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td rowspan="5">
+      <td rowspan="8">
 
 2731
 
@@ -3478,13 +2779,11 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts
 associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de
 l'article R. 541-8 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités
-sont visées par les rubriques 2101 à 2150, 2170, 2210, 2221, 2230, 2240, 2350, 2690, 2740, 2780, 2781, 3532, 3630, 3641,
-3642, 3643 et 3660 de la présente nomenclature :
+sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et
+3660 :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3500,31 +2799,41 @@ animaux.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes</
 td>
       <td align="center">E</td>
-      <td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
-      <td>2. Autres installations que celles visées au 1 :</td>
+      <td>2. Autres installations que celles visées au 1 et au 3 :</td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg</td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
+    </tr>
+    <tr>
+      <td>3. Dépôt ou transit de farines de viande et d'os au sens du 27 de l'annexe I du règlement n° 142/2011 de la
+Commission du 25 février 2011.
+
+La quantité susceptible d'être présente dans l'installation étant :</td>
+      <td align="center">
+      </td><td align="center">
     </td></tr>
+    <tr>
+      <td>a) Supérieure à 3 000 tonnes</td>
+      <td align="center">A</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td>b) Supérieure à 500 kg mais inférieure ou égale à 3 000 tonnes</td>
+      <td align="center">DC</td>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td>
 
@@ -3546,9 +2855,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3569,16 +2876,6 @@ A
       <td>
 
 1
-
-</td>
-      <td>
-
-Quelle que soit la capacité
-
-</td>
-      <td>
-
-2
 
 </td>
     </tr>
@@ -3603,9 +2900,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3629,27 +2924,19 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-
-2
-
-</td>
     </tr>
     <tr>
-      <td rowspan="6">
+      <td rowspan="7">
 
 2760
 
 </td>
       <td>
 
-Installation de stockage de déchets, à l'exclusion des installations visées à la rubrique 2720 :
+Installation de stockage de déchets, à l'exclusion des installations mentionnées à la rubrique 2720 :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3668,17 +2955,38 @@ A
 2
 
 </td>
+    </tr>
+    <tr>
       <td>
-      </td><td>
 
-6
+2. Installation de stockage de déchets non dangereux autre que celle mentionnée au 3 :
+
+</td>
+      <td>
+
+</td>
+      <td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-2. Installation de stockage de déchets non dangereux autre que celle mentionnée au 3 :
+a) Dans une implantation isolée au sens de l'article 2, point r) de la directive 1999/31/ CE, et non soumise à la rubrique
+3540
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+
+b) Autres installations que celles mentionnées au a
 
 </td>
       <td>
@@ -3691,62 +2999,23 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-
-3
-
-</td>
     </tr>
     <tr>
-      <td>
-
-3. Installation de stockage de déchets inertes
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
+      <td>3. Installation de stockage de déchets inertes</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
+    </tr>
     <tr>
-      <td>
-
-4. Installation de stockage temporaire de déchets de mercure métallique
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-2
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
+      <td>4. Installation de stockage temporaire de déchets de mercure métallique
 
 Pour la rubrique 2760-4 :
 
 Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
 
-Quantité seuil haut au sens de l'article R. 511-10 : 200 t
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t</td>
+      <td align="center">A</td>
+      <td align="center">2</td>
+    </tr>
     <tr>
       <td>
 
@@ -3762,9 +3031,7 @@ sens de la rubrique 2910.
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3788,9 +3055,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="12">
 
@@ -3809,8 +3074,6 @@ méthanisation.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3820,17 +3083,7 @@ méthanisation.
 </td>
       <td>
       </td><td>
-      </td><td>
-
-1. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3847,9 +3100,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3862,9 +3113,7 @@ E
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3877,9 +3126,7 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3890,17 +3137,7 @@ agroalimentaires, seules ou en mélange avec des déchets admis dans une install
 </td>
       <td>
       </td><td>
-      </td><td>
-
-2. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -3917,9 +3154,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3932,56 +3167,26 @@ E
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>c) La quantité de matières traitées étant supérieure ou égale à 2 t/j, mais inférieure à 20 t/j</td>
       <td align="center">D</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>3. Compostage d'autres déchets :</td>
       <td>
       </td><td>
-      </td><td>
-
-3. La quantité de matières et déchets traités étant :
-
-</td>
-      <td>
     </td></tr>
     <tr>
       <td>a) La quantité de matières traitées étant supérieure ou égale à 75 t/j</td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-
-a) Supérieure ou égale à 50 t/j
-
-</td>
-      <td>
-
-6
-
-</td>
     </tr>
     <tr>
       <td>b) La quantité de matières traitées étant inférieure à 75 t/j</td>
       <td align="center">E</td>
       <td align="center">-</td>
-      <td>
-
-b) Inférieure à 50 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
     </tr>
     <tr>
       <td rowspan="7">
@@ -4000,16 +3205,12 @@ d'industries agroalimentaires :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>a) La quantité de matières traitées étant supérieure ou égale à 100 t/j</td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4022,9 +3223,7 @@ E
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4037,9 +3236,7 @@ DC
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4056,25 +3253,19 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>a) La quantité de matières traitées étant supérieure ou égale à 100 t/j</td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
 b) La quantité de matières traitées étant inférieure à 100 t/j</td>
       <td align="center">E</td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -4097,50 +3288,22 @@ A
 3
 
 </td>
+    </tr>
+    <tr>
       <td>
+      </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-La quantité de déchets traités étant :
-
-</td>
-      <td>
     </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-a) Supérieure ou égale à 50 t/j
-
-</td>
-      <td>
-
-6
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-b) Inférieure à 50 t/j
-
-</td>
-      <td>
-
-3
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -4155,9 +3318,7 @@ Installation de traitement de déchets dangereux, à l'exclusion des installatio
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -4172,8 +3333,6 @@ Installation de traitement de déchets non dangereux, à l'exclusion des install
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4182,8 +3341,6 @@ La quantité de déchets traités étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4202,9 +3359,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4221,9 +3376,7 @@ DC
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -4236,8 +3389,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4256,9 +3407,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4271,8 +3420,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4287,9 +3434,7 @@ A
 
 </td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="11">
 
@@ -4304,8 +3449,6 @@ découverte).
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4317,13 +3460,7 @@ La quantité équivalente totale de matière active2 susceptible d'être présen
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
-
--
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -4340,9 +3477,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4356,13 +3491,11 @@ DC
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
-c) Inférieure ou égale à 100 kg dans les autres cas
+c) Inférieure à 100 kg dans les autres cas
 
 </td>
       <td>
@@ -4371,16 +3504,12 @@ DC
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>2. Installation de transit, regroupement ou tri de déchets de produits explosifs.
 
 La quantité équivalente totale de matière active2 susceptible d'être présente dans l'installation étant :</td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4397,10 +3526,6 @@ A
       <td>
 
 3
-
-</td>
-      <td>
-      </td><td>
 
 </td>
     </tr>
@@ -4420,10 +3545,6 @@ DC
 -
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux
@@ -4434,12 +3555,6 @@ D
 
 </td>
       <td align="center">-</td>
-      <td>
-      </td><td>
-
--
-
-</td>
     </tr>
     <tr>
       <td>
@@ -4459,9 +3574,7 @@ D
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4470,11 +3583,9 @@ b) Dans les autres cas.
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="6">Nota :
+      <td colspan="4">Nota :
 
 (1) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au
 transport des marchandises dangereuses, et destinés à être utilisés pour les effets de leur explosion ou leurs effets
@@ -4497,32 +3608,24 @@ B, C, D, E, F représentant respectivement les quantités relatives aux déchets
       <td>Installation de broyage de déchets végétaux non dangereux.</td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>La quantité de déchets traités étant :</td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>1. Supérieure ou égale à 30 t/ j</td>
-      <td>E</td>
       <td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>2. Supérieure ou égale à 5 t/ j, mais inférieure à 30 t/ j</td>
-      <td>D</td>
       <td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="6">Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
+      <td colspan="4">Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
 
 Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
 
@@ -4544,8 +3647,6 @@ dangereux mentionnés à l'article R. 511-10, ou de déchets dangereux.
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4554,8 +3655,6 @@ La quantité d'eau mise en œuvre étant :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4574,9 +3673,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4589,8 +3686,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="4">
@@ -4607,8 +3702,6 @@ conditions d'exemption mentionnées au 1° du I de l'article R. 1333-106 du code
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4618,9 +3711,7 @@ conditions d'exemption mentionnées au 1° du I de l'article R. 1333-106 du code
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4631,9 +3722,7 @@ thorium est supérieure à 20 Bq/ g
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4642,8 +3731,6 @@ de l'environnement.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4664,69 +3751,58 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="16">
+      <td rowspan="22">
 
 2910
 
 </td>
       <td>
 
-Combustion à l'exclusion des activités visées par les rubriques 2770,2771,2971 ou 2931 et des installations classées au titre
-de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la
-cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
+Combustion à l'exclusion des installations visées par les rubriques 2770, 2771 et 2971
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du
-fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la
-définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v)
-de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement,
-ou du biogaz provenant d'installations classées sous la rubrique 2781-1, si la puissance thermique nominale est :
+A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul
+domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition
+de biomasse, des produits connexes de scierie issus du b) v) de la définition de biomasse ou lorsque la biomasse est issue de
+déchets au sens de l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations visées par d'autres
+rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange
+avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est :
 
 </td>
       <td>
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
 
-1. Supérieure ou égale à 20 MW, mais inférieure à 50 MW
+1. Supérieure ou égale à 20 MW
 
 </td>
       <td>
 
-E
+A
 
 </td>
       <td>
 
--
-
-</td>
-      <td>
-      </td><td>
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW
+2. Supérieure à 2 MW, mais inférieure à 20 MW
 
 </td>
       <td>
@@ -4739,27 +3815,50 @@ DC
 -
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
-B. Lorsque sont consommés seuls ou en mélange des produits différents de ceux visés en A, ou de la biomasse telle que définie
-au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse :
+B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle
+que définie au b) ii) ou au b) iii) ou au b) v) de la définition de biomasse, et si la puissance thermique nominale de
+l'installation est :
 
 </td>
       <td>
       </td><td>
-      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Supérieure ou égale à 20 MW
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Supérieure à 0,1 MW mais inférieure à 20 MW :
+
+</td>
+      <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-1. Uniquement de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse, le biogaz
-autre que celui visé en 2910-A, ou un produit autre que la biomasse issu de déchets au sens de l'article L. 541-4-3 du code
-de l'environnement, avec une puissance thermique nominale supérieure ou égale à 1 MW, mais inférieure à 50 MW
+a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, ou de
+biogaz autre que celui visé en 2910-C, ou de produit autre que biomasse issu de déchets au sens de l'article L. 541-4-3 du
+code de l'environnement
 
 </td>
       <td>
@@ -4772,35 +3871,91 @@ E
 -
 
 </td>
+    </tr>
+    <tr>
       <td>
-      </td><td>
+
+b) Dans les autres cas
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale supérieure ou égale
-à 0,1 MW, mais inférieure à 50 MW
+C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la
+puissance thermique nominale de l'installation est supérieure à 0,1 MW :
 
 </td>
-      <td align="center">A</td>
-      <td align="center">3</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
-La puissance thermique nominale correspond à la somme des puissances thermiques des appareils de combustion pouvant
-fonctionner simultanément sur le site. Ces puissances sont fixées et garanties par le constructeur, exprimées en pouvoir
-calorifique inférieur et susceptibles d'être consommées en marche continue.
+1. Lorsque le biogaz est produit par une installation soumise à autorisation ou par plusieurs installations classées au titre
+de la rubrique 2781-1
 
 </td>
       <td>
 
+A
+
 </td>
       <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+La puissance thermique nominale correspond à la puissance thermique fixée et garantie par le constructeur exprimée en pouvoir
+calorifique inférieur et susceptible d'être consommée en marche continue.
 
 </td>
       <td>
@@ -4810,12 +3965,6 @@ calorifique inférieur et susceptibles d'être consommées en marche continue.
       <td>
 
 On entend par "biomasse", au sens de la rubrique 2910 :
-
-</td>
-      <td>
-
-</td>
-      <td>
 
 </td>
       <td>
@@ -4830,19 +3979,11 @@ d'utiliser son contenu énergétique ;
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
 
 b) Les déchets ci-après :
-
-</td>
-      <td>
-
-</td>
-      <td>
 
 </td>
       <td>
@@ -4855,22 +3996,12 @@ i) Déchets végétaux agricoles et forestiers ;
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
 
 ii) Déchets végétaux provenant du secteur industriel de la transformation alimentaire, si la chaleur produite est valorisée ;
-
-</td>
-      <td>
-      </td><td>
 
 </td>
       <td>
@@ -4885,8 +4016,6 @@ sont coincinérés sur le lieu de production et si la chaleur produite est valor
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4896,20 +4025,16 @@ iv) Déchets de liège ;
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
 
-v) Déchets de bois, à l'exception des déchets de bois susceptibles de contenir des composés organiques halogénés ou des
-métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement tels que les déchets
-de bois de ce type provenant de déchets de construction ou de démolition.
+v) Déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou
+des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris
+notamment les déchets de bois de ce type provenant de déchets de construction ou de démolition.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4925,8 +4050,6 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4935,8 +4058,6 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4947,8 +4068,6 @@ Si la quantité totale de fluides présente dans l'installation (mesurée à 25
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -4967,9 +4086,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -4982,8 +4099,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4992,8 +4107,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5009,34 +4122,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2920
-
-</td>
-      <td>
-
-Installation de compression fonctionnant à des pressions effectives supérieures à 10
-          <sup>5 </sup>Pa et comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant
-supérieure à 10 MW
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
-      <td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="3">
@@ -5052,8 +4137,6 @@ Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré pa
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5067,8 +4150,6 @@ E
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5082,8 +4163,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="2">
@@ -5098,8 +4177,6 @@ Accumulateurs (ateliers de charge d')
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5113,8 +4190,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="7">
@@ -5129,8 +4204,6 @@ Ateliers de réparation et d'entretien de véhicules et engins à moteur, y comp
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5139,8 +4212,6 @@ Ateliers de réparation et d'entretien de véhicules et engins à moteur, y comp
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5159,16 +4230,6 @@ A
 1
 
 </td>
-      <td>
-
-1. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
     </tr>
     <tr>
       <td>
@@ -5182,8 +4243,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5193,12 +4252,6 @@ DC
 </td>
       <td>
       </td><td>
-      </td><td>
-
-2. La quantité annuelle de solvants contenus dans les produits susceptible d'être utilisée est :
-
-</td>
-      <td>
     </td></tr>
     <tr>
       <td>
@@ -5216,16 +4269,6 @@ A
 1
 
 </td>
-      <td>
-
-a) supérieure à 50 t
-
-</td>
-      <td>
-
-2
-
-</td>
     </tr>
     <tr>
       <td>
@@ -5241,17 +4284,7 @@ DC
 
 </td>
       <td>
-      </td><td>
-
-supérieure ou égale à 12,5 t, mais inférieure à 50 t
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td rowspan="3">
 
@@ -5264,8 +4297,6 @@ Moteurs à explosion, à combustion interne ou à réaction, turbines à combust
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5285,9 +4316,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5295,8 +4324,6 @@ Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5322,8 +4349,6 @@ rubrique 4801,
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5333,8 +4358,6 @@ la quantité maximale de produits susceptible d'être présente dans l'installat
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5346,16 +4369,6 @@ a) supérieure à 1 000 l
       <td>
 
 A
-
-</td>
-      <td>
-
-1
-
-</td>
-      <td>
-
-1. La quantité maximale de produits susceptible d'être présente dans l'installation est supérieure à 1 000 l
 
 </td>
       <td>
@@ -5376,8 +4389,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5388,12 +4399,6 @@ de produits susceptible d'être mise en œuvre est :
 </td>
       <td>
       </td><td>
-      </td><td>
-
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
-
-</td>
-      <td>
     </td></tr>
     <tr>
       <td>
@@ -5411,47 +4416,17 @@ A
 1
 
 </td>
-      <td>
-
-a) supérieure ou égale à 5 t/j
-
-</td>
-      <td>
-
-4
-
-</td>
     </tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-supérieure ou égale à 1 t/j et inférieure à 5 t/j
-
-</td>
-      <td>
-
-2
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
       </td><td>
       </td><td>
-      </td><td>
-
-supérieure ou égale à 250 kg/j et inférieure à 1 t/j
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -5464,8 +4439,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5475,8 +4448,6 @@ susceptible d'être mise en œuvre est :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5495,16 +4466,6 @@ A
 1
 
 </td>
-      <td>
-
-3. Non soumis à la taxe
-
-</td>
-      <td>
-
--
-
-</td>
     </tr>
     <tr>
       <td>
@@ -5518,8 +4479,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5536,8 +4495,6 @@ sera égale à : Q = A + B/2.
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="7">
@@ -5552,8 +4509,6 @@ Traitement et développement des surfaces photosensibles à base argentique, la 
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5562,8 +4517,6 @@ Traitement et développement des surfaces photosensibles à base argentique, la 
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5582,9 +4535,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5597,8 +4548,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5607,8 +4556,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5627,9 +4574,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5642,8 +4587,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5662,16 +4605,6 @@ captant annuellement une quantité de CO
       <td>
 
 A
-
-</td>
-      <td>
-
-3
-
-</td>
-      <td>
-
-Quelle que soit la capacité
 
 </td>
       <td>
@@ -5702,16 +4635,6 @@ A
 6
 
 </td>
-      <td>
-
-Quelle que soit la capacité
-
-</td>
-      <td>
-
-3
-
-</td>
     </tr>
     <tr>
       <td rowspan="3">2971</td>
@@ -5725,8 +4648,6 @@ solides de récupération dans une installation prévue à cet effet, associés 
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>1. Installations intégrées dans un procédé industriel de fabrication</td>
@@ -5740,9 +4661,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5759,9 +4678,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -5775,8 +4692,6 @@ aérogénérateurs :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5795,9 +4710,7 @@ A
 6
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5806,8 +4719,6 @@ le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissan
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5826,9 +4737,7 @@ A
 6
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5841,8 +4750,6 @@ D
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -5860,8 +4767,6 @@ ou équipements visés à l'article R. 515-58.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5885,9 +4790,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5909,9 +4812,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5933,9 +4834,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -5948,8 +4847,6 @@ Gazéification ou liquéfaction de :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -5968,9 +4865,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -5987,9 +4882,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6011,9 +4904,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6036,9 +4927,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -6052,8 +4941,6 @@ Transformation des métaux ferreux :
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -6064,16 +4951,6 @@ a) Exploitation de laminoirs à chaud d'une capacité supérieure à 20 tonnes d
       <td>
 
 A
-
-</td>
-      <td>
-
-3
-
-</td>
-      <td>
-
-a. Quelle que soit la capacité
 
 </td>
       <td>
@@ -6099,16 +4976,6 @@ A
 3
 
 </td>
-      <td>
-
-b. Quelle que soit la capacité
-
-</td>
-      <td>
-
-3
-
-</td>
     </tr>
     <tr>
       <td>
@@ -6127,9 +4994,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6151,9 +5016,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -6166,8 +5029,6 @@ Transformation des métaux non ferreux :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -6187,9 +5048,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6208,9 +5067,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6233,9 +5090,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -6248,8 +5103,6 @@ Production de ciment, de chaux et d'oxyde de magnésium :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -6269,9 +5122,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6288,9 +5139,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6307,9 +5156,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6331,9 +5178,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6356,9 +5201,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6382,9 +5225,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="11">
 
@@ -6408,9 +5249,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6428,9 +5267,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6447,9 +5284,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6466,9 +5301,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6485,9 +5318,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6504,9 +5335,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6523,9 +5352,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6542,9 +5369,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6561,9 +5386,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6580,9 +5403,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6599,9 +5420,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -6626,9 +5445,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6646,9 +5463,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6665,9 +5480,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6685,9 +5498,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6704,9 +5515,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6729,9 +5538,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6753,9 +5560,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6778,9 +5583,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6802,9 +5605,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="2">
 
@@ -6827,9 +5628,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6858,8 +5657,6 @@ A
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="3">
@@ -6874,8 +5671,6 @@ coïncinération des déchets :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -6894,9 +5689,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6913,9 +5706,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="2">
 
@@ -6939,9 +5730,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -6958,8 +5747,6 @@ hors d'usage ainsi que leurs composants
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -6985,9 +5772,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7003,8 +5788,6 @@ hors d'usage ainsi que leurs composants
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -7014,8 +5797,6 @@ cette activité est fixé à 100 tonnes par jour
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7040,9 +5821,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7066,9 +5845,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7090,9 +5867,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -7105,8 +5880,6 @@ Fabrication, dans des installations industrielles, de :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7125,9 +5898,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7144,9 +5915,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7164,9 +5933,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7189,9 +5956,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7213,9 +5978,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7237,9 +6000,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="7">
 
@@ -7254,17 +6015,7 @@ non préalablement transformées, en vue de la fabrication de produits alimentai
 </td>
       <td>
       </td><td>
-      </td><td>
-
-Quelle que soit la capacité
-
-</td>
-      <td>
-
-3
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -7282,9 +6033,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7302,9 +6051,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7313,8 +6060,6 @@ production, exprimée en tonnes de produits finis par jour, supérieure à :
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7333,9 +6078,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7346,8 +6089,6 @@ de production de produits finis.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7360,8 +6101,6 @@ Nota 2. - La présente rubrique ne s'applique pas si la matière première est s
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -7372,8 +6111,6 @@ l'article L. 512-11 du code de l'environnement.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7394,9 +6131,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>3650</td>
       <td>
@@ -7414,9 +6149,7 @@ A
 5
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">3660</td>
       <td>
@@ -7436,9 +6169,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7455,9 +6186,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7474,9 +6203,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
       </td><td>
@@ -7487,8 +6214,6 @@ de la fourniture de gibier de repeuplement
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7515,9 +6240,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7539,9 +6262,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7563,9 +6284,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7588,9 +6307,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7613,9 +6330,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="9">
 
@@ -7635,9 +6350,7 @@ Définitions :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7658,9 +6371,7 @@ présente rubrique.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7678,9 +6389,7 @@ utilisés pour les effets de leur explosion ou leurs effets pyrotechniques.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7697,9 +6406,7 @@ une température de 20 °C et à une pression normale de 101,3 kPa
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7713,8 +6420,6 @@ classification, l'étiquetage et l'emballage des substances et des mélanges.
 </td>
       <td>
       </td><td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -7725,8 +6430,6 @@ propriétés physico-chimiques ou toxicologiques pertinentes et accessibles exis
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7747,9 +6450,7 @@ Le classement des mélanges dangereux résulte :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7759,8 +6460,6 @@ substances chimiques ainsi que les restrictions applicables à ces substances.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7772,8 +6471,6 @@ qu'une composition du pourcentage ou une autre description ne soit spécifiqueme
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7798,9 +6495,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="14">
 
@@ -7818,9 +6513,7 @@ Toxicité aiguë catégorie 1 pour l'une au moins des voies d'exposition, à l'e
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7828,8 +6521,6 @@ Toxicité aiguë catégorie 1 pour l'une au moins des voies d'exposition, à l'e
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7844,9 +6535,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7863,9 +6552,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7880,9 +6567,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7890,8 +6575,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -7906,9 +6589,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7925,9 +6606,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7942,9 +6621,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7957,9 +6634,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7972,9 +6647,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -7991,9 +6664,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8008,9 +6679,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8025,9 +6694,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="14">
 
@@ -8045,9 +6712,7 @@ Toxicité aiguë catégorie 2, pour l'une au moins des voies d'exposition.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8055,8 +6720,6 @@ Toxicité aiguë catégorie 2, pour l'une au moins des voies d'exposition.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -8071,9 +6734,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8090,9 +6751,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8107,9 +6766,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8122,9 +6779,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8137,9 +6792,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8156,9 +6809,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8173,9 +6824,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8188,9 +6837,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8203,9 +6850,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8222,9 +6867,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8239,9 +6882,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8256,9 +6897,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="14">
 
@@ -8276,9 +6915,7 @@ Toxicité aiguë catégorie 3 pour les voies d'exposition par inhalation.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8291,9 +6928,7 @@ Toxicité aiguë catégorie 3 pour les voies d'exposition par inhalation.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8306,9 +6941,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8325,9 +6958,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8342,9 +6973,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8357,9 +6986,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8372,9 +6999,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8391,9 +7016,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8408,9 +7031,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8423,9 +7044,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8438,9 +7057,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8457,9 +7074,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8474,9 +7089,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8491,9 +7104,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="14">
 
@@ -8513,9 +7124,7 @@ l'absence de données de toxicité par inhalation et par voie cutanée concluant
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8528,9 +7137,7 @@ l'absence de données de toxicité par inhalation et par voie cutanée concluant
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8543,9 +7150,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8562,9 +7167,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8579,9 +7182,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8594,9 +7195,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8609,9 +7208,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8628,9 +7225,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8645,9 +7240,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8660,9 +7253,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8675,9 +7266,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8694,9 +7283,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8711,9 +7298,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8728,9 +7313,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -8748,9 +7331,7 @@ Toxicité spécifique pour certains organes cibles (STOT) exposition unique cat�
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8763,9 +7344,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8782,9 +7361,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8799,9 +7376,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8816,9 +7391,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="8">
 
@@ -8838,9 +7411,7 @@ fabrication industrielle par transformation chimique ou biologique.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8858,9 +7429,7 @@ pyrotechniques destinés au théâtre.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8873,9 +7442,7 @@ La quantité totale de matière active (3) susceptible d'être présente dans l'
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8892,9 +7459,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8909,9 +7474,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8926,9 +7489,7 @@ La quantité totale de matière active (4) susceptible d'être présente dans l'
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8945,9 +7506,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -8962,11 +7521,9 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="6">
+      <td colspan="4">
 
 Nota :
 
@@ -9006,9 +7563,7 @@ recevant du public.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9021,9 +7576,7 @@ La quantité équivalente totale de matière active (1) susceptible d'être pré
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9040,9 +7593,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9057,9 +7608,7 @@ E
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9073,8 +7622,6 @@ DC
 
 </td>
       <td>
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -9090,11 +7637,9 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="6">
+      <td colspan="4">
 
 Nota :
 
@@ -9148,9 +7693,7 @@ Produits explosibles, à l'exclusion desproduits explosifs.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9171,9 +7714,7 @@ A
 5
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9186,9 +7727,7 @@ A
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9205,9 +7744,7 @@ A
 5
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9222,9 +7759,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10. t
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -9242,9 +7777,7 @@ Gaz inflammables catégorie 1 et 2.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9258,9 +7791,7 @@ naturelles, aquifères, cavités salines et mines désaffectées) étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9277,9 +7808,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9292,8 +7821,6 @@ DC
 
 </td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -9309,9 +7836,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -9330,9 +7855,7 @@ des liquides inflammables de catégorie 1.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9345,9 +7868,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9364,9 +7885,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9381,11 +7900,9 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="6">
+      <td colspan="4">
 
 Nota. - Les aérosols inflammables sont classés conformément à la directive 75/324/ CEE relative aux générateurs aérosols. Les
 aérosols "extrêmement inflammables" et "inflammables" de la directive 75/324/ CEE correspondent respectivement aux aérosols
@@ -9415,9 +7932,7 @@ Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2 ne cont
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9430,9 +7945,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9449,9 +7962,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9466,11 +7977,9 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="6">
+      <td colspan="4">
 
 Nota. - Les aérosols inflammables sont classés conformément à la directive 75/324/ CEE relative aux générateurs aérosols. Les
 aérosols "extrêmement inflammables" et "inflammables" de la directive 75/324/ CEE correspondent respectivement aux aérosols
@@ -9501,9 +8010,7 @@ d'ébullition ou dans des conditions particulières de traitement, telles qu'une
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9516,9 +8023,7 @@ La quantité totale susceptible d'être présente dans les installations y compr
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9535,9 +8040,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9552,11 +8055,9 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="6">
+      <td colspan="4">
 
 (1) Conformément à la section 2.6.4.5 de l'annexe I du règlement (CE) n° 1272/2008, il n'est pas nécessaire de classer les
 liquides ayant un point d'éclair supérieur à 35 °C dans la catégorie 3 si l'épreuve de combustion entretenue du point L 2,
@@ -9587,9 +8088,7 @@ Liquides inflammables de catégorie 2 ou catégorie 3 à l'exclusion dela rubriq
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9602,9 +8101,7 @@ La quantité totale susceptible d'être présente dans les installations y compr
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9621,9 +8118,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9638,9 +8133,7 @@ E
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9655,9 +8148,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9672,9 +8163,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -9692,9 +8181,7 @@ Substances et mélanges autoréactifs type A ou type B.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9707,9 +8194,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9726,9 +8211,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9743,9 +8226,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9760,9 +8241,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -9780,9 +8259,7 @@ Substances et mélanges autoréactifs type C, D, E ou F.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9795,9 +8272,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9814,9 +8289,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9831,9 +8304,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9848,9 +8319,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -9868,9 +8337,7 @@ Peroxydes organiques type A ou type B.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9883,9 +8350,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9902,9 +8367,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9919,9 +8382,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9936,9 +8397,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -9956,9 +8415,7 @@ Peroxydes organiques type C ou type D.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9971,9 +8428,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -9990,9 +8445,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10007,9 +8460,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10024,9 +8475,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 150 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10044,9 +8493,7 @@ Peroxydes organiques type E ou type F.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10059,9 +8506,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10078,9 +8523,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10095,9 +8538,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10112,9 +8553,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -10132,9 +8571,7 @@ Solides pyrophoriques catégorie 1.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10151,9 +8588,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10168,9 +8603,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -10188,9 +8621,7 @@ Liquides pyrophoriques catégorie 1.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10207,9 +8638,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10224,9 +8653,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10244,9 +8671,7 @@ Solides comburants catégorie 1, 2 ou 3.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10259,9 +8684,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10278,9 +8701,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10295,9 +8716,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10312,9 +8731,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10332,9 +8749,7 @@ Liquides comburants catégorie 1, 2 ou 3.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10347,9 +8762,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10366,9 +8779,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10383,9 +8794,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10400,9 +8809,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10420,9 +8827,7 @@ Gaz comburants catégorie 1.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10435,9 +8840,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10454,9 +8857,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10471,9 +8872,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10488,9 +8887,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10508,9 +8905,7 @@ Dangereux pour l'environnement aquatique de catégorie aiguë 1 ou chronique 1.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10523,9 +8918,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10542,9 +8935,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10559,9 +8950,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10576,9 +8965,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10596,9 +8983,7 @@ Dangereux pour l'environnement aquatique de catégorie chronique 2.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10611,9 +8996,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10630,9 +9013,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10647,9 +9028,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10664,9 +9043,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10684,9 +9061,7 @@ Substances ou mélanges auxquels est attribuée la mention de danger EUH014 (ré
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10699,9 +9074,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10718,9 +9091,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10735,9 +9106,7 @@ DC
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10752,9 +9121,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10772,9 +9139,7 @@ Substances et mélanges qui, au contact de l'eau, dégagent des gaz inflammables
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10787,9 +9152,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10806,9 +9169,7 @@ A
 1
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10823,9 +9184,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10840,9 +9199,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -10860,9 +9217,7 @@ Substances ou mélanges auxquels est attribuée la mention de danger EUH029 (au 
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10875,9 +9230,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10894,9 +9247,7 @@ A
 3
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10911,9 +9262,7 @@ D
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -10928,9 +9277,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
       <td>
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
   </tbody>
 </table>
 
@@ -10958,4 +9305,6 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2018-704 du 3 août 2018 - art.
+  - Décret n°2018-900 du 22 octobre 2018 - art.
+  - Décret n°2018-900 du 22 octobre 2018 - art. 3
+  - Décret n°2018-900 du 22 octobre 2018 - art. 4
