@@ -4,7 +4,7 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-<table align="center" cellpadding="0" border="1" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0" align="center">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -15,11 +15,6 @@ N°
       <td colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
-
-</td>
-      <td colspan="2">
-
-B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 </td>
     </tr>
@@ -39,17 +34,82 @@ A, E, D, S, C (1)
 Rayon (2)
 
 </td>
-      <td>
-
-Capacité de l'activité
-
-</td>
-      <td>
-
-Coef.
-
-</td>
     </tr>
+    <tr>
+      <td rowspan="13">1185</td>
+      <td>Gaz à effet de serre fluorés visés à l'annexe I du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre
+fluorés et abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement
+(CE) n° 1005/2009 (fabrication, emploi, stockage).</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>1. Fabrication, conditionnement et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de
+produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visées par la rubrique 2564, de
+la fabrication en quantité industrielle par transformation chimique ou biologique d'hydrocarbures halogénés visée par la
+rubrique 3410-f et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Le volume des équipements susceptibles de contenir des fluides étant :</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>a) Supérieure à 800 l</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>b) Supérieure à 80 l, mais inférieure ou égale à 800 l</td>
+      <td align="center">D</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>2. Emploi dans des équipements clos en exploitation.</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de capacité unitaire supérieure à 2 kg, la
+quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure ou égale à 300 kg</td>
+      <td align="center">DC</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant
+supérieure à 200 kg</td>
+      <td align="center">D</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire.</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>1) Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans
+l'installation étant :</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>a) En récipient de capacité unitaire supérieure ou égale à 400 l</td>
+      <td align="center">D</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400 l</td>
+      <td align="center">D</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>2) Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant
+supérieure à 150 kg quel que soit le conditionnement</td>
+      <td align="center">D</td>
+      <td>
+    </td></tr>
     <tr>
       <td rowspan="2">
 
@@ -68,10 +128,6 @@ métaux.
       <td>
 
 </td>
-      <td>
-      </td><td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -87,10 +143,6 @@ A
       <td>
 
 3
-
-</td>
-      <td>
-      </td><td>
 
 </td>
     </tr>
@@ -116,5 +168,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1595 du 21 novembre 2017 - art. (V)
-  - Décret n°2017-1595 du 21 novembre 2017 - art. 1
+  - Décret n°2018-900 du 22 octobre 2018 - art. 3
