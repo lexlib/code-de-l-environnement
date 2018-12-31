@@ -1,6 +1,6 @@
 # Article Annexe (5) à l'article R511-9
 
-<table cellpadding="0" cellspacing="0" border="1" align="center">
+<table cellpadding="0" align="center" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -11,11 +11,6 @@ N°
       <td colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
-
-</td>
-      <td colspan="2">
-
-B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 </td>
     </tr>
@@ -35,19 +30,9 @@ A, E, D, C (1)
 Rayon (2)
 
 </td>
-      <td>
-
-Capacité de l'activité
-
-</td>
-      <td>
-
-Coef.
-
-</td>
     </tr>
     <tr>
-      <td rowspan="10" align="center">
+      <td align="center" rowspan="10">
 
 4701
 
@@ -59,8 +44,6 @@ Nitrate d'ammonium.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -75,8 +58,6 @@ est :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -86,8 +67,6 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -97,9 +76,7 @@ a) Supérieure ou égale à 350 t
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -108,8 +85,6 @@ b) Supérieure ou égale à 100 t, mais inférieure à 350 t
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -119,8 +94,6 @@ b) Supérieure ou égale à 100 t, mais inférieure à 350 t
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -130,8 +103,6 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -141,9 +112,7 @@ a) Supérieure ou égale à 350 t
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -152,8 +121,6 @@ b) Supérieure ou égale à 100 t, mais inférieure à 350 t
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -165,11 +132,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 500 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="11">
+      <td rowspan="11" align="center">
 
 4702
 
@@ -183,8 +148,6 @@ Engrais solides simples et composés à base de nitrate d'ammonium correspondant
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -201,8 +164,6 @@ au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement 
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -214,8 +175,6 @@ dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -235,8 +194,6 @@ et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 %.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -248,8 +205,6 @@ calcium, dont la pureté est d'au moins 90 % et dans lesquels la teneur en azote
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -260,8 +215,6 @@ dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">a) Supérieure ou égale à 1 250 t</td>
@@ -275,9 +228,7 @@ A
 2
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -286,8 +237,6 @@ b) Supérieure ou égale à 500 t, mais inférieure à 1 250 t
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -302,8 +251,6 @@ DC
 
 </td>
       <td align="left">
-      </td><td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td>
@@ -315,8 +262,6 @@ au nitrate d'ammonium est inférieure à 24,5 %).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -326,11 +271,9 @@ La quantité totale d'engrais susceptible d'être présente dans l'installation 
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr align="left">
-      <td colspan="6">
+      <td colspan="4">
 
 Nota. - Concernant les engrais azotés simples et les engrais composés azotés binaires (NP ou NK) ou ternaires (NPK), ne sont
 à prendre en compte que les engrais à base de nitrates (ex : ammonitrates). En conséquence, les engrais azotés non à base de
@@ -375,8 +318,6 @@ règlement européen n° 2003/2003 ou à la norme française équivalente NF U 4
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -397,8 +338,6 @@ parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 4701,4702-II
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -416,9 +355,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -435,12 +372,6 @@ l'annexe III du règlement européen n° 2003/2003.
       <td align="center">
 
 </td>
-      <td>
-
-</td>
-      <td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -452,8 +383,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -473,12 +402,6 @@ présentent les mêmes propriétés dangereuses que le nitrate de potassium pur.
       <td align="center">
 
 </td>
-      <td>
-
-</td>
-      <td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -492,12 +415,6 @@ La quantité susceptible d'être présente dans l'installation étant :
       <td align="center">
 
 </td>
-      <td>
-
-</td>
-      <td>
-
-</td>
     </tr>
     <tr>
       <td>
@@ -507,9 +424,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -518,8 +433,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -535,15 +448,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10 000 t.
       <td align="center">
 
 </td>
-      <td>
-
-</td>
-      <td>
-
-</td>
     </tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4706
 
@@ -556,8 +463,6 @@ propriétés dangereuses que le nitrate de potassium pur.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -567,8 +472,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -578,9 +481,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -589,8 +490,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -602,11 +501,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 5 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4707
 
@@ -618,8 +515,6 @@ Pentoxyde d'arsenic, acide (V) arsénique et/ ou ses sels (numéro CAS 1303-28-2
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -629,8 +524,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -640,9 +533,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -651,8 +542,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -664,11 +553,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="3" align="center">
+      <td align="center" rowspan="3">
 
 4708
 
@@ -680,8 +567,6 @@ Trioxyde d'arsenic, acide (III) arsénieux et/ ou ses sels (numéro CAS 1327-53-
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -691,9 +576,7 @@ La quantité susceptible d'être présente dans l'installation étant supérieur
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -702,8 +585,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,1 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -718,8 +599,6 @@ Brome (numéro CAS 7726-95-6).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -729,8 +608,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -740,9 +617,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -751,8 +626,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -764,8 +637,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 100 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -780,8 +651,6 @@ Chlore (numéro CAS 7782-50-5).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -791,8 +660,6 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -802,9 +669,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -813,8 +678,6 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -826,11 +689,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 25 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4711
 
@@ -843,8 +704,6 @@ trinickel, trioxyde de dinickel.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -854,8 +713,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -865,9 +722,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -876,8 +731,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -887,8 +740,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="3">
@@ -903,8 +754,6 @@ Ethylèneimine (numéro CAS 151-56-4).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -914,9 +763,7 @@ La quantité susceptible d'être présente dans l'installation étant supérieur
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -927,11 +774,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4713
 
@@ -943,8 +788,6 @@ Fluor (numéro CAS 7782-41-4).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -954,8 +797,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -965,9 +806,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -976,8 +815,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -989,11 +826,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4714
 
@@ -1005,8 +840,6 @@ Formaldéhyde (concentration > 90 %) (numéro CAS 50-00-0).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1016,8 +849,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1027,9 +858,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1038,8 +867,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1051,11 +878,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4715
 
@@ -1067,8 +892,6 @@ Hydrogène (numéro CAS 133-74-0).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1078,8 +901,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1089,9 +910,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1100,8 +919,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1113,11 +930,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4716
 
@@ -1129,8 +944,6 @@ Chlorure d'hydrogène (gaz liquéfié) (numéro CAS 7647-01-0).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1140,8 +953,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1151,9 +962,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1162,8 +971,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1175,11 +982,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 250 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4717
 
@@ -1191,8 +996,6 @@ Plombs alkyls.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1202,8 +1005,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -1221,9 +1022,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1232,8 +1031,6 @@ A
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1245,8 +1042,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="8" align="center">
@@ -1267,8 +1062,6 @@ l'installation) étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1278,8 +1071,6 @@ l'installation) étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1289,9 +1080,7 @@ a. Supérieure ou égale à 35 t
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1304,8 +1093,6 @@ DC
 
 </td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1315,8 +1102,6 @@ DC
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1326,9 +1111,7 @@ a. Supérieure ou égale à 50 t
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1337,8 +1120,6 @@ b. Supérieure ou égale à 6 t mais inférieure à 50 t
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1355,8 +1136,6 @@ de la rubrique 4718
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -1371,8 +1150,6 @@ Acétylène (numéro CAS 74-86-2).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1382,8 +1159,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1393,9 +1168,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1404,8 +1177,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1417,8 +1188,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -1433,8 +1202,6 @@ Oxyde d'éthylène (numéro CAS 75-21-8).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1444,8 +1211,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1455,9 +1220,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1466,8 +1229,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1479,11 +1240,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4721
 
@@ -1495,8 +1254,6 @@ Oxyde de propylène (numéro CAS 75-56-9).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1506,8 +1263,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1517,9 +1272,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1528,8 +1281,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1541,8 +1292,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -1557,8 +1306,6 @@ Méthanol (numéro CAS 67-56-1).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1568,8 +1315,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1579,9 +1324,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1590,8 +1333,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1603,8 +1344,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 5 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -1619,8 +1358,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 5 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1630,8 +1367,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1641,9 +1376,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1652,8 +1385,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1663,11 +1394,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,01 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4724
 
@@ -1679,8 +1408,6 @@ Isocyanate de méthyle (numéro CAS 624-83-9).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1690,8 +1417,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1701,9 +1426,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1712,8 +1435,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1723,11 +1444,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,15 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4725
 
@@ -1739,8 +1458,6 @@ Oxygène (numéro CAS 7782-44-7).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1750,8 +1467,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1761,9 +1476,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1772,8 +1485,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1785,8 +1496,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -1801,8 +1510,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1812,8 +1519,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1823,9 +1528,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1834,8 +1537,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1847,11 +1548,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 100 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4727
 
@@ -1863,8 +1562,6 @@ Dichlorure de carbonyle (phosgène) (numéro CAS 75-44-5).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1874,8 +1571,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1885,9 +1580,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1896,8 +1589,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1909,8 +1600,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,75 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -1925,8 +1614,6 @@ Arsine (trihydrure d'arsenic) (numéro CAS 7784-42-1).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1936,8 +1623,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1947,9 +1632,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -1958,8 +1641,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1971,8 +1652,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -1987,8 +1666,6 @@ Phosphine (trihydrure de phosphore) (numéro CAS 7803-51-2).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -1998,8 +1675,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2009,9 +1684,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2020,8 +1693,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2033,8 +1704,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -2049,8 +1718,6 @@ Dichlorure de soufre (numéro CAS 10545-99-0).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2060,8 +1727,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2071,9 +1736,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2082,8 +1745,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2093,8 +1754,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -2109,8 +1768,6 @@ Trioxyde de soufre (numéro CAS 7446-11-9).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2120,8 +1777,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2131,9 +1786,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2142,8 +1795,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2155,8 +1806,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 75 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -2172,8 +1821,6 @@ définie par arrêté ministériel.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2183,8 +1830,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -2202,9 +1847,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2217,8 +1860,6 @@ D
 
 </td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2228,11 +1869,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,001 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4733
 
@@ -2250,8 +1889,6 @@ naphthylamine et/ ou ses sels, 4 nitrodiphényle et 1,3-propanesultone.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2261,8 +1898,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -2280,9 +1915,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2291,8 +1924,6 @@ A
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2304,11 +1935,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="11" align="center">
+      <td align="center" rowspan="11">
 
 4734
 
@@ -2324,8 +1953,6 @@ usages et présentant des propriétés similaires en matière d'inflammabilité 
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2335,8 +1962,6 @@ La quantité totale susceptible d'être présente dans les installations y compr
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2346,8 +1971,6 @@ La quantité totale susceptible d'être présente dans les installations y compr
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2365,9 +1988,7 @@ A
 2
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2376,8 +1997,6 @@ b) Supérieure ou égale à 1 000 t mais inférieure à 2 500 t
 </td>
       <td align="center">E</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2387,8 +2006,6 @@ c) Supérieure ou égale à 50 t d'essence ou 250 t au total, mais inférieure �
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2398,8 +2015,6 @@ c) Supérieure ou égale à 50 t d'essence ou 250 t au total, mais inférieure �
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -2417,9 +2032,7 @@ A
 2
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2428,8 +2041,6 @@ b) Supérieure ou égale à 100 t d'essence ou 500 t au total, mais inférieure 
 </td>
       <td align="center">E</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2439,8 +2050,6 @@ c) Supérieure ou égale à 50 t au total, mais inférieure à 100 t d'essence e
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2452,8 +2061,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 25 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="9" align="center">
@@ -2468,8 +2075,6 @@ Ammoniac.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2479,8 +2084,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2490,8 +2093,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2501,9 +2102,7 @@ a) Supérieure ou égale à 1,5 t
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2512,8 +2111,6 @@ b) Supérieure ou égale à 150 kg mais inférieure à 1,5 t
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2523,8 +2120,6 @@ b) Supérieure ou égale à 150 kg mais inférieure à 1,5 t
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2534,9 +2129,7 @@ a) Supérieure ou égale à 5 t
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2545,8 +2138,6 @@ b) Supérieure ou égale à 150 kg mais inférieure à 5 t
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2558,11 +2149,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4736
 
@@ -2574,8 +2163,6 @@ Trifluorure de bore (numéro CAS 7637-07-2).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2585,8 +2172,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -2604,9 +2189,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2615,8 +2198,6 @@ A
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2628,11 +2209,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4737
 
@@ -2644,8 +2223,6 @@ Sulfure d'hydrogène (numéro CAS 7783-06-4).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2655,8 +2232,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -2674,9 +2249,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2685,8 +2258,6 @@ A
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2698,8 +2269,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -2714,8 +2283,6 @@ Pipéridine (numéro CAS 110-89-4).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2725,8 +2292,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2736,9 +2301,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2747,8 +2310,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2760,11 +2321,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4739
 
@@ -2776,8 +2335,6 @@ Bis (2-dimethylaminoéthyl) (méthyl) amine (numéro CAS 3030-47-5).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2787,8 +2344,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2798,9 +2353,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2809,8 +2362,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2822,11 +2373,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4740
 
@@ -2838,8 +2387,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2849,8 +2396,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2860,9 +2405,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2871,8 +2414,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2884,8 +2425,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -2903,8 +2442,6 @@ aiguë 1 [H400].
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2914,8 +2451,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2925,9 +2460,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2936,8 +2469,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2949,8 +2480,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -2966,8 +2495,6 @@ Propylamine (numéro CAS 107-10-8) (sauf lorsque cette substance est exploitée 
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2977,8 +2504,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -2988,9 +2513,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -2999,8 +2522,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3012,8 +2533,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -3029,8 +2548,6 @@ rubrique 4330).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3040,8 +2557,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3051,9 +2566,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3062,8 +2575,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3075,11 +2586,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 4744
 
@@ -3091,8 +2600,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3102,8 +2609,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3113,9 +2618,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3124,8 +2627,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3137,11 +2638,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4745
 
@@ -3154,8 +2653,6 @@ exploitée dans les conditions prévues à la rubrique 4330).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3165,8 +2662,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3176,9 +2671,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3187,8 +2680,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3200,8 +2691,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="5">
@@ -3217,8 +2706,6 @@ rubrique 4330).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3228,8 +2715,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3239,9 +2724,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3250,8 +2733,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3263,8 +2744,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5" align="center">
@@ -3280,8 +2759,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3291,8 +2768,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3302,9 +2777,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3313,8 +2786,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3326,11 +2797,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td rowspan="5" align="center">
 
 4748
 
@@ -3343,8 +2812,6 @@ rubrique 4330).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3354,8 +2821,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -3373,9 +2838,7 @@ A
 3
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3384,8 +2847,6 @@ A
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3397,11 +2858,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
-      <td align="center" rowspan="3">
+      <td rowspan="3" align="center">
 
 4749
 
@@ -3413,8 +2872,6 @@ Perchlorate d'ammonium (numéro CAS 7790-98-9).
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3424,9 +2881,7 @@ La quantité susceptible d'être présente dans l'installation étant supérieur
 </td>
       <td align="center">A</td>
       <td align="center">3</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3437,8 +2892,6 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="center" rowspan="7">
@@ -3455,8 +2908,6 @@ inflammables.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3466,9 +2917,7 @@ inflammables.
 </td>
       <td align="center">A</td>
       <td align="center">2</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3478,8 +2927,6 @@ présente étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td align="left">
@@ -3497,9 +2944,7 @@ A
 2
 
 </td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3508,8 +2953,6 @@ b) Supérieure ou égale à 50 m³
 </td>
       <td align="center">DC</td>
       <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3519,14 +2962,10 @@ Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.</td>
       <td>
-      </td><td>
-      </td><td>
       </td><td>
     </td></tr>
     <tr>
@@ -3542,8 +2981,6 @@ Houille, coke, lignite, charbon de bois, goudron, asphalte, brais et matières b
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3553,8 +2990,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">
       </td><td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -3564,9 +2999,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">A</td>
       <td align="center">1</td>
-      <td>
-      </td><td>
-    </td></tr>
+    </tr>
     <tr>
       <td>
 
@@ -3575,177 +3008,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 </td>
       <td align="center">D</td>
       <td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td align="center" rowspan="13">
-
-4802
-
-</td>
-      <td>
-
-Gaz à effet de serre fluorés visés à l'annexe I du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre fluorés et
-abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n°
-1005/2009 (fabrication, emploi, stockage).
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Fabrication, conditionnement et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits
-textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visées par la rubrique 2564, de la
-fabrication en quantité industrielle par transformation chimique ou biologique d'hydrocarbures halogénés visée par la
-rubrique 3410-f et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Le volume des équipements susceptibles de contenir des fluides étant :
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td align="left">
-
-a) Supérieure à 800 l
-
-</td>
-      <td align="left">
-
-A
-
-</td>
-      <td align="left">
-
-1
-
-</td>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-b) Supérieure à 80 l, mais inférieure ou égale à 800 l
-
-</td>
-      <td align="center">D</td>
-      <td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Emploi dans des équipements clos en exploitation.
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td align="left">
-
-a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de capacité unitaire supérieure à 2 kg, la quantité
-cumulée de fluide susceptible d'être présente dans l'installation étant supérieure ou égale à 300 kg
-
-</td>
-      <td align="left">
-
-DC
-
-</td>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td>
-
-b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure à
-200 kg
-
-</td>
-      <td align="center">D</td>
-      <td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire.
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1) Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation
-étant :
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>a) En récipient de capacité unitaire supérieure ou égale à 400 l</td>
-      <td align="center">
-
-D
-
-</td>
-      <td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400 l
-
-</td>
-      <td align="center">D</td>
-      <td align="center">
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2) Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant supérieure à
-150 kg quel que soit le conditionnement
-
-</td>
-      <td align="center">D</td>
-      <td align="center">
-      </td><td>
-      </td><td>
     </td></tr>
   </tbody>
 </table>
@@ -3759,6 +3021,5 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 _Modifié par_:
 
-  - Décret n°2017-1595 du 21 novembre 2017 - art. (V)
-  - Décret n°2017-1595 du 21 novembre 2017 - art. 1
-  - Décret n°2017-1595 du 21 novembre 2017 - art. 4
+  - Décret n°2018-900 du 22 octobre 2018 - art. 3
+  - Décret n°2018-900 du 22 octobre 2018 - art. 4
