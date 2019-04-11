@@ -2,7 +2,7 @@
 
 Annexe (4) à l'article R511-9
 
-<table cellpadding="0" border="1" align="center" cellspacing="0">
+<table border="1" align="center" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -261,7 +261,7 @@ Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="3">
+      <td>
 
 2520
 
@@ -283,16 +283,6 @@ A
 </td>
     </tr>
     <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
       <td rowspan="5">
 
 2521
@@ -300,7 +290,7 @@ A
 </td>
       <td>
 
-Enrobage au bitume de matériaux routiers (centrale d')
+Enrobage au bitume de matériaux routiers (centrale d') :
 
 </td>
       <td>
@@ -309,24 +299,24 @@ Enrobage au bitume de matériaux routiers (centrale d')
     <tr>
       <td>
 
-1. à chaud
+1. A chaud
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-2
+-
 
 </td>
     </tr>
     <tr>
       <td>
 
-2. à froid, la capacité de l'installation étant :
+2. A froid, la capacité de l'installation étant :
 
 </td>
       <td>
@@ -335,24 +325,24 @@ A
     <tr>
       <td>
 
-a) supérieure à 1 500 t/j
+a) Supérieure à 1 500 t/ j
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
     <tr>
       <td>
 
-b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j
+b) Supérieure à 100 t/ j, mais inférieure ou égale à 1 500 t/ j
 
 </td>
       <td>
@@ -360,8 +350,8 @@ b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j
 D
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td rowspan="4">
 
@@ -742,7 +732,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="7">
+      <td rowspan="4">
 
 2550
 
@@ -783,21 +773,6 @@ A
     </tr>
     <tr>
       <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
 
 2. supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
@@ -810,7 +785,7 @@ DC
       <td>
     </td></tr>
     <tr>
-      <td rowspan="6">
+      <td rowspan="4">
 
 2551
 
@@ -849,16 +824,6 @@ A
 
 </td>
     </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
     <tr>
       <td>
 
@@ -1100,15 +1065,15 @@ DC
       <td>
     </td></tr>
     <tr>
-      <td rowspan="9">
+      <td rowspan="6">
 
 2564
 
 </td>
       <td>
 
-Nettoyage, dégraissage, décapage de surfaces quelconques par des procédés utilisant des liquides organohalogénés ou des
-solvants organiques.
+Nettoyage, dégraissage, décapage de surfaces par des procédés utilisant des liquides organohalogénés ou des solvants
+organiques, à l'exclusion des activités classées au titre de la rubrique 3670.
 
 </td>
       <td>
@@ -1117,169 +1082,7 @@ solvants organiques.
     <tr>
       <td>
 
-A. Pour les liquides organohalogénés ou des solvants organiques volatils (1), le volume équivalent des cuves de traitement
-étant :
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Supérieur à 1 500 l
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Supérieur à 200 l, mais inférieur ou égal à 1 500 l
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants de mentions de danger H340, H350, H350i, H360D ou
-H360F ou à phrases de risque R45, R46, R49, R60, R61 ou des solvants halogénés de mention de danger H341 ou étiquetés R40
-sont utilisés dans une machine non fermée (2)
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide (3), le volume des cuves étant supérieur à 200 l
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-(1) Solvant organique volatil : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou
-plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières),
-utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières
-premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme
-dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-(2) Une machine est considérée comme fermée si les seules ouvertures en phase de traitement sont celles servant à
-l'aspiration des effluents gazeux.
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-(3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute ouverture
-de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de remplissage et
-d'élimination.
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td rowspan="10">
-
-2565
-
-</td>
-      <td>
-
-Revêtement métallique ou traitement (nettoyage, décapage, conversion dont phosphatation, polissage, attaque chimique, vibro-
-abrasion, etc.) de surfaces quelconques par voie électrolytique ou chimique, à l'exclusion du nettoyage, dégraissage,
-décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage visé par la rubrique 2563.
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Lorsqu'il y a mise en œuvre :
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-a) De cadmium
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) De cyanures, le volume des cuves étant supérieur à 200 l
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le
-volume des cuves de traitement étant :
+1. Hors procédé sous vide, le volume des cuves affectées au traitement étant :
 
 </td>
       <td>
@@ -1293,20 +1096,143 @@ a) Supérieur à 1 500 l
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
     <tr>
       <td>
-      </td><td>
+
+b) Supérieur à 20 l mais inférieur ou égal à 1 500 l pour les solvants organiques à mention de danger H340, H350, H350i,
+H360D, H360F ou les liquides organohalogénés à mention de danger H341 ou H351, au sens du règlement (CE) n° 1272/2008 du
+Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des
+substances et des mélanges, modifiant et abrogeant les directives 67/548/ CEE et 1999/45/ CE et modifiant le règlement (CE)
+n° 1907/2006
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+
+c) Supérieur à 200 l mais inférieur ou égal à 1 500 l pour les autres liquides organohalogénés ou solvants organiques
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Pour les procédés sous vide, le volume des cuves affectées au traitement étant supérieur à 200 l
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td rowspan="9">
+
+2565
+
+</td>
+      <td>
+
+Revêtement métallique ou traitement (nettoyage, décapage, conversion dont phosphatation, polissage, attaque chimique, vibro-
+abrasion, etc.) de surfaces par voie électrolytique ou chimique, à l'exclusion des activités classées au titre des rubriques
+2563, 2564, 3260 ou 3670.
+
+</td>
+      <td>
       </td><td>
     </td></tr>
+    <tr>
+      <td>
+
+1. Lorsqu'il y a mise en œuvre de :
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Cadmium
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+b) Cyanures, le volume des cuves affectées au traitement étant supérieur à 200 l
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Procédé utilisant des liquides, le volume des cuves affectées au traitement étant :
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+a) Supérieur à 1 500 l
+
+</td>
+      <td>
+
+E
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
     <tr>
       <td>
 
@@ -1318,12 +1244,12 @@ b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l
 DC
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td>
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium ou de cyanures
+3. Traitement en phase gazeuse ou autres traitements
 
 </td>
       <td>
@@ -1331,12 +1257,12 @@ DC
 DC
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td>
 
-4. Vibro-abrasion, le volume total des cuves de travail étant supérieur à 200 l
+4. Vibro-abrasion, le volume des cuves affectées au traitement étant supérieur à 200 l
 
 </td>
       <td>
@@ -1344,8 +1270,8 @@ DC
 DC
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td rowspan="5">
 
@@ -2731,7 +2657,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="3">
+      <td rowspan="2">
 
 2730
 
@@ -2763,11 +2689,6 @@ A
 
 </td>
     </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
     <tr>
       <td rowspan="8">
 
@@ -3267,7 +3188,7 @@ b) La quantité de matières traitées étant inférieure à 100 t/j</td>
       <td align="center">-</td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td>
 
 2782
 
@@ -3289,21 +3210,6 @@ A
 
 </td>
     </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
     <tr>
       <td>
 
@@ -4253,7 +4159,7 @@ Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="13">
+      <td rowspan="11">
 
 2940
 
@@ -4343,16 +4249,6 @@ A
 
 </td>
     </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
     <tr>
       <td>
 
@@ -9231,6 +9127,4 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2018-900 du 22 octobre 2018 - art.
-  - Décret n°2018-900 du 22 octobre 2018 - art. 3
-  - Décret n°2018-900 du 22 octobre 2018 - art. 4
+  - Décret n°2019-292 du 9 avril 2019 - art.
