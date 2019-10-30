@@ -22,7 +22,7 @@ Désignation de la rubrique
 </td>
       <td>
 
-A, E, D, S, C (1)
+A, E, D, C (1)
 
 </td>
       <td>
@@ -32,7 +32,7 @@ Rayon (2)
 </td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td>
 
 1413
 
@@ -40,8 +40,9 @@ Rayon (2)
       <td>
 
 Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoirs alimentant des moteurs, ou autres appareils,
-de véhicules ou engins de transport fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le débit
-total en sortie du système de compression étant :
+de véhicules ou engins de transport fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité) :
+
+1. Le débit total en sortie du système de compression étant :
 
 </td>
       <td>
@@ -53,8 +54,9 @@ total en sortie du système de compression étant :
     </tr>
     <tr>
       <td>
+      </td><td>
 
-1. Supérieur ou égal à 2 000 m³/h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t
+a) Supérieur ou égal à 2 000 m3/ h
 
 </td>
       <td>
@@ -70,11 +72,7 @@ A
     </tr>
     <tr>
       <td>
-
-2. Supérieur ou égal à 80 m³/h, mais inférieur à 2 000 m³/h, ou si la masse de gaz contenu dans l'installation est supérieure
-à 1 t
-
-</td>
+      </td><td>b) Supérieur ou égal à 80 m3/ h, mais inférieur à 2 000 m3/ h</td>
       <td>
 
 DC
@@ -82,23 +80,56 @@ DC
 </td>
       <td>
 
+-
+
 </td>
     </tr>
     <tr>
       <td>
+      </td><td>
+
+2. La masse totale de gaz contenu dans l'installation étant :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+a) Supérieure à 10 t lorsque l'installation n'est pas classée au titre du 1. a
+
+</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Supérieure à 1 t, mais inférieure ou égale à 10 t lorsque l'installation n'est pas classée au titre du 1
+
+</td>
+      <td align="center">DC</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
 
 Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.
 
 </td>
       <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
+      </td><td>
+    </td></tr>
     <tr>
-      <td rowspan="8">
+      <td>
 
 1414
 
@@ -117,6 +148,7 @@ Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
     </tr>
     <tr>
       <td>
+      </td><td>
 
 1. Installations de remplissage de bouteilles ou conteneurs
 
@@ -134,6 +166,7 @@ A
     </tr>
     <tr>
       <td>
+      </td><td>
 
 2. Installations desservant un stockage de gaz inflammable (stockage souterrain compris) :
 
@@ -146,7 +179,8 @@ A
 </td>
     </tr>
     <tr>
-      <td align="left">
+      <td>
+      </td><td align="left">
 
 a) Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation
 
@@ -163,10 +197,11 @@ A
 </td>
     </tr>
     <tr>
-      <td align="left">
+      <td>
+      </td><td align="left">
 
-b) Autres installations que celles visées au 2.a, lorsque le nombre maximal d'opérations de chargement et de déchargement est
-supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine
+b) Autres installations que celles classées au titre du 2. a, lorsque le nombre maximal d'opérations de chargement ou de
+déchargement est supérieur ou égal à 20 par jour
 
 </td>
       <td align="left">
@@ -181,53 +216,69 @@ A
 </td>
     </tr>
     <tr>
-      <td align="left">
+      <td>
+      </td><td align="left">
 
-c) Autres installations que celles visées aux 2.a et 2.b, lorsque le nombre maximal d'opérations de chargement et de
-déchargement est supérieur ou égal à 2 par jour
+c) Autres installations que celles classées au titre du 2. a ou du 2. b, lorsque le nombre maximal d'opérations de chargement
+ou de déchargement est supérieur ou égal à 75 par semaine
 
 </td>
       <td align="left">
+
+A
+
+</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+d) Autres installations que celles classées au titre du 2. a, du 2. b ou du 2. c, lorsque le nombre maximal d'opérations de
+chargement ou de déchargement est supérieur ou égal à 2 par jour
+
+</td>
+      <td>
 
 DC
 
 </td>
-      <td align="left">
-    </td></tr>
+      <td>
+
+-
+
+</td>
+    </tr>
     <tr>
       <td>
+      </td><td align="left">
 
 3. Installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes
 de sécurité (jauges et soupapes)
 
 </td>
-      <td>
+      <td align="left">
 
 DC
 
 </td>
-      <td>
+      <td align="left">
+
+-
 
 </td>
     </tr>
     <tr>
-      <td align="left">
+      <td>
+      </td><td align="left">
 
 4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées uniquement à des
 fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport de marchandises
 dangereuses par voie routière (ADR) ou par voie ferroviaire (RID)
 
 </td>
-      <td align="left">
-
-A
-
-</td>
-      <td align="left">
-
-1
-
-</td>
+      <td align="center">A</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td>1416</td>
@@ -921,6 +972,4 @@ mentionnées à l'annexe 13-8 de la première partie du code de la santé publiq
 
 _Modifié par_:
 
-  - Décret n°2018-900 du 22 octobre 2018 - art.
-  - Décret n°2018-900 du 22 octobre 2018 - art. 3
-  - Décret n°2018-900 du 22 octobre 2018 - art. 4
+  - Décret n°2019-1096 du 28 octobre 2019 - art.
