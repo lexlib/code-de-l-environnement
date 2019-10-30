@@ -3997,14 +3997,14 @@ DC
       <td>
     </td></tr>
     <tr>
-      <td rowspan="2">
+      <td>
 
 2925
 
 </td>
       <td>
 
-Accumulateurs (ateliers de charge d')
+Accumulateurs électriques (ateliers de charge d') :
 
 </td>
       <td>
@@ -4012,8 +4012,10 @@ Accumulateurs (ateliers de charge d')
     </td></tr>
     <tr>
       <td>
+      </td><td>
 
-La puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW
+1. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération (1)
+étant supérieure à 50 kW
 
 </td>
       <td>
@@ -4021,7 +4023,31 @@ La puissance maximale de courant continu utilisable pour cette opération étant
 D
 
 </td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td>
+      </td><td>
+
+2. Lorsque la charge ne produit pas d'hydrogène, la puissance maximale de courant utilisable pour cette opération (1) étant
+supérieure à 600 kW, à l'exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par
+le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant
+diverses mesures de transposition de la directive 2014/94/ UE du Parlement européen et du Conseil du 22 octobre 2014 sur le
+déploiement d'une infrastructure pour carburants alternatifs
+
+</td>
+      <td align="center">D</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+(1) Puissance de charge délivrable cumulée de l'ensemble des infrastructures des ateliers.
+
+</td>
+      <td>
+      </td><td>
     </td></tr>
     <tr>
       <td rowspan="7">
@@ -4125,7 +4151,7 @@ DC
 </td>
       <td>
 
-Moteurs à explosion, à combustion interne ou à réaction, turbines à combustion (ateliers d'essais sur banc de) :
+Moteurs à combustion interne ou à réaction, turbines à combustion (ateliers d'essais sur banc de) :
 
 </td>
       <td>
@@ -4134,8 +4160,8 @@ Moteurs à explosion, à combustion interne ou à réaction, turbines à combust
     <tr>
       <td>
 
-Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au régime de rotation maximal, des moteurs ou
-turbines simultanément en essais est supérieure à 150 kW ou lorsque la poussée dépasse 1,5 kN
+1. Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au régime de rotation maximal, des moteurs ou
+turbines simultanément en essais est supérieure à 150 kW
 
 </td>
       <td>
@@ -4152,7 +4178,18 @@ A
     <tr>
       <td>
 
-Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
+2. Lorsque la poussée totale des moteurs et des turbines est supérieure à 1,5 kN et que l'activité n'est pas classée au titre
+du 1.
+
+</td>
+      <td align="center">A</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+Nota.-Cette activité ne donne pas lieu à classement sous la rubrique 2910.
 
 </td>
       <td>
@@ -4519,7 +4556,8 @@ aérogénérateurs :
     <tr>
       <td>
 
-1. Comprenant au moins un aérogénérateur dont le mât a une hauteur supérieure ou égale à 50 m
+1. Comprenant au moins un aérogénérateur dont la hauteur du mât et de la nacelle au-dessus du sol est supérieure ou égale à
+50 m
 
 </td>
       <td>
@@ -4536,8 +4574,9 @@ A
     <tr>
       <td>
 
-2. Comprenant uniquement des aérogénérateurs dont le mât a une hauteur inférieure à 50 m et au moins un aérogénérateur dont
-le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissance totale installée :
+2. Comprenant uniquement des aérogénérateurs dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à 50 m
+et au moins un aérogénérateur dont la hauteur du mât et de la nacelle au-dessus du sol est supérieure ou égale à 12 m,
+lorsque la puissance totale installée est :
 
 </td>
       <td>
@@ -4571,8 +4610,8 @@ b) Inférieure à 20 MW
 D
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td>
 
@@ -4840,14 +4879,14 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="3">
+      <td>
 
 3250
 
 </td>
       <td>
 
-Transformation des métaux non ferreux :
+Production, transformation des métaux et alliages non ferreux :
 
 </td>
       <td>
@@ -4855,8 +4894,9 @@ Transformation des métaux non ferreux :
     </td></tr>
     <tr>
       <td>
+      </td><td>
 
-a) Production de métaux bruts non ferreux à partir de minerais, de concentrés ou de matières premières secondaires par
+1. Production de métaux bruts non ferreux à partir de minerais, de concentrés ou de matières premières secondaires par
 procédés métallurgiques, chimiques ou électrolytiques
 
 </td>
@@ -4873,10 +4913,12 @@ A
     </tr>
     <tr>
       <td>
+      </td><td>
 
-b) Fusion, y compris alliage, de métaux non ferreux incluant les produits de récupération et exploitation de fonderies de
-métaux non ferreux, avec une capacité de fusion supérieure à 4 tonnes par jour pour le plomb et le cadmium ou à 20 tonnes par
-jour pour tous les autres métaux
+2. Plomb et cadmium :
+
+a) Fusion, y compris alliage, incluant les produits de récupération, avec une capacité de fusion supérieure à 4 tonnes par
+jour
 
 </td>
       <td>
@@ -4890,6 +4932,73 @@ A
 
 </td>
     </tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Exploitation de fonderies (1), avec une capacité de fusion supérieure à 4 tonnes par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+c) Fusion, y compris alliage, incluant les produits de récupération et exploitation de fonderies (2), avec une capacité de
+fusion supérieure à 4 tonnes par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+3. Autres métaux non ferreux :
+
+a) Fusion, y compris alliage, incluant les produits de récupération, avec une capacité de fusion supérieure à 20 tonnes par
+jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Exploitation de fonderies (1), avec une capacité de fusion supérieure à 20 tonnes par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+c) Fusion, y compris alliage, incluant les produits de récupération et exploitation de fonderies (2), avec une capacité de
+fusion supérieure à 20 tonnes par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+(1) Lorsqu'il y a production de produits moulés sans production de métal.
+
+(2) Lorsqu'il y a production de métal et de produits moulés.
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
@@ -4914,7 +5023,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td>
 
 3310
 
@@ -4923,32 +5032,17 @@ A
 
 Production de ciment, de chaux et d'oxyde de magnésium :
 
+1. Production de clinker (ciment) :
+
 </td>
       <td>
       </td><td>
     </td></tr>
     <tr>
       <td>
+      </td><td>
 
-a) Production de clinker (ciment) dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour ou
-d'autres types de fours avec une capacité de production supérieure à 50 tonnes par jour
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) Production de chaux dans des fours avec une production supérieure à 50 tonnes par jour
+a) Dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour
 
 </td>
       <td>
@@ -4964,8 +5058,9 @@ A
     </tr>
     <tr>
       <td>
+      </td><td>
 
-c) Production d'oxyde de magnésium dans des fours avec une capacité supérieure à 50 tonnes par jour
+b) Dans d'autres types de fours avec une capacité de production supérieure à 50 tonnes par jour
 
 </td>
       <td>
@@ -4978,6 +5073,34 @@ A
 3
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+2. Production de chaux dans des fours avec une production supérieure à 50 tonnes par jour
+
+</td>
+      <td>
+
+A
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+3. Production d'oxyde de magnésium dans des fours avec une capacité supérieure à 50 tonnes par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
     </tr>
     <tr>
       <td>
@@ -5629,8 +5752,9 @@ cette activité est fixé à 100 tonnes par jour
 </td>
       <td>
 
-Installation de stockage de déchets autre que celles mentionnées aux rubriques 2720 et 2760-3, recevant plus de 10 tonnes de
-déchets par jour ou d'une capacité totale supérieure à 25 000 tonnes
+Installations de stockage de déchets autres que celles mentionnées aux rubriques 2720 et 2760-3 :
+
+1. Installations d'une capacité totale supérieure à 25 000 tonnes
 
 </td>
       <td>
@@ -5643,6 +5767,16 @@ A
 3
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+2. Autres installations que celles classées au titre du 1 lorsqu'elles reçoivent plus de 10 tonnes de déchets par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
     </tr>
     <tr>
       <td>
@@ -5824,7 +5958,7 @@ A
 </td>
     </tr>
     <tr>
-      <td rowspan="7">
+      <td>
 
 3642
 
@@ -5840,9 +5974,10 @@ non préalablement transformées, en vue de la fabrication de produits alimentai
     </td></tr>
     <tr>
       <td>
+      </td><td>
 
 1. Uniquement de matières premières animales (autre que le lait exclusivement), avec une capacité de production supérieure à
-75 t de produits finis par jour
+75 tonnes de produits finis par jour
 
 </td>
       <td>
@@ -5858,9 +5993,34 @@ A
     </tr>
     <tr>
       <td>
+      </td><td>
 
-2. Uniquement de matières premières végétales, avec une capacité de production supérieure à 300 t de produits finis par jour
-ou 600 t par jour lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an
+2. Uniquement de matières premières végétales, avec une capacité de production :
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+a) Supérieure à 300 tonnes de produits finis par jour
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Supérieure à 600 tonnes de produits finis par jour lorsque l'installation fonctionne pendant une durée maximale de 90
+jours consécutifs en un an
 
 </td>
       <td>
@@ -5876,9 +6036,10 @@ A
     </tr>
     <tr>
       <td>
+      </td><td>
 
 3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de
-production, exprimée en tonnes de produits finis par jour, supérieure à :
+production, exprimée en tonnes de produits finis par jour :
 
 </td>
       <td>
@@ -5886,28 +6047,30 @@ production, exprimée en tonnes de produits finis par jour, supérieure à :
     </td></tr>
     <tr>
       <td>
+      </td><td>
 
-- 75 si A est égal ou supérieur à 10, ou
-
-</td>
-      <td>
-
-A
+a) Supérieure à 75 si A est égal ou supérieur à 10
 
 </td>
-      <td>
-
-3
-
-</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
     </tr>
     <tr>
       <td>
+      </td><td>
 
-- [300-(22,5 × A)] dans tous les autres cas
+b) Supérieure à [300-(22,5 x A)] dans tous les autres cas
 
-où "A" est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité
-de production de produits finis.
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+où A est la proportion de matière animale (en pourcentage de masse) dans la quantité entrant dans le calcul de la capacité de
+production de produits finis
 
 </td>
       <td>
@@ -5915,21 +6078,13 @@ de production de produits finis.
     </td></tr>
     <tr>
       <td>
-
-Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
-
-Nota 2. - La présente rubrique ne s'applique pas si la matière première est seulement du lait.
-
-</td>
-      <td>
       </td><td>
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par
-l'article L. 512-11 du code de l'environnement.
 
-(2) Rayon d'affichage en kilomètres.
+Nota.-
+
+L'emballage n'est pas compris dans la masse finale du produit.
+
+La présente rubrique ne s'applique pas si la matière première est seulement du lait.
 
 </td>
       <td>
@@ -6048,21 +6203,49 @@ de la fourniture de gibier de repeuplement
 
 Traitement de surface de matières, d'objets ou de produits à l'aide de solvants organiques, notamment pour les opérations
 d'apprêt, d'impression, de couchage, de dégraissage, d'imperméabilisation, de collage, de peinture, de nettoyage ou
-d'imprégnation, avec une capacité de consommation de solvant organique supérieure à 150 kilogrammes par heure ou à 200 tonnes
-par an
+d'imprégnation, avec une capacité de consommation de solvant organique :
 
 </td>
       <td>
 
-A
-
 </td>
       <td>
-
-3
 
 </td>
     </tr>
+    <tr>
+      <td>
+      </td><td>
+
+1. Supérieure à 150 kg par heure
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+2. Supérieure à 200 tonnes par an pour les autres installations que celles classées au titre du 1
+
+</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement
+
+(2) Rayon d'affichage en kilomètres
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
@@ -9127,4 +9310,4 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2019-292 du 9 avril 2019 - art.
+  - Décret n°2019-1096 du 28 octobre 2019 - art.
