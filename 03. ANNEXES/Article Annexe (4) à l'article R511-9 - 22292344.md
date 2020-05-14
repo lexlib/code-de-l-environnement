@@ -3877,30 +3877,23 @@ de bois de ce type provenant de déchets de construction ou de démolition.
 </td>
       <td>
 
-Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organiques combustibles
+Chauffage (procédés de) utilisant comme fluide caloporteur des corps organiques combustibles.
 
 </td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>
+      <td rowspan="2">
 
-1. Lorsque la température d'utilisation est égale ou supérieure au point éclair des fluides
+1. Lorsque la température d'utilisation est égale ou supérieure au point éclair des fluides, la quantité totale de fluides
+présente dans l'installation (mesurée à 25° C) étant :
 
 </td>
-      <td>
-      </td><td>
+      <td colspan="2">
     </td></tr>
     <tr>
-      <td>
-
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
-          <sup>o</sup>C) est :
-
-</td>
-      <td>
-      </td><td>
+      <td colspan="2">
     </td></tr>
     <tr>
       <td>
@@ -3910,12 +3903,12 @@ a) supérieure à 1 000 l
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
@@ -3930,29 +3923,21 @@ b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
 D
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td>
 
-2. Lorsque la température d'utilisation est inférieure au point éclair des fluides
+2. Lorsque la température d'utilisation est inférieure au point éclair des fluides, la quantité totale de fluides présente
+dans l'installation (mesurée à 25° C) étant supérieure à 250 l
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td align="center" rowspan="2">D
+
+</td>
+      <td align="center" rowspan="2">-</td>
+    </tr>
     <tr>
-      <td>
-
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 
-          <sup>o</sup>C) est supérieure à 250 l.
-
-</td>
-      <td>
-
-D
-
-</td>
       <td>
     </td></tr>
     <tr>
@@ -4059,40 +4044,36 @@ déploiement d'une infrastructure pour carburants alternatifs
 
 Ateliers de réparation et d'entretien de véhicules et engins à moteur, y compris les activités de carrosserie et de tôlerie.
 
+1. Réparation et entretien de véhicules et engins à moteur, la surface de l'atelier étant :
+
 </td>
+      <td rowspan="2">
+      </td><td rowspan="2">
+    </td></tr>
+    <tr>
       <td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
 
-1. Réparation et entretien de véhicules et engins à moteur :
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-a) La surface de l'atelier étant supérieure à 5 000 m²
+a) Supérieure à 5 000 m2
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
     <tr>
       <td>
 
-b) La surface de l'atelier étant supérieure à 2 000 m², mais inférieure ou égale à 5 000 m²
+b) Supérieure à 2 000 m2, mais inférieure ou égale à 5 000 m2
 
 </td>
       <td>
@@ -4100,12 +4081,13 @@ b) La surface de l'atelier étant supérieure à 2 000 m², mais inférieure ou 
 DC
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td>
 
-2. Vernis, peinture, apprêt (application, cuisson, séchage de) sur véhicules et engins à moteur :
+2. Vernis, peinture, apprêt (application, cuisson, séchage de) sur véhicules et engins à moteur, la quantité maximale de
+produits susceptible d'être utilisée étant :
 
 </td>
       <td>
@@ -4114,26 +4096,24 @@ DC
     <tr>
       <td>
 
-a) Si la quantité maximale de produits susceptibles d'être utilisée est supérieure à 100 kg/j
+a) Supérieure à 100 kg/ j
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
     <tr>
       <td>
 
-b) Si la quantité maximale de produits susceptible d'être utilisée est supérieure à 10 kg/j ou si la quantité annuelle de
-solvants contenus dans les produits susceptible d'être utilisée est supérieure à 0,5 t, sans que la quantité maximale de
-produits susceptible d'être utilisée dépasse 100 kg/j
+b) Supérieure à 10 kg/ j, mais inférieure ou égale à 100 kg/ j
 
 </td>
       <td>
@@ -4141,8 +4121,8 @@ produits susceptible d'être utilisée dépasse 100 kg/j
 DC
 
 </td>
-      <td>
-    </td></tr>
+      <td align="center">-</td>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -4203,31 +4183,19 @@ Nota.-Cette activité ne donne pas lieu à classement sous la rubrique 2910.
 </td>
       <td>
 
-Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois,
-plastique, cuir, papier, textile) à l'exclusion :
+Vernis, peinture, apprêt, colle, enduit, etc. (application, revêtement, laquage, stratification, imprégnation, cuisson,
+séchage de) sur support quelconque à l'exclusion des installations dont les activités sont classées au titre des rubriques
+2330,2345,2351,2360,2415,2445,2450,2564,2661,2930,3450,3610,3670,3700 ou 4801.
 
-- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la
-rubrique 4801,
-
-- des activités couvertes par les rubriques 2445 et 2450,
-
-- des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,
-
-- ou de toute autre activité couverte explicitement par une autre rubrique.
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par un procédé au trempé (y
+compris l'électrophorèse), la quantité maximale de produits susceptible d'être présente dans l'installation étant :
 
 </td>
-      <td>
-      </td><td>
+      <td rowspan="2">
+      </td><td rowspan="2">
     </td></tr>
     <tr>
       <td>
-
-1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si
-la quantité maximale de produits susceptible d'être présente dans l'installation est :
-
-</td>
-      <td>
-      </td><td>
     </td></tr>
     <tr>
       <td>
@@ -4237,12 +4205,12 @@ a) supérieure à 1 000 l
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
@@ -4257,13 +4225,45 @@ b) supérieure à 100 l, mais inférieure ou égale à 1 000 l
 DC
 
 </td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td>
+
+2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction, autres procédés), la
+quantité maximale de produits susceptible d'être mise en œuvre étant :
+
+</td>
+      <td align="center">
+      </td><td align="center">
     </td></tr>
     <tr>
       <td>
 
-2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale
-de produits susceptible d'être mise en œuvre est :
+a) Supérieure à 100 kg/ j
+
+</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+
+b) Supérieure à 10 kg/ j, mais inférieure ou égale à 100 kg/ j
+
+</td>
+      <td>
+
+DC
+
+</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques, la quantité maximale de produits
+susceptible d'être mise en œuvre étant :
 
 </td>
       <td>
@@ -4272,24 +4272,24 @@ de produits susceptible d'être mise en œuvre est :
     <tr>
       <td>
 
-a) supérieure à 100 kg/j
+a) Supérieure à 200 kg/ j
 
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
     </tr>
     <tr>
       <td>
 
-b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
+b) Supérieure à 20 kg/ j, mais inférieure ou égale à 200 kg/ j
 
 </td>
       <td>
@@ -4297,59 +4297,17 @@ b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 DC
 
 </td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits
-susceptible d'être mise en œuvre est :
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-a) supérieure à 200 kg/j
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td>
 
-b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en
-tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point
-éclair inférieur à 55 
-          <sup>o</sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits
-à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 
-          <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées
-d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement
-sera égale à : Q = A + B/2.
+Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant
+compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables à mention de danger H224, H225 ou
+H226 ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides
+de point éclair compris entre 60° C et 93° C ou contenant moins de 10 % de solvants organiques au moment de l'emploi,
+dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité
+Q retenue pour le classement sera égale à : Q = A + B/2.
 
 </td>
       <td>
@@ -9286,8 +9244,8 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
   </tbody>
 </table>
 
-(1) A : autorisation, E : enregistrement, D : déclaration, S: servitude d'utilité publique, C : soumis au contrôle périodique
-prévu par l'article L. 512-11 du code de l'environnement.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement.
 
 (a) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
 code de l'environnement.
@@ -9310,4 +9268,4 @@ deux rubriques.
 
 _Modifié par_:
 
-  - Décret n°2019-1096 du 28 octobre 2019 - art.
+  - Décret n°2020-559 du 12 mai 2020 - art.
