@@ -2503,7 +2503,9 @@ D
       <td>
 
 Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de déchets non dangereux non inertes à
-l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719.
+l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719 et des stockages en vue
+d'épandages de boues issues du traitement des eaux usées mentionnés à la rubrique 2.1.3.0. de la nomenclature annexée à
+l'article R. 214-1.
 
 </td>
       <td>
@@ -9264,8 +9266,13 @@ Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre e
 ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces
 deux rubriques.
 
+**Nota:**
+
+Conformément à l’article 8, II du décret n° 2020-828 du 30 juin 2020, ces dispositions sont applicables aux demandes
+d'autorisation et aux déclarations déposées à compter du 1er septembre 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2020-559 du 12 mai 2020 - art.
+  - Décret n°2020-828 du 30 juin 2020 - art. 6
