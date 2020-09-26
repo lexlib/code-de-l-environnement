@@ -2588,21 +2588,15 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
       </td><td align="center">
     </td></tr>
     <tr>
-      <td align="center" rowspan="5">
+      <td align="center" rowspan="4">
 
 4744
 
 </td>
       <td>
 
-2-méthyl-3-butènenitrile (numéro CAS 16529-56-9).
-
-</td>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td>
+2-méthyl-3-butènenitrile (numéro CAS 16529-56-9) (sauf lorsque cette substance est exploitée dans les conditions prévues à la
+rubrique 4330).
 
 La quantité susceptible d'être présente dans l'installation étant :
 
@@ -3012,8 +3006,8 @@ La quantité susceptible d'être présente dans l'installation étant :
   </tbody>
 </table>
 
-(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
-périodique prévu par l'article L. 512-11 du code de l'environnement.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
@@ -3021,5 +3015,4 @@ périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 _Modifié par_:
 
-  - Décret n°2018-900 du 22 octobre 2018 - art. 3
-  - Décret n°2018-900 du 22 octobre 2018 - art. 4
+  - Décret n°2020-1168 du 24 septembre 2020 - art. (V)
