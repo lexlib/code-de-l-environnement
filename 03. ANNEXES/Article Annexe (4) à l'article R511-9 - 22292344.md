@@ -1826,14 +1826,8 @@ D
 </td>
       <td>
 
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de).
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
+Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de), à l'exception des
+installations classées au titre de la rubrique 1510.
 
 Le volume susceptible d'être stocké étant :
 
@@ -1842,47 +1836,20 @@ Le volume susceptible d'être stocké étant :
       </td><td>
     </td></tr>
     <tr>
-      <td>
-
-1. Supérieur ou égal à 40 000 m³ ;
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-2
-
-</td>
+      <td>1. Supérieur ou égal à 1 000 m ³</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td>
-
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
+      <td>2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³</td>
+      <td align="center">D</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td colspan="3">
     </td></tr>
     <tr>
-      <td>
-
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td>
+      <td colspan="3">
     </td></tr>
     <tr>
       <td rowspan="9">
@@ -1893,16 +1860,10 @@ D
       <td>
 
 Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est composée de polymères (matières plastiques,
-caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de) :
+caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de), à l'exception des installations classées au titre
+de la rubrique 1510 :
 
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de polystyrène, etc., le volume susceptible
+1. A l'état alvéolaire ou expansé (tels que mousse de latex, de polyuréthane, de polystyrène, etc.), le volume susceptible
 d'être stocké étant :
 
 </td>
@@ -1910,99 +1871,41 @@ d'être stocké étant :
       </td><td>
     </td></tr>
     <tr>
-      <td>
-
-a) Supérieur ou égal à 45 000 m³ ;
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-2
-
-</td>
+      <td>a) Supérieur ou égal à 2 000 m ³.</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td>
-
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
-    </td></tr>
+      <td>b) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³</td>
+      <td align="center">D</td>
+      <td align="center">-</td>
+    </tr>
     <tr>
-      <td>
-
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être stocké étant :
-
-</td>
+      <td>2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être stocké étant :</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>
-
-a) Supérieur ou égal à 80 000 m³ ;
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-2
-
-</td>
+      <td>a) Supérieur ou égal à 10 000 m ³</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td>
+      <td>b) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³</td>
+      <td align="center">D</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td colspan="3">(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par
+l'article L. 512-11 du code de l'environnement.
 
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
+(2) Rayon d'affichage en kilomètres.</td>
+    </tr>
+    <tr>
+      <td colspan="3">
     </td></tr>
     <tr>
-      <td>
-
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
-
-</td>
-      <td>
-
-D
-
-</td>
-      <td>
+      <td colspan="3">
     </td></tr>
     <tr>
       <td>
@@ -7806,8 +7709,8 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 </td>
       <td>
 
-Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2, ne contenant pas de gaz inflammable de catégorie 1 ou
-2, ni de liquide inflammable de catégorie 1.
+Aérosols "extrêmement inflammables" ou "inflammables" de catégorie 1 ou 2, ne contenant pas de gaz inflammable de catégorie 1
+ou 2, ni de liquide inflammable de catégorie 1.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -7822,7 +7725,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
     <tr>
       <td>
 
-1. Supérieure ou égale à 5 000 t
+1. Supérieure ou égale à 5 000 t ;
 
 </td>
       <td>
@@ -9178,6 +9081,9 @@ deux rubriques.
 
 **Nota:**
 
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2021.
+
 Conformément à l’article 8, II du décret n° 2020-828 du 30 juin 2020, ces dispositions sont applicables aux demandes
 d'autorisation et aux déclarations déposées à compter du 1er septembre 2020.
 
@@ -9186,3 +9092,4 @@ d'autorisation et aux déclarations déposées à compter du 1er septembre 2020.
 _Modifié par_:
 
   - Décret n°2020-1168 du 24 septembre 2020 - art. (V)
+  - Décret n°2020-1169 du 24 septembre 2020 - art.

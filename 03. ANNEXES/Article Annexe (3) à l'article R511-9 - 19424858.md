@@ -1122,15 +1122,11 @@ b) Supérieure à 100 kg/j et inférieure ou égale à 15 t/j
 </td>
       <td>
 
-Silos et installations de stockage en vrac de céréales, grains, produits alimentaires ou tout produit organique dégageant des
-poussières inflammables, y compris les stockages sous tente ou structure gonflable.
+Silos et installations de stockage, en vrac, de céréales, grains, produits alimentaires ou tout produit organique dégageant
+des poussières inflammables,
 
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
+y compris les stockages sous tente ou structure gonflable, à l'exception des installations relevant par ailleurs de la
+rubrique 1532 :
 
 1. Silos plats :
 
@@ -1139,79 +1135,48 @@ poussières inflammables, y compris les stockages sous tente ou structure gonfla
       </td><td>
     </td></tr>
     <tr>
-      <td>
-
-a) Si le volume total de stockage est supérieur à 15 000 m ³
-
-</td>
-      <td>
-
-E
-
-</td>
+      <td>a) Si le volume total de stockage est supérieur à 15 000 m ³</td>
+      <td align="center">E</td>
       <td>
     </td></tr>
     <tr>
-      <td>
-
-b) Si le volume total de stockage est supérieur à 5 000 m ³, mais inférieur ou égal à 15 000 m ³
-
-</td>
-      <td>
-
-DC
-
-</td>
+      <td>b) Si le volume total de stockage est supérieur à 5000 m ³, mais inférieur ou égal à 15 000 m ³</td>
+      <td align="center">DC</td>
       <td>
     </td></tr>
     <tr>
-      <td>
-
-2. Autres installations :
-
-</td>
+      <td>2. Autres installations :</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>
-
-a) Si le volume total de stockage est supérieur à 15 000 m ³
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-3
-
-</td>
+      <td>a) Si le volume total des stockages est supérieur à 15 000 m ³</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
     </tr>
     <tr>
       <td>
 
-b) Si le volume total de stockage est supérieur à 5 000 m ³, mais inférieur ou égal à 15 000 m ³
+b) Si le volume total des stockages est supérieur à 5 000 m ³ mais inférieur ou égal à 15 000 m ³
 
 </td>
+      <td>DC</td>
       <td>
-
-DC
+    </td></tr>
+    <tr>
+      <td>Les critères caractérisant les termes de silo , silo plat , tente et structure gonflable sont précisés par arrêtés
+ministériels.</td>
+      <td>
 
 </td>
       <td>
     </td></tr>
     <tr>
-      <td>
+      <td colspan="3">(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par
+l'article L. 512-11 du code de l'environnement.
 
-Les critères caractérisant les termes silo, silo plat, tente et structure gonflable sont précisés par arrêtés ministériels.
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
+(2) Rayon d'affichage en kilomètres.</td>
+    </tr>
     <tr>
       <td rowspan="3">
 
@@ -2940,11 +2905,16 @@ DC
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-1096 du 28 octobre 2019 - art.
+  - Décret n°2020-1169 du 24 septembre 2020 - art.
 
 _Cite_:
 

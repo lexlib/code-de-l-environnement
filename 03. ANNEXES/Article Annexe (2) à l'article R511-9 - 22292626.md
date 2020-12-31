@@ -633,17 +633,18 @@ D
       <td>
     </td></tr>
     <tr>
-      <td rowspan="5">
+      <td rowspan="7">
 
 1510
 
 </td>
       <td>
 
-Entrepôts couverts (stockage de matières ou produits combustibles en quantité supérieure à 500 tonnes dans des), à
-l'exception des dépôts utilisés au stockage de catégories de matières, produits ou substances relevant, par ailleurs, de la
-présente nomenclature, des bâtiments destinés exclusivement au remisage des véhicules à moteur et de leur remorque, des
-établissements recevant du public et des entrepôts frigorifiques.
+Entrepôts couverts (installations, pourvues d'une toiture, dédiées au stockage de matières ou produits combustibles en
+quantité supérieure à 500 tonnes), à l'exception des entrepôts utilisés pour le stockage de matières, produits ou substances
+classés, par ailleurs, dans une unique rubrique de la présente nomenclature, des bâtiments destinés exclusivement au remisage
+des véhicules à moteur et de leur remorque, des établissements recevant du public et des entrepôts exclusivement
+frigorifiques :
 
 </td>
       <td>
@@ -654,24 +655,8 @@ présente nomenclature, des bâtiments destinés exclusivement au remisage des v
 </td>
     </tr>
     <tr>
-      <td>
-
-Le volume des entrepôts étant :
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. Supérieur ou égal à 300 000 m³ ;
-
-</td>
+      <td>1. Entrant dans le champ de la colonne évaluation environnementale systématique en application de la rubrique 39. a
+de l' annexe de l'article R. 122-2 du code de l'environnement</td>
       <td>
 
 A
@@ -684,32 +669,35 @@ A
 </td>
     </tr>
     <tr>
+      <td>2. Autres installations que celles définies au 1, le volume des entrepôts étant :</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>a) Supérieur ou égal à 900 000 m ³</td>
+      <td align="center">A</td>
       <td>
 
-2. Supérieur ou égal à 50 000 m³ mais inférieur à 300 000 m³ ;
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
+1
 
 </td>
     </tr>
     <tr>
+      <td>b) Supérieur ou égal à 50 000 m ³ mais inférieur à 900 000 m ³</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>c) Supérieur ou égal à 5 000 m ³ mais inférieur à 50 000 m ³</td>
+      <td align="center">DC</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>Un entrepôt est considéré comme utilisé pour le stockage de produits classés dans une unique rubrique de la
+nomenclature dès lors que la quantité totale d'autres matières ou produits combustibles présente dans cet entrepôt est
+inférieure ou égale à 500 tonnes.</td>
       <td>
-
-3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
+      </td><td>
     </td></tr>
     <tr>
       <td rowspan="5">
@@ -719,8 +707,7 @@ DC
 </td>
       <td>
 
-Entrepôts frigorifiques, à l'exception des dépôts utilisés au stockage de catégories de matières, produits ou substances
-relevant, par ailleurs, de la présente nomenclature.
+Entrepôts exclusivement frigorifiques.
 
 </td>
       <td>
@@ -731,58 +718,33 @@ relevant, par ailleurs, de la présente nomenclature.
 </td>
     </tr>
     <tr>
-      <td>
-
-Le volume susceptible d'être stocké étant :
-
-</td>
+      <td>Le volume susceptible d'être stocké étant :</td>
       <td>
       </td><td>
     </td></tr>
     <tr>
+      <td>1. Supérieur ou égal à 50 000 m ³</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>2. Supérieur ou égal à 5 000 m ³ mais inférieur à 50 000 m ³</td>
+      <td align="center">DC</td>
       <td>
 
-1. Supérieur ou égal à 150 000 m³ ;
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
+-
 
 </td>
     </tr>
     <tr>
+      <td>Un entrepôt frigorifique est un entrepôt dans lequel les conditions de température et/ ou d'hygrométrie sont
+régulées et maintenues à une température inférieure ou égale à 18° C en fonction des critères de conservation propres aux
+produits.
+
+Un entrepôt est considéré comme exclusivement frigorifique dès lors que la quantité de matières ou produits combustibles
+autres que les matières ou produits conservés dans l'entrepôt frigorifique est inférieure ou égale à 500 tonnes.</td>
       <td>
-
-2. Supérieur ou égal à 50 000 m³ mais inférieur à 150 000 m³ ;
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
-
-</td>
-      <td>
-
-DC
-
-</td>
-      <td>
+      </td><td>
 
 </td>
     </tr>
@@ -795,18 +757,7 @@ DC
       <td>
 
 Papiers, cartons ou matériaux combustibles analogues, y compris les produits finis conditionnés (dépôt de), à l'exception des
-établissements recevant du public.
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
+installations classées au titre de la rubrique 1510 et des établissements recevant du public.
 
 Le volume susceptible d'être stocké étant :
 
@@ -821,26 +772,7 @@ Le volume susceptible d'être stocké étant :
     <tr>
       <td>
 
-1. Supérieur à 50 000 m³ ;
-
-</td>
-      <td>
-
-A
-
-</td>
-      <td>
-
-1
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ ;
-
-</td>
+1. Supérieur à 20 000 m ³</td>
       <td>
 
 E
@@ -848,20 +780,22 @@ E
 </td>
       <td>
 
+-
+
 </td>
     </tr>
     <tr>
-      <td>
-
-3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
-
-</td>
-      <td>
-
-D
+      <td>2. Supérieur à 1 000 m ³ mais inférieur ou égal à 20 000 m ³</td>
+      <td align="center">DC</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td colspan="3">
 
 </td>
-      <td>
+    </tr>
+    <tr>
+      <td colspan="3">
     </td></tr>
     <tr>
       <td>
@@ -890,9 +824,9 @@ D
 </td>
       <td>
 
-Bois ou matériaux combustibles analogues y compris les produits finis conditionnés et les produits ou déchets répondant à la
-définition de la biomasse et visés par la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à l'exception
-des établissements recevant du public.
+Bois ou matériaux combustibles analogues, y compris les produits finis conditionnés et les produits ou déchets répondant à la
+définition de la biomasse et mentionnés à la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à
+l'exception des établissements recevant du public :
 
 </td>
       <td>
@@ -903,24 +837,8 @@ des établissements recevant du public.
 </td>
     </tr>
     <tr>
-      <td>
-
-Le volume susceptible d'être stocké étant :
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-1. Supérieur à 50 000 m³
-
-</td>
+      <td>1. Installations de stockage de matériaux susceptibles de dégager des poussières inflammables, le volume de tels
+matériaux susceptible d'être stocké étant supérieur à 50 000 m ³</td>
       <td>
 
 A
@@ -933,29 +851,28 @@ A
 </td>
     </tr>
     <tr>
+      <td>2. Autres installations que celles définies au 1, à l'exception des installations classées au titre de la rubrique
+1510, le volume susceptible d'être stocké étant :
+
+a) Supérieur à 20 000 m ³</td>
+      <td align="center">E</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>b) Supérieur à 1 000 m ³ mais inférieur ou égal à 20 000 m ³</td>
+      <td align="center">D</td>
       <td>
 
-2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³
-
-</td>
-      <td>
-
-E
-
-</td>
-      <td>
+-
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par
+l'article L. 512-11 du code de l'environnement.
 
-3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³
-
-</td>
-      <td align="center">D</td>
-      <td>
-    </td></tr>
+(2) Rayon d'affichage en kilomètres.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -968,8 +885,13 @@ Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionn
 mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
 mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-1096 du 28 octobre 2019 - art.
+  - Décret n°2020-1169 du 24 septembre 2020 - art.
